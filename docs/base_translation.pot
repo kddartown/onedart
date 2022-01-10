@@ -18,3 +18,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
+msgid "Good morning\n"
+msgid_plural ""
+
+msgid "Good afternoon\n"
+msgid_plural ""
+
+msgid "Good evening\n"
+msgid_plural ""
+
+msgid "Good night\n"
+msgid_plural ""
+
+msgid "Troubleshooting\n"
+msgid_plural ""
+
+msgid "Error message\n"
+msgid_plural ""
