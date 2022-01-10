@@ -19,19 +19,19 @@ msgstr ""
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
 msgid "Good morning\n"
-msgid_plural ""
+msgstr ""
 
 msgid "Good afternoon\n"
-msgid_plural ""
+msgstr ""
 
 msgid "Good evening\n"
-msgid_plural ""
+msgstr ""
 
 msgid "Good night\n"
-msgid_plural ""
+msgstr ""
 
 msgid "Troubleshooting\n"
-msgid_plural ""
+msgstr ""
 
 msgid "Error message\n"
-msgid_plural ""
+msgstr ""
