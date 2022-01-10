@@ -9,18 +9,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Let’s make the web multilingual."
-msgstr "Machen wir das Internet mehrsprachig."
+msgid "Good morning\n"
+msgid_plural ""
 
-msgid "We connect developers and translators around the globe "
-"on Lingohub for a fantastic localization experience."
-msgstr "Wir verbinden Entwickler mit Übersetzern weltweit "
-"auf Lingohub für ein fantastisches Lokalisierungs-Erlebnis."
+msgid "Good afternoon\n"
+msgid_plural ""
 
-msgid "Welcome back, %1$s! Your last visit was on %2$s"
-msgstr "Willkommen zurück, %1$s! Dein letzter Besuch war am %2$s"
+msgid "Good evening\n"
+msgid_plural ""
 
-msgid "%d page read."
-msgid_plural "%d pages read."
-msgstr[0] "Eine Seite gelesen wurde."
-msgstr[1] "%d Seiten gelesen wurden."
+msgid "Good night\n"
+msgid_plural ""
+
+msgid "Troubleshooting\n"
+msgid_plural ""
+
+msgid "Error message\n"
+msgid_plural ""
