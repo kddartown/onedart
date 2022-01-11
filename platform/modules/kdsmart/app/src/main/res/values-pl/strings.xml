@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="title_app_name">KDSmart</string>
+    <string name="msg_app_the_smart_way_to_score">Inteligentny sposób na zdobycie</string>
+    <string name="title_action_take_snapshot">migawka</string>
+    <string name="title_action_field_view">Widok pola</string>
+    <string name="title_action_settings">Ustawienia</string>
+    <string name="prompt_action_swap_sides">Zamień boki</string>
+    <string name="prompt_action_change_visit_order">Zmień zamówienie wizyt</string>
+    <string name="prompt_action_lock_scored_traits">Zablokuj Zdobyte cechy</string>
+    <string name="prompt_action_unlock_scored_traits">Odblokuj zdobyte cechy</string>
+    <string name="prompt_action_activate_scanner">Skaner</string>
+    <string name="prompt_action_config_plot_info">Konfiguracja informacji %1$s</string>
+</resources>
