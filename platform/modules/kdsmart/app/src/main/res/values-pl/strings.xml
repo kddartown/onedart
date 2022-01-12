@@ -11,4 +11,6 @@
     <string name="prompt_action_unlock_scored_traits">Odblokuj zdobyte cechy</string>
     <string name="prompt_action_activate_scanner">Skaner</string>
     <string name="prompt_action_config_plot_info">Konfiguracja informacji %1$s</string>
+    <string name="msg_answer_no">Nie</string>
+    <string name="msg_answer_yes">tak</string>
 </resources>
