@@ -13,4 +13,5 @@
     <string name="prompt_action_config_plot_info">Konfiguracja informacji %1$s</string>
     <string name="msg_answer_no">Nie</string>
     <string name="msg_answer_yes">tak</string>
+    <string name="msg_can_t_save_tag">Nie można zapisać znacznika</string>
 </resources>
