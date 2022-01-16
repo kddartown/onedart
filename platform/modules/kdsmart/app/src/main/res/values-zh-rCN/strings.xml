@@ -1,2 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="title_action_settings">“设置”</string>
+    <string name="msg_answer_no">不是</string>
+    <string name="msg_app_the_smart_way_to_score">明智的得分方式</string>
+    <string name="title_action_take_snapshot">快照</string>
+    <string name="msg_btn_close">关闭</string>
+    <string name="prompt_action_swap_sides">互换双方</string>
+    <string name="prompt_action_change_visit_order">更改访问顺序</string>
+    <string name="prompt_action_activate_scanner">扫描仪</string>
+    <string name="msg_answer_yes">是的</string>
+    <string name="msg_btn_text_add_tag">添加</string>
+    <string name="msg_btn_text_edit_tag">编辑</string>
+    <string name="msg_btn_cancel">✘</string>
+    <string name="msg_btn_commit">✓</string>
+    <string name="msg_btn_exit_bluetooth">退出并停止蓝牙</string>
+    <string name="msg_btn_delete">删除</string>
+    <string name="msg_btn_export">出口</string>
+    <string name="msg_btn_stop">停止</string>
+    <string name="msg_btn_export_without_dbid">出口</string>
+    <string name="prompt_btn_add_new_comment">添加新标签</string>
+    <string name="msg_btn_use">使用</string>
+    <string name="hdg_trial_acronym">缩写</string>
+    <string name="msg_no_database_available">没有可用的数据库</string>
+    <string name="title_tags_delete_activity">删除标签</string>
+</resources>
