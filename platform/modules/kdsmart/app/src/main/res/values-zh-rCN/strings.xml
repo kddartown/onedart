@@ -23,4 +23,8 @@
     <string name="hdg_trial_acronym">缩写</string>
     <string name="msg_no_database_available">没有可用的数据库</string>
     <string name="title_tags_delete_activity">删除标签</string>
+    <string name="msg_btn_set_values">设定值</string>
+    <string name="msg_btn_use_folder">使用当前文件夹</string>
+    <string name="hdg_organism_type">生物体类型</string>
+    <string name="hdg_trial_planting_date">播种日期</string>
 </resources>
