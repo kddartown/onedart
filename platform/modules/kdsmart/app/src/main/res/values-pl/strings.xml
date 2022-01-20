@@ -14,4 +14,11 @@
     <string name="msg_answer_no">Nie</string>
     <string name="msg_answer_yes">tak</string>
     <string name="msg_can_t_save_tag">Nie można zapisać znacznika</string>
+    <string name="ctx_title_field_view">Widok pola</string>
+    <string name="title_tab_kdsmart">KDSmart</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="pref_title_lock_scored_traits">Zablokuj Zdobyte cechy</string>
+    <string name="title_cbox_lock_scored_traits">Zablokuj Zdobyte cechy</string>
+    <string name="title_scanners">Skaner</string>
+    <string name="title_change_trait_order">Zmień zamówienie wizyt</string>
 </resources>
