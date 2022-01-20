@@ -2,4 +2,5 @@
 <resources>
     <string name="msg_can_t_save_tag">Impossible d\'enregistrer le tag</string>
     <string name="msg_answer_yes">Oui</string>
+    <string name="msg_btn_exit_bluetooth">Sortie et arrêt Bluetooth</string>
 </resources>
