@@ -27,4 +27,13 @@
     <string name="msg_btn_use_folder">使用当前文件夹</string>
     <string name="hdg_organism_type">生物体类型</string>
     <string name="hdg_trial_planting_date">播种日期</string>
+    <string name="title_action_field_view">域视图</string>
+    <string name="prompt_action_config_plot_info">配置 %1$s 信息</string>
+    <string name="msg_btn_export_with_dbid">使用数据库 ID 导出</string>
+    <string name="hdg_trial_plot_column_row_names">%1$s 和 X/Y 轴名称</string>
+    <string name="hdg_trial_note">注意</string>
+    <string name="title_export_to_csv">导出为 CSV</string>
+    <string name="hdg_csv_heading">CSV 标题</string>
+    <string name="msg_hint_not_available">不可用</string>
+    <string name="title_choose_how_to_identify_plots">选择如何识别 %1$s</string>
 </resources>
