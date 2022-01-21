@@ -36,4 +36,22 @@
     <string name="hdg_csv_heading">CSV 标题</string>
     <string name="msg_hint_not_available">不可用</string>
     <string name="title_choose_how_to_identify_plots">选择如何识别 %1$s</string>
+    <string name="hdg_import_as">导入为</string>
+    <string name="msgfmt_trial_group_name_is_already_in_db">试用版捆绑包已经存在于数据库中</string>
+    <string name="msg_app_resume_not_yet_handled">申请已经 “恢复”，但我们（尚未）无法处理此问题</string>
+    <string name="msg_no_file_to_import">没有从文件导入</string>
+    <string name="msg_error_reading_headings">读取标题时出错：</string>
+    <string name="msg_no_import_source">没有导入来源</string>
+    <string name="title_error_exporting">导出时出错</string>
+    <string name="msgfmt_file_is_in_folder">{0}
+\n位于文件夹中：
+\n{1}</string>
+    <string name="pref_locale_title">语言</string>
+    <string name="pref_locale_description">语言</string>
+    <string name="msg_btn_database_files">数据库文件</string>
+    <string name="msg_hdg_output_to_folder">输出到文件夹：</string>
+    <string name="msg_no_headings_found">未找到标题</string>
+    <string name="msg_unable_to_restart">无法重新启动导入</string>
+    <string name="msgfmt_trial_name_is_already_in_db">试用 {0} 已经存在于数据库中</string>
+    <string name="title_export_completed">导出已完成</string>
 </resources>
