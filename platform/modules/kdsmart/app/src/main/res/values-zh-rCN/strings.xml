@@ -17,7 +17,7 @@
     <string name="msg_btn_delete">删除</string>
     <string name="msg_btn_export">出口</string>
     <string name="msg_btn_stop">停止</string>
-    <string name="msg_btn_export_without_dbid">出口</string>
+    <string name="msg_btn_export_without_dbid">导出</string>
     <string name="prompt_btn_add_new_comment">添加新标签</string>
     <string name="msg_btn_use">使用</string>
     <string name="hdg_trial_acronym">缩写</string>
