@@ -79,4 +79,5 @@
     <string name="errMsg_adapter_error">适配器错误</string>
     <string name="title_activity_find_server">查找服务器</string>
     <string name="msg_not_available_for_lockdown_mode">不适用于锁定模式</string>
+    <string name="hdg_current_plot">当前 %1$s</string>
 </resources>
