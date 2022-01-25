@@ -383,7 +383,7 @@
     <string name="msg_action_select_all">选择全部</string>
     <string name="msg_btn_confirm_jump_to_plot">跳到</string>
     <string name="msg_action_jump_to_plot">跳转到区域</string>
-    <string name="msg_action_orient_to_ground"></string>
+    <string name="msg_action_orient_to_ground"/>
     <string name="msg_action_set_multiple_plot_values">设置多个</string>
     <string name="msg_action_configure">配置</string>
     <string name="title_select_plot">选择 %1$s</string>
@@ -447,4 +447,6 @@
     <string name="ctx_title_scoring">评分</string>
     <string name="ctx_title_export_trial">导出试用</string>
     <string name="ctx_title_help_sub_plot_additiong">添加 %2$s</string>
+    <string name="errMsg_no_tags_to_use_for_trialid">没有可用于 TriaLid 的标签</string>
+    <string name="errMsg_database_error_fmt_16">数据库错误</string>
 </resources>
