@@ -1,2 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="prompt_action_lock_scored_traits">Erzielte Eigenschaften sperren</string>
+    <string name="msg_btn_set_values">Werte setzen</string>
+    <string name="title_app_name">KD Smart</string>
+    <string name="msg_app_the_smart_way_to_score">Die clevere Art zu punkten</string>
+    <string name="title_action_take_snapshot">Momentaufnahme</string>
+    <string name="title_action_field_view">Feld-Ansicht</string>
+    <string name="title_action_settings">Einstellungen</string>
+    <string name="prompt_action_swap_sides">Seiten tauschen</string>
+    <string name="prompt_action_change_visit_order">Besuchsauftrag ändern</string>
+    <string name="prompt_action_unlock_scored_traits">Schalte erzielte Eigenschaften frei</string>
+    <string name="prompt_action_activate_scanner">Scanner</string>
+    <string name="prompt_action_config_plot_info">%1$s -Informationen konfigurieren</string>
+    <string name="msg_answer_no">Nein</string>
+    <string name="msg_answer_yes">Ja</string>
+    <string name="msg_btn_text_add_tag">Hinzufügen</string>
+    <string name="msg_btn_text_edit_tag">Bearbeiten</string>
+    <string name="msg_btn_cancel">✘</string>
+    <string name="msg_btn_commit">✓</string>
+    <string name="msg_btn_exit_bluetooth">Beenden und beenden Sie Bluetooth</string>
+    <string name="msg_btn_delete">Löschen</string>
+</resources>
