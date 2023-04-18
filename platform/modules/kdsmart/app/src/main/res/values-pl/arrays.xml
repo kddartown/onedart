@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="prompt_action_add_trial"/>
     <string name="title_add_tag_bundles"/>
 </resources>
