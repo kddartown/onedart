@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="prompt_action_activate_scanner"></string>
-    <string name="prompt_action_add_trial"></string>
-    <string name="msg_action_change_orientation"></string>
-    <string name="title_add_tag_bundles"></string>
-    <string name="title_add_trait_bundles"></string>
+    <string name="prompt_action_add_trial"/>
+    <string name="title_add_tag_bundles"/>
 </resources>
