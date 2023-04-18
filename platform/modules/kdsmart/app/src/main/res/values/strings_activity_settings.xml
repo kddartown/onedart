@@ -1,0 +1,236 @@
+<resources>
+    <!-- DO NOT localise these strings. -->
+
+    <!-- title is in strings.xml for i18n translation -->
+
+
+    <!-- Strings related to Settings -->
+
+    <!--
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+    -->
+
+    <!-- Must match enum GradientChoice -->
+
+    <string-array translatable="false" name="gradient_pref_values">
+        <item>BLUE_HUES</item>
+        <item>ORANGE_HUES</item>
+        <item>MAGENTA_HUES</item>
+        <item>BLUE_RED</item>
+        <item>GREEN_2_RED</item>
+        <item>RED_2_GREEN</item>
+        <item>RED_ORANGE_YELLOW</item>
+        <item>HEAT_4</item> <!-- Black, Brown, Orange, Red -->
+        <item>HEAT_5</item> <!-- Black, Brown, Red, Orange, Yellow -->
+        <item>RAINBOW</item>
+    </string-array>
+
+    <!-- Must match KeyboardTextSize -->
+    <string-array translatable="false" name="pref_keyboard_size_values">
+        <item>SMALL</item>
+        <item>MEDIUM</item>
+        <item>LARGE</item>
+    </string-array>
+
+    <!-- Must match order of LocationProviderState  -->
+
+    <string-array translatable="false" name="pref_gps_values">
+        <item>USE_GPS_LOCATION</item>
+        <item>USE_NETWORK_LOCATION</item>
+        <item>LOCATION_DISABLED</item>
+    </string-array>
+
+    <!-- Must match PlotPerGroup.name() -->
+    <string-array translatable="false" name="pref_plots_per_group_values">
+        <item>ONE</item>
+        <item>TWO</item>
+        <item>THREE</item>
+        <item>FOUR</item>
+    </string-array>
+
+    <!--  I usually put the "titles" in strings.xml but these are just numbers. -->
+    <string-array translatable="false" name="pref_plots_per_group_titles">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <!-- Must match OrganismType enum names -->
+    <string-array translatable="false" name="orgtype_pref_values">
+        <item>GENERIC</item>
+        <item>PLANT</item>
+        <item>MAIZE</item>
+        <item>WHEAT</item>
+        <item>DNA</item>
+    </string-array>
+
+    <!-- Name of the OrganismTypePickerPreference icon -->
+    <string-array translatable="false" name="orgtype_pref_drawables">
+        <item>ic_organism_life_live</item>
+        <item>ic_organism_leaf_live</item>
+        <item>ic_organism_maize_live</item>
+        <item>ic_organism_wheat_live</item>
+        <item>ic_organism_dna_live</item>
+    </string-array>
+
+    <!-- Name of the GradientChoicePickerPreference icon -->
+    <string-array translatable="false" name="gradient_pref_drawables">
+        <item>gradient_blue</item>
+        <item>gradient_orange</item>
+        <item>gradient_magenta</item>
+        <item>heatmap_blue_red</item>
+        <item>heatmap_green_2_red</item>
+        <item>heatmap_red_2_green</item>
+        <item>heatmap_red_orange_yellow</item>
+        <item>heatmap_heat_4</item> <!-- Black, Brown, Orange, Red -->
+        <item>heatmap_heat_5</item> <!-- Black, Brown, Red, Orange, Yellow -->
+        <item>heatmap_rainbow</item>
+    </string-array>
+
+    <!-- These must match the Transitions enum and
+         the order in strings.xml#pref_transition_type_titles -->
+    <string-array translatable="false" name="pref_transition_type_values">
+        <item>NO_TRANSITION</item>
+        <item>PREDECESSOR</item>
+        <item>SUCCESSOR</item>
+        <item>SLIDE_LEFT</item>
+        <item>SLIDE_RIGHT</item>
+        <item>FADE_OUT</item>
+        <item>ROTATE</item>
+    </string-array>
+
+    <!-- Must match ScoringViewOption -->
+    <!-- order is same as arrays.xml/pref_scoring_view_titles -->
+    <!-- These must match ScoringViewOptions -->
+    <string-array translatable="false" name="pref_scoring_view_values">
+        <item>SPREADSHEET_VIEW</item>
+        <item>PATH_VIEW</item>
+        <item>FIELD_VIEW</item>
+    </string-array>
+
+    <!-- These must match HowtoViewAttachment enum -->
+    <string-array translatable="false" name="pref_howto_view_attachment_values">
+        <item>INTERNAL</item>
+        <item>EXTERNAL</item>
+    </string-array>
+
+    <!-- See CollectionOrderPickerPreference -->
+    <!-- Must match VisitOrder2D -->
+    <string-array translatable="false" name="collOrder_pref_drawables">
+        <item>twoway_ll_up</item>
+        <item>oneway_ll_up</item>
+        <item>twoway_ll_right</item>
+        <item>oneway_ll_right</item>
+
+        <item>twoway_ul_down</item>
+        <item>oneway_ul_down</item>
+        <item>twoway_ul_right</item>
+        <item>oneway_ul_right</item>
+
+        <item>twoway_ur_down</item>
+        <item>oneway_ur_down</item>
+        <item>twoway_ur_left</item>
+        <item>oneway_ur_left</item>
+
+        <item>twoway_lr_up</item>
+        <item>oneway_lr_up</item>
+        <item>twoway_lr_left</item>
+        <item>oneway_lr_left</item>
+    </string-array>
+
+    <!-- = = = = = = = = = = = = = = = = = -->
+
+    <!-- Must match VisitOrder2D -->
+    <!-- order is same as strings.xml/collOrder_pref_names -->
+
+    <string-array translatable="false" name="collOrder_pref_values">
+        <item>LL_UP_SERPENTINE</item>
+        <item>LL_UP_ZIGZAG</item>
+        <item>LL_RIGHT_SERPENTINE</item>
+        <item>LL_RIGHT_ZIGZAG</item>
+
+        <item>UL_DOWN_SERPENTINE</item>
+        <item>UL_DOWN_ZIGZAG</item>
+        <item>UL_RIGHT_SERPENTINE</item>
+        <item>UL_RIGHT_ZIGZAG</item>
+
+        <item>UR_DOWN_SERPENTINE</item>
+        <item>UR_DOWN_ZIGZAG</item>
+        <item>UR_LEFT_SERPENTINE</item>
+        <item>UR_LEFT_ZIGZAG</item>
+
+        <item>LR_UP_SERPENTINE</item>
+        <item>LR_UP_ZIGZAG</item>
+        <item>LR_LEFT_SERPENTINE</item>
+        <item>LR_LEFT_ZIGZAG</item>
+    </string-array>
+
+    <!-- must match TextAppearance enum and pref_textAppearance_names -->
+    <string-array translatable="false" name="pref_textAppearance_values">
+        <item>SMALL</item>
+        <item>MEDIUM</item>
+        <item>LARGE</item>
+        <item>XLARGE</item>
+    </string-array>
+
+    <!-- must match  -->
+    <string-array translatable="false" name="pref_date_phone_picker_format_values">
+        <item>SPINNER</item>
+        <item>CALENDAR</item>
+        <item>BOTH</item>
+    </string-array>
+
+    <!-- See ApplicationLanguagePickerPreference -->
+    <string-array translatable="false" name="pref_application_locale_drawables">
+        <item>locale_system</item>
+        <item>locale_en</item>
+        <item>locale_de</item>
+        <item>locale_mx</item>
+    </string-array>
+
+    <string-array translatable="false" name="locale_pref_values">
+        <item>SYSTEM</item>
+        <item>ENGLISH</item>
+        <item>GERMAN</item>
+        <item>MEXICO</item>
+    </string-array>
+
+    <!-- [BSP] Whoever defined this it is *not* the same order as
+        TrialGroupEnum constants so be careful.
+        See also values/arrays.xml:trial_group_settings_titles
+     -->
+    <string-array translatable="false" name="trial_group_settings_values">
+        <item>TRIAL_BUNDLE</item>
+        <item>TRIAL_TYPE</item>
+        <item>TRIAL_KDDART_URL</item>
+        <item>TRIAL_ORGANISM_TYPE</item>
+        <item>TRIAL_PLANTING_DATE</item>
+    </string-array>
+
+    <!-- Need to be the names of the AutoScoringOptions enum -->
+    <!-- NOTE: Does *NOT* need to be translated. This is the *CODE* value and not user visible.-->
+    <string-array translatable="false" name="pref_auto_scoring_values">
+        <item>ALL</item>
+        <item>UNSCORED</item>
+    </string-array>
+
+    <!-- for Database Selection -->
+    <!-- These are not user editable -->
+
+    <string-array translatable="false" name="pref_database_values">
+        <item>com.diversityarrays.kdsmart.db.ormlite.SqliteDemoDb</item>
+        <item>com.diversityarrays.kdsmart.db.ormlite.SqliteDb</item>
+    </string-array>
+
+    <!-- See CollectionOrderPickerPreference -->
+    <!-- Must match VisitOrder2D -->
+    <string-array translatable="false" name="scoringView_pref_drawables">
+        <item>ssview_mode</item>
+        <item>pathview_mode</item>
+        <item>fieldview_gold</item>
+    </string-array>
+
+    <string name="demo_db_class_name" translatable="false">com.diversityarrays.kdsmart.db.ormlite.SqliteDemoDb</string>
+</resources>
