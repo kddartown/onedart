@@ -175,4 +175,302 @@
     <string name="run_length_choices_1">Horizontal</string>
     <string name="run_length_choices_2">Custom</string>
 
+    <string-array name="pref_database_names">
+        <item>@string/pref_database_names_0</item>
+        <item>@string/pref_database_names_1</item>
+    </string-array>
+    <string-array name="pref_trait_date_format_titles">
+        <item>@string/pref_trait_date_format_titles_0</item>
+        <item>@string/pref_trait_date_format_titles_1</item>
+        <item>@string/pref_trait_date_format_titles_2</item>
+        <item>@string/pref_trait_date_format_titles_3</item>
+        <item>@string/pref_trait_date_format_titles_4</item>
+        <item>@string/pref_trait_date_format_titles_5</item>
+        <item>@string/pref_trait_date_format_titles_6</item>
+        <item>@string/pref_trait_date_format_titles_7</item>
+        <item>@string/pref_trait_date_format_titles_8</item>
+        <item>@string/pref_trait_date_format_titles_9</item>
+        <item>@string/pref_trait_date_format_titles_10</item>
+        <item>@string/pref_trait_date_format_titles_11</item>
+    </string-array>
+    </string-array>
+    <string-array name="collOrder_pref_names">
+        <item>@string/collOrder_pref_names_0</item>
+        <item>@string/collOrder_pref_names_1</item>
+        <item>@string/collOrder_pref_names_2</item>
+        <item>@string/collOrder_pref_names_3</item>
+        <item>@string/collOrder_pref_names_4</item>
+        <item>@string/collOrder_pref_names_5</item>
+        <item>@string/collOrder_pref_names_6</item>
+        <item>@string/collOrder_pref_names_7</item>
+        <item>@string/collOrder_pref_names_8</item>
+        <item>@string/collOrder_pref_names_9</item>
+        <item>@string/collOrder_pref_names_10</item>
+        <item>@string/collOrder_pref_names_11</item>
+        <item>@string/collOrder_pref_names_12</item>
+        <item>@string/collOrder_pref_names_13</item>
+        <item>@string/collOrder_pref_names_14</item>
+        <item>@string/collOrder_pref_names_15</item>
+    </string-array>
+    <string-array name="pref_transition_type_titles">
+        <item>@string/pref_transition_type_titles_0</item>
+        <item>@string/pref_transition_type_titles_1</item>
+        <item>@string/pref_transition_type_titles_2</item>
+        <item>@string/pref_transition_type_titles_3</item>
+        <item>@string/pref_transition_type_titles_4</item>
+        <item>@string/pref_transition_type_titles_5</item>
+        <item>@string/pref_transition_type_titles_6</item>
+    </string-array>
+    <string-array name="pref_scoring_view_titles">
+        <item>@string/pref_scoring_view_titles_0</item>
+        <item>@string/pref_scoring_view_titles_1</item>
+        <item>@string/pref_scoring_view_titles_2</item>
+    </string-array>
+    <string-array name="pref_howto_view_attachment_names">
+        <item>@string/pref_howto_view_attachment_names_0</item>
+        <item>@string/pref_howto_view_attachment_names_1</item>
+    </string-array>
+    <string-array name="pref_textAppearance_names">
+        <item>@string/pref_textAppearance_names_0</item>
+        <item>@string/pref_textAppearance_names_1</item>
+        <item>@string/pref_textAppearance_names_2</item>
+        <item>@string/pref_textAppearance_names_3</item>
+    </string-array>
+    <string-array name="pref_keyboard_size_names">
+        <item>@string/pref_keyboard_size_names_0</item>
+        <item>@string/pref_keyboard_size_names_1</item>
+        <item>@string/pref_keyboard_size_names_2</item>
+    </string-array>
+    <string-array name="pref_phone_picker_date_format_names">
+        <item>@string/pref_phone_picker_date_format_names_0</item>
+        <item>@string/pref_phone_picker_date_format_names_1</item>
+        <item>@string/pref_phone_picker_date_format_names_2</item>
+    </string-array>
+    <string-array name="gradient_pref_names">
+        <item>@string/gradient_pref_names_0</item>
+        <item>@string/gradient_pref_names_1</item>
+        <item>@string/gradient_pref_names_2</item>
+        <item>@string/gradient_pref_names_3</item>
+        <item>@string/gradient_pref_names_4</item>
+        <item>@string/gradient_pref_names_5</item>
+        <item>@string/gradient_pref_names_6</item>
+        <item>@string/gradient_pref_names_7</item>
+    </string-array>
+    <string-array name="orgtype_pref_names">
+        <item>@string/orgtype_pref_names_0</item>
+        <item>@string/orgtype_pref_names_1</item>
+        <item>@string/orgtype_pref_names_2</item>
+        <item>@string/orgtype_pref_names_3</item>
+        <item>@string/orgtype_pref_names_4</item>
+    </string-array>
+    <string-array name="pref_gps_titles">
+        <item>@string/pref_gps_titles_0</item>
+        <item>@string/pref_gps_titles_1</item>
+        <item>@string/pref_gps_titles_2</item>
+    </string-array>
+    <string-array name="drawer_list_items">
+        <item>@string/drawer_list_items_0</item>
+        <item>@string/drawer_list_items_1</item>
+        <item>@string/drawer_list_items_2</item>
+        <item>@string/drawer_list_items_3</item>
+        <item>@string/drawer_list_items_4</item>
+        <item>@string/drawer_list_items_5</item>
+        <item>@string/drawer_list_items_6</item>
+    </string-array>
+    <string-array name="minutes_ago_options">
+        <item>@string/minutes_ago_options_0</item>
+        <item>@string/minutes_ago_options_1</item>
+        <item>@string/minutes_ago_options_2</item>
+        <item>@string/minutes_ago_options_3</item>
+        <item>@string/minutes_ago_options_4</item>
+        <item>@string/minutes_ago_options_5</item>
+        <item>@string/minutes_ago_options_6</item>
+        <item>@string/minutes_ago_options_7</item>
+    </string-array>
+    <string-array name="locale_pref_titles">
+        <item>@string/locale_pref_titles_0</item>
+        <item>@string/locale_pref_titles_1</item>
+        <item>@string/locale_pref_titles_2</item>
+        <item>@string/locale_pref_titles_3</item>
+    </string-array>
+    <string-array name="trial_group_settings_titles">
+        <item>@string/trial_group_settings_titles_0</item>
+        <item>@string/trial_group_settings_titles_1</item>
+        <item>@string/trial_group_settings_titles_2</item>
+        <item>@string/trial_group_settings_titles_3</item>
+        <item>@string/trial_group_settings_titles_4</item>
+    </string-array>
+    <string-array name="pref_auto_scoring_titles">
+        <item>@string/pref_auto_scoring_titles_0</item>
+        <item>@string/pref_auto_scoring_titles_1</item>
+    </string-array>
+    <string-array name="trait_level_names">
+        <item>@string/trait_level_names_0</item>
+        <item>@string/trait_level_names_1</item>
+    </string-array>
+    <string-array name="run_length_choices">
+        <item>@string/run_length_choices_0</item>
+        <item>@string/run_length_choices_1</item>
+        <item>@string/run_length_choices_2</item>
+    </string-array>
+    <string-array name="pref_database_names">
+        <item>@string/pref_database_names_0</item>
+        <item>@string/pref_database_names_1</item>
+    </string-array>
+    <string-array name="pref_trait_date_format_titles">
+        <item>@string/pref_trait_date_format_titles_0</item>
+        <item>@string/pref_trait_date_format_titles_1</item>
+        <item>@string/pref_trait_date_format_titles_2</item>
+        <item>@string/pref_trait_date_format_titles_3</item>
+        <item>@string/pref_trait_date_format_titles_4</item>
+        <item>@string/pref_trait_date_format_titles_5</item>
+        <item>@string/pref_trait_date_format_titles_6</item>
+        <item>@string/pref_trait_date_format_titles_7</item>
+        <item>@string/pref_trait_date_format_titles_8</item>
+        <item>@string/pref_trait_date_format_titles_9</item>
+        <item>@string/pref_trait_date_format_titles_10</item>
+        <item>@string/pref_trait_date_format_titles_11</item>
+    </string-array>
+    </string-array>
+    <string-array name="collOrder_pref_names">
+        <item>@string/collOrder_pref_names_0</item>
+        <item>@string/collOrder_pref_names_1</item>
+        <item>@string/collOrder_pref_names_2</item>
+        <item>@string/collOrder_pref_names_3</item>
+        <item>@string/collOrder_pref_names_4</item>
+        <item>@string/collOrder_pref_names_5</item>
+        <item>@string/collOrder_pref_names_6</item>
+        <item>@string/collOrder_pref_names_7</item>
+        <item>@string/collOrder_pref_names_8</item>
+        <item>@string/collOrder_pref_names_9</item>
+        <item>@string/collOrder_pref_names_10</item>
+        <item>@string/collOrder_pref_names_11</item>
+        <item>@string/collOrder_pref_names_12</item>
+        <item>@string/collOrder_pref_names_13</item>
+        <item>@string/collOrder_pref_names_14</item>
+        <item>@string/collOrder_pref_names_15</item>
+    </string-array>
+    <string-array name="pref_transition_type_titles">
+        <item>@string/pref_transition_type_titles_0</item>
+        <item>@string/pref_transition_type_titles_1</item>
+        <item>@string/pref_transition_type_titles_2</item>
+        <item>@string/pref_transition_type_titles_3</item>
+        <item>@string/pref_transition_type_titles_4</item>
+        <item>@string/pref_transition_type_titles_5</item>
+        <item>@string/pref_transition_type_titles_6</item>
+    </string-array>
+    <string-array name="pref_scoring_view_titles">
+        <item>@string/pref_scoring_view_titles_0</item>
+        <item>@string/pref_scoring_view_titles_1</item>
+        <item>@string/pref_scoring_view_titles_2</item>
+    </string-array>
+    <string-array name="pref_howto_view_attachment_names">
+        <item>@string/pref_howto_view_attachment_names_0</item>
+        <item>@string/pref_howto_view_attachment_names_1</item>
+    </string-array>
+    <string-array name="pref_textAppearance_names">
+        <item>@string/pref_textAppearance_names_0</item>
+        <item>@string/pref_textAppearance_names_1</item>
+        <item>@string/pref_textAppearance_names_2</item>
+        <item>@string/pref_textAppearance_names_3</item>
+    </string-array>
+    <string-array name="pref_keyboard_size_names">
+        <item>@string/pref_keyboard_size_names_0</item>
+        <item>@string/pref_keyboard_size_names_1</item>
+        <item>@string/pref_keyboard_size_names_2</item>
+    </string-array>
+    <string-array name="pref_phone_picker_date_format_names">
+        <item>@string/pref_phone_picker_date_format_names_0</item>
+        <item>@string/pref_phone_picker_date_format_names_1</item>
+        <item>@string/pref_phone_picker_date_format_names_2</item>
+    </string-array>
+    <string-array name="gradient_pref_names">
+        <item>@string/gradient_pref_names_0</item>
+        <item>@string/gradient_pref_names_1</item>
+        <item>@string/gradient_pref_names_2</item>
+        <item>@string/gradient_pref_names_3</item>
+        <item>@string/gradient_pref_names_4</item>
+        <item>@string/gradient_pref_names_5</item>
+        <item>@string/gradient_pref_names_6</item>
+        <item>@string/gradient_pref_names_7</item>
+    </string-array>
+    <string-array name="orgtype_pref_names">
+        <item>@string/orgtype_pref_names_0</item>
+        <item>@string/orgtype_pref_names_1</item>
+        <item>@string/orgtype_pref_names_2</item>
+        <item>@string/orgtype_pref_names_3</item>
+        <item>@string/orgtype_pref_names_4</item>
+    </string-array>
+    <string-array name="pref_gps_titles">
+        <item>@string/pref_gps_titles_0</item>
+        <item>@string/pref_gps_titles_1</item>
+        <item>@string/pref_gps_titles_2</item>
+    </string-array>
+    <string-array name="drawer_list_items">
+        <item>@string/drawer_list_items_0</item>
+        <item>@string/drawer_list_items_1</item>
+        <item>@string/drawer_list_items_2</item>
+        <item>@string/drawer_list_items_3</item>
+        <item>@string/drawer_list_items_4</item>
+        <item>@string/drawer_list_items_5</item>
+        <item>@string/drawer_list_items_6</item>
+    </string-array>
+    <string-array name="minutes_ago_options">
+        <item>@string/minutes_ago_options_0</item>
+        <item>@string/minutes_ago_options_1</item>
+        <item>@string/minutes_ago_options_2</item>
+        <item>@string/minutes_ago_options_3</item>
+        <item>@string/minutes_ago_options_4</item>
+        <item>@string/minutes_ago_options_5</item>
+        <item>@string/minutes_ago_options_6</item>
+        <item>@string/minutes_ago_options_7</item>
+    </string-array>
+    <string-array name="locale_pref_titles">
+        <item>@string/locale_pref_titles_0</item>
+        <item>@string/locale_pref_titles_1</item>
+        <item>@string/locale_pref_titles_2</item>
+        <item>@string/locale_pref_titles_3</item>
+        <item>@string/locale_pref_titles_4</item>
+    </string-array>
+    <string-array name="trial_group_settings_titles">
+        <item>@string/trial_group_settings_titles_0</item>
+        <item>@string/trial_group_settings_titles_1</item>
+        <item>@string/trial_group_settings_titles_2</item>
+        <item>@string/trial_group_settings_titles_3</item>
+        <item>@string/trial_group_settings_titles_4</item>
+    </string-array>
+    <string-array name="pref_auto_scoring_titles">
+        <item>@string/pref_auto_scoring_titles_0</item>
+        <item>@string/pref_auto_scoring_titles_1</item>
+    </string-array>
+    <string-array name="trait_level_names">
+        <item>@string/trait_level_names_0</item>
+        <item>@string/trait_level_names_1</item>
+    </string-array>
+    <string-array name="run_length_choices">
+        <item>@string/run_length_choices_0</item>
+        <item>@string/run_length_choices_1</item>
+        <item>@string/run_length_choices_2</item>
+    </string-array>
+
+    <!-- Must be valid SimpleDateFormat -->
+    <string-array translatable="false" name="pref_trait_date_format_values">
+        <item>yyyy/MMM/dd</item>
+        <item>MMM/dd/yyyy</item>
+        <item>dd/MMM/yyyy</item>
+
+        <item>yyyy/MM/dd</item>
+        <item>MM/dd/yyyy</item>
+        <item>dd/MM/yyyy</item>
+
+        <item>yyyy/DDD</item>
+        <item>DDD/yyyy</item>
+
+        <item>MMM/dd</item>
+        <item>MM/dd</item>
+
+        <item>dd/MMM</item>
+        <item>dd/MM</item>
+    <!-- - -End- Date Format - -->
+        
 </resources>
