@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- These must match the order in
-     strings_activity_settings.xml#pref_database_values
-        the FIRST one MUST   be the Demo entry (it is the default on first run)
-        the LAST  one SHOULD be the Production entry
--->
-    <!-- pref_database_names -->
+<!-- pref_database_names -->
     <string name="pref_database_names_0">Demo</string>
     <string name="pref_database_names_1">Production</string>
 
@@ -101,9 +96,9 @@
     <string name="gradient_pref_names_4">Green, Yellow, Orange, Red</string>
     <string name="gradient_pref_names_5">Red to Green</string>
     <string name="gradient_pref_names_6">Red, Orange, Yellow</string>
-        <item>Black, Brown, Red, Tan</item> <!-- Black, Brown, Orange, Tan -->
-        <item>Black, Brown, Red, Orange, Yellow</item> <!-- Black, Brown, Red, Orange, Yellow -->
-    <string name="gradient_pref_names_7">Rainbow</string>
+    <string name="gradient_pref_names_7">Black, Brown, Red, Tan</string> <!-- Black, Brown, Orange, Tan -->
+    <string name="gradient_pref_names_8">Black, Brown, Red, Orange, Yellow</string> <!-- Black, Brown, Red, Orange, Yellow -->
+    <string name="gradient_pref_names_9">Rainbow</string>
 
 
     <!-- User visible -->
