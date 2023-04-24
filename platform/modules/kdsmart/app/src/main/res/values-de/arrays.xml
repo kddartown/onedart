@@ -47,4 +47,104 @@
     <!-- pref_auto_scoring_titles -->
     <!-- trait_level_names -->
     <!-- run_length_choices -->
+    <string name="trial_group_settings_titles_3">Organismus-Typ</string>
+    <string name="trial_group_settings_titles_4">Pflanzjahr</string>
+    <string name="pref_auto_scoring_titles_1">Eigenschaften ohne Wertung</string>
+    <string name="pref_database_names_0">Demoversion</string>
+    <string name="pref_database_names_1">Produktion</string>
+    <string name="pref_trait_date_format_titles_0">1915/Apr/25</string>
+    <string name="pref_trait_date_format_titles_1">25. April 1915</string>
+    <string name="pref_trait_date_format_titles_2">25/Apr/1915</string>
+    <string name="pref_trait_date_format_titles_3">1915/04/25</string>
+    <string name="pref_trait_date_format_titles_4">25.04.1915</string>
+    <string name="pref_trait_date_format_titles_5">25.04.1915</string>
+    <string name="pref_trait_date_format_titles_6">1915/115</string>
+    <string name="pref_trait_date_format_titles_7">115/1915</string>
+    <string name="pref_trait_date_format_titles_8">25. April</string>
+    <string name="pref_trait_date_format_titles_9">04/25</string>
+    <string name="pref_trait_date_format_titles_10">25/April</string>
+    <string name="pref_trait_date_format_titles_11">25/04</string>
+    <string name="collOrder_pref_names_0">Unten links, hoch, Serpentin</string>
+    <string name="collOrder_pref_names_1">Unten links, oben, Einweg</string>
+    <string name="collOrder_pref_names_2">Unten links, rechts, Serpentin</string>
+    <string name="collOrder_pref_names_3">Unten links, rechts, Einweg</string>
+    <string name="collOrder_pref_names_4">Oben links, unten, Serpentin</string>
+    <string name="collOrder_pref_names_5">Oben links, unten, Einweg</string>
+    <string name="collOrder_pref_names_6">Oben links, rechts, Serpentin</string>
+    <string name="collOrder_pref_names_7">Oben links, rechts, Einweg</string>
+    <string name="collOrder_pref_names_8">Oben rechts, unten, Serpentin</string>
+    <string name="collOrder_pref_names_9">Oben rechts, unten, Einweg</string>
+    <string name="collOrder_pref_names_10">Oben rechts, links, Serpentin</string>
+    <string name="collOrder_pref_names_11">Oben rechts, links, Einweg</string>
+    <string name="collOrder_pref_names_12">Unten rechts, hoch, Serpentin</string>
+    <string name="collOrder_pref_names_13">Unten rechts, oben, Einweg</string>
+    <string name="collOrder_pref_names_14">Unten rechts, links, Serpentin</string>
+    <string name="collOrder_pref_names_15">Unten rechts, links, Einweg</string>
+    <string name="pref_transition_type_titles_0">Kein Übergang</string>
+    <string name="pref_transition_type_titles_1">Rutschen Sie nach unten</string>
+    <string name="pref_transition_type_titles_2">Rutschen Sie nach oben</string>
+    <string name="pref_transition_type_titles_3">Nach links rutschen</string>
+    <string name="pref_transition_type_titles_4">Schieben Sie nach rechts</string>
+    <string name="pref_transition_type_titles_5">Ausblenden</string>
+    <string name="pref_transition_type_titles_6">Drehen</string>
+    <string name="pref_scoring_view_titles_0">Spreadsheet-Modus</string>
+    <string name="pref_scoring_view_titles_1">Pfadmodus</string>
+    <string name="pref_scoring_view_titles_2">Feldmodus</string>
+    <string name="pref_howto_view_attachment_names_0">Interner Betrachter</string>
+    <string name="pref_howto_view_attachment_names_1">Anwendung wählen</string>
+    <string name="pref_textAppearance_names_0">Klein</string>
+    <string name="pref_textAppearance_names_1">Mittel</string>
+    <string name="pref_textAppearance_names_2">Groß</string>
+    <string name="pref_textAppearance_names_3">X-Large</string>
+    <string name="pref_keyboard_size_names_0">Klein</string>
+    <string name="pref_keyboard_size_names_1">Mittel</string>
+    <string name="pref_keyboard_size_names_2">Groß</string>
+    <string name="pref_phone_picker_date_format_names_0">Spinner</string>
+    <string name="pref_phone_picker_date_format_names_1">Kalendar</string>
+    <string name="pref_phone_picker_date_format_names_2">Beides</string>
+    <string name="gradient_pref_names_0">Blaue Farbtöne</string>
+    <string name="gradient_pref_names_1">Orangefarbene Farbtöne</string>
+    <string name="gradient_pref_names_2">Magentafarbene Farbtöne</string>
+    <string name="gradient_pref_names_3">Blau bis Rot</string>
+    <string name="gradient_pref_names_4">Grün, Gelb, Orange, Rot</string>
+    <string name="gradient_pref_names_5">Rot bis Grün</string>
+    <string name="gradient_pref_names_6">Rot, Orange, Gelb</string>
+    <string name="gradient_pref_names_7">Regenbogen</string>
+    <string name="orgtype_pref_names_0">Generisch</string>
+    <string name="orgtype_pref_names_1">Pflanze</string>
+    <string name="orgtype_pref_names_2">Mais</string>
+    <string name="orgtype_pref_names_3">Weizen</string>
+    <string name="orgtype_pref_names_4">DNA</string>
+    <string name="pref_gps_titles_0">GPS (höhere Genauigkeit)</string>
+    <string name="pref_gps_titles_1">Netzwerk (geringere Genauigkeit)</string>
+    <string name="pref_gps_titles_2">Standort nicht verwenden</string>
+    <string name="drawer_list_items_0">Zuhause</string>
+    <string name="drawer_list_items_1">Versuche</string>
+    <string name="drawer_list_items_2">Eigenschaften</string>
+    <string name="drawer_list_items_3">Schlagworte</string>
+    <string name="drawer_list_items_4">Geräte verwalten</string>
+    <string name="drawer_list_items_5">Einstellungen</string>
+    <string name="drawer_list_items_6">Informationen</string>
+    <string name="minutes_ago_options_0">1=1 Minute</string>
+    <string name="minutes_ago_options_1">2=vor 2 Minuten</string>
+    <string name="minutes_ago_options_2">3=vor 3 Minuten</string>
+    <string name="minutes_ago_options_3">4=vor 4 Minuten</string>
+    <string name="minutes_ago_options_4">5=vor 5 Minuten</string>
+    <string name="minutes_ago_options_5">10=vor 10 Minuten</string>
+    <string name="minutes_ago_options_6">15=15 Minuten</string>
+    <string name="minutes_ago_options_7">Mehr…</string>
+    <string name="locale_pref_titles_0">Systemeinstellung verwenden</string>
+    <string name="locale_pref_titles_1">Englisch</string>
+    <string name="locale_pref_titles_2">Deutsch</string>
+    <string name="locale_pref_titles_3">Spanisch-Mex</string>
+    <string name="locale_pref_titles_4">Polieren</string>
+    <string name="trial_group_settings_titles_0">Testpaket</string>
+    <string name="trial_group_settings_titles_1">Art der Studie</string>
+    <string name="trial_group_settings_titles_2">KDDArt-URL</string>
+    <string name="pref_auto_scoring_titles_0">Alle Eigenschaften</string>
+    <string name="trait_level_names_0">Grundstück</string>
+    <string name="trait_level_names_1">Nebenhandlung</string>
+    <string name="run_length_choices_0">Vertikal</string>
+    <string name="run_length_choices_1">Horizontal</string>
+    <string name="run_length_choices_2">Benutzerdefiniert</string>
 </resources>
