@@ -40,4 +40,106 @@
     <!-- pref_auto_scoring_titles -->
     <!-- trait_level_names -->
     <!-- run_length_choices -->
+    <string name="pref_database_names_0">Demo</string>
+    <string name="locale_pref_titles_3">Spanyol-Mex</string>
+    <string name="locale_pref_titles_4">bahasa Polandia</string>
+    <string name="trial_group_settings_titles_0">Bundel Percobaan</string>
+    <string name="trial_group_settings_titles_1">Jenis Percobaan</string>
+    <string name="trial_group_settings_titles_2">URL KDDart</string>
+    <string name="trial_group_settings_titles_3">Jenis Organisme</string>
+    <string name="trial_group_settings_titles_4">Tahun Penanaman</string>
+    <string name="pref_auto_scoring_titles_0">Semua Sifat</string>
+    <string name="pref_auto_scoring_titles_1">Sifat Tanpa Skor</string>
+    <string name="trait_level_names_0">Plot</string>
+    <string name="trait_level_names_1">Sub-Plot</string>
+    <string name="run_length_choices_0">Vertikal</string>
+    <string name="run_length_choices_1">Horisontal</string>
+    <string name="run_length_choices_2">Kustom</string>
+    <string name="pref_database_names_1">Produksi</string>
+    <string name="pref_trait_date_format_titles_0">1915/Apr/25</string>
+    <string name="pref_trait_date_format_titles_1">Apr/25/1915</string>
+    <string name="pref_trait_date_format_titles_2">25/Apr/1915</string>
+    <string name="pref_trait_date_format_titles_3">1915/04/25</string>
+    <string name="pref_trait_date_format_titles_4">04/25/1915</string>
+    <string name="pref_trait_date_format_titles_5">25/04/1915</string>
+    <string name="pref_trait_date_format_titles_6">1915/115</string>
+    <string name="pref_trait_date_format_titles_7">115/1915</string>
+    <string name="pref_trait_date_format_titles_8">Apr/25</string>
+    <string name="pref_trait_date_format_titles_9">04/25</string>
+    <string name="pref_trait_date_format_titles_10">25/Apr</string>
+    <string name="pref_trait_date_format_titles_11">25/04</string>
+    <string name="collOrder_pref_names_0">Kiri bawah, atas, serpentine</string>
+    <string name="collOrder_pref_names_1">Kiri bawah, atas, satu arah</string>
+    <string name="collOrder_pref_names_2">Kiri bawah, Kanan, Serpentine</string>
+    <string name="collOrder_pref_names_3">Kiri bawah, Kanan, Oneway</string>
+    <string name="collOrder_pref_names_4">Kiri Atas, Bawah, Serpentine</string>
+    <string name="collOrder_pref_names_5">Kiri Atas, Bawah, Oneway</string>
+    <string name="collOrder_pref_names_6">Kiri Atas, Kanan, Serpentine</string>
+    <string name="collOrder_pref_names_7">Kiri Atas, Kanan, Oneway</string>
+    <string name="collOrder_pref_names_8">Kanan Atas, Bawah, Serpentine</string>
+    <string name="collOrder_pref_names_9">Kanan Atas, Bawah, Oneway</string>
+    <string name="collOrder_pref_names_10">Kanan Atas, Kiri, Serpentine</string>
+    <string name="collOrder_pref_names_11">Kanan Atas, Kiri, Oneway</string>
+    <string name="collOrder_pref_names_12">Kanan bawah, Up, Serpentine</string>
+    <string name="collOrder_pref_names_13">Kanan bawah, Naik, Oneway</string>
+    <string name="collOrder_pref_names_14">Kanan bawah, Kiri, Serpentine</string>
+    <string name="collOrder_pref_names_15">Kanan bawah, Kiri, Oneway</string>
+    <string name="pref_transition_type_titles_0">Tidak ada transisi</string>
+    <string name="pref_transition_type_titles_1">Geser ke bawah</string>
+    <string name="pref_transition_type_titles_2">Geser ke atas</string>
+    <string name="pref_transition_type_titles_3">Geser ke kiri</string>
+    <string name="pref_transition_type_titles_4">Geser ke kanan</string>
+    <string name="pref_transition_type_titles_5">Memudar</string>
+    <string name="pref_transition_type_titles_6">Putar</string>
+    <string name="pref_scoring_view_titles_0">Modus Spreadsheet</string>
+    <string name="pref_scoring_view_titles_1">Mode Jalur</string>
+    <string name="pref_scoring_view_titles_2">Mode Bidang</string>
+    <string name="pref_howto_view_attachment_names_0">Penampil internal</string>
+    <string name="pref_howto_view_attachment_names_1">Pilih aplikasi</string>
+    <string name="pref_textAppearance_names_0">Kecil</string>
+    <string name="pref_textAppearance_names_1">Sedang</string>
+    <string name="pref_textAppearance_names_2">Besar</string>
+    <string name="pref_textAppearance_names_3">X-Besar</string>
+    <string name="pref_keyboard_size_names_0">Kecil</string>
+    <string name="pref_keyboard_size_names_1">Sedang</string>
+    <string name="pref_keyboard_size_names_2">Besar</string>
+    <string name="pref_phone_picker_date_format_names_0">Spinner</string>
+    <string name="pref_phone_picker_date_format_names_1">Kalender</string>
+    <string name="pref_phone_picker_date_format_names_2">Keduanya</string>
+    <string name="gradient_pref_names_0">Rona Biru</string>
+    <string name="gradient_pref_names_1">Warna Oranye</string>
+    <string name="gradient_pref_names_2">Warna Magenta</string>
+    <string name="gradient_pref_names_3">Biru ke Merah</string>
+    <string name="gradient_pref_names_4">Hijau, Kuning, Oranye, Merah</string>
+    <string name="gradient_pref_names_5">Merah ke Hijau</string>
+    <string name="gradient_pref_names_6">Merah, Oranye, Kuning</string>
+    <string name="gradient_pref_names_7">Hitam, Coklat, Merah, Tan</string>
+    <string name="gradient_pref_names_8">Hitam, Coklat, Merah, Oranye, Kuning</string>
+    <string name="gradient_pref_names_9">Pelangi</string>
+    <string name="orgtype_pref_names_0">Generik</string>
+    <string name="orgtype_pref_names_1">Tanaman</string>
+    <string name="orgtype_pref_names_2">Jagung</string>
+    <string name="orgtype_pref_names_3">Gandum</string>
+    <string name="orgtype_pref_names_4">DNA</string>
+    <string name="pref_gps_titles_0">GPS (akurasi lebih tinggi)</string>
+    <string name="pref_gps_titles_1">Jaringan (akurasi lebih rendah)</string>
+    <string name="pref_gps_titles_2">Jangan gunakan lokasi</string>
+    <string name="drawer_list_items_0">Rumah</string>
+    <string name="drawer_list_items_1">Percobaan</string>
+    <string name="drawer_list_items_2">Sifat</string>
+    <string name="drawer_list_items_3">Tag</string>
+    <string name="drawer_list_items_4">Kelola Perangkat</string>
+    <string name="drawer_list_items_5">Pengaturan</string>
+    <string name="drawer_list_items_6">Info</string>
+    <string name="minutes_ago_options_0">1=1 menit yang lalu</string>
+    <string name="minutes_ago_options_1">2=2 menit yang lalu</string>
+    <string name="minutes_ago_options_2">3=3 menit yang lalu</string>
+    <string name="minutes_ago_options_3">4=4 menit yang lalu</string>
+    <string name="minutes_ago_options_4">5=5 menit yang lalu</string>
+    <string name="minutes_ago_options_5">10=10 menit yang lalu</string>
+    <string name="minutes_ago_options_6">15=15 menit yang lalu</string>
+    <string name="minutes_ago_options_7">Lebih…</string>
+    <string name="locale_pref_titles_0">Gunakan pengaturan sistem</string>
+    <string name="locale_pref_titles_1">Inggris</string>
+    <string name="locale_pref_titles_2">orang Jerman</string>
 </resources>
