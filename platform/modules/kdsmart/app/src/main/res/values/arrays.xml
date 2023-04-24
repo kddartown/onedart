@@ -1,9 +1,199 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Need to change the english embedded names (e.g. button Use/NO) in the ctx_help sections with the translated word fragments Also: battery_logging strings need translation -->
-    <string name="title_add_tag_bundles">Agregar etiquetas al grupo</string>
-    <string name="title_add_trait_bundles">Agregar rasgos al grupo</string>
-    <string name="prompt_action_activate_scanner">Escáner</string>
-    <string name="prompt_action_add_trial">Añadir Ensayo</string>
-    <string name="msg_action_change_orientation">Cambiar orientación de pantalla</string>
+
+    <!-- These must match the order in
+     strings_activity_settings.xml#pref_database_values
+        the FIRST one MUST   be the Demo entry (it is the default on first run)
+        the LAST  one SHOULD be the Production entry
+-->
+    <!-- pref_database_names -->
+    <string name="pref_database_names_0">Demo</string>
+    <string name="pref_database_names_1">Production</string>
+
+    <!-- - Start Date Format Titles - -->
+    <!-- pref_trait_date_format_titles -->
+    <string name="pref_trait_date_format_titles_0">1915/Apr/25</string>
+    <string name="pref_trait_date_format_titles_1">Apr/25/1915</string>
+    <string name="pref_trait_date_format_titles_2">25/Apr/1915</string>
+
+    <string name="pref_trait_date_format_titles_3">1915/04/25</string>
+    <string name="pref_trait_date_format_titles_4">04/25/1915</string>
+    <string name="pref_trait_date_format_titles_5">25/04/1915</string>
+
+    <string name="pref_trait_date_format_titles_6">1915/115</string>
+    <string name="pref_trait_date_format_titles_7">115/1915</string>
+
+    <string name="pref_trait_date_format_titles_8">Apr/25</string>
+    <string name="pref_trait_date_format_titles_9">04/25</string>
+
+    <string name="pref_trait_date_format_titles_10">25/Apr</string>
+    <string name="pref_trait_date_format_titles_11">25/04</string>
+
+
+    <!-- Must be valid SimpleDateFormat -->
+    <string-array translatable="false" name="pref_trait_date_format_values">
+        <item>yyyy/MMM/dd</item>
+        <item>MMM/dd/yyyy</item>
+        <item>dd/MMM/yyyy</item>
+
+        <item>yyyy/MM/dd</item>
+        <item>MM/dd/yyyy</item>
+        <item>dd/MM/yyyy</item>
+
+        <item>yyyy/DDD</item>
+        <item>DDD/yyyy</item>
+
+        <item>MMM/dd</item>
+        <item>MM/dd</item>
+
+        <item>dd/MMM</item>
+        <item>dd/MM</item>
+    <!-- - -End- Date Format - -->
+
+    <!-- Icons for Collection Order preference -->
+
+    <!-- collOrder_pref_names -->
+    <string name="collOrder_pref_names_0">Lower-Left ,Up, Serpentine</string>
+    <string name="collOrder_pref_names_1">Lower-Left ,Up, Oneway</string>
+    <string name="collOrder_pref_names_2">Lower-Left, Right, Serpentine</string>
+    <string name="collOrder_pref_names_3">Lower-Left, Right, Oneway</string>
+
+    <string name="collOrder_pref_names_4">Upper-Left, Down, Serpentine</string>
+    <string name="collOrder_pref_names_5">Upper-Left, Down, Oneway</string>
+    <string name="collOrder_pref_names_6">Upper-Left, Right, Serpentine</string>
+    <string name="collOrder_pref_names_7">Upper-Left, Right, Oneway</string>
+
+    <string name="collOrder_pref_names_8">Upper-Right, Down, Serpentine</string>
+    <string name="collOrder_pref_names_9">Upper-Right, Down, Oneway</string>
+    <string name="collOrder_pref_names_10">Upper-Right, Left, Serpentine</string>
+    <string name="collOrder_pref_names_11">Upper-Right, Left, Oneway</string>
+
+    <string name="collOrder_pref_names_12">Lower-Right, Up, Serpentine</string>
+    <string name="collOrder_pref_names_13">Lower-Right, Up, Oneway</string>
+    <string name="collOrder_pref_names_14">Lower-Right, Left, Serpentine</string>
+    <string name="collOrder_pref_names_15">Lower-Right, Left, Oneway</string>
+
+    <!-- See also strings_activity_settings.xml#pref_transition_type_values -->
+    <!-- pref_transition_type_titles -->
+    <string name="pref_transition_type_titles_0">No transition</string>
+    <string name="pref_transition_type_titles_1">Slide down</string>
+    <string name="pref_transition_type_titles_2">Slide up</string>
+    <string name="pref_transition_type_titles_3">Slide left</string>
+    <string name="pref_transition_type_titles_4">Slide right</string>
+    <string name="pref_transition_type_titles_5">Fade out</string>
+    <string name="pref_transition_type_titles_6">Rotate</string>
+
+    <!-- Icon name for scoring view preference -->
+    <!-- Order must match ScoringViewOption and strings.xml/pref_scoring_view_values -->
+    <!-- pref_scoring_view_titles -->
+    <string name="pref_scoring_view_titles_0">Spreadsheet Mode</string>
+    <string name="pref_scoring_view_titles_1">Path Mode</string>
+    <string name="pref_scoring_view_titles_2">Field Mode</string>
+
+    <!-- See also strings_activity_settings.xml#pref_howto_view_attachment_values -->
+    <!-- pref_howto_view_attachment_names -->
+    <string name="pref_howto_view_attachment_names_0">Internal viewer</string>
+    <string name="pref_howto_view_attachment_names_1">Choose application</string>
+
+    <!-- pref_textAppearance_names -->
+    <string name="pref_textAppearance_names_0">Small</string>
+    <string name="pref_textAppearance_names_1">Medium</string>
+    <string name="pref_textAppearance_names_2">Large</string>
+    <string name="pref_textAppearance_names_3">X-Large</string>
+
+    <!-- Should match pref_keyboard_size_values -->
+    <!-- pref_keyboard_size_names -->
+    <string name="pref_keyboard_size_names_0">Small</string>
+    <string name="pref_keyboard_size_names_1">Medium</string>
+    <string name="pref_keyboard_size_names_2">Large</string>
+
+    <!-- ElapsedDays for Phone: Spinner or Calendar -->
+    <!-- pref_phone_picker_date_format_names -->
+    <string name="pref_phone_picker_date_format_names_0">Spinner</string>
+    <string name="pref_phone_picker_date_format_names_1">Calendar</string>
+    <string name="pref_phone_picker_date_format_names_2">Both</string>
+
+    <!-- User visible -->
+    <!-- gradient_pref_names -->
+    <string name="gradient_pref_names_0">Blue Hues</string>
+    <string name="gradient_pref_names_1">Orange Hues</string>
+    <string name="gradient_pref_names_2">Magenta Hues</string>
+    <string name="gradient_pref_names_3">Blue to Red</string>
+    <string name="gradient_pref_names_4">Green, Yellow, Orange, Red</string>
+    <string name="gradient_pref_names_5">Red to Green</string>
+    <string name="gradient_pref_names_6">Red, Orange, Yellow</string>
+        <item>Black, Brown, Red, Tan</item> <!-- Black, Brown, Orange, Tan -->
+        <item>Black, Brown, Red, Orange, Yellow</item> <!-- Black, Brown, Red, Orange, Yellow -->
+    <string name="gradient_pref_names_7">Rainbow</string>
+
+
+    <!-- User visible -->
+    <!-- orgtype_pref_names -->
+    <string name="orgtype_pref_names_0">Generic</string>
+    <string name="orgtype_pref_names_1">Plant</string>
+    <string name="orgtype_pref_names_2">Maize</string>
+    <string name="orgtype_pref_names_3">Wheat</string>
+    <string name="orgtype_pref_names_4">DNA</string>
+
+    <!-- Must match order of LocationProviderState and strings_activity_settings.xml#pref_gps_values -->
+    <!-- pref_gps_titles -->
+    <string name="pref_gps_titles_0">GPS (higher accuracy)</string>
+    <string name="pref_gps_titles_1">Network (lower accuracy)</string>
+    <string name="pref_gps_titles_2">Do not use location</string>
+
+    <!-- drawer_list_items -->
+    <string name="drawer_list_items_0">Home</string>
+    <string name="drawer_list_items_1">Trials</string>
+    <string name="drawer_list_items_2">Traits</string>
+    <string name="drawer_list_items_3">Tags</string>
+    <string name="drawer_list_items_4">Manage Devices</string>
+    <string name="drawer_list_items_5">Settings</string>
+    <string name="drawer_list_items_6">Info</string>
+
+    <!-- MUST be "integer=display text" except for the last one -->
+    <!-- minutes_ago_options -->
+    <string name="minutes_ago_options_0">1=1 minute ago</string>
+    <string name="minutes_ago_options_1">2=2 minutes ago</string>
+    <string name="minutes_ago_options_2">3=3 minutes ago</string>
+    <string name="minutes_ago_options_3">4=4 minutes ago</string>
+    <string name="minutes_ago_options_4">5=5 minutes ago</string>
+    <string name="minutes_ago_options_5">10=10 minutes ago</string>
+    <string name="minutes_ago_options_6">15=15 minutes ago</string>
+    <string name="minutes_ago_options_7">More&#x2026;</string>
+
+    <!-- Check order in ApplicationLocale -->
+    <!-- locale_pref_titles -->
+    <string name="locale_pref_titles_0">Use system setting</string>
+    <string name="locale_pref_titles_1">English</string>
+    <string name="locale_pref_titles_2">German</string>
+    <string name="locale_pref_titles_3">Spanish-Mex</string>
+    <string name="locale_pref_titles_4">Polish</string>
+
+    <!-- [BSP] Whoever defined this it is *not* the same order as
+        TrialGroupEnum constants so be careful.
+        See also values/strings_activity_settings.xml:trial_group_settings_values
+     -->
+    <!-- trial_group_settings_titles -->
+    <string name="trial_group_settings_titles_0">Trial Bundle</string>
+    <string name="trial_group_settings_titles_1">Trial Type</string>
+    <string name="trial_group_settings_titles_2">KDDart URL</string>
+    <string name="trial_group_settings_titles_3">Organism Type</string>
+    <string name="trial_group_settings_titles_4">Planting Year</string>
+
+
+    <!-- *This* is the user visible name corresponding to the prev_auto_scoring_values array -->
+    <!-- NOTE: This *DOES* need to be translated. -->
+    <!-- pref_auto_scoring_titles -->
+    <string name="pref_auto_scoring_titles_0">All Traits</string>
+    <string name="pref_auto_scoring_titles_1">Unscored Traits</string>
+
+    <!-- trait_level_names -->
+    <string name="trait_level_names_0">Plot</string>
+    <string name="trait_level_names_1">Sub-Plot</string>
+
+    <!-- run_length_choices -->
+    <string name="run_length_choices_0">Vertical</string>
+    <string name="run_length_choices_1">Horizontal</string>
+    <string name="run_length_choices_2">Custom</string>
+
 </resources>
