@@ -113,7 +113,7 @@
     <string name="gradient_pref_names_4">Verde, Amarillo, Naranja, Rojo</string>
     <string name="gradient_pref_names_5">Rojo a Verde</string>
     <string name="gradient_pref_names_6">Rojo, Naranja, Amarillo</string>
-    <string name="gradient_pref_names_7">Rainbow</string>
+    <string name="gradient_pref_names_7">Negro, Marrón, Rojo, Broncea</string>
     <string name="orgtype_pref_names_0">Genérico</string>
     <string name="orgtype_pref_names_1">Planta</string>
     <string name="orgtype_pref_names_2">Maíz</string>
@@ -147,4 +147,6 @@
     <string name="run_length_choices_0">Vertical</string>
     <string name="run_length_choices_1">Horizontal</string>
     <string name="run_length_choices_2">Personalizado</string>
+    <string name="gradient_pref_names_8">Negro, Marrón, Rojo, Naranja, Amarillo</string>
+    <string name="gradient_pref_names_9">Rainbow</string>
 </resources>
