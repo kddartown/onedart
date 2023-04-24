@@ -10,7 +10,6 @@
     <!-- pref_trait_date_format_titles -->
     <!-- Icons for Collection Order preference -->
     <!-- collOrder_pref_names -->
-    <string name="collOrder_pref_names_1"/>
     <!-- See also strings_activity_settings.xml#pref_transition_type_values -->
     <!-- pref_transition_type_titles -->
     <string name="pref_transition_type_titles_1"/>
@@ -22,7 +21,6 @@
     <!-- pref_textAppearance_names -->
     <!-- Should match pref_keyboard_size_values -->
     <!-- pref_keyboard_size_names -->
-    <string name="pref_keyboard_size_names_1"/>
     <!-- ElapsedDays for Phone: Spinner or Calendar -->
     <!-- pref_phone_picker_date_format_names -->
     <!-- User visible -->
@@ -39,7 +37,6 @@
     <!-- drawer_list_items -->
     <!-- MUST be "integer=display text" except for the last one -->
     <!-- minutes_ago_options -->
-    <string name="minutes_ago_options_4"/>
     <!-- Check order in ApplicationLocale -->
     <!-- locale_pref_titles -->
     <!-- [BSP] Whoever defined this it is *not* the same order as
