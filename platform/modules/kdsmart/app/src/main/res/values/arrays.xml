@@ -29,27 +29,6 @@
     <string name="pref_trait_date_format_titles_10">25/Apr</string>
     <string name="pref_trait_date_format_titles_11">25/04</string>
 
-
-    <!-- Must be valid SimpleDateFormat -->
-    <string-array translatable="false" name="pref_trait_date_format_values">
-        <item>yyyy/MMM/dd</item>
-        <item>MMM/dd/yyyy</item>
-        <item>dd/MMM/yyyy</item>
-
-        <item>yyyy/MM/dd</item>
-        <item>MM/dd/yyyy</item>
-        <item>dd/MM/yyyy</item>
-
-        <item>yyyy/DDD</item>
-        <item>DDD/yyyy</item>
-
-        <item>MMM/dd</item>
-        <item>MM/dd</item>
-
-        <item>dd/MMM</item>
-        <item>dd/MM</item>
-    <!-- - -End- Date Format - -->
-
     <!-- Icons for Collection Order preference -->
 
     <!-- collOrder_pref_names -->
