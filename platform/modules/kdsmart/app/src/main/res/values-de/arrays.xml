@@ -8,18 +8,15 @@
     <!-- pref_database_names -->
     <!-- - Start Date Format Titles - -->
     <!-- pref_trait_date_format_titles -->
-    <string name="pref_trait_date_format_titles_5"/>
     <!-- Icons for Collection Order preference -->
     <!-- collOrder_pref_names -->
     <string name="collOrder_pref_names_1"/>
-    <string name="collOrder_pref_names_9"/>
     <!-- See also strings_activity_settings.xml#pref_transition_type_values -->
     <!-- pref_transition_type_titles -->
     <string name="pref_transition_type_titles_1"/>
     <!-- Icon name for scoring view preference -->
     <!-- Order must match ScoringViewOption and strings.xml/pref_scoring_view_values -->
     <!-- pref_scoring_view_titles -->
-    <string name="pref_scoring_view_titles_2"/>
     <!-- See also strings_activity_settings.xml#pref_howto_view_attachment_values -->
     <!-- pref_howto_view_attachment_names -->
     <!-- pref_textAppearance_names -->
@@ -30,7 +27,6 @@
     <!-- pref_phone_picker_date_format_names -->
     <!-- User visible -->
     <!-- gradient_pref_names -->
-    <string name="gradient_pref_names_3"/>
     <item>Black, Brown, Red, Tan</item>
     <!-- Black, Brown, Orange, Tan -->
     <item>Black, Brown, Red, Orange, Yellow</item>
@@ -41,13 +37,11 @@
     <!-- Must match order of LocationProviderState and strings_activity_settings.xml#pref_gps_values -->
     <!-- pref_gps_titles -->
     <!-- drawer_list_items -->
-    <string name="drawer_list_items_3"/>
     <!-- MUST be "integer=display text" except for the last one -->
     <!-- minutes_ago_options -->
     <string name="minutes_ago_options_4"/>
     <!-- Check order in ApplicationLocale -->
     <!-- locale_pref_titles -->
-    <string name="locale_pref_titles_4"/>
     <!-- [BSP] Whoever defined this it is *not* the same order as
         TrialGroupEnum constants so be careful.
         See also values/strings_activity_settings.xml:trial_group_settings_values
