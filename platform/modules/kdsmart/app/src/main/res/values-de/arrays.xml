@@ -109,7 +109,7 @@
     <string name="gradient_pref_names_4">Grün, Gelb, Orange, Rot</string>
     <string name="gradient_pref_names_5">Rot bis Grün</string>
     <string name="gradient_pref_names_6">Rot, Orange, Gelb</string>
-    <string name="gradient_pref_names_7">Regenbogen</string>
+    <string name="gradient_pref_names_7">Schwarz, Braun, Rot, Hellbraun</string>
     <string name="orgtype_pref_names_0">Generisch</string>
     <string name="orgtype_pref_names_1">Pflanze</string>
     <string name="orgtype_pref_names_2">Mais</string>
@@ -147,4 +147,6 @@
     <string name="run_length_choices_0">Vertikal</string>
     <string name="run_length_choices_1">Horizontal</string>
     <string name="run_length_choices_2">Benutzerdefiniert</string>
+    <string name="gradient_pref_names_9">Regenbogen</string>
+    <string name="gradient_pref_names_8">Schwarz, Braun, Rot, Orange, Gelb</string>
 </resources>
