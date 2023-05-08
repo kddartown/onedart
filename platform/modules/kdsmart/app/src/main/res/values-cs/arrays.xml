@@ -1,145 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- pref_database_names -->
-    <string name="pref_database_names_0"></string>
-    <string name="pref_database_names_1"></string>
+    <string name="pref_database_names_1"/>
     <!-- - Start Date Format Titles - -->
     <!-- pref_trait_date_format_titles -->
-    <string name="pref_trait_date_format_titles_0"></string>
-    <string name="pref_trait_date_format_titles_1"></string>
-    <string name="pref_trait_date_format_titles_2"></string>
-    <string name="pref_trait_date_format_titles_3"></string>
-    <string name="pref_trait_date_format_titles_4"></string>
-    <string name="pref_trait_date_format_titles_5"></string>
-    <string name="pref_trait_date_format_titles_6"></string>
-    <string name="pref_trait_date_format_titles_7"></string>
-    <string name="pref_trait_date_format_titles_8"></string>
-    <string name="pref_trait_date_format_titles_9"></string>
-    <string name="pref_trait_date_format_titles_10"></string>
-    <string name="pref_trait_date_format_titles_11"></string>
+    <string name="pref_trait_date_format_titles_1"/>
+    <string name="pref_trait_date_format_titles_3"/>
+    <string name="pref_trait_date_format_titles_5"/>
+    <string name="pref_trait_date_format_titles_7"/>
+    <string name="pref_trait_date_format_titles_9"/>
+    <string name="pref_trait_date_format_titles_11"/>
     <!-- Icons for Collection Order preference -->
     <!-- collOrder_pref_names -->
-    <string name="collOrder_pref_names_0"></string>
-    <string name="collOrder_pref_names_1"></string>
-    <string name="collOrder_pref_names_2"></string>
-    <string name="collOrder_pref_names_3"></string>
-    <string name="collOrder_pref_names_4"></string>
-    <string name="collOrder_pref_names_5"></string>
-    <string name="collOrder_pref_names_6"></string>
-    <string name="collOrder_pref_names_7"></string>
-    <string name="collOrder_pref_names_8"></string>
-    <string name="collOrder_pref_names_9"></string>
-    <string name="collOrder_pref_names_10"></string>
-    <string name="collOrder_pref_names_11"></string>
-    <string name="collOrder_pref_names_12"></string>
-    <string name="collOrder_pref_names_13"></string>
-    <string name="collOrder_pref_names_14"></string>
-    <string name="collOrder_pref_names_15"></string>
+    <string name="collOrder_pref_names_1"/>
+    <string name="collOrder_pref_names_3"/>
+    <string name="collOrder_pref_names_5"/>
+    <string name="collOrder_pref_names_7"/>
+    <string name="collOrder_pref_names_9"/>
+    <string name="collOrder_pref_names_11"/>
+    <string name="collOrder_pref_names_13"/>
+    <string name="collOrder_pref_names_15"/>
     <!-- See also strings_activity_settings.xml#pref_transition_type_values -->
     <!-- pref_transition_type_titles -->
-    <string name="pref_transition_type_titles_0"></string>
-    <string name="pref_transition_type_titles_1"></string>
-    <string name="pref_transition_type_titles_2"></string>
-    <string name="pref_transition_type_titles_3"></string>
-    <string name="pref_transition_type_titles_4"></string>
-    <string name="pref_transition_type_titles_5"></string>
-    <string name="pref_transition_type_titles_6"></string>
+    <string name="pref_transition_type_titles_1"/>
+    <string name="pref_transition_type_titles_3"/>
+    <string name="pref_transition_type_titles_5"/>
     <!-- Icon name for scoring view preference -->
     <!-- Order must match ScoringViewOption and strings.xml/pref_scoring_view_values -->
     <!-- pref_scoring_view_titles -->
-    <string name="pref_scoring_view_titles_0"></string>
-    <string name="pref_scoring_view_titles_1"></string>
-    <string name="pref_scoring_view_titles_2"></string>
+    <string name="pref_scoring_view_titles_0"/>
+    <string name="pref_scoring_view_titles_2"/>
     <!-- See also strings_activity_settings.xml#pref_howto_view_attachment_values -->
     <!-- pref_howto_view_attachment_names -->
-    <string name="pref_howto_view_attachment_names_0"></string>
-    <string name="pref_howto_view_attachment_names_1"></string>
+    <string name="pref_howto_view_attachment_names_1"/>
     <!-- pref_textAppearance_names -->
-    <string name="pref_textAppearance_names_0"></string>
-    <string name="pref_textAppearance_names_1"></string>
-    <string name="pref_textAppearance_names_2"></string>
-    <string name="pref_textAppearance_names_3"></string>
+    <string name="pref_textAppearance_names_1"/>
+    <string name="pref_textAppearance_names_3"/>
     <!-- Should match pref_keyboard_size_values -->
     <!-- pref_keyboard_size_names -->
-    <string name="pref_keyboard_size_names_0"></string>
-    <string name="pref_keyboard_size_names_1"></string>
-    <string name="pref_keyboard_size_names_2"></string>
+    <string name="pref_keyboard_size_names_1"/>
     <!-- ElapsedDays for Phone: Spinner or Calendar -->
     <!-- pref_phone_picker_date_format_names -->
-    <string name="pref_phone_picker_date_format_names_0"></string>
-    <string name="pref_phone_picker_date_format_names_1"></string>
-    <string name="pref_phone_picker_date_format_names_2"></string>
+    <string name="pref_phone_picker_date_format_names_0"/>
+    <string name="pref_phone_picker_date_format_names_2"/>
     <!-- User visible -->
     <!-- gradient_pref_names -->
-    <string name="gradient_pref_names_0"></string>
-    <string name="gradient_pref_names_1"></string>
-    <string name="gradient_pref_names_2"></string>
-    <string name="gradient_pref_names_3"></string>
-    <string name="gradient_pref_names_4"></string>
-    <string name="gradient_pref_names_5"></string>
-    <string name="gradient_pref_names_6"></string>
-    <string name="gradient_pref_names_7"></string>
+    <string name="gradient_pref_names_1"/>
+    <string name="gradient_pref_names_3"/>
+    <string name="gradient_pref_names_5"/>
+    <string name="gradient_pref_names_7"/>
     <!-- Black, Brown, Orange, Tan -->
-    <string name="gradient_pref_names_8"></string>
     <!-- Black, Brown, Red, Orange, Yellow -->
-    <string name="gradient_pref_names_9"></string>
+    <string name="gradient_pref_names_9"/>
     <!-- User visible -->
     <!-- orgtype_pref_names -->
-    <string name="orgtype_pref_names_0"></string>
-    <string name="orgtype_pref_names_1"></string>
-    <string name="orgtype_pref_names_2"></string>
-    <string name="orgtype_pref_names_3"></string>
-    <string name="orgtype_pref_names_4"></string>
+    <string name="orgtype_pref_names_1"/>
+    <string name="orgtype_pref_names_3"/>
     <!-- Must match order of LocationProviderState and strings_activity_settings.xml#pref_gps_values -->
     <!-- pref_gps_titles -->
-    <string name="pref_gps_titles_0"></string>
-    <string name="pref_gps_titles_1"></string>
-    <string name="pref_gps_titles_2"></string>
+    <string name="pref_gps_titles_0"/>
+    <string name="pref_gps_titles_2"/>
     <!-- drawer_list_items -->
-    <string name="drawer_list_items_0"></string>
-    <string name="drawer_list_items_1"></string>
-    <string name="drawer_list_items_2"></string>
-    <string name="drawer_list_items_3"></string>
-    <string name="drawer_list_items_4"></string>
-    <string name="drawer_list_items_5"></string>
-    <string name="drawer_list_items_6"></string>
+    <string name="drawer_list_items_1"/>
+    <string name="drawer_list_items_3"/>
+    <string name="drawer_list_items_5"/>
     <!-- MUST be "integer=display text" except for the last one -->
     <!-- minutes_ago_options -->
-    <string name="minutes_ago_options_0"></string>
-    <string name="minutes_ago_options_1"></string>
-    <string name="minutes_ago_options_2"></string>
-    <string name="minutes_ago_options_3"></string>
-    <string name="minutes_ago_options_4"></string>
-    <string name="minutes_ago_options_5"></string>
-    <string name="minutes_ago_options_6"></string>
-    <string name="minutes_ago_options_7"></string>
+    <string name="minutes_ago_options_0"/>
+    <string name="minutes_ago_options_2"/>
+    <string name="minutes_ago_options_4"/>
+    <string name="minutes_ago_options_6"/>
     <!-- Check order in ApplicationLocale -->
     <!-- locale_pref_titles -->
-    <string name="locale_pref_titles_0"></string>
-    <string name="locale_pref_titles_1"></string>
-    <string name="locale_pref_titles_2"></string>
-    <string name="locale_pref_titles_3"></string>
-    <string name="locale_pref_titles_4"></string>
+    <string name="locale_pref_titles_0"/>
+    <string name="locale_pref_titles_2"/>
+    <string name="locale_pref_titles_4"/>
     <!-- [BSP] Whoever defined this it is *not* the same order as
         TrialGroupEnum constants so be careful.
         See also values/strings_activity_settings.xml:trial_group_settings_values
      -->
     <!-- trial_group_settings_titles -->
-    <string name="trial_group_settings_titles_0"></string>
-    <string name="trial_group_settings_titles_1"></string>
-    <string name="trial_group_settings_titles_2"></string>
-    <string name="trial_group_settings_titles_3"></string>
-    <string name="trial_group_settings_titles_4"></string>
+    <string name="trial_group_settings_titles_1"/>
+    <string name="trial_group_settings_titles_3"/>
     <!-- *This* is the user visible name corresponding to the prev_auto_scoring_values array -->
     <!-- NOTE: This *DOES* need to be translated. -->
     <!-- pref_auto_scoring_titles -->
-    <string name="pref_auto_scoring_titles_0"></string>
-    <string name="pref_auto_scoring_titles_1"></string>
+    <string name="pref_auto_scoring_titles_0"/>
     <!-- trait_level_names -->
-    <string name="trait_level_names_0"></string>
-    <string name="trait_level_names_1"></string>
+    <string name="trait_level_names_0"/>
     <!-- run_length_choices -->
-    <string name="run_length_choices_0"></string>
-    <string name="run_length_choices_1"></string>
-    <string name="run_length_choices_2"></string>
+    <string name="run_length_choices_0"/>
+    <string name="run_length_choices_2"/>
 </resources>
