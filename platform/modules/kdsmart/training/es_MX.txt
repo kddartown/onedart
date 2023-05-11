@@ -1,19 +1,19 @@
-This is the KDSmart Home Screen
+Esta es la pantalla de inicio de KDSmart
 
-Basic Trial details and options are displayed
+Se muestran los detalles y opciones de la prueba básica
 
-You can scroll through the Trials from left to right
+Puedes desplazarte por las Pruebas de izquierda a derecha
 
-Select the Trials Button to view a list of all Trials and extra options
+Seleccione el botón Pruebas para ver una lista de todas las Pruebas y opciones adicionales
 
-You can get to more options with the Navigation Bar on the left e.g. the Traits Screen
+Puedes llegar a más opciones con la barra de navegación de la izquierda, por ejemplo, la pantalla Rasgos
 
-Or the Tags Screen
+O la pantalla Etiquetas
 
-The Devices Screen provides options for connecting various devices e.g. Scanners
+La pantalla de dispositivos ofrece opciones para conectar varios dispositivos, por ejemplo, escáneres
 
-Settings are general settings for KDSmart
+Los ajustes son los ajustes generales para KDSmart
 
-Trial details can be viewed from the Home Screen or the Trial Screen
+Los detalles de la prueba se pueden ver desde la pantalla de inicio o la pantalla de prueba
 
-Select the Home Button to get back to the Home Screen
+Selecciona el botón Inicio para volver a la pantalla de inicio
