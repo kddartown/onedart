@@ -1,19 +1,19 @@
-This is the KDSmart Home Screen
+Toto je domovská obrazovka KDSmart
 
-Basic Trial details and options are displayed
+Zobrazí se základní zkušební verze a možnosti
 
-You can scroll through the Trials from left to right
+Zkoušky můžete procházet zleva doprava
 
-Select the Trials Button to view a list of all Trials and extra options
+Výběrem tlačítka Zkušební verze zobrazíte seznam všech zkušebních verzí a dalších možností
 
-You can get to more options with the Navigation Bar on the left e.g. the Traits Screen
+Více možností můžete získat pomocí navigačního panelu vlevo, např. Obrazovka Vlastnosti
 
-Or the Tags Screen
+Nebo na obrazovce Značky
 
-The Devices Screen provides options for connecting various devices e.g. Scanners
+Obrazovka zařízení poskytuje možnosti pro připojení různých zařízení, např. skenerů
 
-Settings are general settings for KDSmart
+Nastavení jsou obecná nastavení pro KDSmart
 
-Trial details can be viewed from the Home Screen or the Trial Screen
+Zkušební údaje lze zobrazit na domovské obrazovce nebo na obrazovce Zkušební verze
 
-Select the Home Button to get back to the Home Screen
+Výběrem tlačítka Domů se vrátíte zpět na domovskou obrazovku
