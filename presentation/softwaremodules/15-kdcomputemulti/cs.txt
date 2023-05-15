@@ -1,11 +1,11 @@
 KDCompute
 
-KDCompute is our analytical pipeline platform that allows users to install scripts, they would normally use on their own local machines, and run them on the cloud. 
+KDCompute podporuje více jazyků a DAL API např. Rscript, Python, Perl, Java, C ++ Tým dART může také vyvíjet řešení pro vaše uživatelské potřeby
 
-Automation
+Více infrastruktury
 
-Improve efficiencies and automate repetitive tasks
+Lze hostovat ve veřejném cloudu, on-prem, privátním cloudu
 
-Customise & Manipulate
+Plánovač
 
-Store, manage, customise and manipulate data
+Výpočetní instance mohou být spuštěny na vyžádání nebo v plánovaném čase
