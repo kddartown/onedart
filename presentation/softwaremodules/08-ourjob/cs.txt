@@ -1,0 +1,27 @@
+Our Journey
+
+With nearly 20 years’ experience, we are the leading experts in genome profiling IT services.
+
+2001
+Diversity Arrays Technology Pty Ltd established & first DArT paper and patent for DArT genotyping issued.
+
+2003
+Triticarte Pty Ltd, a joint venture between the Value Added Wheat CRC and DArT P/L in operation.
+
+2007
+Data mining/machine learning for crop improvement established in partnership with NICTA. 
+
+2009
+Initial concept for KDDart system established.
+
+2011
+Migration of DART from arrays to next generation sequencing. 
+
+2013
+International expansion of genetic ID and purity testing to Africa and Asia (BMGF, World Bank and FAO). 
+
+2017
+First million whole genomes assays completed and fully functional KDDart with early adopters. 
+
+2020
+OneDArT platform in development integrating DNA analysis and KDDart data management. 
