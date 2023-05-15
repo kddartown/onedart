@@ -1,11 +1,11 @@
 KDSmart
 
-From field, to database when you need to efficiently and accurately measure and record phenotypic observations with or without internet access. 
+Z pole, do databáze, když potřebujete efektivně a přesně měřit a zaznamenávat fenotypová pozorování s přístupem k internetu nebo bez něj. 
 
-User-friendly
+Uživatelsky přívětivý
 
-Inbuilt flexibility to satisfy diverse user requirements. 
+Vestavěná flexibilita pro uspokojení různých požadavků uživatelů. 
 
-Integrated
+Integrovaný
 
-All data can be stored in your central database.
+Všechna data mohou být uložena ve vaší centrální databázi.
