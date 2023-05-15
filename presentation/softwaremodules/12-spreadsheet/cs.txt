@@ -1,24 +1,24 @@
-Spreadsheets
+Tabulkové procesor
 
-Manual & Error-prone 
-Storing 100’s of years of data results in duplication.
+Manuální a náchylný k chybám 
+Ukládání 100 let dat má za následek duplikaci.
 
-Poor Visibility
-Poor access and visibility across the business.
+Špatná viditelnost
+Špatný přístup a viditelnost v celé firmě.
 
-Poor Insight
-Clunky, manual, doesn’t provide insight.
+Špatný vhled
+Neohrabaný, manuál, neposkytuje vhled.
 
-KDDart System
+Systém KDDart
 
-Structured Database
-User-friendly central database for all genomes. 
+Strukturovaná databáze
+Uživatelsky přívětivá centrální databáze pro všechny genomy. 
 
-Better Control
-Control, access and mange your data across the business. 
+Lepší kontrola
+Ovládejte, získejte přístup a spravujte svá data napříč firmou. 
 
-Accuracy
-Changes made reflect across the entire system.
+Přesnost
+Provedené změny se odrážejí v celém systému.
 
-Customisable
-KDDart works how you need it to.
+Přizpůsobitelné
+KdDart funguje tak, jak to potřebujete.
