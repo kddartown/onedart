@@ -1,10 +1,10 @@
-Key Features
+Klíčové vlastnosti
 
-Genotype/Specimen (Germplasm/Accession)
-Organise trials into plots and collect phenotypic data and other important information to those plots.
+Genotyp/exemplář (Germplasm/Accession)
+Organizovat zkoušky do grafů a shromažďovat fenotypová data a další důležité informace k těmto grafům.
 
-Marker Data
-Store large marker datasets and link it to the stored Genotypes & allow full integration of marker data with phenotypic and environmental data. 
+Údaje o značkovacích údajích
+Ukládejte velké datové sady značek a propojte je s uloženými genotypy a umožněte plnou integraci dat markerů s fenotypovými a environmentálními daty. 
 
-Data Search
-Genotype data can be indexed and searched via KDDart and assist in selection and the analytic processes. 
+Vyhledávání dat
+Genotypová data lze indexovat a vyhledávat pomocí KDdArt a pomáhat při výběru a analytických procesech. 
