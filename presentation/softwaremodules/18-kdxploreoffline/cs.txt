@@ -1,11 +1,11 @@
 KDXplore
 
-Offline trial management and curation of phenotypic data
+Správa offline pokusů a kurátorství fenotypových dat
 
-Data broker
+Datový makléř
 
-Handles data from multiple devices
+Zachází s daty z více zařízení
 
-Data management
+Správa dat
 
-Editing and visualising trials, trait and multiple data sources.
+Úpravy a vizualizace pokusů, vlastností a více zdrojů dat.
