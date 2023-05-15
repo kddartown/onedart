@@ -1,13 +1,13 @@
-Make it your own
+Udělej si to svůj vlastní
 
-Relational and structure databases that work for your business. 
+Relační a strukturní databáze, které fungují pro vaše podnikání. 
 
-Custom Database
+Vlastní databáze
 
-At the core of this database is your genotypes. This is where all your phenotypic and marker data can be linked, as long as environmental data if that is available. You are also able to store pedigree information and relate different Genotypes together in that way. 
+Jádrem této databáze jsou vaše genotypy. Zde lze propojit všechna vaše fenotypová a markerová data, pokud jsou k dispozici údaje o životním prostředí. Můžete také ukládat informace o rodokmenu a tímto způsobem spojit různé genotypy dohromady. 
 
 Big Data
 
-With the KDDart database you can grow your database to leverage for future projects. 
+S databází KdDart můžete rozšířit svou databázi tak, aby využila budoucí projekty. 
 
-KDDart is completely customisable allowing you to design a dedicated modular, flexible and robust system for Nordic Seed’s operations. 
+KDDart je zcela přizpůsobitelný, což vám umožní navrhnout speciální modulární, flexibilní a robustní systém pro provoz Nordic Seed. 
