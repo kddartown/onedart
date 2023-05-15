@@ -1,11 +1,11 @@
 KDManage
 
-KDManage allows control and access of data to help manage day to day operations.
+KDManage umožňuje řízení a přístup k datům, které pomáhají spravovat každodenní operace.
 
-Data Management
+Správa dat
 
-Upload and curate data include phenotypic and genotypic.
+Nahrávání a kurátorská data zahrnují fenotypové a genotypové.
 
-Workflow tracking
+Sledování pracovního postupu
 
-Keep track of all critical milestones and event.
+Sledujte všechny kritické milníky a události.
