@@ -1,1 +1,11 @@
+KDSmart
 
+From field, to database when you need to efficiently and accurately measure and record phenotypic observations with or without internet access. 
+
+User-friendly
+
+Inbuilt flexibility to satisfy diverse user requirements. 
+
+Integrated
+
+All data can be stored in your central database.
