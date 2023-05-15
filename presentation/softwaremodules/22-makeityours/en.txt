@@ -1,1 +1,13 @@
+Make it your own
 
+Relational and structure databases that work for your business. 
+
+Custom Database
+
+At the core of this database is your genotypes. This is where all your phenotypic and marker data can be linked, as long as environmental data if that is available. You are also able to store pedigree information and relate different Genotypes together in that way. 
+
+Big Data
+
+With the KDDart database you can grow your database to leverage for future projects. 
+
+KDDart is completely customisable allowing you to design a dedicated modular, flexible and robust system for Nordic Seed’s operations. 
