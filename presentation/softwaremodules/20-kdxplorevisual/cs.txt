@@ -1,0 +1,11 @@
+KDXplore
+
+Your specimen genotypic data visualised and curated
+
+Visualisation
+
+Data conveyed easily for effective analysis and reduction of manual processes
+
+Filtering
+
+Quick and easy targeting of marker data and its associated metadata
