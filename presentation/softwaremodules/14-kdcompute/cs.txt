@@ -1,11 +1,11 @@
 KDCompute
 
-KDCompute is our analytical pipeline platform that allows users to install scripts, they would normally use on their own local machines, and run them on the cloud. 
+KDCompute je naše platforma analytického potrubí, která uživatelům umožňuje instalovat skripty, které by normálně používali na svých vlastních místních počítačích, a spouštět je v cloudu. 
 
-Automation
+Automatizace
 
-Improve efficiencies and automate repetitive tasks
+Zlepšete efektivitu a automatizujte opakující se úkoly
 
-Customise & Manipulate
+Přizpůsobení a manipulace
 
-Store, manage, customise and manipulate data
+Ukládání, správa, přizpůsobení a manipulace s daty
