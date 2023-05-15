@@ -1,20 +1,20 @@
-What is
+Co je
 KDDart?
 
-A software suite that integrates phenotypic, genetic &  environmental data for breeding & multidisciplinary 
-agro-ecological research.
+Softwarová sada, která integruje fenotypová, genetická a environmentální data pro chov a multidisciplinární 
+agroekologický výzkum.
 
 KDXplore
-Trial/Nursery selection data for breeders, technicians, curators and developers. 
+Údaje o výběru zkušební/školky pro chovatele, techniky, kurátory a vývojáře. 
 
 KDSmart
-Integrated mobile application for in field data collection & storage. 
+Integrovaná mobilní aplikace pro sběr a ukládání dat v terénu. 
 
 KDCompute
-Platform for extensible data analysis in an efficient and customisable framework.
+Platforma pro rozšiřitelnou analýzu dat v efektivním a přizpůsobitelném rámci.
 
 KDManage
-Administrative and day-to-day management data.
+Administrativní a každodenní údaje o správě.
 
 KDSens
-Interface between various generic environmental sensors, such as weather stations, soil probes.
+Rozhraní mezi různými generickými senzory prostředí, jako jsou meteorologické stanice, půdní sondy.
