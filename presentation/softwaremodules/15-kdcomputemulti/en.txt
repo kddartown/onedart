@@ -1,1 +1,11 @@
+KDCompute
 
+KDCompute supports multiple languages and DAL APIs eg. Rscript, Python, Perl, Java, C++ The DArT team can also develop solutions to your user needs
+
+Multiple Infrastructure
+
+Can be hosted in the public cloud, on-prem, private cloud
+
+Scheduler
+
+Compute instances can be run on demand or at a scheduled time
