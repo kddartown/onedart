@@ -1,22 +1,22 @@
-About Us
+O nás
 
-Genome profiling services and IT support for agriculture and ecology.
+Služby profilování genomu a podpora IT pro zemědělství a ekologii.
 
-Cost-effective solutions
+Nákladově efektivní řešení
 
-We are the first affordable whole genome profiling service based on DArT, providing end-to-end IT and service management throughout the entire breeding lifecycle.
+Jsme první cenově dostupná služba profilování celého genomu založená na DARt, poskytování end-to-end IT a správy služeb po celou dobu životního cyklu chovu.
 
-Scalable & independent
+Škálovatelné a nezávislé
 
-We offer high throughput solution for any organism due to a high level of automation, sequence information & platform independence.
+Nabízíme vysoce výkonné řešení pro každý organismus díky vysoké úrovni automatizace, sekvenčních informací a nezávislosti platformy.
 
-Integrated and Big Data ready
+Integrovaná a velká data připravená
 
-KDDart integrates all data types relevant for crop improvement and enables users to transit effectively from traditional breeding practice to technology-driven methods
+KdDart integruje všechny datové typy relevantní pro zlepšování plodin a umožňuje uživatelům efektivně přechod od tradiční šlechtitelské praxe k metodám založeným na technologiích
 
 
-Diversity of clients.
+Rozmanitost klientů.
 
-Diversity of needs.
+Rozmanitost potřeb.
 
-Diversity of solutions.
+Rozmanitost řešení.
