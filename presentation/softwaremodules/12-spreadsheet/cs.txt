@@ -1,0 +1,24 @@
+Spreadsheets
+
+Manual & Error-prone 
+Storing 100’s of years of data results in duplication.
+
+Poor Visibility
+Poor access and visibility across the business.
+
+Poor Insight
+Clunky, manual, doesn’t provide insight.
+
+KDDart System
+
+Structured Database
+User-friendly central database for all genomes. 
+
+Better Control
+Control, access and mange your data across the business. 
+
+Accuracy
+Changes made reflect across the entire system.
+
+Customisable
+KDDart works how you need it to.
