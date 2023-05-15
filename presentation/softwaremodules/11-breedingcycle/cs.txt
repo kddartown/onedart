@@ -1,35 +1,35 @@
-Breeding Cycle
+Šlechtitelský cyklus
 
-Central database
-To be deployed on the cloud or your own servers.
+Centrální databáze
+Nasazení v cloudu nebo na vlastních serverech.
 
-Knowledge
-Continuously update your database with the most current data across all stakeholders and environments.
+Vědomost
+Neustále aktualizujte svou databázi o nejaktuálnější data napříč všemi zúčastněnými stranami a prostředími.
 
-Better decision making
-Inform better decision making with access to critical information.
+Lepší rozhodování
+Informujte lepší rozhodování s přístupem k důležitým informacím.
 
-Harvest
-New seeds, genotypes & pedigrees
+Sklizeň
+Nová semena, genotypy a rodokmeny
 
-Trial Preparation
-Search genotypes
-& seed availability
+Zkušební příprava
+Hledat genotypy
+& dostupnost osiva
 
-Trial Creation
-Design location & metadata
+Vytvoření zkušební verze
+Umístění návrhu a metadata
 
-Seed Preparation
-Use design, plant seed bags & update status
+Příprava osiva
+Použijte design, sáčky na osivo rostlin a stav aktualizace
 
-Planting
-Trial maps & other planting assistance
+Výsadba
+Zkušební mapy a další pomoc při výsadbě
 
-Post-planting
-Plot barcode & treatments
+Po výsadbě
+Plot čárový kód & ošetření
 
-Monitoring
-Trait measurement & data curation
+Monitorování
+Měření znaků a kurátorství dat
 
-Selection
-Choose plants & label selections
+Výběr
+Vyberte si rostliny a výběry štítků
