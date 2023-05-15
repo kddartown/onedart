@@ -1,1 +1,35 @@
+Breeding Cycle
 
+Central database
+To be deployed on the cloud or your own servers.
+
+Knowledge
+Continuously update your database with the most current data across all stakeholders and environments.
+
+Better decision making
+Inform better decision making with access to critical information.
+
+Harvest
+New seeds, genotypes & pedigrees
+
+Trial Preparation
+Search genotypes
+& seed availability
+
+Trial Creation
+Design location & metadata
+
+Seed Preparation
+Use design, plant seed bags & update status
+
+Planting
+Trial maps & other planting assistance
+
+Post-planting
+Plot barcode & treatments
+
+Monitoring
+Trait measurement & data curation
+
+Selection
+Choose plants & label selections
