@@ -1,0 +1,10 @@
+Key Features
+
+Genotype/Specimen (Germplasm/Accession)
+Organise trials into plots and collect phenotypic data and other important information to those plots.
+
+Marker Data
+Store large marker datasets and link it to the stored Genotypes & allow full integration of marker data with phenotypic and environmental data. 
+
+Data Search
+Genotype data can be indexed and searched via KDDart and assist in selection and the analytic processes. 
