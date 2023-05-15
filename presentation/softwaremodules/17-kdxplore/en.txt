@@ -1,1 +1,11 @@
+KDXplore
 
+Extensible application framework for the breeding cycle
+
+Plugins
+
+Simple and flexible for various parts of breeding cycle. 
+
+Offline Database
+
+Can be used in remote situations when there is little or no internet.
