@@ -1,11 +1,11 @@
-KDSmart
+KDXplore
 
-From field, to database when you need to efficiently and accurately measure and record phenotypic observations with or without internet access. 
+Rozšiřitelný aplikační rámec pro šlechtitelský cyklus
 
-User-friendly
+Pluginy
 
-Inbuilt flexibility to satisfy diverse user requirements. 
+Jednoduché a flexibilní pro různé části šlechtitelského cyklu. 
 
-Integrated
+Offline databáze
 
-All data can be stored in your central database.
+Lze použít ve vzdálených situacích, kdy je málo nebo žádný internet.
