@@ -1,35 +1,35 @@
-Getting Started
+Začínáme
 
-Support and guidance for setting up with KDDart. 
+Podpora a pokyny pro nastavení pomocí KDDart. 
 
-Migration Assistance
+Pomoc při migraci
 
-Assistance to fit historical data into KDDart model.
+Pomoc při přizpůsobení historických dat do modelu KDdArt.
 
-Developer Support
+Podpora pro vývojáře
 
-Support to customise the system for your business. 
+Podpora přizpůsobení systému pro vaše podnikání. 
 
-Training & Resources
+Školení a zdroje
 
-We provide training and support for day-to-day use and run sessions to customise and tailor the platform.
+Poskytujeme školení a podporu pro každodenní používání a pořádání relací k přizpůsobení a přizpůsobení platformy.
 
-Migrate
+Migrovat
 
-Migrate your history data into your new database
+Migrovat your history data into your new database
 
-Customise
+Přizpůsobit
 
-Identify areas that require customisation
+Identifikace oblastí, které vyžadují přizpůsobení
 
-Train
+Vlak
 
-Identify areas that require customisation
+Identifikace oblastí, které vyžadují přizpůsobení
 
-Collect
+Sbírat
 
-Collect data from field and import
+Sbírat data from field and import
 
-Review
+Recenze
 
-Review data insights and re-customise based on feedback
+Recenze data insights and re-customise based on feedback
