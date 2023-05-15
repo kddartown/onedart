@@ -1,11 +1,11 @@
 KDXplore
 
-Site design from experimental to real world mapping and planting
+Návrh staveniště od experimentálního po mapování a výsadbu reálného světa
 
-Robust
+Robustní
 
-Proven and tried in the field
+Osvědčený a vyzkoušený v terénu
 
-Geospatial capabilities
+Geoprostorové schopnosti
 
-Internal and external matching to latitude and longtitude
+Vnitřní a vnější přizpůsobení zeměpisné šířce a délce
