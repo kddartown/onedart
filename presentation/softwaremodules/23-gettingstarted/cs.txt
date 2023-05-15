@@ -1,0 +1,35 @@
+Getting Started
+
+Support and guidance for setting up with KDDart. 
+
+Migration Assistance
+
+Assistance to fit historical data into KDDart model.
+
+Developer Support
+
+Support to customise the system for your business. 
+
+Training & Resources
+
+We provide training and support for day-to-day use and run sessions to customise and tailor the platform.
+
+Migrate
+
+Migrate your history data into your new database
+
+Customise
+
+Identify areas that require customisation
+
+Train
+
+Identify areas that require customisation
+
+Collect
+
+Collect data from field and import
+
+Review
+
+Review data insights and re-customise based on feedback
