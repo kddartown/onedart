@@ -1,24 +1,24 @@
-How we work
+Jak pracujeme
 
-We work with you to 
-fill in the missing piece in your technological capacity.
+Spolupracujeme s vámi 
+vyplňte chybějící kus ve své technologické kapacitě.
 
-Best practice PM
-We deliver data and technology on time and on budget.
+Nejlepší praxe PM
+Data a technologie dodáváme včas a v rozpočtu.
 
-Partnership
-Our focus is on long-term and sustainable partnerships not just service delivery. 
+Partnerství
+Zaměřujeme se na dlouhodobá a udržitelná partnerství nejen na poskytování služeb. 
 
-User-centric
-We start with learning about user needs to find and solve your pain-points.
+Uživatelsky zaměřené
+Začínáme poznáním potřeb uživatelů k nalezení a řešení vašich bolestivých bodů.
 
-Cost-effective
-We work with SME’s & LDC’s to provide a complete and cost-effective solution to meet your business needs.
+Nákladově efektivní
+Spolupracujeme s malými a středními podniky a LDC, abychom poskytli kompletní a nákladově efektivní řešení pro splnění vašich obchodních potřeb.
 
-Our Modular design of the whole platform enables:
+Naše modulární konstrukce celé platformy umožňuje:
 
-Overlapping applications (desktop and web)
-Clients with IT capacity to develop their own “plugins”
-Plugin systems at the application level (KDX, KDC)
-Capacity for further customisation
-The right tools & ability to expand seamlessly
+Překrývající se aplikace (desktop a web)
+Klienti s IT kapacitou vyvíjet své vlastní „pluginy“
+Systémy pluginů na aplikační úrovni (KDX, KDC)
+Kapacita pro další přizpůsobení
+Správné nástroje a schopnost bezproblémového rozšiřování
