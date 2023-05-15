@@ -1,0 +1,11 @@
+KDManage
+
+KDManage allows control and access of data to help manage day to day operations.
+
+Data Management
+
+Upload and curate data include phenotypic and genotypic.
+
+Workflow tracking
+
+Keep track of all critical milestones and event.
