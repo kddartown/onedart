@@ -1,0 +1,20 @@
+What is
+KDDart?
+
+A software suite that integrates phenotypic, genetic &  environmental data for breeding & multidisciplinary 
+agro-ecological research.
+
+KDXplore
+Trial/Nursery selection data for breeders, technicians, curators and developers. 
+
+KDSmart
+Integrated mobile application for in field data collection & storage. 
+
+KDCompute
+Platform for extensible data analysis in an efficient and customisable framework.
+
+KDManage
+Administrative and day-to-day management data.
+
+KDSens
+Interface between various generic environmental sensors, such as weather stations, soil probes.
