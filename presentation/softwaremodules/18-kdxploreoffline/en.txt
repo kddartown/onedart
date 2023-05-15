@@ -1,1 +1,11 @@
+KDXplore
 
+Offline trial management and curation of phenotypic data
+
+Data broker
+
+Handles data from multiple devices
+
+Data management
+
+Editing and visualising trials, trait and multiple data sources.
