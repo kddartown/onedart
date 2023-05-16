@@ -1,24 +1,24 @@
-What does OneDArT enable?
+Co umožňuje OneDart?
 
-Support food systems
+Podpora potravinových systémů
 
-Support seed systems
-Access seed system data
-Manage seed system data
+Podpůrné systémy osiva
+Přístup k datům systému osiva
+Správa dat systému osiva
 
-Track ecology projects
-Manage ecology data
+Sledujte ekologické projekty
+Správa dat o ekologii
 
-Track plant breeding
-Manage breeding data
+Sledování šlechtění rostlin
+Správa dat o chovu
 
-Analyse data
-Visualise data
+Analyzovat data
+Vizualizace dat
 
-Store data
-Share data
-Connect with others
+Ukládání dat
+Sdílení dat
+Spojte se s ostatními
 
-Order Lab services
-Generate data
-Manage account
+Objednejte si laboratorní služby
+Generování dat
+Správa účtu
