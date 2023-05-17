@@ -1,0 +1,416 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.0.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-17 14:30+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:25
+msgid "back-btn"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:28
+msgid "blue-bars"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:31
+msgid "back-btn2"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:34
+msgid "back-btn3"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:37
+msgid "back-area"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:40
+msgid "rotate-btn"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:43
+msgid "accept-btn2"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:46
+msgid "cancel-btn2"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:49
+msgid "expand"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:53
+msgid "contract"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:60
+#: ../../source/kdsmart-basics.rst:60
+msgid "version"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:63
+#: ../../source/kdsmart-basics.rst:63
+msgid "play_btn"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:66
+#: ../../source/kdsmart-basics.rst:66
+msgid "bright_btn"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:69
+#: ../../source/kdsmart-basics.rst:69
+msgid "lock_btn"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:72
+#: ../../source/kdsmart-basics.rst:72
+msgid "info"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:75
+#: ../../source/kdsmart-basics.rst:75
+msgid "KDDart"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:78
+#: ../../source/kdsmart-basics.rst:78
+msgid "DArray"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:81
+#: ../../source/kdsmart-basics.rst:81
+msgid "demo"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:84
+#: ../../source/kdsmart-basics.rst:84
+msgid "trial"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:87
+#: ../../source/kdsmart-basics.rst:87
+msgid "details"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:90
+#: ../../source/kdsmart-basics.rst:90
+msgid "options"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:99
+msgid "Getting Started"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:102
+msgid "This page provides an introduction to the KDSmart application including its requirements and the basics of how to use it. Read this page first if you have not used KDSmart before. The following pages provide a more comprehensive guide to using KDSmart."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:104
+#: ../../source/kdsmart-basics.rst:111
+#: ../../source/kdsmart-basics.rst:126
+#: ../../source/kdsmart-basics.rst:140
+#: ../../source/kdsmart-basics.rst:148
+#: ../../source/kdsmart-basics.rst:171
+#: ../../source/kdsmart-basics.rst:240
+#: ../../source/kdsmart-basics.rst:242
+#: ../../source/kdsmart-basics.rst:249
+msgid "|br|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:107
+msgid "Purpose"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:109
+msgid "KDSmart is an application that is used to collect phenotypic data from plants that are a part of trials. It allows the user to add information about a plot or sub-plot that they have observed (e.g. plant height), and then save that information in the trial. Data can then be exported and saved in the KDDart database."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:114
+msgid "Requirements"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:117
+msgid "The following will be needed to run KDsmart:"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:119
+msgid "An internet connection to download or update the application (it can be used offline);"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:120
+msgid "Access to the Google Play Store;"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:121
+msgid "An Android device such as a phone or tablet with Android version 4.4 (Kit Kat) or above with the appropriate permissions accepted OR;"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:122
+msgid "A computer with Android SDK 19 or above installed."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:124
+msgid "Incorrectly set **Android permissions** will either prevent KDSmart completely from working or disable some features, e.g. taking pictures with the camera. |br| Please see the :ref:`Android Permissions` topic for more information."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:129
+msgid "Data"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:132
+msgid "There are three main types of items that are found in KDSmart. These are trials, traits, and tags (sometimes referred to as TTT)."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:134
+msgid "**Trial** - Contains data on the physical layout of a field and the plots and sub-plots within that field. Trials also have information such as planting date and traits that are included."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:135
+msgid "**Trait** - The quality or characteristic being inspected, measured and recorded for the organism e.g. plant height. There are traits for both plots and sub-plots and can be used in multiple trials."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:136
+msgid "**Tag** - Short text codes that provide a quick method of applying predefined classification or annotation to Plots or sub-plots e.g. BD is a tag that can refer to bird damage."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:138
+msgid "Trials are generally created in KDManage or KDXplore and then loaded onto a device with KDSmart such as a mobile phone. Once the KDSmart device has a trial to work with, the user can go into the field and collect information on traits of the plot and sub-plots (this is known as *scoring*). Tags can be applied to each plot or sub-plot to define any characteristics that are not measured by traits. The data collected with KDSmart can then be loaded into KDXplore for curation and storage. A guide for this basic workflow is outlined in the `KDTutorials <http://www.kddart.org/help/kdtutorials/html/index.html>`_ section."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:144
+msgid "Home Screen"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:146
+msgid "KDSmart will open on the screen that is shown below. Please refer to the following table to learn more about KDSmart."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:152
+#: ../../source/kdsmart-basics.rst:224
+msgid "|center-start|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:160
+#: ../../source/kdsmart-basics.rst:230
+msgid "|center-end|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:169
+#: ../../source/kdsmart-basics.rst:169
+#: ../../source/kdsmart-basics.rst:177
+msgid "KDSmart Home Screen"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:181
+msgid "**Item Number**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:182
+msgid "**Icon/Image**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:183
+msgid "**Description**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:184
+msgid "**1.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:185
+msgid "|version|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:186
+msgid "Displays the version of KDS that is being used. Check Google Play to see if any updates are available."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:187
+msgid "**2.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:188
+msgid "|play_btn|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:189
+msgid "Starts scoring of the selected trial."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:190
+msgid "**3.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:191
+msgid "|bright_btn|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:192
+msgid "Changes the brightness settings from *Dark Mode* to *Light Mode* (Note that this has been deprecated in the current version - it is likely to come back in future versions)."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:193
+msgid "**4.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:194
+msgid "|lock_btn|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:195
+msgid "Locks editing so that trials may not be edited. A password will be needed to unlock editing features."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:196
+msgid "**5.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:197
+msgid "|info|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:198
+msgid "Provides an in-app Help Guide, an About page, and information on licenses."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:199
+msgid "**6.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:200
+msgid "|KDDart|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:201
+msgid "Navigates to the KDDart web page."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:202
+msgid "**7.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:203
+msgid "|DArray|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:204
+msgid "Navigates to the Diversity Arrays website."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:205
+msgid "**8.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:206
+msgid "|demo|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:207
+msgid "Indicates that this is the Demo database."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:208
+msgid "**9.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:209
+msgid "|trial|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:210
+msgid "This is the selected trial."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:211
+msgid "**10.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:212
+msgid "|details|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:213
+msgid "View more details on the selected trial."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:214
+msgid "**11.**"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:215
+msgid "|options|"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:216
+msgid "Various options for KDS. An explanation of the options will be displayed in the table below."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:222
+msgid "The following video is a short KDSmart tour where you can learn about some of the UI elements and features of KDSmart."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:235
+msgid "This link, https://youtu.be/PM_lWMbHnBc , is to a short KDSmart tour video where you can learn about some of the UI elements and features of KDSmart."
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:245
+msgid "What now?"
+msgstr ""
+
+#: ../../source/kdsmart-basics.rst:247
+msgid "The rest of the KDSmart Help Guide will provide a more in-depth explanation of the features and uses of KDSmart. Refer to the navigation bar on the left for more information on scoring trials, exchanging data with KDXplore, sample files, etc."
+msgstr ""
