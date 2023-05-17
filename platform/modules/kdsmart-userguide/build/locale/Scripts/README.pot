@@ -1,0 +1,25 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.0.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-17 14:30+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/Scripts/README.rst:5
+msgid "Scripts for Auxiliary Tasks"
+msgstr ""
+
+#: ../../source/Scripts/README.rst:7
+msgid "This folder contains scripts that are needed to perform auxiliary tasks connected with the workflow to publish the material generated in this site. They typically require a substantial amount of configuration in a remote server before they are used."
+msgstr ""

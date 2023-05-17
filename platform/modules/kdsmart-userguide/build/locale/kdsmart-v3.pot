@@ -1,0 +1,884 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.0.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-17 14:30+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:13
+msgid "back-btn"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:22
+msgid "Version 3.0 Changes"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:27
+msgid "This topic describes the major changes in KDSmart Version 3.0 which reached production status on 28th April 2018."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:29
+#: ../../source/kdsmart-v3.rst:54
+#: ../../source/kdsmart-v3.rst:79
+#: ../../source/kdsmart-v3.rst:102
+#: ../../source/kdsmart-v3.rst:118
+#: ../../source/kdsmart-v3.rst:141
+#: ../../source/kdsmart-v3.rst:151
+#: ../../source/kdsmart-v3.rst:158
+#: ../../source/kdsmart-v3.rst:181
+#: ../../source/kdsmart-v3.rst:185
+#: ../../source/kdsmart-v3.rst:207
+#: ../../source/kdsmart-v3.rst:230
+#: ../../source/kdsmart-v3.rst:270
+#: ../../source/kdsmart-v3.rst:293
+#: ../../source/kdsmart-v3.rst:299
+#: ../../source/kdsmart-v3.rst:322
+#: ../../source/kdsmart-v3.rst:327
+#: ../../source/kdsmart-v3.rst:356
+#: ../../source/kdsmart-v3.rst:379
+#: ../../source/kdsmart-v3.rst:404
+#: ../../source/kdsmart-v3.rst:426
+#: ../../source/kdsmart-v3.rst:449
+#: ../../source/kdsmart-v3.rst:460
+#: ../../source/kdsmart-v3.rst:483
+#: ../../source/kdsmart-v3.rst:496
+#: ../../source/kdsmart-v3.rst:519
+#: ../../source/kdsmart-v3.rst:559
+#: ../../source/kdsmart-v3.rst:582
+#: ../../source/kdsmart-v3.rst:643
+#: ../../source/kdsmart-v3.rst:666
+msgid "|br|"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:32
+msgid "What’s New In Release 3.0"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:34
+msgid "KDSmart Version 3.0 introduces a number of new features aimed to further assist in making scoring in the field easier. We are grateful to all the feedback and suggestions from our users. Some of the following improvements are as a direct response to user suggestions. |br|"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:36
+msgid "This topic provides an overview of some of the main new features, namely:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:38
+msgid "A new **Home Screen** - more information at hand;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:39
+msgid "The **Spreadsheet View** – underlying functionality is still the same as for trial scoring;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:40
+msgid "Addition of trait instances - easy to add or remove trait instances to a trial;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:41
+msgid "New trait and tag bundles - for easier management; and"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:42
+msgid "Progress tracking for all trials - (samples scored / total number of samples)."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:46
+#: ../../source/kdsmart-v3.rst:46
+#: ../../source/kdsmart-v3.rst:46
+msgid "image0"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:50
+msgid "image1"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:57
+msgid "The Home Screen"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:59
+msgid "The Main or Home window has undergone changes to include more trial information for the selected trial without a need to first visit the trials window."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:61
+msgid "Features of the updated **Home Screen** include:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:63
+msgid "Scroll through the trials in KDSmart by swiping left or right in the **Home Screen**."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:64
+msgid "Page indicator bars, above the trial name, indicate current position in the list of trials and whether scrolling left or right will reveal more trial."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:65
+msgid "Restarting KDSmart or returning to the main window will display the name of the last *Trial* displayed (possibly the last being scored)."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:66
+msgid "The |image0| **Start Scoring Button** now has dual functions:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:68
+#: ../../source/kdsmart-v3.rst:517
+#: ../../source/kdsmart-v3.rst:517
+msgid "Long Press"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:69
+msgid "Displays the **Scoring Configuration Screen**."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:72
+msgid "Single Tap"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:71
+msgid "Recommence interrupted scoring for a trial; or"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:72
+msgid "Displays the **Scoring Configuration Screen** if the trial is yet to be scored."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:74
+msgid "For the displayed trial, using the top |image0| **Start Scoring Button** button recommences scoring from the last plot or position where the scoring stopped."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:75
+msgid "The **Trial Progress Bar** provides a quick visual guide for the displayed trial."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:76
+msgid "The new **Trial Details Button** is a fast path to the details of the displayed trial."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:77
+msgid "When screen space is limited (e.g. with a phone) the **Lower Menu Bar** now has left/right scrolling to reveal any additional function buttons."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:83
+#: ../../source/kdsmart-v3.rst:122
+#: ../../source/kdsmart-v3.rst:162
+#: ../../source/kdsmart-v3.rst:211
+#: ../../source/kdsmart-v3.rst:274
+#: ../../source/kdsmart-v3.rst:303
+#: ../../source/kdsmart-v3.rst:360
+#: ../../source/kdsmart-v3.rst:430
+#: ../../source/kdsmart-v3.rst:464
+#: ../../source/kdsmart-v3.rst:500
+#: ../../source/kdsmart-v3.rst:563
+#: ../../source/kdsmart-v3.rst:647
+#: ../../source/kdsmart-v3.rst:700
+#: ../../source/kdsmart-v3.rst:720
+msgid "|center-start|"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:91
+#: ../../source/kdsmart-v3.rst:130
+#: ../../source/kdsmart-v3.rst:170
+#: ../../source/kdsmart-v3.rst:219
+#: ../../source/kdsmart-v3.rst:282
+#: ../../source/kdsmart-v3.rst:311
+#: ../../source/kdsmart-v3.rst:368
+#: ../../source/kdsmart-v3.rst:438
+#: ../../source/kdsmart-v3.rst:472
+#: ../../source/kdsmart-v3.rst:508
+#: ../../source/kdsmart-v3.rst:571
+#: ../../source/kdsmart-v3.rst:655
+#: ../../source/kdsmart-v3.rst:708
+#: ../../source/kdsmart-v3.rst:728
+msgid "|center-end|"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:100
+#: ../../source/kdsmart-v3.rst:100
+msgid "New Home Screen"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:111
+#: ../../source/kdsmart-v3.rst:580
+#: ../../source/kdsmart-v3.rst:580
+msgid "The Spreadsheet View"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:113
+msgid "**Spreadsheet View** is a new option in Version 3.0 for scoring providing a 'spreadsheet style' view of a trial. Some scoring situations will benefit from this alternative to the original and default **Path View**. It is easy to alternate between the two as views as your needs dictate in the field."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:115
+msgid "The following illustration shows the **Spreadsheet View Scoring Screen** (no scored traits visible):"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:139
+#: ../../source/kdsmart-v3.rst:139
+msgid "The Spreadsheet View Menu"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:144
+msgid "When first selecting **Spreadsheet View**, the first column is partially collapsed, designed to accommodate small phone screens. It can easily be adjusted by:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:146
+msgid "Selecting the |image2| **Menu Button** at top right."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:553
+#: ../../source/kdsmart-v3.rst:553
+#: ../../source/kdsmart-v3.rst:553
+#: ../../source/kdsmart-v3.rst:553
+msgid "image2"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:147
+msgid "Select **Adjust First Column Width Checkbox** to display a sizing slider at the bottom of the screen."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:148
+msgid "Adjust the width as required then switch off the resizer by deselecting the **Adjust First Column Width Checkbox**."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:154
+msgid "How to Select Spreadsheet View"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:156
+msgid "**Spreadsheet View** can be selected in the **Scoring Configuration Screen** for a trial as illustrated next."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:179
+#: ../../source/kdsmart-v3.rst:179
+msgid "Scoring View Selection"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:183
+msgid "The default view can also be chosen in the **Settings Menu**."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:188
+msgid "Spreadsheet View Window Elements"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:191
+#: ../../source/kdsmart-v3.rst:191
+msgid "goto-btn"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:194
+#: ../../source/kdsmart-v3.rst:194
+msgid "a-pc-btn"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:198
+#: ../../source/kdsmart-v3.rst:198
+msgid "a-npc-btn"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:204
+msgid "The following image shows a cropped and annotated version of the previous example **Spreadsheet View**. |br| A description of the window elements is provided in the following table."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:228
+#: ../../source/kdsmart-v3.rst:228
+#: ../../source/kdsmart-v3.rst:291
+msgid "Annotated Spreadsheet View"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:234
+msgid "Annotations for the illustration above"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:240
+#: ../../source/kdsmart-v3.rst:391
+#: ../../source/kdsmart-v3.rst:593
+msgid "**Item**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:241
+#: ../../source/kdsmart-v3.rst:392
+#: ../../source/kdsmart-v3.rst:594
+msgid "**Description**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:243
+msgid "Select the |goto-btn| **Location Button** to return to the last scored sample."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:245
+msgid "**Active Trait Columns**, scrollable left to right. |br| **Note:** Traits that are inactive for the scoring session are not displayed."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:247
+msgid "The **Plot Column** i.e. plot ID/ column, row. |br| Also shows indicators for tags, notes, photos and menu selector."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:249
+msgid "Symbolises the plot. Downward pointing |a-npc-btn| indicates the plot is expanded displaying the contained sub-plots. Sideways pointing |a-pc-btn| indicates the sub-plots for the plot are hidden from view."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:251
+msgid "A sub-plot belonging to the plot above."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:253
+msgid "The dash **'-'** symbolises an un-scored trait. Touch the cell to score the trait for this plot."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:255
+msgid "The dot **'.'** symbolises a value cannot be entered e.g. this is a plot level trait. In this example, it is a plot level trait and it is at the sub-plot row, hence not scorable."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:257
+msgid "The green arrow indicates plots are vertically scrollable."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:259
+msgid "The yellow arrow indicates the traits are horizontally scrollable."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:261
+msgid "Blue arrow indicates this area can be expanded or contracted by selecting  **Adjust First Column Width Checkbox**  from the **Settings Menu** (at circle 11) then using the resizing bar."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:263
+msgid "The **Settings Menu**. There are significantly different menu items in **Spreadsheet View** compared to **Path View**. See the  `Settings Menu`_ topic below."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:268
+msgid "To enter or replace a score for a sub-plot touch the required row and column position for the trait. The displayed dialogue is dependent upon the trait’s data type e.g. the following example is for a date data type."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:291
+msgid "Date Data Type Trait Entry"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:297
+msgid "If the *Lock Scored Traits* option is enabled, subsequent attempts to edit the existing value will display a warning with an option to continue or stop to prevent accidental changes as illustrated next."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:320
+#: ../../source/kdsmart-v3.rst:320
+msgid "Trait Already Set"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:325
+msgid "Entry of Trait values is the same for both Spreadsheet and Path views."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:331
+msgid "Trait Levels"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:333
+msgid "Previously, trait levels could only be specified as either plot or sub-plot. |br| With KSDSmart version 3.0.3, trait level can be set to:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:336
+msgid "Plot Level"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:337
+msgid "by using *plot* or *trial unit*; or"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:340
+msgid "Sub-Plot Level"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:339
+msgid "by using *sub-plot*, *individual* or *plant*."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:343
+msgid "Trait Instances"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:346
+#: ../../source/kdsmart-v3.rst:346
+msgid "addto"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:349
+#: ../../source/kdsmart-v3.rst:349
+#: ../../source/kdsmart-v3.rst:349
+msgid "edit"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:353
+msgid "Trait instances can be added to a trial when viewing the traits for a trial. In the following example the |addto| **Add Trait Instance Button** has been selected to reveal the highlighted menu."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:377
+#: ../../source/kdsmart-v3.rst:377
+msgid "Trait Instance Menu"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:381
+msgid "The menu options for trait instances, as appearing in the above illustration, are:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:385
+msgid "Menu options for trait instances"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:393
+msgid "Add Instance"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:394
+msgid "A new instance can be added to a trait which is associated with the trial. |br| Trait instances appear with naming of #1, #2, #3, etc."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:395
+msgid "Move Up/Down"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:396
+msgid "A trait, always with its instances, can be moved up or down relative to other traits. |br| By default, the traits appear in alphabetic order."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:397
+msgid "Edit Description"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:398
+msgid "The description of the trait instance can be edited. |br| The |edit| **Edit Button** appears next to a trait instance to perform this."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:399
+msgid "Remove Trait"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:400
+msgid "A trait or a trait instance can be removed from a trial only if it is *not scored*. |br| Use the |edit| **Edit Button** adjacent to the trait instance to remove the trait."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:402
+msgid "In a situation of multiple trait instances, e.g. #1, #2 and #3, the removal of #1 from a trial will leave instances #2 and #3. If an instance is added it will be instance #4 (i.e. #1 is not replaced). However, in this example, if #3 is removed then an instance is added, it will be #3. An instance cannot be removed if it contains any scored values."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:411
+msgid "Displaying Trait Attributes"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:413
+msgid "Selecting the trait name at the top of the trait column displays the trait's attributes. These include trait:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:416
+msgid "Alias;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:417
+msgid "Description;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:418
+msgid "Datatype;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:419
+msgid "Validation rule;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:420
+msgid "Units; and"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:421
+msgid "Level."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:423
+msgid "The following illustration from **Spreadsheet View** shows the trait DFF_PLOT (at '1') was touched to display the highlighted information:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:447
+#: ../../source/kdsmart-v3.rst:447
+msgid "Trait Attributes Display"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:456
+msgid "Additional Plot or Sub-Plot Attributes and Actions"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:458
+msgid "A *short press* on the plot or sub-plot identifier/coordinate displays the plot or sub-plot attributes."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:481
+#: ../../source/kdsmart-v3.rst:481
+msgid "Plot Attributes Display"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:485
+msgid "A *long press* on the plot or sub-plot identifier/coordinate displays further attributes and functions. These are:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:487
+msgid "Deactivate or activate the plot/sub-plot;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:488
+msgid "View, add or remove tags;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:489
+msgid "Add a note (typed entry) for the plot/sub-plot;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:490
+msgid "Add photos;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:491
+msgid "Add an audio note; and"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:492
+msgid "Add a sub-plot to the plot."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:494
+msgid "The following example shows the sub-plot has two tags assigned, *GV+++* and *MD* and no images are attached, as the **Attachment Icon** is disabled."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:521
+msgid "With attributes displayed as in the above example, a short press of either the plot/sub-plot icon or identifier/coordinate will display the menu which is both illustrated below."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:532
+msgid "**Plot Menu**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:533
+msgid "**Sub-Plot Menu**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:551
+msgid "Settings Menu"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:557
+msgid "Selecting the top right |image2| **Settings Menu Button** in **Spreadsheet View** displays a menu as illustrated. The menu items are different from those in **Path View**  See the following table for a brief description of these menu options:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:595
+msgid "**Text Size**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:596
+msgid "Adjust the text size of the sample values."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:597
+msgid "**Adjust First Column Width**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:598
+msgid "Displays a slider at the bottom of the screen allowing adjustment of the first column width which is helpful for small phone screens with limited space."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:599
+msgid "**Location**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:600
+msgid "Enable or disable location services."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:601
+msgid "**Scanner On**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:602
+msgid "Displays the **Paired Devices Screen** to allow connecting or reconnecting to a scanner."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:603
+msgid "**Configure**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:604
+msgid "Configure the information to appear in the plot attributes."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:605
+msgid "**Elapsed Days Count**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:606
+msgid "Checkbox to change the display of elapsed days from a date to the number of days since the trial planting date."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:607
+msgid "**Unlock Scored Traits**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:608
+msgid "Unlocks scored traits, enabling modification without warning step."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:609
+msgid "**Change Screen Orientation**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:610
+msgid "Change the screen orientation, e.g. change from landscape to portrait. A three-second delay allows the tablet to be turned to the desired orientation before the rotation lock is reactivated."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:612
+msgid "**Choose Plot Colours**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:613
+msgid "Three colours are available for plots and traits and more can be added on request."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:614
+msgid "**Show/Hide Sub-Plots**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:615
+msgid "Hides or shows all the sub-plots, useful for scoring only plot traits."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:616
+msgid "**Fixed Plot Info**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:617
+msgid "Enables selection for column display of inactive traits and plot attributes."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:618
+msgid "**Help**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:619
+msgid "Displays the inbuilt KDSmart help."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:627
+msgid "Trait and Tag Bundles"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:629
+msgid "Bundles are a mechanism for sorting either traits or tags into logical, usable groups. This may assist with their use and management, e.g. it may be helpful to bundle traits for a type of crop, season or a specific experiment. They can also assist with distribution to multiple KDSmart devices for efficiency and to ensure consistency."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:632
+msgid "Some features of bundles are:"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:634
+msgid "A trait or tag can exist in multiple bundles;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:635
+msgid "Every trait or tag is a member of the *All Traits* or *All Tags* bundles;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:636
+msgid "Bundles make the selection of traits or tags easier for export or import;"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:637
+msgid "Traits or tags can be added or removed from bundles (except *All Traits* or *All Tags*);"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:638
+msgid "It is easy to select multiple traits/tags and create a new bundle; and"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:639
+msgid "Bundles can be deleted, except for the *All Trait* and *All Tag* bundles."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:641
+msgid "The example below shows a trait bundle named *Dates Bundle* expanded to show the contents. Note the circled number, at the right of the bundle name, indicating it contains ten traits. When expanded the traits in the bundle appear below the bundle name (dotted highlight)."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:664
+#: ../../source/kdsmart-v3.rst:664
+msgid "Trait Bundle"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:668
+msgid "Remember bundles are logical groupings, so there is only ever one instance of a trait defined in KDSmart."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:670
+msgid "for Bundles, Tags work in the same manner as Traits."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:678
+msgid "Creating Bundles"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:680
+msgid "Viewing traits or tags the procedure is the same. Traits are used here to illustrate."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:682
+msgid "To create a bundle, at least one trait or tag needs to be selected to invoke the menu, however, a bundle can exist without traits/tags."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:685
+msgid "A long press on a trait will reveal a different set of actions"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:689
+msgid "Example of Trait Menu Bar on different sized devices"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:696
+msgid "**Tablet**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:697
+msgid "**Phone**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:717
+#: ../../source/kdsmart-v3.rst:717
+msgid "Tablet Example"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:737
+#: ../../source/kdsmart-v3.rst:737
+msgid "Phone Example"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:741
+#: ../../source/kdsmart-v3.rst:741
+msgid "tag_b-btn"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:745
+#: ../../source/kdsmart-v3.rst:745
+msgid "trait_b-btn"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:753
+msgid "Steps to Create, Add to or Delete from a Bundle"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:760
+#: ../../source/kdsmart-v3.rst:800
+msgid "**Step**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:761
+#: ../../source/kdsmart-v3.rst:801
+msgid "**Action**"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:763
+msgid "In the **Trait/Tag Screen**, *long press* a trait/tag to be added to the bundle."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:765
+msgid "The top bar of the display will change to be similar to the previous trait window examples for phone and tablet. This also indicates the number of traits/tags selected. |br| More traits/tags can be selected or deselected with a single press."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:767
+msgid "Select either the |image2| **Setting Menu Button**, the |trait_b-btn| **Trait Bundle Button**, or |tag_b-btn|  **Tag Bundle Button**."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:770
+msgid "Enter a unique bundle name. The display will assist in providing a unique name."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:772
+msgid "Select the **Create/Add Button** to create the new bundle or if delete has been selected confirm by selecting the **Delete Button**."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:775
+msgid "Deleting a Bundle does *not* delete the Traits."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:784
+msgid "Export Bundles"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:786
+msgid "Bundles can be exported as either a CSV file or to KDXplore which will require a connection."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:788
+#: ../../source/kdsmart-v3.rst:788
+msgid "upload_btn"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:793
+msgid "Steps to Export a Bundle"
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:803
+msgid "In the **Trait/Tag Screen**, *long press* the bundle to be exported."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:805
+msgid "At the top bar of the display select the |upload_btn| **Export Button**."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:807
+msgid "Select the *Tablet* option to export a CSV file or KDXplore if you have a current connection to the KDXplore application."
+msgstr ""
+
+#: ../../source/kdsmart-v3.rst:809
+msgid "Confirm and a message will indicate success and location of the CSV file."
+msgstr ""

@@ -1,0 +1,45 @@
+/* kddtheme.css
+ * ~~~~~~~~~
+ *  
+ * 21 Mar 2018 - Replaced previous method which used a duplicated copy of the theme.css.
+ * 03 Apr 2018 - Changed headings from centred to Left.
+ *
+ * Minor changes to the Read the Docs theme.css stylesheet -- for KDDart products.
+ * This css overrides default settings and is combined by the conf.py configuration file.
+ */
+
+
+/* -- Heading and text Colour ------------------------------------------------------- */
+
+.rst-content .toc-backref {
+    color: #12416c;
+}
+.wy-body-for-nav {
+    color: #12416c;
+}
+
+.wy-table thead, .rst-content table.docutils thead, .rst-content table.field-list thead {
+    color: #12416c;
+}
+
+.caption-text {
+    color: #12416c;
+    font-weight: bold;
+}
+
+p.caption, caption-text {
+    color: #12416c;
+    font-weight: bold;
+}
+
+div.activity > h2, div.activity > h3 {
+    text-align: left;
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+
+
+/* -- End  -------------------------------------------------------------------------- */

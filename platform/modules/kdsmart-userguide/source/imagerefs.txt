@@ -1,0 +1,93 @@
+.. Image reference file to be included
+
+
+
+.. |circle1|  image:: ../../commonimages/1_26.png
+   :scale: 80 %
+   :alt: "1"
+
+.. |circle2|  image:: ../../commonimages/2_26.png
+   :scale: 80 %
+   :alt: "2"
+
+.. |circle3|  image:: ../../commonimages/3_26.png
+   :scale: 80 %
+   :alt: "3"
+
+.. |circle4|  image:: ../../commonimages/4_26.png
+   :scale: 80 %
+   :alt: "4"
+
+.. |circle5|  image:: ../../commonimages/5_26.png
+   :scale: 80 %
+   :alt: "5"
+
+.. |circle6|  image:: ../../commonimages/6_26.png
+   :scale: 80 %
+   :alt: "6"
+
+.. |circle7|  image:: ../../commonimages/7_26.png
+   :scale: 80 %
+   :alt: "7"
+
+.. |circle8|  image:: ../../commonimages/8_26.png
+   :scale: 80 %
+   :alt: "8"
+
+.. |circle9|  image:: ../../commonimages/9_26.png
+   :scale: 80 %
+   :alt: "9"
+
+.. |circle10|  image:: ../../commonimages/10_26.png
+   :scale: 80 %
+   :alt: "10"
+
+.. Other common elements to be included
+
+.. |br| raw:: html
+
+    <br />
+
+
+   
+.. |nbsp| raw:: html
+
+    <nbsp>
+
+
+.. The following center-start and center-end can be placed either side of an image to centre it and it's caption (note and it's caption!).
+
+
+.. |center-start| raw:: html
+
+      <center>
+
+.. |center-end| raw:: html
+
+      </center>
+
+
+
+.. and place the image on the right.
+
+
+.. |right-start| raw:: html
+
+      <right>
+
+.. |right-end| raw:: html
+
+      </right>
+      
+      
+
+.. and place the image on the left.
+
+
+.. |left-start| raw:: html
+
+      <left>
+
+.. |left-end| raw:: html
+
+      </left>

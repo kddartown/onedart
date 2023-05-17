@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.0.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-17 14:30+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/privacy.rst:13
+msgid "Privacy Policy"
+msgstr ""
+
+#: ../../source/privacy.rst:18
+msgid "What information is collected?"
+msgstr ""
+
+#: ../../source/privacy.rst:20
+msgid "KDSmart can potentially collect:"
+msgstr ""
+
+#: ../../source/privacy.rst:22
+msgid "The location of your device;"
+msgstr ""
+
+#: ../../source/privacy.rst:23
+msgid "Pictures or audio that you take to record more information about your scoring activity; and"
+msgstr ""
+
+#: ../../source/privacy.rst:24
+msgid "The device identifier to help you separate the source of data when performing data curation from multiple devices."
+msgstr ""
+
+#: ../../source/privacy.rst:26
+#: ../../source/privacy.rst:33
+#: ../../source/privacy.rst:46
+#: ../../source/privacy.rst:61
+msgid "|br|"
+msgstr ""
+
+#: ../../source/privacy.rst:29
+msgid "Is it used by Diversity Arrays Technology?"
+msgstr ""
+
+#: ../../source/privacy.rst:31
+msgid "The information that KDSmart collects is not used by Diversity Arrays Technology except if and when you decide to upload the data you have scored to a database that is, by formal agreement, managed and located on Diversity Arrays Technology servers."
+msgstr ""
+
+#: ../../source/privacy.rst:36
+msgid "When is the information collected?"
+msgstr ""
+
+#: ../../source/privacy.rst:38
+msgid "KDSmart will only capture Location information if you have decided to turn on that facility. In this case, each value scored for a trait is recorded along with the date-time stamp and the Location."
+msgstr ""
+
+#: ../../source/privacy.rst:40
+msgid "Audio and pictorial information is only captured when you, the user, decide to make use of that functionality. The media data is saved in relation to the plot (or sub-plot) item and will only be exported, uploaded or transferred as and when you request that to happen and to the destination you decide."
+msgstr ""
+
+#: ../../source/privacy.rst:42
+msgid "The device identifier is available to you to identify the device used to capture the phenotypic data when you export it. However, this is only used to initialise the data item and you are able to change that to whatever value you decide if you do not wish to make public the device identifier."
+msgstr ""
+
+#: ../../source/privacy.rst:44
+msgid "When KDSmart connects to KDXchange, the device identifier is used to ensure that devices are uniquely identified but this information is not permanently recorded by the KDXchange server."
+msgstr ""
+
+#: ../../source/privacy.rst:49
+msgid "When/where is the information shared?"
+msgstr ""
+
+#: ../../source/privacy.rst:51
+msgid "The data collected is shared only to a location that you decide and only when you decide to perform this operation."
+msgstr ""
+
+#: ../../source/privacy.rst:53
+msgid "Share destinations are either:"
+msgstr ""
+
+#: ../../source/privacy.rst:55
+msgid "a CSV, ZIP or KDX file on your tablet;"
+msgstr ""
+
+#: ../../source/privacy.rst:56
+msgid "a KDXchange server (running on a desktop or laptop system); or"
+msgstr ""
+
+#: ../../source/privacy.rst:57
+msgid "a KDDart server, when enabled and only to the server destination that you choose."
+msgstr ""
+
+#: ../../source/privacy.rst:59
+msgid "KDSmart provides a Lockdown facility to further protect the integrity and privacy of your data. However, if you choose to use a data sharing application, your data is subject to the data security and privacy provisions of that application."
+msgstr ""
