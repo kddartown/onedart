@@ -11,116 +11,79 @@ KDSmart User Guide
 ===================
 
 .. only:: latex
-   
-   .. note:: 
+
+   .. note::
       You are viewing the PDF version of the KDSmart User Guide.
-      
+
       - Some features such as video will not visible however links to them are provided. They can be selected if you have Internet access or manually typed if you're viewing a printed copy.
       - Please email us at kdsmart@diversityarrays.com if you find any omissions, errors or have suggestions for improvement in this user guide.
-      
+
 
 .. only:: html
-   
-   .. note:: 
-      A PDF version of this KDSmart User Guide is now available for download at http://www.kddart.org/help/ 
 
-Welcome to the KDSmart application user guides. This user guide provides comprehensive information on KDSmart, out data collection application. Navigate this help by using the left hand menu and return to this page using the logo at the top left. Some sections of this help are also available as on-board help within the KDSmart application.
+   .. note::
+      A PDF version of this KDSmart User Guide is now available for download at http://www.kddart.org/help/
 
+Welcome to the KDSmart application user guides. This user guide provides comprehensive information on KDSmart, our data collection application. Some sections of this help are also available as onboard help within the KDSmart application.
 
-KDSmart is available for standalone use however, it forms an integral part of a bigger  **Integrated KDDart Platform** as seen in the following image:
-
-|br|
+KDSmart can be a *standalone* application, but it is also a part of the integrated `KDDart Platform <https://www.kddart.org/introduction.html>`_.
 
 .. only:: html
+
+    See the video below for more information on the KDDart Platform and how KDSmart fits within it:
+
+    |br|
 
     |center-start|
 
-    .. thumbnail:: ../../commonimages/system_design_principles_v2.png
-        :show_caption: true
-        :width: 50%
-        :align: center
-        :title: KDDart System Design Principles - Integrated Platform (select to zoom)
+    .. raw:: html
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/GpP9jxyHUDY" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     |center-end|
 
-.. only:: latex
-
-    .. figure:: ../../commonimages/system_design_principles_v2.png
-             :scale: 50%
-             :alt: KDDart System Design Principles - Integrated Platform
-             
-             KDDart System Design Principles - Integrated Platform
-
-|br|
-
-Both KDSmart and KDXplore can operate remotely, away from office networks and the internet as shown in the "KDDart Application Network Dependency" illustration.
-
-|br|
-
-.. only:: html
-
-    |center-start|
-
-    .. thumbnail:: ../../commonimages/kdaps/KDDart_Application_Network_Dependency.png
-        :show_caption: true
-        :width: 50%
-        :align: center
-        :title: KDDart Application Network Dependency (select to zoom)
-
-    |center-end|
-
+    |br|
 
 .. only:: latex
 
-    .. figure:: ../../commonimages/kdaps/KDDart_Application_Network_Dependency.png
-             :scale: 90%
-             :alt: KDSmart - WiFi Connection Warning Example
-             
-             KDDart Application Network Dependency
+    See the KDDart Introduction video at https://youtu.be/GpP9jxyHUDY for more information on the KDDart platform and how KDSmart fits within it.
 
 |br|
 
-These images will help you gain a basic understanding of the platform and how KDSmart fits within the *breeding cycle* before getting started. 
-The "Example of the Trial Data Workflow" illustration depicts a simple trial data workflow for KDDart, however look to the centre of the illustration to see KDSmart and KDXplore's role in the workflow:
+Key Features
+=============
+
+* Collect phenotypic data for trials by scoring traits;
+* You can collect data at the plot or subplot level;
+* Create and manage trials, traits, and tags within the app;
+* Integrates with other KDDart applications;
+* Allows your device to scan trait and plot barcodes; and
+* Flexible data transfer solutions, including sharing with 3rd party applications such as Google Drive or Dropbox.
+
 
 |br|
 
-.. only:: html
+What Now?
+=========
 
-    |center-start|
+KDSmart is available for free on the `Google Play Store <https://play.google.com/store/apps/details?id=com.diversityarrays.kdsmart>`_. You will need an Android device that supports Android 4.4 and above as a minimum.
 
-    .. thumbnail:: ../../commonimages/kdaps/KDDart_Trial_Data_Workflow.png
-        :show_caption: true
-        :width: 70%
-        :align: center
-        :title: Example of the Trial Data Workflow (select to zoom)
-
-    |center-end|
-
-
-.. only:: latex
-
-    .. figure:: ../../commonimages/kdaps/KDDart_Trial_Data_Workflow.png
-             :scale: 95%
-             :alt: Example of the Trial Data Workflow
-             
-             Example of the Trial Data Workflow
+See the `Getting Started <https://www.kddart.org/help/kdsmart/html/kdsmart-basics.html>`_ page for more information about the basics of getting started with KDSmart.
 
 |br|
 
-KDSmart is available for free from the Google Play Store at the following link: |br|
-https://play.google.com/store/apps/details?id=com.diversityarrays.kdsmart. |br|
-KDSmart also supports Android 4.4 Kit Kat (Android SDK 19) and above as the minimum. 
+More Information
+================
 
-Before diving into details we strongly suggest taking a look at two brief overviews:
+For information about KDSmart and the KDDart Platform:
 
-- Of the KDDart environment at: |br| `Introduction to the KDDart Environment <http://www.kddart.org/introduction.html>`_   ; followed by 
-- `The KDSmart Application <http://www.kddart.org/kdsmart.html>`_
+* `Introduction to the KDDart Environment <http://www.kddart.org/introduction.html>`_
+* `The KDSmart Application <http://www.kddart.org/kdsmart.html>`_
 
-For more information please explore the following websites:
+DArT's main website and KDDart website:
 
-* http://www.kddart.org  (hosting site of these help pages)
-* https://www.diversityarrays.com 
+* http://www.kddart.org
+* https://www.diversityarrays.com
 
 For KDSmart tutorials (along with tutorials for our other applications), please see the |tutorials| page.
 
@@ -129,12 +92,12 @@ For KDSmart tutorials (along with tutorials for our other applications), please 
 .. |tutorials| raw:: html
 
    <a href="http://www.kddart.org/help/kdtutorials/html/index.html" target="_blank">KDDart Tutorials</a>
-   
 
+|br|
 
-.. Note:: 
-     * March 2019 - We are constantly improving KDSmart and welcome any feedback or queries. You can contact us by email at kdsmart@diversityarrays.com if you want to get in touch. 
-     * Sample files are now located on the :ref:`KDSmart/KDXplore Sample Files` page. 
+.. Note::
+     We are constantly improving KDSmart and welcome any feedback or queries. You can contact us by email at kdsmart@diversityarrays.com if you want to get in touch.
+
 
 
 .. toctree::
@@ -145,6 +108,7 @@ For KDSmart tutorials (along with tutorials for our other applications), please 
    Home <self>
    kdsmart-basics
    kdsmart-sample-files
+   trials
    traits
    tags
    preparation
@@ -155,8 +119,8 @@ For KDSmart tutorials (along with tutorials for our other applications), please 
    kdsmart-tips
    kdsmart-bluetooth-scanning
    privacy
-   kdsmart-v3
    whats-new-all
+   cattraits
    glossary
 
 

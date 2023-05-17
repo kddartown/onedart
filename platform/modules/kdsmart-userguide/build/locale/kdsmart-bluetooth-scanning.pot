@@ -1,0 +1,828 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-18 08:18+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:17
+#: ../../source/kdsmart-bluetooth-scanning.rst:17
+#: ../../source/kdsmart-bluetooth-scanning.rst:17
+#: ../../source/kdsmart-bluetooth-scanning.rst:17
+msgid "bc_scan"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:20
+#: ../../source/kdsmart-bluetooth-scanning.rst:20
+#: ../../source/kdsmart-bluetooth-scanning.rst:20
+msgid "bc_plot"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:23
+#: ../../source/kdsmart-bluetooth-scanning.rst:23
+#: ../../source/kdsmart-bluetooth-scanning.rst:23
+msgid "bc_subplot"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:26
+#: ../../source/kdsmart-bluetooth-scanning.rst:26
+msgid "bc_trait"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:29
+#: ../../source/kdsmart-bluetooth-scanning.rst:29
+msgid "bc_trait_brown"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:32
+#: ../../source/kdsmart-bluetooth-scanning.rst:32
+msgid "bc_trait_7"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:35
+#: ../../source/kdsmart-bluetooth-scanning.rst:35
+msgid "tick_btn"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:38
+msgid "back-btn"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:41
+msgid "blue-bars"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:44
+msgid "back-btn2"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:47
+msgid "back-btn3"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:50
+msgid "back-area"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:53
+msgid "rotate-btn"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:56
+msgid "accept-btn2"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:60
+msgid "cancel-btn2"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:64
+#: ../../source/kdsmart-bluetooth-scanning.rst:64
+#: ../../source/kdsmart-bluetooth-scanning.rst:64
+msgid "plus_sign"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:67
+#: ../../source/kdsmart-bluetooth-scanning.rst:67
+#: ../../source/kdsmart-bluetooth-scanning.rst:67
+msgid "equals_sign"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:70
+#: ../../source/kdsmart-bluetooth-scanning.rst:70
+msgid "A_settings"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:75
+msgid "Bluetooth Scanning"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:79
+msgid "It is advisable before taking KDSmart and a Bluetooth scanner or scales to the field to test:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:81
+msgid "The scanner is configured correctly;  |br|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:82
+msgid "The tablet/phone with KDSmart can operate successfully with it; and  |br|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:83
+msgid "Your barcodes work as expected."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:85
+msgid "Barcode scanning in KDSmart can assist with quick, easy and accurate scoring. Barcode scanning can be used for plot or sub-plot location labels and for traits."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:87
+msgid "This page contains information for enabling Bluetooth scanner devices in Android, making it available for KDSmart. An introduction to scoring using barcodes with a Bluetooth barcode scanner is also provided."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:90
+msgid "KDSmart is designed to take advantage of a Bluetooth scanner when:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:92
+msgid "Bluetooth is available on the tablet or phone; and"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:93
+msgid "The tablet/phone can successfully connect with the Bluetooth device; and"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:94
+msgid "Trial(s) or traits have been prepared for barcode use **before importing** into KDSmart."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:96
+msgid "Barcode values must be present in the trial before it is imported into KDSmart from KDXplore or CSV file. KDXplore can generate barcodes for the trial and traits. For trials with KDXplore generated barcodes, the option *Use KDXplore Barcodes* found in KDSmart settings needs to be enabled."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:98
+msgid "Non KDXplore barcodes can be used with a trial. These need to be:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:101
+msgid "Included with a Trial CSV file for plot/sub-plots;"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:102
+msgid "Must be unique - A *not unique* error for plot barcodes would result upon import;"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:103
+msgid "Trait import CSV file with barcodes would need to be imported first; and"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:104
+msgid "The option *Use KDXplore Barcodes* in KDSmart Settings needs to be disabled."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:108
+msgid "The following sections describe how to connect a Bluetooth device, provide information about the barcode types, examples of how to score and some tips."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:110
+#: ../../source/kdsmart-bluetooth-scanning.rst:206
+#: ../../source/kdsmart-bluetooth-scanning.rst:286
+#: ../../source/kdsmart-bluetooth-scanning.rst:347
+#: ../../source/kdsmart-bluetooth-scanning.rst:390
+#: ../../source/kdsmart-bluetooth-scanning.rst:435
+#: ../../source/kdsmart-bluetooth-scanning.rst:446
+#: ../../source/kdsmart-bluetooth-scanning.rst:505
+#: ../../source/kdsmart-bluetooth-scanning.rst:579
+#: ../../source/kdsmart-bluetooth-scanning.rst:677
+#: ../../source/kdsmart-bluetooth-scanning.rst:716
+#: ../../source/kdsmart-bluetooth-scanning.rst:724
+msgid "|br|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:113
+msgid "Connecting the Tablet/Phone"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:121
+msgid "Bluetooth scanners generally have two modes: HID and SPP. |br| (More details on this page: |location_link| ) |br| Your scanner **must** be set to **SPP mode before connecting** it with KDSmart. |br| Instructions should be available in your Scanner's Manual."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:125
+msgid "Before connecting to and using a Bluetooth device, the tablet/phone with KDSmart installed, must first be introduced to the device, referred to as *pairing*. Sometimes the device may have a pin number associated to enable pairing to occur."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:128
+msgid "The first connection and subsequent connections will require the devices to be *paired*.  Pairing may need to repeated when disconnection occurs which can be:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:130
+msgid "After a period of time has elapsed;"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:131
+msgid "After devices 'go to sleep' (they enter sleep mode to extend their battery life);"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:132
+msgid "If the device is too far apart from the tablet/phone;"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:133
+msgid "Signal is interrupted due to obstacles (e.g. walls, etc.); or"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:134
+msgid "A combination of all of the above."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:136
+msgid "The following instructions show how to enable Bluetooth on the tablet/phone and pair with a scanner."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:141
+msgid "Steps to Enabling Bluetooth on the Tablet/Phone"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:146
+#: ../../source/kdsmart-bluetooth-scanning.rst:222
+#: ../../source/kdsmart-bluetooth-scanning.rst:465
+#: ../../source/kdsmart-bluetooth-scanning.rst:522
+#: ../../source/kdsmart-bluetooth-scanning.rst:598
+msgid "**Step**"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:147
+#: ../../source/kdsmart-bluetooth-scanning.rst:223
+#: ../../source/kdsmart-bluetooth-scanning.rst:466
+#: ../../source/kdsmart-bluetooth-scanning.rst:523
+#: ../../source/kdsmart-bluetooth-scanning.rst:599
+msgid "**Action**"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:149
+msgid "On the Android tablet/phone go to Android **Settings** |A_settings| then Select **Bluetooth**."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:153
+#: ../../source/kdsmart-bluetooth-scanning.rst:183
+#: ../../source/kdsmart-bluetooth-scanning.rst:229
+#: ../../source/kdsmart-bluetooth-scanning.rst:253
+#: ../../source/kdsmart-bluetooth-scanning.rst:367
+#: ../../source/kdsmart-bluetooth-scanning.rst:408
+#: ../../source/kdsmart-bluetooth-scanning.rst:483
+#: ../../source/kdsmart-bluetooth-scanning.rst:534
+#: ../../source/kdsmart-bluetooth-scanning.rst:559
+#: ../../source/kdsmart-bluetooth-scanning.rst:607
+#: ../../source/kdsmart-bluetooth-scanning.rst:629
+#: ../../source/kdsmart-bluetooth-scanning.rst:651
+#: ../../source/kdsmart-bluetooth-scanning.rst:696
+msgid "|center-start|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:161
+#: ../../source/kdsmart-bluetooth-scanning.rst:191
+#: ../../source/kdsmart-bluetooth-scanning.rst:237
+#: ../../source/kdsmart-bluetooth-scanning.rst:261
+#: ../../source/kdsmart-bluetooth-scanning.rst:375
+#: ../../source/kdsmart-bluetooth-scanning.rst:416
+#: ../../source/kdsmart-bluetooth-scanning.rst:491
+#: ../../source/kdsmart-bluetooth-scanning.rst:542
+#: ../../source/kdsmart-bluetooth-scanning.rst:567
+#: ../../source/kdsmart-bluetooth-scanning.rst:615
+#: ../../source/kdsmart-bluetooth-scanning.rst:637
+#: ../../source/kdsmart-bluetooth-scanning.rst:659
+#: ../../source/kdsmart-bluetooth-scanning.rst:704
+msgid "|center-end|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:169
+#: ../../source/kdsmart-bluetooth-scanning.rst:169
+msgid "Android Settings"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:171
+msgid "**Note:** The version in this image was Android MarshMallow v 6.0.1, which may have a different appearance to the settings in your Android version."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:176
+msgid "If not already powered on:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:174
+msgid "**Turn on Bluetooth** on the tablet/phone;"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:175
+msgid "Ensure the scanner/scales to be connected is also switched on and in accordance with the device instructions is *discoverable* (it may need switching off and on again if it is not detected)."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:176
+msgid "When the tablet/phone successfully *discovers* the Bluetooth device, it should appear in the list of **Available Devices** on the tablet/phone."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:177
+msgid "Once it has appeared it is ready for pairing. If not repeat the process."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:179
+msgid "Select the required device in the list of **Available Devices** and enter the pin number of the device if requested to complete the pairing. |br| |br| Once successfully paired, the device will appear in the list of **Paired Devices** as illustrated: |br|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:200
+#: ../../source/kdsmart-bluetooth-scanning.rst:200
+msgid "Paired Devices"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:203
+msgid "With the device paired and connected, it is ready for use by any Android applications, such as KDSmart. |br| |br| As noted previously, the distance or proximity required to successfully maintain a Bluetooth connection between the device and the KDSmart tablet can and will vary. If disconnection occurs, reconnecting could be necessary."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:209
+msgid "KDSmart - Scanner On"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:211
+msgid "Once the Android tablet/phone has been connected KDSmart can be connected to the scanner as outlined in the following steps."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:216
+msgid "Steps to Set Scanner On In KDSmart"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:225
+msgid "Return to **Path View** for the trial in KDSmart to be scored and from the top right menu (highlighted in the example) select **Scanner On**. This will display the paired devices."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:246
+#: ../../source/kdsmart-bluetooth-scanning.rst:246
+msgid "Scanner On"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:249
+msgid "From the list of available Bluetooth paired devices select the scanner device to connect"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:270
+#: ../../source/kdsmart-bluetooth-scanning.rst:270
+msgid "Paired Device Selection"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:273
+msgid "Select the confirmation |tick_btn| **Tick Button**."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:275
+msgid "Scoring now may commence using the barcode scanner."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:278
+msgid "To verify the scanner is working correctly use some prepared trait barcodes, if they are available. Try the following:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:280
+msgid "Within Path View for your trial select **Scanner On**  from the menu"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:281
+msgid "Go to **Manage Traits** and select the required trait;"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:282
+msgid "Select the **Test Validation Button**;"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:283
+msgid "Try entering values using the scanner. They should appear as if manually entered."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:289
+msgid "Using Barcodes in KDSmart"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:291
+msgid "*Current Plot* refers to the specific location (i.e. plot, sub-plot, etc.) selected and displayed in KDSmart **Path View** ready for scoring."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:293
+msgid "KDSmart can use barcode input to assist with streamlining scoring. |br| Barcodes can be used for the following:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:296
+msgid "Location barcodes - used to position and display the current plot for the trial associated with the scanned barcode location for the:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:296
+msgid "Plot; or"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:297
+msgid "Sub Plot;"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:300
+msgid "Trait barcodes - used for the current plot to set either the:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:299
+msgid "Trait with value; or"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:300
+msgid "A value for the selected trait."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:302
+msgid "This different functionality/behaviour is outlined in the following table (**Note:** The barcodes displayed and human readable text are for illustration only):"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:308
+msgid "Barcode Types in KDSmart/KDXplore"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:314
+msgid "**Prefix**"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:315
+msgid "**Barcode Type**"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:316
+msgid "**Example**"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:317
+msgid "**Result When Scanned...**"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:318
+msgid "PL/"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:319
+msgid "Plot"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:320
+msgid "|bc_plot|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:321
+msgid "KDsmart will position the scoring window to the *plot* at the barcode location."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:322
+msgid "SP/"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:323
+msgid "Sub Plot"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:324
+msgid "|bc_subplot|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:325
+msgid "KDsmart will position the scoring window to the *sub plot* at the barcode location."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:326
+#: ../../source/kdsmart-bluetooth-scanning.rst:332
+msgid "TR/"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:327
+msgid "Trait Name"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:328
+msgid "|bc_trait|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:330
+#: ../../source/kdsmart-bluetooth-scanning.rst:337
+msgid "For the current plot KDSmart:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:330
+msgid "Selects the trait (*SEM* in the example) ready for a value to be entered."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:331
+msgid "A value may be manually entered or in some cases entered using a barcoded value (see value below)."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:333
+msgid "Trait Name: Value"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:334
+msgid "|bc_trait_brown|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:336
+msgid "Selects the specified trait (*GC_1* in the example); and"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:337
+msgid "Sets the value to the barcode value (brown)."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:339
+msgid "These are possible for traits with a categorical data type or those with a specific and possibly short range. (See below `Example - Trait and Value Barcodes`_)."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:341
+msgid "Value"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:342
+msgid "|bc_trait_7|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:343
+msgid "For the current plot and selected trait *waiting for a value to be entered*, KDSmart will enter the value of the barcode(s). In this example the value ‘7’ would be entered as if entering the digit ‘7’ from the keyboard. |br| |br| **Note:** When using value barcodes an *end-input* barcode maybe required to signify the end of input (See illustration in `Example - Trait and Value Barcodes`_ )."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:353
+msgid "Example - Categorical Trait Barcodes"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:355
+msgid "The following example shows a categorical trait barcode for the trait instance *GC_1*."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:384
+#: ../../source/kdsmart-bluetooth-scanning.rst:384
+#: ../../source/kdsmart-bluetooth-scanning.rst:713
+#: ../../source/kdsmart-bluetooth-scanning.rst:713
+msgid "Example Trait Barcodes - Categorical"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:386
+msgid "When KDXplore creates the barcodes for the categorical trait a barcode will be created for each possible value. This example shows there are 12 valid values for the *Grain Colour* trait."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:393
+msgid "Example - Trait and Value Barcodes"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:395
+msgid "The following example shows a trait barcode for the trait *SEM*."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:425
+#: ../../source/kdsmart-bluetooth-scanning.rst:425
+#: ../../source/kdsmart-bluetooth-scanning.rst:500
+#: ../../source/kdsmart-bluetooth-scanning.rst:500
+msgid "Example Trait Barcodes"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:427
+msgid "In this example: |br|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:429
+msgid "The trait barcode is scanned first, which selects the trait *SEM* for the current plot, ready for input. |br|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:430
+msgid "Values can be scanned; then |br|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:431
+msgid "End-input signifies no further values should be entered."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:438
+msgid "Using a Scanner – Examples"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:440
+msgid "In KDSmart trials containing barcodes can utilise scoring using a barcode scanner. To facilitate barcode scoring in KDSmart preparation is required, such as generating barcodes in KDXplore."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:442
+msgid "For a description of barcode types that can be used in KDSmart, refer to the table *Barcode Types in KDSmart/KDXplore* in the previous topic `Using Barcodes in KDSmart`_."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:444
+msgid "The following scenarios illustrate barcode assisted scoring."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:449
+msgid "Navigating To A Specific Plot Or Sub-Plot"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:451
+msgid "Scanning a plot barcode (prefixed PL/), or sub-plot barcode (prefixed SP/), will directly reference or display the location in KDSmart (i.e. the current plot)."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:453
+msgid "For example if a barcode was located at the plot, it could be scanned and KDSmart will position the current plot at this location for the record to be viewed, trait(s) scored, tagged, etc."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:455
+msgid "The following table outlines the steps required:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:459
+msgid "Navigating by Scanning a Plot or Sub-Plot Barcode"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:467
+#: ../../source/kdsmart-bluetooth-scanning.rst:524
+#: ../../source/kdsmart-bluetooth-scanning.rst:600
+msgid "**Description**"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:469
+#: ../../source/kdsmart-bluetooth-scanning.rst:526
+#: ../../source/kdsmart-bluetooth-scanning.rst:602
+msgid "|bc_scan|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:470
+msgid "A scanner, connected and ready, with the trial open in KDSmart in **Path View**."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:472
+#: ../../source/kdsmart-bluetooth-scanning.rst:529
+msgid "|plus_sign|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:473
+#: ../../source/kdsmart-bluetooth-scanning.rst:530
+msgid "Then"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:475
+msgid "|bc_plot|  |br| or |br|  |bc_subplot|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:476
+msgid "Scan either the plot or sub-plot barcode for the required plot/sub-plot"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:478
+#: ../../source/kdsmart-bluetooth-scanning.rst:554
+msgid "|equals_sign|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:479
+#: ../../source/kdsmart-bluetooth-scanning.rst:555
+msgid "Which results in:"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:502
+msgid "The current plot in KDSmart is positioned at the matching plot or sub-plot record ready for scoring or viewing."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:508
+msgid "Scanning a Trait Barcode with Value – Categorical Data Type"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:510
+msgid "For the currently displayed plot location, scanning a trait barcode with value (prefixed TR/) will set the value of the trait to the value represented by the barcode."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:512
+msgid "The example shown next will set the Trait *GC_1* to *Brown* at the current location (i.e. plot 1):"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:516
+msgid "Scanning Trait Values - Categorical"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:527
+msgid "A scanner, connected and ready, with the trial open in KDSmart, in **Path View**, positioned with the current plot at the required plot/sub-plot. |br| Also have a trait barcode ready to scan. This maybe a printed sheet of trait barcodes (see example above `Example - Categorical Trait Barcodes`_ )."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:552
+msgid "Scan the trait Name:Value Barcode for the required trait and value. |br| Trait *GC_1* value = *Brown* in the example."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:577
+msgid "Value now set for the GC_1 Trait instance to Brown.."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:582
+msgid "Scanning a Trait Name Barcode – Numeric Data Type"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:584
+msgid "The difference here is a value is not associated with the trait barcode. When the trait scoring window is presented (as if you manually touched the trait for the current plot), it can either be entered either via the numeric key pad or by scanning value barcodes. (see example above `Example - Trait and Value Barcodes`_ )"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:586
+msgid "Depending upon the data type, your barcodes and what value needs to be entered, several barcodes may need to be scanned to perform the data entry."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:592
+msgid "Scanning Trait Values - Numeric Data Type"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:603
+msgid "A scanner, connected and ready, with the trial open in KDSmart, in **Path View**, positioned at the required plot or sub-plot. |br|  Have the required trait barcodes (see example above `Example - Trait and Value Barcodes`_ ) ready for scanning."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:625
+msgid "Scan the trait barcode for the required trait."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:647
+msgid "The trait numeric entry window will display. |br| Either manually enter the value using the numeric keypad or scan the appropriate value barcodes. |br|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:671
+msgid "If scanning the input, to enter a value of 75"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:670
+msgid "Scan the first digit – 7;"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:671
+msgid "Scan the second digit – 5; Then"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:672
+msgid "Scan the end-input barcode which instructs KDSmart the input is complete."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:680
+msgid "Suggestions"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:682
+msgid "A few suggestions follow for practical usage and also how trait datatypes and their validation could improve data collection, both manually or with barcodes."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:685
+msgid "Trait Value Barcodes"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:687
+msgid "Using barcodes for traits requires the operator to carry those codes in some manner, possibly in laminated form to the field. In many situations using a barcode will be much quicker to record a trait, however in some instances it maybe slower or less convenient. The suggestions are to inspire some thought as to how best define and manage traits to ensure efficient and accurate data collection."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:689
+msgid "Traits can be represented with a barcode (TR/ trait barcodes) to streamline data recording. For these one of the most applicable datatypes is canonical. Barcodes for these traits can also be associated with a value, so scanning with a trait value barcode is a single operation."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:691
+msgid "The simple canonical example described earlier, repeated below, is for a trait grain colour *GC* with values of:  white, purple, red, etc. (12 bar codes). At the current plot in KDSmart, just scanning one of these barcodes records the specific value for the trait."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:718
+msgid "An integer example could be for a trait *Soil_PH* with 14 values would have 14 bar codes: PH1, PH2, PH3, ......, PH14. Scanning one of these barcodes would set that trait to the value scanned for the current plot."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:720
+msgid "For some situations traits may have too many barcodes to make them worthwhile e.g. an integer trait with a valid range of 50 which would involve carrying a sheet of 50 trait barcodes. Locating and scanning the correct one could be more cumbersome and impractical, so either scanning value barcodes or manual entry could be more convenient. |br|"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:722
+msgid "Alternatively for this scenario, the most frequent trait values could be carried and entered using trait value barcodes and the less frequent values recorded manually."
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:727
+msgid "Trait Preparation"
+msgstr ""
+
+#: ../../source/kdsmart-bluetooth-scanning.rst:729
+msgid "When preparing traits consider alternative datatypes. Data collection could be made easier, with or without barcodes as selection of a value from a list can be easier than always needing to enter values."
+msgstr ""

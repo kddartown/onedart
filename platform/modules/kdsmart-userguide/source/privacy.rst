@@ -8,9 +8,9 @@
 
 
 
-===============================================
+=================== 
 Privacy Policy
-===============================================
+===================
 
 
 
@@ -26,7 +26,7 @@ KDSmart can potentially collect:
 |br|
 
 Is it used by Diversity Arrays Technology?
-"""""""""""""""""""""""""""""""""""""""""" 
+""""""""""""""""""""""""""""""""""""""""""
 
 The information that KDSmart collects is not used by Diversity Arrays Technology except if and when you decide to upload the data you have scored to a database that is, by formal agreement, managed and located on Diversity Arrays Technology servers.
 

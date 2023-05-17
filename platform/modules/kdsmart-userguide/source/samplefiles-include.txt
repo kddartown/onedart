@@ -1,25 +1,12 @@
-
-
-
-
-.. About Sample Files
-
-
-
+.. About Example Files
 .. include:: imagerefs.txt
-
-
-
-
-
 
 
 .. _KDSmart/KDXplore Sample Files:
 
-
-============
-Sample Files
-============ 
+=============
+Example Files
+=============
 
 
 .. |back-btn| image:: ../../commonimages/kdaps/icons/kds-android-back-1.png
@@ -56,27 +43,36 @@ Sample Files
             :scale: 90 %
 
 
-This page contains links to example files that will assist with both learning and getting started using KDSmart and KDXplore.
-As a resource, you can use these files as templates for replacing with your own data (trials, traits or tags) which can then be imported into KDSmart or KDXplore.
+This page contains links to example files that to help you get started using KDSmart and KDXplore.
 
-.. Tip::  
+You can use these files as templates by replacing them with your data (trials, traits or tags) and then importing them into KDSmart or KDXplore.
 
-     * In KDSmart your own terminology may be used to define plot, column and row - See **Settings** from the **KDSmart Home Screen** or **Menu**.
-     * From these sample files, choose one most similar to your trial's organisation, e.g. using col and row, block IDs, sub-plots, etc.
-     * The sample files can be used as templates by editing and substituting your own data.
-     * To save CSV files you may need to right click the link and choose **Save Linked Content As...**. 
+The example files belong to three categories:
+
+- Trials that contain plot-level data
+- Trials that contain subplot-level data (as well as plot-level)
+- Additional template files for traits and tags
+
+.. admonition:: Definition: Plots & Subplots
+
+     Trials contain multiple *plots* - areas, spaces or even pots, uniquely identified by a plot ID or by coordinate pairs (Column/row ID), or both. *Subplots* are individual specimens within a plot.
+
+|br|
+
+
+Plot-level Example Files
+========================
+
+|br|
 
 Column and Row Trial
-""""""""""""""""""""" 
+--------------------
 
-This example file contains a *Column and Row Trial*.
+A trial where the *combination of column and row numbers is* a unique identifier for every plot in the trial.
 
-For this type of trial, the combination of column and row is **unique for every plot** in the trial.
+**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample1_Normal_Trial_X_Y.csv>`
 
-To download *KDSXsample1_Normal_Trial_X_Y.csv* select the following link: |br|
-
-http://www.kddart.org/public/KDSXsample1_Normal_Trial_X_Y.csv
-
+|br|
 
 .. only:: html
 
@@ -96,119 +92,19 @@ http://www.kddart.org/public/KDSXsample1_Normal_Trial_X_Y.csv
     .. figure:: ../../commonimages/kdaps/colrow_trial.png
                 :scale: 65%
                 :alt: KDSmart Column and Row Trial Example
-                
+
                 KDSmart Column and Row Trial Example
 
-
-Traits File
-""""""""""""
-
-To download the traits example file *KDSXsample3_wheat-traits.csv* select the following link: |br|
-
-http://www.kddart.org/public/KDSXsample3_wheat-traits.csv
-
-Trait attributes that can be loaded in the file are described in the following table:
-
-
-.. list-table:: Trait Attributes - CSV Column Headings and Descriptions
-   :widths: 25 70
-   :header-rows: 1
-
-   * - **Attribute** |br| **(CSV Column Name)**
-     - **Description**
-   * - **TraitName**
-     - Must be **unique and short** for display in the **Scoring Screen** where space is limited on smaller devices (i.e. phones).
-   * - **TraitAlias**
-     - An alternative trait name, useful when the trait name is too long for the screen.
-   * - **TraitDescription**
-     - This is an optional longer explanation of the trait to assist in data entry.
-   * - **TraitDataType**
-     - Constrains permitted values of traits. Types available are:
-       
-          - CATEGORICAL;
-          - DATE;
-          - ELAPSED_DAYS;
-          - INTEGER:
-          - DECIMAL;  |nbsp| or 
-          - TEXT (default).
-        
-       For more details refer to `Trait Data Types <http://www.kddart.org/help/kdsmart/html/traits.html#trait-data-types>`_ in the traits topic.
-       
-   * - **TraitUnit**
-     - An arbitrary term for the *unit* of the trait to assist with what value to enter when scoring (e.g. measurements in millimetres or centimetres).
-   * - **TraitValidation**
-     - The validation rule optionally restricts the values being entered. The nature of the rule is dependent upon the selection of data type.
-   * - **Barcode**
-     - Used to identify the trait when using a barcode scanner for scoring.
-
-More information about Traits can be found on the `Traits <http://www.kddart.org/help/kdsmart/html/traits.html#id8>`_ help page.
-
-
-.. note:: Traits loaded from CSV without a defined Datatype will default to TEXT.
-
 |br|
 
+Plot ID Trial
+--------------
 
+A trial where the *plot ID* is a unique identifier for every plot.
 
-
-Tags File
-""""""""""""""""""""""""
-
-The following is a tags example file containing a tag and description.
-
-To download the file *KDSXsample2_tags.csv* select the following link: |br|
-
-http://www.kddart.org/public/KDSXsample2_tags.csv
-
-An additional tags example is provided below `Trial Containing Sub-Plot Tags`_ which contains sub-plot data tags.
-
-
-
-The following table shows the required and optional headings for a CSV file.
-
-
-.. tabularcolumns:: |\Y{0.2}|\Y{0.2}|\Y{0.2}|\Y{0.4}|
-
-
-
-.. list-table:: Tag Attributes - CSV Column Headings and Descriptions
-   :widths: 5 10 5 20
-   :header-rows: 1
-
-
-   * - **Heading**
-     - **Alternatives**
-     - **Mandatory**
-     - **Description**
-   * - **Label**
-     - TagLabel, Comment
-     - Yes 
-     - Name of the tag e.g. BD for bird damage
-   * - **Description**
-     - TagDescription, Desc, CommentDescription
-     - Yes
-     - Tag description
-   * - **DatabaseLabelId**
-     - LabelId, Id
-     - No
-     - Useful for cross-reference to the originating database
-
-
+**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample4_demo_trial_plot_id.csv>`
 
 |br|
-
-
-
-Plot Id Trial
-""""""""""""""
-
-In this example, Plot ID is unique for every plot in the trial.
-
-To download the file *KDSXsample4_demo_trial_plot_id.csv* select the following link: |br|
-
-http://www.kddart.org/public/KDSXsample4_demo_trial_plot_id.csv
-
-
 
 .. only:: html
 
@@ -219,7 +115,7 @@ http://www.kddart.org/public/KDSXsample4_demo_trial_plot_id.csv
                 :show_caption: true
                 :width: 50%
                 :align: center
-                :title: KDSmart Plot Id Trial Example (select to zoom)
+                :title: KDSmart Plot ID Trial Example (select to zoom)
 
     |center-end|
 
@@ -227,24 +123,18 @@ http://www.kddart.org/public/KDSXsample4_demo_trial_plot_id.csv
 
     .. figure:: ../../commonimages/kdaps/plotid_trial.png
                 :scale: 65%
-                :alt: KDSmart Plot Id Trial Example
-                
-                KDSmart Plot Id Trial Example
+                :alt: KDSmart Plot ID Trial Example
+
+                KDSmart Plot ID Trial Example
 
 |br|
 
-.. raw:: latex
-  
-      \newpage
-
 Block Trial
-""""""""""""""""""""""""
+-----------
 
-A *Block Trial* is where the combination of block, column, row is unique for every plot within the trial.
+A trial where the *combination of block, column, and row numbers* is a unique identifier for each plot.
 
-To download the file *KDSXsample5_Block_Plots_Right.csv* select the following link: |br|
-
-http://www.kddart.org/public/KDSXsample5_Block_Plots_Right.csv
+**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample5_Block_Plots_Right.csv>`
 
 
 .. only:: html
@@ -265,98 +155,111 @@ http://www.kddart.org/public/KDSXsample5_Block_Plots_Right.csv
     .. figure:: ../../commonimages/kdaps/block_trial.png
                 :scale: 65%
                 :alt: KDSmart Block Trial Example
-                
-                KDSmart Block Trial Example 
+
+                KDSmart Block Trial Example
 
 
 |br|
 
 
-
-Excel Workbook Example Format
-""""""""""""""""""""""""""""""
-
-If you are creating CSV files for import into KDSmart the following Excel workbook may be useful:
-
-To download the file *KDSmart_CSV_Import_Format.xlsx* select the following link: |br|
-
-http://www.kddart.org/public/KDSmart_CSV_Import_Format.xlsx
-
-------------
-
-
-Sub-Plot Data Examples
-""""""""""""""""""""""""
-
-The following examples illustrate different ways of importing sub-plot data.
+Subplot-level Example Files
+===========================
 
 |br|
 
 
 
-Trial With Sub-Plot Data For a Particular Sub-Plot
-"""""""""""""""""""""""""""""""""""""""""""""""""""
+Trial With Subplot Data For a Particular Subplot
+---------------------------------------------------
 
-Trial with sub-plot data for a particular sub-plot.
+The first three plots in this example file have values for the trait *Plant_Height* for subplot 2.
 
-The first three plots in this example file have values for the trait *Plant_Height* for sub-plot 2.
 
-To download the file *KDSXsample6_Specimen_Value_particular_subplot.csv* select the following link: |br|
-
-http://www.kddart.org/public/KDSXsample6_Specimen_Value_particular_subplot.csv
+**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample6_Specimen_Value_particular_subplot.csv>`
 
 |br|
 
 
 
-Trial with Sub-Plot Data For a Particular Sub-Plot and Trait Instance
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Trial with Subplot Data For a Particular Subplot and Trait Instance
+----------------------------------------------------------------------
 
 This example file contains the first three plots with values for:
 
-- The Trait *Plant_Height:* Instances 1 and 2; and 
-- Sub-plots 1 and 2.
+- The trait *Plant_Height:* Instances 1 and 2; and
+- Subplots 1 and 2.
 
 
-To download the file *KDSXsample7_Specimen_value_particular_subplot_and_instance.csv* select the following link: |br|
-
-http://www.kddart.org/public/KDSXsample7_Specimen_value_particular_subplot_and_instance.csv
+**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample7_Specimen_value_particular_subplot_and_instance.csv>`
 
 |br|
 
 
 
-Trial with Sub-Plot Data For All Sub-Plots
-"""""""""""""""""""""""""""""""""""""""""""
+Trial with Subplot Data For All Subplots
+-------------------------------------------
 
-The trial has a number of sub-plots specified by sub-plot count and contains data for every sub-plot.
+The trial contains subplots specified by subplot count and contains data for every subplot.
+
 This example file contains the first three plots with values for:
 
-- The trait *Plant_Height:* Instances 1 and 2; and 
-- All sub-plots.
+- The trait *Plant_Height:* Instances 1 and 2; and
+- All subplots.
 
 
-To download the file *KDSXsample8_Specimen_Count_and_data_for_every_subplot.csv* select the following link: |br|
+**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample8_Specimen_Count_and_data_for_every_subplot.csv>`
 
-http://www.kddart.org/public/KDSXsample8_Specimen_Count_and_data_for_every_subplot.csv
 
 |br|
 
-Trial Containing Sub-Plot Tags
-"""""""""""""""""""""""""""""""
+Trial Containing Subplot Tags
+-------------------------------
 
-This example trial illustrates importing tags to the sub-plot level.
+This example trial contains tags on the subplot level.
 
-- This feature is only available from version 3.0.
-- If a new tag is being created with this trial import it will not have a description. If this is an issue, import (i.e. create) the tags first by importing using a tag definition file (see above `Tags File`_).
-- This Trial has no Traits.
-- To import, at the import window the tags, be sure to select *Import As* > *Trait for Plot* for the Tags#1, Tags#2 and Tags#* rows in the import window.
+- New tags created with this trial import will not have a description. If this is an issue, import (i.e. create) the tags by using a tag definition file (see above `Tags File`_).
+- This trial has no traits.
 
 
-This is a trial example file containing some sub-plot tags:
+**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample9_wheat-with-data.csv>`
 
-To download the file *KDSXsample9_wheat-with-data.csv* select the following link: |br|
+|br|
 
-http://www.kddart.org/public/KDSXsample9_wheat-with-data.csv
+
+Additional Example Files
+=========================
+
+|br|
+
+Traits File
+-----------
+
+Traits files contain `trait <http://www.kddart.org/help/kdsmart/html/traits.html#traits>`_ attributes but no trial data.
+
+
+The example file below is of traits that could be found in a wheat trial.
+
+**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample3_wheat-traits.csv>`
+
+|br|
+
+Tags File
+---------
+
+Tags files contain `tag <http://www.kddart.org/help/kdsmart/html/tags.html>`_ attributes but no trial data.
+
+**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample2_tags.csv>`
+
+An additional tags example is provided above in the `Trial Containing Subplot Tags`_, containing subplot data tags.
+
+|br|
+
+
+Excel Workbook Format
+----------------------
+
+This Excel workbook contains example sheets for a variety of trials.
+
+**Download link:** :download:`Download <http://www.kddart.org/public/KDSmart_CSV_Import_Format.xlsx>`
 
 |br|

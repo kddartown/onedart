@@ -3,113 +3,189 @@
 
 
 
-+++++++++++++++++++++++++++++++++++
+===================================
 Change History
-+++++++++++++++++++++++++++++++++++
+===================================
 
 See below for version change history of the KDSmart application. For more information on the features introduced in Version 3, see the `KDSmart Version 3 Changes <http://www.kddart.org/help/kdsmart/html/kdsmart-v3.html>`_ page.
 
 |br|
 
-**Please note:**  Whilst this page is regularly maintained it may not always be aligned with the current Google Play Store version.
+.. note::  Whilst this page is regularly maintained, it may not always be aligned with the current Google Play Store version.
 
 |br|
 
+
+Version 3.2.4 2020/August/10
 ===========================================
-Version 3.0.33 : 2019/March/2
+
+- This release provided a quick fix for a bug that was affecting block trials for some users.
+
+|br|
+
+Version 3.2.3 : 2019/July/22
 ===========================================
-- We apologise for any issues that have been experienced in the last few weeks, especially in regards to failed file imports that some users have reported. 
+
+- Resolved various issues with importing and exporting data.
+- Fixed a bug with scanning barcodes when scoring a trial.
+- Removed the Add Traits Screen as the same functionality can now be found in the Add Trait Bundles Screen.
+- Various UI improvements including indenting trait lists in the Add Trait Bundles Screen.
+- Fixed multiple bugs found when bulk scoring.
+- Resolved an issue with creating a connection to KDXchange.
+- Work to prepare for a future connection to KDDart.
+
+|br|
+
+Version 3.2.2 : 2019/May/11
+===========================================
+
+- Resolved an issue with Spreadsheet View causing crashes.
+- Various improvements to UI including standardisation of icons and UI writing.
+- Inclusion of a target box when scanning barcodes.
+- Fixed categorical trait creation so that categories are not split when a comma is included in the category name.
+- A Run Length option was included in the Create Trials Screen.
+- Scored traits now display the time that they were scored.
+- Various minor stability and usability fixes.
+
+|br|
+
+Version 3.2.1 : 2019/September/28
+===========================================
+
+- We are here again with new exciting features!
+- We heard you wanted to score using Field View, we made it happen.
+- We heard you wanted to score multiple plots in one go, we made it happen.
+- We heard you wanted to score only one block in the whole field, we made it happen.
+- Download the latest release of KDSmart to try out these new features, along with many other improvements now!
+
+THe public release of KDSmart was moved from 3.0 to 3.2 as 3.1 was an internal beta build. See the `Version 3.2 Changes <http://www.kddart.org/help/kdsmart/html/cattraits.html>`_ page for more information on the new features introduced in KDSmart 3.2.
+
+|br|
+
+Version 3.0.36 : 2019/June/26
+===========================================
+
+- We noticed some devices did not show heatmap.
+- We have tried to fix that issue. If the issue still exists please let Dart know.
+
+|br|
+
+Version 3.0.35 : 2019/May/14
+===========================================
+
+- Your feedback helped us to detect a bug in Multi Trial CSV Import.
+- We have done our best to release a fix as soon as we could.
+
+|br|
+
+Version 3.0.34 : 2019/March/2
+===========================================
+
+- We apologise for any issues that have been experienced in the last few weeks, especially in regards to failed file imports that some users have reported.
 - It is very unfortunate that we only came to know about this major drawback a few days ago but it is resolved now.
 - If you are experiencing similar issues, or anything else, please feel free to email us at kdsmart@diversityarrays.com. We promise that all feedback is taken seriously at DArT.
 
-===========================================
+|br|
+
 Version 3.0.33 : 2019/February/13
 ===========================================
+
 - This release gets rid of an important and hard to find bug of Block trials with attachment.
 - Ever imported a trial which had -1 as Block on import? We did too and took it very seriously. We at DArT believe finding bugs and testing regularly is a good thing.
 - Secret Announcement: there is a 3.1 beta coming.
 
-===========================================
+|br|
+
 Version 3.0.32 : 2019/January/18
 ===========================================
 
 - Block Selection bug fixes.
 - Scoring configuration related bug fixes.
 
-===========================================
+|br|
+
 Version 3.0.31 : 2019/January/06
 ===========================================
 
 - Same fixes as 3.0.30 but fixed patch release.
 
-===========================================
+|br|
+
 Version 3.0.30 : 2019/January/06
 ===========================================
 
 - Google permissions compliance.
 
-===========================================
+|br|
+
 Version 3.0.29 : 2018/December/18
 ===========================================
 
-- Resolved issue with Plot IDs in Block Trials. 
+- Resolved issue with Plot IDs in Block Trials.
 - Other small bug fixes.
 
-===========================================
+|br|
+
 Version 3.0.28 : 2018/December/05
-=========================================== 
+===========================================
 
 - Improved stability of KDSmart.
 - Resolved several issues with Block Trials.
 - Some Block Trials will need to be converted to the new type. Please see http://www.kddart.org/help/kdsmart/html/kdsmart-tips#troubleshooting.html for more information.
 - Language settings now update properly.
 
-===========================================
+|br|
+
 Version 3.0.27 : 2018/November/21
-=========================================== 
+===========================================
 
 - KDSmart can now support Traits and Tags CSV import from Google Drive.
 - We have also made some improvements related to Field View.
 - Updated Translations for German and Spanish.
-- Unfortunately we don't support Jellybean devices anymore. 
+- Unfortunately we don't support Jellybean devices anymore.
 
+|br|
 
-===========================================
 Version 3.0.26 : 2018/October/29
-=========================================== 
+===========================================
 
 - Same fixes a 3.0.25 but fixed patch release.
 
-===========================================
+|br|
+
 Version 3.0.25 : 2018/October/27
-=========================================== 
+===========================================
 
 - KDSmart can scan barcodes with your phone camera in path view.
 - Trait delete crash is fixed.
-- Export and bundle related bug fixes. 
+- Export and bundle related bug fixes.
 
-===========================================
+|br|
+
 Version 3.0.24 : 2018/September/26
-=========================================== 
+===========================================
 
-- Google Drive support for .KDX files with images is now available. 
+- Google Drive support for .KDX files with images is now available.
 - We have also made several bug fixes for better user experience.
 
-===========================================
+|br|
+
 Version 3.0.23 : 2018/September/03
-=========================================== 
+===========================================
 
 - Audio Recording is now available in KDSmart to record and listen to your recordings.
 - Bug fixes relating to non scrolling layouts.
 - Trial Bundle bug fix.
 
-===========================================
+|br|
+
 Version 3.0.22 : 2018/August/01
-=========================================== 
+===========================================
 
 - Bug fix on file name causing a crash, found very rare.
 
-===========================================
+|br|
+
 Version 3.0.20 : 2018/June/25
 ===========================================
 
@@ -118,34 +194,39 @@ Version 3.0.20 : 2018/June/25
 - Google Drive, Dropbox, OneDrive import implemented.
 - Tags Crash fixed.
 
-===========================================
+|br|
+
 Version 3.0.19 : 2018/May/18
 ===========================================
 
 - Auto scoring skipping scored traits on "all-traits" bug fix.
 - Auto scoring continuation bug fix.
 
-===========================================
+|br|
+
 Version 3.0.18 : 2018/May/03
 ===========================================
 
 - Fix database upgrader from version 2.0.73 or earlier to current version
 - Fix incomplete database upgrades due to this issue.
 
-===========================================
+|br|
+
 Version 3.0.17 : 2018/April/28
 ===========================================
 
 - Bug  fix for Android 7.1
 - Fixes with help and Online playstore content.
 
-===========================================
+|br|
+
 Version 3.0.16 : 2018/April/28
 ===========================================
 
 - First Release of KDSmart 3.0 in production.
 
-===========================================
+|br|
+
 Version 2.0.78 : 2018/April/06
 ===========================================
 
@@ -155,7 +236,8 @@ Version 2.0.78 : 2018/April/06
 - Plot Tags and Specimen Tags can be imported with Trial CSV.
 
 
-===========================================
+|br|
+
 Version 2.0.77 : 2018/March/19
 ===========================================
 
@@ -164,47 +246,54 @@ Version 2.0.77 : 2018/March/19
 - Crash associated with Auto scoring sorted
 - New Trial creation will not block user interface
 
-===========================================
+|br|
+
 Version 2.0.76 : 2018/March/18
 ===========================================
 
 - Some new Translations.
 - User interface to ask for resetting Database.
 
-===========================================
+|br|
+
 Version 2.0.75 : 2018/March/17
 ===========================================
 
 - RESET DEMO Database from Settings, to get rid of Demo Trials Problem.
 - Crash associated with Demo Trials will instead show an error.
 
-===========================================
+|br|
+
 Version 2.0.74 : 2018/March/13
 ===========================================
 
 - Block Trials not available in KDS 2.0
 
-===========================================
+|br|
+
 Version 2.0.73 : 2018/January/21
 ===========================================
 
 - Only Database upgrade
 
-===========================================
+|br|
+
 Version 2.0.72 : 2017/August/01
 ===========================================
 
 - KDXchange bug fix for moving KDXplore Traits to KDSmart devices.
 - KDXchange bug fix for moving KDXplore Tags to KDSMart devices.
 
-===========================================
+|br|
+
 Version 2.0.71 : 2017/July/28
 ===========================================
 
 - TagBundle and TraitBundle support for KDSmart 3.0 beta.
 - Database upgrade to support coming release 3.0.
 
-===========================================
+|br|
+
 Version 2.0.70 : 2017/June/26
 ===========================================
 
@@ -212,7 +301,8 @@ Version 2.0.70 : 2017/June/26
 - Using SpecimenCount with #* or #N.
 - Importing a trial checks for Specimen level trait of format #N.
 
-===========================================
+|br|
+
 Version 2.0.69 : 2017/June/17
 ===========================================
 
@@ -222,7 +312,8 @@ Version 2.0.69 : 2017/June/17
 - Help for selecting a Trial Layout is added in Trial screen page.
 
 
-===========================================
+|br|
+
 Version 2.0.68 : 2017/May/25
 ===========================================
 
@@ -233,14 +324,16 @@ Version 2.0.68 : 2017/May/25
 - Trial can belong to different Trial Types.
 
 
-===========================================
+|br|
+
 Version 2.0.67 : 2017/Mar/28
 ===========================================
 
 - KDX export files now use the preference value for databaseVersion
 - The KDSmart process for KDXchange now uses the first address on the same network as KDXplore. This fixes an issue with some Android OS versions.
 
-===========================================
+|br|
+
 Version 2.0.65 : 2017/Mar/08
 ===========================================
 
@@ -251,7 +344,8 @@ Version 2.0.65 : 2017/Mar/08
 - If a Trait Alias exists, it is displayed instead of the Name (this helps in multi-lingual environments).
 - Prepare database for Beta testers of KDSmart version 3.
 
-===========================================
+|br|
+
 Version 2.0.64 : 2017/Feb/20
 ===========================================
 
@@ -260,7 +354,7 @@ Version 2.0.64 : 2017/Feb/20
 - Backup database files before upgrading to a new version.
 - Provide an indicator of the DEMO database on the home screen.
 - "Preparing..." dialog persists until ready for scoring.
-- Online documents are now at  |doc_link| 
+- Online documents are now at  |doc_link|
 
 
 .. |doc_link| raw:: html
@@ -268,7 +362,8 @@ Version 2.0.64 : 2017/Feb/20
    <a href="http://www.kddart.org/help/kdsmart/html/" target="_blank">http://www.kddart.org/help/kdsmart/html/</a>
 
 
-===========================================
+|br|
+
 Version 2.0.63 : 2016/Nov/16
 ===========================================
 
@@ -279,7 +374,8 @@ Version 2.0.63 : 2016/Nov/16
 - Improvements to Demo database examples
 - Add timestamp to generated snapshots in Demo database
 
-===========================================
+|br|
+
 Version 2.0.62 : 2016/Nov/01
 ===========================================
 
@@ -287,7 +383,8 @@ Version 2.0.62 : 2016/Nov/01
 - Fix Trait and Tag transfers from KDXchange
 - Orientation change in Settings no longer changes back to the System Language
 
-===========================================
+|br|
+
 Version 2.0.61 : 2016/Oct/26
 ===========================================
 
@@ -296,7 +393,8 @@ Version 2.0.61 : 2016/Oct/26
 - Allow Trait Description to be blank
 - Normalise GPS Location serialisation
 
-===========================================
+|br|
+
 Version 2.0.60 : 2016/Oct/18
 ===========================================
 
@@ -306,20 +404,23 @@ Version 2.0.60 : 2016/Oct/18
 - Trial data export data uses trialname.csv and trialname_SubplotData.csv
 - Provide battery usage logging via Settings
 
-===========================================
+|br|
+
 Version 2.0.59 : 2016/Oct/16
 ===========================================
 
 - Fix for Specimen Data output which is now available in a different file.
 
-===========================================
+|br|
+
 Version 2.0.58 : 2016/Oct/05
 ===========================================
 
 - Fix for Daylight saving in Elapsed days
 - Fix for 4.3 inches keypad screen in Autoscoring.
 
-===========================================
+|br|
+
 Version 2.0.57 : 2016/Oct/03
 ===========================================
 
@@ -328,7 +429,8 @@ Version 2.0.57 : 2016/Oct/03
 - Small screens up to 4.3' can install and score using KDSmart.
 - Better user experience with Pane Layout to adjust Height allocated for Scoring and Plot information.
 
-===========================================
+|br|
+
 Version 2.0.56 : 2016/Aug/24
 ===========================================
 
@@ -336,13 +438,15 @@ Version 2.0.56 : 2016/Aug/24
 - Trait information color bug for Android Versions <= 20 solved.
 - Trait Level information saving solved.
 
-===========================================
+|br|
+
 Version 2.0.55 : 2016/Aug/05
 ===========================================
 
 - A version released specifically for Tilapia build of Nexus 7 2012, the version failed to support the device.
 
-===========================================
+|br|
+
 Version 2.0.54 : 2016/Jul/24
 ===========================================
 
@@ -350,13 +454,15 @@ Version 2.0.54 : 2016/Jul/24
 - Upload KDDart Trials support KDXplore ->  KDSmart.
 - Download KDDart Trials support KDSmart -> KDXplore.
 
-===========================================
+|br|
+
 Version 2.0.53 : 2016/Jul/08
 ===========================================
 
 - Fixed Autoscoring bug
 
-===========================================
+|br|
+
 Version 2.0.52 : 2016/Jun/27
 ===========================================
 
@@ -369,14 +475,16 @@ Version 2.0.52 : 2016/Jun/27
 - Default display of EDAYS is now day count
 - Fix crash in Settings when Language set to German
 
-===========================================
+|br|
+
 Version 2.0.51 : 2016/Jun/22
 ===========================================
 
 - Fix PlotInfo sync when skipping backwards in auto-advance
 - Provide blue, orange and magenta shades for heatmap
 
-===========================================
+|br|
+
 Version 2.0.50 : 2016/Jun/20
 ===========================================
 
@@ -384,7 +492,8 @@ Version 2.0.50 : 2016/Jun/20
 - Use Flags for easier Language selection
 - Acknowledgement for Partners/Collaborators
 
-===========================================
+|br|
+
 Version 2.0.49 : 2016/Jun/14
 ===========================================
 
@@ -392,11 +501,12 @@ Version 2.0.49 : 2016/Jun/14
    * System Setting
    * English
    * German
-   
+
 - Fix text rendering in Help for non-English languages
 - More translations.
 
-===========================================
+|br|
+
 Version 2.0.48 : 2016/Jun/13
 ===========================================
 
@@ -412,7 +522,8 @@ Version 2.0.48 : 2016/Jun/13
 - Don't use Keyboard Text LARGE setting for small/landscape screens
 - Use correct INT/DEC format for stored sample values (e.g. 2.00 if 2. is entered)
 
-===========================================
+|br|
+
 Version 2.0.47 : 2016/May/21
 ===========================================
 
@@ -429,7 +540,8 @@ Version 2.0.47 : 2016/May/21
 
 - Ensure that "button" is visible when ElapsedDays value is greater than "+3d" option
 
-===========================================
+|br|
+
 Version 2.0.46 : 2016/May/19
 ===========================================
 
@@ -453,7 +565,8 @@ Version 2.0.46 : 2016/May/19
 - Fix creation of Unscored samples for SubPlot
 - Miscellaneous bug fixes
 
-===========================================
+|br|
+
 Version 2.0.45 : 2016/May/06
 ===========================================
 
@@ -466,7 +579,8 @@ Version 2.0.45 : 2016/May/06
 - Ensure that current Trait Value is visible in auto-advance
 - Increased size of Integer/Decimal input text field
 
-===========================================
+|br|
+
 Version 2.0.44 : 2016/Apr/15
 ===========================================
 
@@ -482,13 +596,15 @@ Version 2.0.44 : 2016/Apr/15
 - Restore ability to skip forward in Auto-Advance
 - Miscellaneous Bug fixes
 
-===========================================
+|br|
+
 Version 2.0.43 : 2016/Mar/17
 ===========================================
 
 - TEXT traits scored after DECIMAL or INTEGER now show the keyboard
 
-===========================================
+|br|
+
 Version 2.0.42 : 2016/Mar/16
 ===========================================
 
@@ -502,7 +618,8 @@ Version 2.0.42 : 2016/Mar/16
 - Internal? Remove "TRAILING_DIGITS" TraitNameStyle
 - Internal: EDAYS as integer
 
-===========================================
+|br|
+
 Version 2.0.41 : 2016/Feb/10
 ===========================================
 
@@ -514,25 +631,29 @@ Version 2.0.41 : 2016/Feb/10
 - Provide sorting for lists of Trials, Traits and Tags
 - Baseline support for alternate Locales for numeric Measurements
 
-===========================================
+|br|
+
 Version 2.0.40 : 2016/Jan/25
 ===========================================
 
 - Skip over de-activated Plots or Specimens when looking for next un-scored Samples.
 
-===========================================
+|br|
+
 Version 2.0.39 : 2016/Jan/24
 ===========================================
 
 - Fix Trial data transfer via KDXchange when the scoring sort order has not been previously set in KDXplore (apply usedForScoring and SSO from workPackage)
 
-===========================================
+|br|
+
 Version 2.0.38 : 2016/Jan/24
 ===========================================
 
 - Fix Trial data transfer via KDXchange when the scoring sort order has not been previously set in KDXplore.
 
-===========================================
+|br|
+
 Version 2.0.37 : 2016/Jan/20
 ===========================================
 
@@ -541,14 +662,16 @@ Version 2.0.37 : 2016/Jan/20
 - When auto-advance scoring skips a plot you now get a notification and must confirm that you are at the correct location to continue scoring.
 - Improve cleanup of unused records during Trial deletion
 
-===========================================
+|br|
+
 Version 2.0.36 : 2015/Dec/14
 ===========================================
 
 - Fixes some issues when Trials are transferred from KDXplore
 - Removes trailing YMD timestamp when constructing Trial Name from CSV import file
 
-===========================================
+|br|
+
 Version 2.0.35 : 2015/Dec/02
 ===========================================
 
@@ -556,7 +679,8 @@ Version 2.0.35 : 2015/Dec/02
 - Exporting Traits/Tags to Tablet displays destination in a dialog on completion.
 - Export Folders are now timestamped.
 
-===========================================
+|br|
+
 Version 2.0.34 / 2015/Nov/18
 ===========================================
 
@@ -567,27 +691,31 @@ Version 2.0.34 / 2015/Nov/18
 - Simplified user interface for "Export to KDXplore" for Trials.
 - KDXplore format option now available in "Export to Tablet".
 
-===========================================
+|br|
+
 Version 2.0.33 : 2015/Nov/18
 ===========================================
 
 - Fixes a problem using skipBack/skipForward during Auto-Advance
 - Clear the number of selected plots in FieldView subtitle (as well as the selections).
 
-===========================================
+|br|
+
 Version 2.0.32 : 2015/Nov/17
 ===========================================
 
 - Fixes a Race condition in FieldView initialisation
 - Fix use of ZIP files with Storage Access Facility
 
-===========================================
+|br|
+
 Version 2.0.31 : 2015/Nov/17
 ===========================================
 
 - Decimal points are now re-enabled in the Keypad entry method.
 
-===========================================
+|br|
+
 Version 2.0.29 : 2015/Nov/16
 ===========================================
 
@@ -596,7 +724,8 @@ Version 2.0.29 : 2015/Nov/16
 - Resolved a database upgrade problem
 - Resolve KDXchange server life-cycle issues
 
-===========================================
+|br|
+
 Version 2.0.28 : 2015/Nov/12
 ===========================================
 
@@ -612,7 +741,8 @@ Version 2.0.28 : 2015/Nov/12
 - Support white background for scoring setup and main screen
 - Misc bug fixes
 
-===========================================
+|br|
+
 Version 2.0.27 : 2015/Nov/01
 ===========================================
 
@@ -634,7 +764,8 @@ Version 2.0.27 : 2015/Nov/01
 - Icons in Scoring Setup
 - Misc bug fixes
 
-===========================================
+|br|
+
 Version 2.0.26 : 2015/Oct/11
 ===========================================
 
@@ -644,7 +775,8 @@ Version 2.0.26 : 2015/Oct/11
 - Show Plot Type (i.e. "Checks") in plot information
 - Miscellaneous fixes
 
-===========================================
+|br|
+
 Version 2.0.25 : 2015/Oct/08
 ===========================================
 
@@ -665,7 +797,8 @@ Version 2.0.25 : 2015/Oct/08
 - Preference Icons for Default Visit Order
 - Miscellaneous fixes
 
-===========================================
+|br|
+
 Version 2.0.24 : 2015/09/25
 ===========================================
 
@@ -677,7 +810,8 @@ Version 2.0.24 : 2015/09/25
 - Fixed issue when exporting Trial as ZIP
 - Improved barcode generation (Demo database reset)
 
-===========================================
+|br|
+
 Version 2.0.23 : 2015/Jul/24
 ===========================================
 
@@ -699,7 +833,8 @@ KDXchange:
 - Remove refs to "Old Scoring Dialogs"
 
 
-===========================================
+|br|
+
 Version 2.0.22  2015/Sep/16
 ===========================================
 
@@ -724,7 +859,8 @@ Version 2.0.22  2015/Sep/16
 
 Check at http://software.kddart.com/KDSmart/ for more information.
 
-===========================================
+|br|
+
 Version 2.0.21 : 2015/Sep/15
 ===========================================
 
@@ -748,23 +884,25 @@ Version 2.0.21 : 2015/Sep/15
 
 Check at http://software.kddart.com/KDSmart/ for further information.
 
-===========================================
+|br|
+
 Version 2.0.20 : 2015/Sep/07
 ===========================================
 
 
-===========================================
+|br|
+
 Version 2.0.19 : 2015/Jul/03
 ===========================================
 
 Lockdown mode
-""""""""""""""
+-------------
 
 -   Available from main screen for DemoDatabase.
 -   Preferences screen allows setting of Lockdown Password.
 
 Import Trial/Trait
-""""""""""""""""""
+------------------
 
 -   Importing Integer values will also accept a decimal point with only trailing zeroes.
 -   Use default Plot/Column/Row names from Preferences
@@ -776,14 +914,14 @@ Import Trial/Trait
 -   Add "No Instances" Trait Name option.
 
 Preferences Screen:
-""""""""""""""""""""
+-------------------
 
 -   Improve heading/sub-heading visibility.
 -   Add default Plot/Column/Row names for Import
 -   Use images for OrganismType selection
 
 Scoring:
-""""""""
+---------
 
 -   Make all Scoring screen icons use black on white.
 -   Field View: improve visibility. Improve placeholder functionality (before main version after 2.0.10)
@@ -797,7 +935,7 @@ Scoring:
 
 
 Other
-"""""
+-----
 -   Use context-sensitive images for Trial Layout configuration.
 -   Extend use of user-defined names for Plot/Column/Row.
 -   Performance improvements when switching databases.
@@ -821,16 +959,18 @@ Other
 -   Miscellaneous bug fixes.
 
 Documentation:
-"""""""""""""""
+--------------
 
 - Updated UG Appendices for TraitDataType, CSV Import and CSV Export file formats.
 
 Internal:
-"""""""""
+---------
 
 - Architectural Changes to aid KDXplore data interchange (e.g. BMS FieldLog XLS files)
 
-===========================================
+
+|br|
+
 Version 2.0.18 : 2015/Jun/04
 ===========================================
 
@@ -849,7 +989,8 @@ Version 2.0.18 : 2015/Jun/04
 - Using "Link:" prefix for the join ids in ZIP export
 - Preference (Settings) changes
 
-===========================================
+|br|
+
 Version 2.0.17 : 2015/Jun/02
 ===========================================
 
@@ -859,7 +1000,8 @@ Version 2.0.17 : 2015/Jun/02
 - Fix crash on Landscape/Portrait orientation change while editing TrialLayout
 - Known issue: the "Source" prefix is missing from the samples.csv file so it has two "SampleId" columns
 
-===========================================
+|br|
+
 Version 2.0.16 : 2015/Jun/02
 ===========================================
 
@@ -876,7 +1018,8 @@ Version 2.0.16 : 2015/Jun/02
 - Enable DatabaseId for Export
 - Improve error reporting (instead of crashes)
 
-===========================================
+|br|
+
 Version 2.0.15 : 2015/May/29
 ===========================================
 
@@ -885,10 +1028,10 @@ Version 2.0.15 : 2015/May/29
 - Details on Forum
 
 Application
-"""""""""""
+-----------
 
 Database
-********
+~~~~~~~~
 
 - Improve robustness of database upgrades
 - Added Trial Features:
@@ -903,7 +1046,7 @@ Database
 
 
 Import
-******
+~~~~~~
 
 - Allow selection of .TXT as well as .CSV for CSV import
 - Exclude Empty/Blank Headings from Import Setup
@@ -919,10 +1062,10 @@ Import
 
 
 Export
-******
+~~~~~~~
 
 - Provide Trial Export variants
-   
+
    * CSV: Plots-Only
    * CSV: Plots & Specimens
    * ZIP: All data (includes Attachments)
@@ -934,7 +1077,7 @@ Export
 - Provide Export All if no Traits/Tags selected
 
 Manage Traits
-*************
+~~~~~~~~~~~~~
 
 - Add Display of TraitUnit
 - Correct selection of TraitDataType of ELAPSED_DAYS
@@ -945,7 +1088,7 @@ Manage Traits
 
 
 Other Issues
-************
+~~~~~~~~~~~~
 
 - Fix navigation issues when scoring on small screens (Phone sized)
 - Allow clearing of Active Trial (long press on Trial Name)
@@ -953,7 +1096,7 @@ Other Issues
 
 
 FieldView
-*********
+~~~~~~~~~
 
 - Reduce size of PlotCell in placeholder FieldView
 - Architectural work for future VisitOrder improvements
@@ -962,7 +1105,8 @@ FieldView
 - General Code Cleanup
 
 Documentation
-"""""""""""""
+--------------
+
 - Updates to Appendices:
 - A: Trait Data Types
 - B: CSV Import Formats
@@ -970,7 +1114,8 @@ Documentation
 - In particular, describe SpecimenCount options for Trial Import.
 
 
-===========================================
+|br|
+
 Version 2.0.14 : 2015/May/22
 ===========================================
 
@@ -984,7 +1129,8 @@ Version 2.0.14 : 2015/May/22
 - Export directory now user choice
 - skipped 11,12 to bring version code into alignment with fix-number
 
-===========================================
+|br|
+
 Version 2.0.10 : 2015/May/20
 ===========================================
 
@@ -998,7 +1144,8 @@ Version 2.0.10 : 2015/May/20
 
 
 
-===========================================
+|br|
+
 Version 2.0.9 : 2015/May/15
 ===========================================
 
@@ -1016,13 +1163,15 @@ Version 2.0.9 : 2015/May/15
 - CSV Import UI
 - Documentation updates
 
-===========================================
+|br|
+
 Version 2.0.8 : 2015/May/15
 ===========================================
 
 - 2.0.7 changed an Image to an ImageButton in Trait Instance setup and this unexpectedly affected all functionality.
 
-===========================================
+|br|
+
 Version 2.0.7 : 2015/May/15
 ===========================================
 
@@ -1035,7 +1184,8 @@ Version 2.0.7 : 2015/May/15
 - Remove extra prompt for Specimen Activate/Deactivate
 
 
-===========================================
+|br|
+
 Version 2.0.6 : 2015/May/13
 ===========================================
 
@@ -1050,7 +1200,8 @@ Version 2.0.6 : 2015/May/13
 - Sample Rows are now hidden when a Specimen is deactivated
 - Disable menu items that aren't currently activated
 
-===========================================
+|br|
+
 Version 2.0.5 : 2015/May/12
 ===========================================
 
@@ -1064,7 +1215,8 @@ Version 2.0.5 : 2015/May/12
 
 - Note that the Map is a temporary placeholder and will be replaced by a fully functional version in a future alpha release.
 
-===========================================
+|br|
+
 Version 2.0.4(7) : 2015/May/08
 ===========================================
 
@@ -1097,7 +1249,8 @@ Version 2.0.4(7)
 - Add "Planting Date" to CSV import
 - Add MISSING value (not yet in UI)
 
-===========================================
+|br|
+
 Version 2.0.3 : 2015/May/06
 ===========================================
 
@@ -1112,7 +1265,8 @@ Version 2.0.3 : 2015/May/06
 - Remove Group Indicator for single instance Traits
 - Move Select/All and Select/None to the head of the Trait Instance list
 
-===========================================
+|br|
+
 Version 2.0.2 : 2015/Apr/10
 ===========================================
 
@@ -1130,18 +1284,22 @@ Version 2.0.2 : 2015/Apr/10
 - Increased tablet support
 - ... and lots more!
 
-===========================================
+|br|
+
 2.0.1 : 2015/Mar/30
 ===========================================
 
-===========================================
+|br|
+
 2.0.alpha3 : 2015/Mar/27
 ===========================================
 
-===========================================
+|br|
+
 2.0.alpha1 : 2015/Mar/12
 ===========================================
 
-===========================================
+|br|
+
 2.0.alpha0 : 2015/Feb/25
 ===========================================

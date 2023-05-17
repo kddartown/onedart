@@ -1,0 +1,1041 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-18 08:18+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/imagerefs.txt:5
+#: ../../source/imagerefs.txt:5
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+#: ../../source/imagerefs.txt:9
+#: ../../source/imagerefs.txt:9
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:16
+#: ../../source/kdsmarthelp.rst:16
+#: ../../source/kdsmarthelp.rst:16
+msgid "menu_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:19
+msgid "image4"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:22
+msgid "image5"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:25
+msgid "image6"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:28
+msgid "image7"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:39
+#: ../../source/kdsmarthelp.rst:276
+#: ../../source/kdsmarthelp.rst:282
+msgid "Scoring"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:41
+msgid "Scoring is the collecting of data for a trial with KDSmart. It mostly involves applying values to predefined traits in that trial, but could also include adding tags, notes, and attachments to plots or sub-plots as well."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:43
+msgid "This page will provide information on how to score trials, as well as some scoring options and features."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:45
+msgid "For more information on scoring and how it works within the context of the KDDart Platform, see the *KDSmart* section of the Tutorials page at: http://www.kddart.org/help/kdtutorials/html/KDSTutorial.html"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:47
+#: ../../source/kdsmarthelp.rst:55
+#: ../../source/kdsmarthelp.rst:62
+#: ../../source/kdsmarthelp.rst:85
+#: ../../source/kdsmarthelp.rst:87
+#: ../../source/kdsmarthelp.rst:93
+#: ../../source/kdsmarthelp.rst:116
+#: ../../source/kdsmarthelp.rst:118
+#: ../../source/kdsmarthelp.rst:124
+#: ../../source/kdsmarthelp.rst:147
+#: ../../source/kdsmarthelp.rst:160
+#: ../../source/kdsmarthelp.rst:183
+#: ../../source/kdsmarthelp.rst:186
+#: ../../source/kdsmarthelp.rst:209
+#: ../../source/kdsmarthelp.rst:211
+#: ../../source/kdsmarthelp.rst:218
+#: ../../source/kdsmarthelp.rst:241
+#: ../../source/kdsmarthelp.rst:245
+#: ../../source/kdsmarthelp.rst:268
+#: ../../source/kdsmarthelp.rst:273
+#: ../../source/kdsmarthelp.rst:372
+#: ../../source/kdsmarthelp.rst:389
+#: ../../source/kdsmarthelp.rst:394
+#: ../../source/kdsmarthelp.rst:401
+#: ../../source/kdsmarthelp.rst:411
+#: ../../source/kdsmarthelp.rst:432
+#: ../../source/kdsmarthelp.rst:439
+#: ../../source/kdsmarthelp.rst:462
+#: ../../source/kdsmarthelp.rst:486
+#: ../../source/kdsmarthelp.rst:492
+#: ../../source/kdsmarthelp.rst:498
+#: ../../source/kdsmarthelp.rst:521
+#: ../../source/kdsmarthelp.rst:525
+#: ../../source/kdsmarthelp.rst:531
+#: ../../source/kdsmarthelp.rst:554
+#: ../../source/kdsmarthelp.rst:558
+#: ../../source/kdsmarthelp.rst:581
+#: ../../source/kdsmarthelp.rst:589
+#: ../../source/kdsmarthelp.rst:612
+#: ../../source/kdsmarthelp.rst:638
+#: ../../source/kdsmarthelp.rst:658
+#: ../../source/kdsmarthelp.rst:662
+#: ../../source/kdsmarthelp.rst:735
+#: ../../source/kdsmarthelp.rst:742
+#: ../../source/kdsmarthelp.rst:765
+#: ../../source/kdsmarthelp.rst:774
+#: ../../source/kdsmarthelp.rst:797
+#: ../../source/kdsmarthelp.rst:841
+msgid "|br|"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:50
+msgid "The Scoring Screen"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:52
+msgid "The **Scoring Screen** that you will be presented with when you start scoring will depend on the *Scoring View* that you choose when configuring the collection parameters of your trial. For more information see the *Collection Parameters* section of the Trial Details Page at: http://www.kddart.org/help/kdsmart/html/preparation.html#collection-parameters"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:58
+#: ../../source/kdsmarthelp.rst:83
+#: ../../source/kdsmarthelp.rst:83
+msgid "Sheet Scoring Mode"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:60
+msgid "**Sheet Scoring Mode** is a simple-sheet style view, similar to CSV or Excel document. This mode presents all traits for plots and sub-plots in a spreadsheet and selecting a cell will allow for entering of data. It has limited plot navigation features and can be slower to score, but many users find the view familiar and easy to use."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:66
+#: ../../source/kdsmarthelp.rst:97
+#: ../../source/kdsmarthelp.rst:128
+#: ../../source/kdsmarthelp.rst:164
+#: ../../source/kdsmarthelp.rst:190
+#: ../../source/kdsmarthelp.rst:222
+#: ../../source/kdsmarthelp.rst:249
+#: ../../source/kdsmarthelp.rst:294
+#: ../../source/kdsmarthelp.rst:318
+#: ../../source/kdsmarthelp.rst:374
+#: ../../source/kdsmarthelp.rst:403
+#: ../../source/kdsmarthelp.rst:443
+#: ../../source/kdsmarthelp.rst:464
+#: ../../source/kdsmarthelp.rst:502
+#: ../../source/kdsmarthelp.rst:535
+#: ../../source/kdsmarthelp.rst:562
+#: ../../source/kdsmarthelp.rst:593
+#: ../../source/kdsmarthelp.rst:644
+#: ../../source/kdsmarthelp.rst:688
+#: ../../source/kdsmarthelp.rst:713
+#: ../../source/kdsmarthelp.rst:746
+#: ../../source/kdsmarthelp.rst:778
+msgid "|center-start|"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:74
+#: ../../source/kdsmarthelp.rst:105
+#: ../../source/kdsmarthelp.rst:136
+#: ../../source/kdsmarthelp.rst:172
+#: ../../source/kdsmarthelp.rst:198
+#: ../../source/kdsmarthelp.rst:230
+#: ../../source/kdsmarthelp.rst:257
+#: ../../source/kdsmarthelp.rst:302
+#: ../../source/kdsmarthelp.rst:326
+#: ../../source/kdsmarthelp.rst:380
+#: ../../source/kdsmarthelp.rst:409
+#: ../../source/kdsmarthelp.rst:451
+#: ../../source/kdsmarthelp.rst:482
+#: ../../source/kdsmarthelp.rst:510
+#: ../../source/kdsmarthelp.rst:543
+#: ../../source/kdsmarthelp.rst:570
+#: ../../source/kdsmarthelp.rst:601
+#: ../../source/kdsmarthelp.rst:650
+#: ../../source/kdsmarthelp.rst:696
+#: ../../source/kdsmarthelp.rst:721
+#: ../../source/kdsmarthelp.rst:754
+#: ../../source/kdsmarthelp.rst:786
+msgid "|center-end|"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:90
+#: ../../source/kdsmarthelp.rst:114
+#: ../../source/kdsmarthelp.rst:114
+msgid "Path Scoring Mode"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:91
+msgid "In **Path Scoring Mode**, you will only select one plot at a time, for which you will be able to see all plot info, including plot traits, sub-plots, sub-plot traits, tags, etc. This mode is designed for easy navigation between plots as you physically walk through a field, score the traits, then move to the next plot on the **Scoring Screen**. This also allows the user to choose the **Auto-Advance Mode** which is the quickest way to score but will be explained further below. Additionally, **Path Scoring Mode** includes **Field View** which displays a top-down view of your field."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:121
+#: ../../source/kdsmarthelp.rst:145
+#: ../../source/kdsmarthelp.rst:145
+msgid "Field Scoring Mode"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:122
+msgid "**Field Scoring Mode** is a new scoring method that uses **Field View** as the default for the **Scoring Screen**, and the selection of a plot opens **Sheet Scoring View**. The new bulk scoring feature is also exclusively available in **Field Scoring Mode**. See the **Bulk Scoring** section below for more information on using this feature."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:150
+msgid "Screen Orientation"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:152
+msgid "The **Scoring Screen** in KDSmart (in **Path Scoring Mode**) can be oriented to best suit the user who is scoring. You can choose between **Portrait** or **Landscape Orientation**, and **Left-handed** or **Right-handed Mode**. The default is **Right-handed/Portrait Orientation** but this can easily be changed. |br| |br|"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:154
+msgid "To change screen orientation, select the |menu_btn| **Menu Button** and then the **Change Screen Orientation Button**. You will have a few seconds to physically tilt your device into the **Landscape** or **Portrait Orientation** and the orientation will be set. |br|"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:157
+msgid "Landscape Orientations"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:181
+#: ../../source/kdsmarthelp.rst:181
+msgid "Right-handed/Landscape Orientation"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:207
+#: ../../source/kdsmarthelp.rst:207
+msgid "Left-handed/Landscape Orientation"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:213
+msgid "Select the |menu_btn| **Menu Button** in the top right-hand corner of the **Scoring Screen** to be presented with menu options. Select the **Swap Sides Button** to swap between **Right-handed** and **Left-handed Mode**. |br|"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:215
+msgid "Portrait Orientations"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:239
+#: ../../source/kdsmarthelp.rst:239
+msgid "Left-handed Portrait Orientation"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:266
+#: ../../source/kdsmarthelp.rst:266
+msgid "Right-handed Portrait Orientation"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:270
+msgid "**Sheet Scoring Mode** and the upcoming **Field Scoring Mode** can operate in **Portrait** or **Landscape Mode** but there is no **Left-handed** or **Right-handed Mode**."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:277
+msgid "Applying trait values is the primary function of scoring trials. Selecting a trait to score will be different depending on what scoring mode you are using, however applying traits will always be the same as each scoring mode utilises the same **Trait Measurement Screen**. Follow the instructions below to learn how to score a trait."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:287
+#: ../../source/kdsmarthelp.rst:622
+#: ../../source/kdsmarthelp.rst:681
+#: ../../source/kdsmarthelp.rst:809
+#: ../../source/kdsmarthelp.rst:828
+msgid "**Step**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:288
+#: ../../source/kdsmarthelp.rst:348
+#: ../../source/kdsmarthelp.rst:474
+#: ../../source/kdsmarthelp.rst:623
+#: ../../source/kdsmarthelp.rst:682
+#: ../../source/kdsmarthelp.rst:810
+#: ../../source/kdsmarthelp.rst:829
+msgid "**Action**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:289
+#: ../../source/kdsmarthelp.rst:419
+#: ../../source/kdsmarthelp.rst:624
+#: ../../source/kdsmarthelp.rst:683
+#: ../../source/kdsmarthelp.rst:811
+#: ../../source/kdsmarthelp.rst:830
+msgid "**1.**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:290
+msgid "To open the **Trait Measurement Screen**, select any trait on the **Scoring Screen**. You can choose a trait with no value such as the trait outlined at |circle1| in the below image, or a trait that already has a value such as the trait outlined at |circle2|."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:311
+#: ../../source/kdsmarthelp.rst:311
+msgid "Selecting a Trait to Score"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:312
+#: ../../source/kdsmarthelp.rst:421
+#: ../../source/kdsmarthelp.rst:626
+#: ../../source/kdsmarthelp.rst:706
+#: ../../source/kdsmarthelp.rst:813
+#: ../../source/kdsmarthelp.rst:832
+msgid "**2.**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:313
+msgid "The screen below is the **Trait Measurement Screen** which allows you to choose a trait value. This will be different depending on the trait data type - this example is of an *elapsed days* trait. You can also swipe right to see more information about the current plot. Either select a value or choose one of the trait scoring options at the bottom of the screen e.g. **Reverse Button** to go to the previous trait. The table below provides information on the scoring options."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:335
+#: ../../source/kdsmarthelp.rst:335
+msgid "Selecting a Trait to Value"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:336
+#: ../../source/kdsmarthelp.rst:423
+#: ../../source/kdsmarthelp.rst:628
+#: ../../source/kdsmarthelp.rst:708
+#: ../../source/kdsmarthelp.rst:815
+#: ../../source/kdsmarthelp.rst:834
+msgid "**3.**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:337
+msgid "After applying a trait, you will be taken back to the **Scoring Screen**. Select another trait to choose a value for it and repeat the process until you have scored all traits."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:343
+msgid "Scoring Options of the Trait Measurements Screen"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:347
+#: ../../source/kdsmarthelp.rst:473
+msgid "**Button**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:349
+msgid "|cancel_btn| **Cancel Button**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:884
+#: ../../source/kdsmarthelp.rst:884
+msgid "cancel_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:350
+msgid "Cancels the scoring of the selected trait. Cancelling will return the user to the **Scoring Screen**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:351
+msgid "|backspace_btn| **Delete Value Button**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:893
+#: ../../source/kdsmarthelp.rst:893
+msgid "backspace_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:352
+msgid "Deletes a current value and returns the user to the **Scoring Screen**."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:353
+msgid "|missing_btn| **Missing Value Button**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:878
+#: ../../source/kdsmarthelp.rst:878
+msgid "missing_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:354
+msgid "Applies the value of *Missing* to a trait instance. This can be used if the actual value is missing."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:355
+msgid "|na_btn| **Not Applicable Button**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:890
+#: ../../source/kdsmarthelp.rst:890
+msgid "na_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:356
+msgid "Applies the value of *Not Applicable* to a trait instance. This can be used when the trait does not need to be scored for the selected plot or sub-plot."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:357
+msgid "|accept_btn| **Accept Value Button**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:881
+#: ../../source/kdsmarthelp.rst:881
+msgid "accept_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:358
+msgid "Accepts and applies a value that has been entered such as confirming a decimal trait."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:359
+msgid "|calendar_btn| **Date Button** (only available for *elapsed days* traits)"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:887
+#: ../../source/kdsmarthelp.rst:887
+msgid "calendar_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:360
+msgid "Opens a *Date Picker* so that a date can be chosen."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:361
+msgid "|reverse_btn| **Reverse Button** (only available in **Auto-Advance Mode**)"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:863
+#: ../../source/kdsmarthelp.rst:863
+#: ../../source/kdsmarthelp.rst:863
+msgid "reverse_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:362
+msgid "Navigates to the previous trait instance."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:363
+msgid "|forward_btn| **Forward Button** (only available in **Auto-Advance Mode**)"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:866
+#: ../../source/kdsmarthelp.rst:866
+#: ../../source/kdsmarthelp.rst:866
+msgid "forward_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:364
+msgid "Navigates to the next trait instance by skipping the current trait."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:369
+msgid "The video below is a demonstration of scoring at trial in KDSmart. You will be able to see how trait values are applied to trait instances. |br| Please note that whilst this video demonstrates scoring in **Path Scoring Mode**, the application of trait values is done from the same **Trait Measurement Screen** in any scoring mode."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:385
+msgid "The video available at https://www.youtube.com/embed/2qilBe2xGwM is a demonstration of scoring at trial in KDSmart. You will be able to see how trait values are applied to trait instances. Please note that whilst this video demonstrates scoring in **Path Scoring Mode**, the application of trait values is done from the same **Trait Measurement Screen** in any scoring mode."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:392
+msgid "Additionally, the sections below provide further information on bulk scoring and navigation between plots."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:397
+msgid "Bulk Scoring"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:399
+msgid "The new bulk scoring feature allows users to apply a single value to many plots or sub-plots. This can dramatically increase efficiency of scoring in some situations but is only available in **Field Scoring Mode**. See the instructions below for how to bulk score plots and sub-plots."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:413
+msgid "Plot Bulk Scoring"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:417
+msgid "Step"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:418
+msgid "Action"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:420
+msgid "Open a trial in **Field Scoring Mode** and select the plots that you need to apply the same trait value for. A *long-press* will enter you into select mode then you can add any plot to your selection."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:422
+msgid "Select the **Plot Bulk Scoring Button** to open the **Bulk Scoring Screen**. All plot traits will be listed and the number of trait that are already scored will be listen in the **# Already Scored Column**."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:424
+msgid "Select a trait to open a **Trait Measurement Screen**. Select a value and you will be automatically returned to the **Bulk Scoring Screen**."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:425
+#: ../../source/kdsmarthelp.rst:630
+#: ../../source/kdsmarthelp.rst:731
+#: ../../source/kdsmarthelp.rst:817
+#: ../../source/kdsmarthelp.rst:836
+msgid "**4.**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:426
+msgid "If there are plots that are already scored, you will need to select the **Overwrite Trait Values Checkbox** to overwrite the previous values."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:427
+#: ../../source/kdsmarthelp.rst:635
+#: ../../source/kdsmarthelp.rst:838
+msgid "**5.**"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:428
+msgid "The **Undo Button** for that trait will now be available in case you selected the wrong value."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:430
+msgid "Sub-plot bulk scoring is the exact same process as bulk scoring plots. However, the **Sub-plot Bulk Scoring Button** will only be available if there is only one plot selected."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:435
+msgid "Navigating Between Plots"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:437
+msgid "It is crucial that users are able to navigate between plots quickly so that trials can be efficiently scored. This is why there are plenty of options for navigating between plots. The video referenced above (Scoring a Trial in KDSmart) also outlines the navigation methods in **Path Scoring Mode**. See the sub-sections below for more information on navigation between plots."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:460
+#: ../../source/kdsmarthelp.rst:460
+msgid "Navigation Options"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:468
+msgid "Navigation Options in Path Scoring Mode"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:475
+msgid "|circle1|"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:476
+#: ../../source/kdsmarthelp.rst:489
+msgid "Advance/Retreat"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:477
+msgid "|circle2|"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:478
+#: ../../source/kdsmarthelp.rst:495
+msgid "Plot Selection"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:479
+msgid "|circle3|"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:480
+#: ../../source/kdsmarthelp.rst:528
+#: ../../source/kdsmarthelp.rst:552
+#: ../../source/kdsmarthelp.rst:552
+msgid "Field View"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:484
+msgid "The information in this section is about navigation in **Path Scoring Mode**. Scoring in **Sheet Scoring Mode** is simpler, as you only need to select a cell to score it, but it can also be slower than using **Path Scoring Mode**."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:490
+msgid "Advancing and retreating is moving to the next or previous plot that is determined by your collection order. For example, if you are starting on plot 1, you can advance to plot 2 and then retreat back to plot 1. The |advance_btn_black| **Advance Button** will move you to the next plot and the |retreat_btn_black|  **Retreat Button** will move you to the previous plot."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:860
+#: ../../source/kdsmarthelp.rst:860
+#: ../../source/kdsmarthelp.rst:860
+msgid "advance_btn_black"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:857
+#: ../../source/kdsmarthelp.rst:857
+#: ../../source/kdsmarthelp.rst:857
+msgid "retreat_btn_black"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:496
+msgid "Plot selection is directly entering the number or x/y coordinates of a plot to navigate to it. Selecting the **Plot Button** as outlined in |circle2| in the image above will display the **Plot Selection Window** as below:"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:519
+#: ../../source/kdsmarthelp.rst:519
+msgid "Plot Selection Window"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:523
+msgid "You can navigate to a plot by either choosing it's x/y coordinates or the plot number and then selecting the **Go Button** to confirm."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:529
+msgid "**Field View** is a top-down look at the field which offers an alternative way to navigate between plots, search plots, and produce heatmaps. It will provide different information depending on the level that it is being viewed at (how zoomed in/out you are). At a minimum, the collection order (the arrows in each plot) and the percentage of each plot scored (the grey bar in each plot) will be displayed. Select the |zoom_in_btn|/|zoom_out_btn| **Zoom In/Out Button** to reach higher or lower level views. Lower level views have more information about tags, traits, trait values, etc.  The image below is an example of **Field View** at the *highest* level:"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:872
+#: ../../source/kdsmarthelp.rst:872
+msgid "zoom_in_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:875
+#: ../../source/kdsmarthelp.rst:875
+msgid "zoom_out_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:556
+msgid "A *long press* on a plot will reveal a window with information on that plot. A *short press* will provide both plot information and options for selecting multiple plots and navigating to that plot (as seen in the image below). Select the **Go To Button** to navigate to the selected plot."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:579
+#: ../../source/kdsmarthelp.rst:579
+msgid "Field View Plot Options"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:584
+msgid "Auto-Advance"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:585
+msgid "The quickest way to score traits is to use the **Auto-Advance Mode**. Auto-advance also allows the user to concentrate on only those traits for which a measurement has not been provided."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:587
+msgid "When the user provides a value for a trait, KDSmart moves the focus to the next un-scored trait, skipping over those traits (and sometimes entire plots) which have already been scored. This is useful when starting scoring as it quicker and when scoring has been finished if the user needs to find any un-scored plots or traits. The following video and instructions demonstrate how to use *Auto-Advance*:"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:610
+#: ../../source/kdsmarthelp.rst:610
+msgid "Auto-Advance Options"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:617
+msgid "Using Auto-Advance"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:625
+msgid "Select the |autoadvance_btn| **Start Auto-Advance Button** at the top menu of the **Scoring Screen** to turn on **Auto-Advance Mode**. This will provide auto-advance options as seen in the image above."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:851
+#: ../../source/kdsmarthelp.rst:851
+msgid "autoadvance_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:627
+msgid "Choose either the *All Traits* option to score all traits within the dialogue box, or the *Un-scored Traits* option."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:629
+msgid "Begin scoring by selecting the blank area next to an un-scored trait. This displays a new screen with the data entry form for the trait on one side and the *Plot Information* on the other side (this is demonstrated in the image above)."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:633
+msgid "The |advance_btn_black|/|retreat_btn_black| **Advance/Retreat Buttons** are no longer available, but there are |reverse_btn|/|forward_btn| **Backward/Reverse Buttons** along the bottom that may be used if you want to skip to the next trait or revisit the previous one. If a plot is skipped, then KDSmart will let the user know this by:"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:632
+msgid "Vibrating the device;"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:633
+msgid "Posting a system notification; and"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:634
+msgid "Displaying a popup message for the user to confirm that they have reached the correct plot to continue scoring."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:636
+msgid "Return to the **Scoring Screen** and select the |autoadvance_pause_btn| **Stop Auto-Advance Button** then the **Cancel Button** to stop auto-advancing between traits."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:854
+#: ../../source/kdsmarthelp.rst:854
+msgid "autoadvance_pause_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:655
+msgid "The video available at https://www.youtube.com/embed/vsnCG3Ef40c is a demonstration and instructions on the use of *Auto-Advance*."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:660
+msgid "The Auto Advance feature is only available in **Path Scoring Mode**."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:666
+#: ../../source/kdsmarthelp.rst:676
+#: ../../source/kdsmarthelp.rst:730
+#: ../../source/kdsmarthelp.rst:730
+msgid "Assigning Tags"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:668
+msgid "Tags are short text descriptions that are designed to be like reusable notes that can be applied to plots or sub-plots. Along with scoring traits, assigning tags is a part of the scoring process. One or more tags may be assigned to a plot (or sub-plot) or reassigned if required. More information about tags and their management can be found in the *Tags* page at http://www.kddart.org/help/kdsmart/html/tags.html"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:671
+msgid "To assign a tag in **Path Scoring Mode**, follow these steps:"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:684
+msgid "Locate a plot or sub-plot to tag in the **Scoring Screen**."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:705
+#: ../../source/kdsmarthelp.rst:705
+msgid "Tags on the Scoring Screen"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:707
+msgid "Select the |assign_tag_btn| **Assign Tag Button**."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:929
+#: ../../source/kdsmarthelp.rst:929
+#: ../../source/kdsmarthelp.rst:929
+msgid "assign_tag_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:709
+msgid "Select one or more tags to assign them to a plot."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:732
+msgid "Select the **Confirm Button** (tick) to save changes and return to the **Scoring Screen**. This displays the tag short name above the traits for the selected plot."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:738
+#: ../../source/kdsmarthelp.rst:763
+#: ../../source/kdsmarthelp.rst:763
+msgid "Adding Notes"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:740
+msgid "Notes can be added on each plot or sub-plot in a trial. In any scoring mode, this can be done by selecting the |plot_btn|/|subplot_btn| **Plot/Sub-plot Button** which will display some options such as an **Edit Note Button**. This can be seen in the image below (**Path Scoring Mode**)."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:944
+#: ../../source/kdsmarthelp.rst:944
+msgid "plot_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:947
+#: ../../source/kdsmarthelp.rst:947
+msgid "subplot_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:767
+msgid "The **Sub-plot Button** in this example is of maize but it may be different depending on your settings e.g. a leaf or DNA icon. You can see that you can also deactivate plots and sub-plots in this menu and add sub-plots if needed."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:770
+msgid "Adding Attachments"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:772
+msgid "Both images and audio files can be attached to each plot and sub-plot in KDSmart and can be used instead of notes or tags. The |attachment_btn| **Attachment Button** can be found on each plot and sub-plot (next to the |assign_tag_btn| **Tag Button**) and will open the **Attachment Screen** as seen below:"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:932
+#: ../../source/kdsmarthelp.rst:932
+msgid "attachment_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:795
+#: ../../source/kdsmarthelp.rst:795
+msgid "Attachments Screen"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:799
+msgid "There are two attachments currently saved in the example above; one is an image and one is an audio file. This can be seen by the .jpg and .3gp file extensions. There are two tables below with instructions on attaching images and audio files."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:804
+msgid "Attaching and Viewing Image Files"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:812
+msgid "Image files can be attached by taking a picture with the device camera. Select the |camera_btn| **Camera Button** to open the device's camera application."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:899
+#: ../../source/kdsmarthelp.rst:899
+msgid "camera_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:814
+msgid "Take a picture and select the **Confirm Button**. This will look different depending on what device you are using."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:816
+msgid "The new attachment should appear in the list of attachments as seen in the image above. Select the |view_btn| **View Button** to open the image."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:917
+#: ../../source/kdsmarthelp.rst:917
+msgid "view_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:818
+msgid "Select the |discard_btn| **Delete Button** to delete the image. Please note that there is no way to reverse a deletion."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:902
+#: ../../source/kdsmarthelp.rst:902
+#: ../../source/kdsmarthelp.rst:902
+msgid "discard_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:823
+msgid "Attaching and Listening to Audio Files"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:831
+msgid "Audio files can be attached by making an audio recording with the device microphone. Select the |record_btn| **Record Button** to start recording. The button will turn red to indicate that recording has started."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:914
+#: ../../source/kdsmarthelp.rst:914
+#: ../../source/kdsmarthelp.rst:914
+msgid "record_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:833
+msgid "The |pause_btn| **Pause Button** will now be available if you want to pause the recording of the audio file. If you pause the audio recording, the button will turn red to indicate that recording is currently paused. Press the |pause_btn| **Pause Button** again to resume recording."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:905
+#: ../../source/kdsmarthelp.rst:905
+#: ../../source/kdsmarthelp.rst:905
+msgid "pause_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:835
+msgid "Select the |record_btn| **Record Button** again (when it is red) to stop the recording."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:837
+msgid "The new attachment should appear in the list of attachments as seen in the image above. Select the |play_btn| **Play Button** to listen to the recording and the |stop_btn| **Stop Button** to stop the recording."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:908
+#: ../../source/kdsmarthelp.rst:908
+msgid "play_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:911
+#: ../../source/kdsmarthelp.rst:911
+msgid "stop_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:839
+msgid "Select the |discard_btn| **Delete Button** to delete the recording. Please note that there is no way to reverse a deletion."
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:869
+msgid "plotloc"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:896
+msgid "search"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:920
+msgid "action_upload"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:923
+msgid "action_download"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:926
+msgid "plus-action"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:935
+msgid "find-plots-tag"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:938
+msgid "edit-action"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:941
+msgid "new-action"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:950
+msgid "black5"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:952
+msgid "black3"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:954
+msgid "black2"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:956
+msgid "arrows"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:959
+msgid "image8"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:962
+msgid "image9"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:965
+msgid "important"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:968
+msgid "half-important"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:971
+msgid "not_important"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:974
+msgid "image12"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:977
+msgid "image13"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:980
+msgid "image17"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:983
+msgid "image18"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:986
+msgid "image19"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:989
+msgid "image20"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:992
+msgid "image21"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:995
+msgid "image22"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:998
+msgid "image23"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1001
+msgid "image26"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1004
+msgid "new_label_btn"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1007
+msgid "image28"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1010
+msgid "image29"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1013
+msgid "image30"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1016
+msgid "image31"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1019
+msgid "image32"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1022
+msgid "image33"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1025
+msgid "image34"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1028
+msgid "image35"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1031
+msgid "image36"
+msgstr ""
+
+#: ../../source/kdsmarthelp.rst:1034
+msgid "image37"
+msgstr ""

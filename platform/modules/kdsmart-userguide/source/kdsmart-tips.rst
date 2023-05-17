@@ -24,7 +24,7 @@
 
 
 
-===============================================
+===============================================  
 Tips & Troubleshooting
 ===============================================
 
@@ -99,54 +99,54 @@ This is a simple check to perform on your phone or tablet by performing the foll
      - **Action**
    * - **1.**
      - From the phone's **Home Screen** (not in KDSmart) select |settings| **Settings**.
-   * - **2.** 
+   * - **2.**
      - Scroll down to the bottom and select either **About Phone** or **About Device**.
-   * - **3.** 
+   * - **3.**
      - Earlier versions the **Android Version** will appear in this list.
-                  
+
                   .. only:: html
-                  
+
                       |center-start|
-                  
+
                       .. thumbnail:: images/AndroidVersion_2.png
                            :width: 40%
                            :show_caption: True
                            :alt: About Phone (Select to zoom)
                            :title: About Phone (Select to zoom)
-                  
+
                       |center-end|
-                  
+
                   .. only:: latex
-                  
+
                       .. figure:: images/AndroidVersion_2.png
                          :scale: 60 %
                          :alt: About Phone (Select to zoom)
-                         
-                         About Phone (Select to zoom)                  
 
-   * - **4.** 
+                         About Phone (Select to zoom)
+
+   * - **4.**
      - Later versions select the **Software Info** item and **Android Version** should appear at the top.
-                 
+
                  .. only:: html
-                 
+
                      |center-start|
-                 
+
                      .. thumbnail:: images/AndroidVersion_1.png
                           :width: 40%
                           :show_caption: True
                           :alt: Android Version (Select to zoom)
                           :title: Android Version (Select to zoom)
-                 
+
                      |center-end|
-                 
+
                  .. only:: latex
-                 
+
                      .. figure:: images/AndroidVersion_1.png
                         :scale: 60 %
                         :alt: Android Version (Select to zoom)
-                        
+
                         Android Version (Select to zoom)
-     
+
 
 |br|
 
@@ -159,7 +159,7 @@ Continue Scoring The Previous Trial
             :scale: 100 %
 
 
-The name of the trial being scored is displayed on the KDSmart **Home Screen**. Just touch the |image0| **Start Scoring Button** or the trial name to continue from where you were previously scoring. 
+The name of the trial being scored is displayed on the KDSmart **Home Screen**. Just touch the |image0| **Start Scoring Button** or the trial name to continue from where you were previously scoring.
 KDSmart remembers the position or plot when you last exited the scoring activity for the trial (see the next section) and will present that plot to you.
 
 |br|
@@ -181,21 +181,21 @@ Quick Stop for a Break
 
 .. tabularcolumns:: |\Y{0.3}|\Y{0.3}|\Y{0.3}|
 
-.. list-table:: 
+.. list-table::
    :widths: 20 20 20
    :class: longtable
    :header-rows: 0
 
-   * - **1.** If in **Auto-advance Mode**, exit using the **Home Button** in the top left corner: |br| |image1| 
-     - **2.** In the **Scoring Screen**, exit using the **Home Button** in the top left corner: |br| |image2| 
-     - **3.** Confirm the exit by selecting the **Confirm Button** in the popup: |br| |br| |image3| 
-   
+   * - **1.** If in **Auto-advance Mode**, exit using the **Home Button** in the top left corner: |br| |image1|
+     - **2.** In the **Scoring Screen**, exit using the **Home Button** in the top left corner: |br| |image2|
+     - **3.** Confirm the exit by selecting the **Confirm Button** in the popup: |br| |br| |image3|
+
 |br|
 
 
 
 .. raw:: latex
-  
+
       \newpage
 
 .. _Android Permissions:
@@ -204,7 +204,7 @@ Quick Stop for a Break
 Android Permissions
 """""""""""""""""""
 
-Android has introduced more stringent application security which affects KDSmart and any other Android application. Permission is required at the initial application installation, and may be requested again following installing any application updates. 
+Android has introduced more stringent application security which affects KDSmart and any other Android application. Permission is required at the initial application installation, and may be requested again following installing any application updates.
 
 Without allowing permissions an application will not work, or be unable to use all its functionality.
 
@@ -230,7 +230,7 @@ Upon initial KDSmart installation, a message similar to the following example wi
       .. figure:: images/kds-permission-msg2.png
          :scale: 60 %
          :alt: Android Permission Request (Select to zoom)
-         
+
          Android Permission Request (Select to zoom)
 
   |br|
@@ -264,11 +264,11 @@ The next example shows the permission request following an update to KDSmart, wh
       .. figure:: images/kdsmart_accessto_msg.png
          :scale: 60 %
          :alt: Android Access Permissions Request (Select to zoom)
-         
+
          Android Access Permissions Request (Select to zoom)
 
   |br|
-  
+
 
 .. rst-class:: activity
 
@@ -278,7 +278,7 @@ Why Must I Grant Access?
 Applications, including KDSmart, need to access the storage/memory on the device be able to:
 
 * Load your trial/nursery data;
-* To add to or make changes to that data; and 
+* To add to or make changes to that data; and
 * To save your data.
 
 Quite simply, without allowing any permission, KDSmart **Will Not Work**.
@@ -306,12 +306,12 @@ Other features KDSmart can use on the device, such as the camera, microphone, et
      - **KDSmart will not work** without being given storage permission.
        This is required to store *any data* on the device e.g. sample data, trial import or export, traits, tags, etc.
    * - **Bluetooth**
-     - Required if Bluetooth barcode scanners or scales are to be used.    
+     - Required if Bluetooth barcode scanners or scales are to be used.
 
 
 
 .. raw:: latex
-  
+
       \newpage
 
 .. rst-class:: activity
@@ -341,31 +341,31 @@ At some stage you may have denied KDSmart access, e.g. to the camera, or *Never 
      - Select **Permissions**
    * - 5
      - Enable the required permission. |br| **Remember Storage is mandatory** to use KDSmart and the other settings are needed if that functionality is required. |br|
-     
+
        |br|
-     
+
        .. only:: html
-     
+
            |center-start|
-     
+
            .. thumbnail:: images/kds-permission1.png
                 :width: 40%
                 :show_caption: True
                 :alt: Permission Settings (Select to zoom)
                 :title: Permission Settings (Select to zoom)
-     
+
            |center-end|
-     
+
        .. only:: latex
-     
+
            .. figure:: images/kds-permission1.png
               :scale: 60 %
               :alt: Permission Settings (Select to zoom)
-              
+
               Permission Settings (Select to zoom)
-     
+
        |br|
-            
+
        **Note:** Selecting **More** or the highlighted menu button illustrated at (1) displays **All permissions**. These additional settings will also affect KDSmart behaviours for certain features.
 
 
@@ -401,7 +401,7 @@ This database check and repair is mainly relevant in a situation where the follo
       .. figure:: images/kds_error_plotvisitlist_construct_failed.png
                :scale: 40%
                :alt: Example Error Requiring DB Integrity Check/Repair
-               
+
                Example Error Requiring DB Integrity Check/Repair
 
   |br|
@@ -426,15 +426,15 @@ Should repair display this message and is unable to proceed, please export the d
    * - **Step**
      - **Action**
    * - 1
-     - At the **Home Screen** or menu by selecting the |kds_devices| **Manage Devices Button**. 
+     - At the **Home Screen** or menu by selecting the |kds_devices| **Manage Devices Button**.
    * - 2
      - Within the **Database Tab**, select **Database Integrity Check**
-        
+
         .. only:: html
-        
+
             |center-start|
 
-       
+
             .. thumbnail:: images/kds-database-integrity-check.png
                         :show_caption: true
                         :width: 30%
@@ -448,16 +448,16 @@ Should repair display this message and is unable to proceed, please export the d
             .. figure:: images/kds-database-integrity-check.png
                         :scale: 60%
                         :alt: Database Integrity Check/Repair
-                        
+
                         Database Integrity Check/Repair
-        
+
 
 
 .. note:: Depending upon the size of trials within the KDSmart database, this check could take more than 10-15 minutes. The check can be cancelled, however, any errors present may not be repaired.
 
 
 .. raw:: latex
-  
+
       \newpage
 
 .. rst-class:: activity
@@ -470,25 +470,25 @@ Standard Android application navigation is used in KDSmart. The table below outl
 
 .. tabularcolumns:: |\Y{0.1}|\Y{0.7}|
 
-.. list-table::  
+.. list-table::
    :widths: 20 70
    :class: longtable
    :header-rows: 1
 
    * - **Button**
      - **Description**
-   * - |back-btn| or |back-btn3| or |back-btn2| 
+   * - |back-btn| or |back-btn3| or |back-btn2|
      - **Back Buttons** to return to the previous screen.
    * - |back-area|
      - Selecting the **Back** area (highlighted) surrounds the top left corner containing the logo and trial name or similar region on one of the edit screens (e.g. edit trait, tag etc.).
    * -  |blue-bars|
      - **Side Menu** |br| Screens with three blue menu bars have a slide out a menu at the top left as illustrated. Select the menu bars to display or hide the menu.
-        
+
          .. only:: html
-         
+
              |center-start|
 
-        
+
              .. thumbnail:: images/kds-side-menu.png
                          :show_caption: true
                          :width: 20%
@@ -502,13 +502,13 @@ Standard Android application navigation is used in KDSmart. The table below outl
              .. figure:: images/kds-side-menu.png
                          :scale: 60%
                          :alt: Slide Out Menu (select to zoom)
-                         
+
                          Slide Out Menu (select to zoom)
-       
+
 
 
 .. raw:: latex
-  
+
       \newpage
 
 
@@ -523,7 +523,7 @@ KDSmart behaves in accordance with this Android device setting.
 
 .. tabularcolumns:: |\Y{0.4}|\Y{0.6}|
 
-.. list-table::  
+.. list-table::
    :widths: 40 60
    :class: longtable
    :header-rows: 1
@@ -548,7 +548,7 @@ KDSmart behaves in accordance with this Android device setting.
    * - **Step**
      - **Action**
    * - 1
-     - Ensure *Android Screen Rotation* is enabled. 
+     - Ensure *Android Screen Rotation* is enabled.
    * - 2
      - In KDSmart, exit from the scoring screen to another screen.
    * - 3
@@ -565,16 +565,16 @@ Lists and Select Mode for Multiple Selection
 
 .. |action-menu| image:: images/ic_action_overflow_black.png
             :scale: 90 %
-            
+
 This is a generic tip for KDSmart trials, traits and tag selection lists. The example shown is the trial list.
 
   |br|
-  
+
   .. only:: html
-  
+
       |center-start|
 
- 
+
       .. thumbnail:: images/kds-sel-list-example.png
                   :show_caption: true
                   :width: 60%
@@ -588,13 +588,13 @@ This is a generic tip for KDSmart trials, traits and tag selection lists. The ex
       .. figure:: images/kds-sel-list-example.png
                   :scale: 60%
                   :alt: Multiple Selection Example (Select to zoom)
-                  
+
                   Multiple Selection Example (Select to zoom)
-                  
+
   |br|
 
 
-When a list of items is displayed, as the trial list in the left-hand image |circle1| above, a *long press* on any Trial item will invoke **Select Mode**. 
+When a list of items is displayed, as the trial list in the left-hand image |circle1| above, a *long press* on any Trial item will invoke **Select Mode**.
 
 Once in **Select Mode**, multiple items may be selected, by touching them as illustrated in the right hand |circle2| image above where three trials have been selected. The number of items selected is indicated at the top right, in this example **Selected:3** appears.
 
@@ -604,7 +604,7 @@ Selecting the |action-menu| **Action Button** in the **Action Bar** (not shown),
 .. caution:: Please be take care when using the delete function which will remove the selected trials. Backup your data regularly to prevent any loss as delete is final.
 
 .. raw:: latex
-  
+
       \newpage
 
 
@@ -612,7 +612,7 @@ Selecting the |action-menu| **Action Button** in the **Action Bar** (not shown),
 
 
 .. raw:: latex
-  
+
       \newpage
 
 .. rst-class:: activity
@@ -622,11 +622,11 @@ What Data Transfer Method is Best?
 
 This is dependent upon several factors influenced by your organisation's implementation of  KDDart platform components either fully, partially or not at all. For example, if KDSmart is being used 'standalone' without any other KDDart software, CSV files are required to load your data.
 
-The following table outlines 
+The following table outlines
 
 .. tabularcolumns:: |\Y{0.3}|\Y{0.7}|
 
-.. list-table:: 
+.. list-table::
    :widths: 25 50
    :class: longtable
    :header-rows: 1
@@ -636,17 +636,17 @@ The following table outlines
      - **Description**
    * - **KDSmart is to be used on its own**
      - Using KDSmart *standalone*, without any other KDDart software, means CSV files must be used to import and export all your trial, traits and tag data.
-       
+
        Also useful if you want to try KDSmart with some of your trial data just to see how it works in the field.
    * - **Several KDSmart devices used to score the same trial and KDXplore is being used**
      - Using KDXplore with KDSmart when a direct connection can be established for data transfer, or if a connection is not possible either CSV or KDX files can be used.
-   * - **Your Trials are stored in KDDart's data layer and a direct connection is available** 
+   * - **Your Trials are stored in KDDart's data layer and a direct connection is available**
      - This functionality is returning to KDSmart to directly connect with the KDDart database layer for trial selection and download or upload.
 
 
 
 .. raw:: latex
-  
+
       \newpage
 
 .. rst-class:: activity
@@ -659,7 +659,7 @@ The button symbols used in KDSmart are shown in the following table:
 
 .. tabularcolumns:: |\Y{0.2}|\Y{0.2}|\Y{0.6}|
 
-.. list-table::  
+.. list-table::
    :widths: 20 20 60
    :class: longtable
    :header-rows: 1
@@ -748,10 +748,10 @@ The button symbols used in KDSmart are shown in the following table:
             :scale: 100 %
 
 .. |KDSnew010| image:: images/KDSbasics/KDSnew010.png
-            :scale: 30 %            
+            :scale: 30 %
 
 .. raw:: latex
-  
+
       \newpage
 
 Troubleshooting
@@ -762,7 +762,7 @@ Troubleshooting
 Block Trial Issues
 """"""""""""""""""
 
-The 3.0.28 update has resolved some database issues with block trials. However, some users may find that after updating KDSmart, their block trials do not work anymore. This is due to the trials not being compatible with the new database version. The following instructions outline a quick fix for this issue: 
+The 3.0.28 update has resolved some database issues with block trials. However, some users may find that after updating KDSmart, their block trials do not work anymore. This is due to the trials not being compatible with the new database version. The following instructions outline a quick fix for this issue:
 
 .. tabularcolumns:: |\Y{0.1}|\Y{0.7}|
 
@@ -776,68 +776,68 @@ The 3.0.28 update has resolved some database issues with block trials. However, 
      - **Action**
    * - **1.**
      - Navigate to the **Devices Screen**. The image below shows how to get there from the **Home Screen**. Select the **Devices Button** at |circle1|.
-     
+
        .. only:: html
-       
+
            |center-start|
-       
+
            .. thumbnail:: images/KDSbasics/KDSnew010.png
                :show_caption: true
                :width: 40%
                :align: center
                :title: Devices Screen
-       
+
            |center-end|
 
        .. only:: latex
-       
+
            .. figure:: images/KDSbasics/KDSnew010.png
               :scale: 17 %
               :alt: Devices Screen
-              
-              Devices Screen  
-          
+
+              Devices Screen
+
    * - **2.**
      - A **Fix Block Trials Button** has been added and can be seen in the below image at |circle1|.
-     
+
        .. only:: html
-       
+
            |center-start|
-       
+
            .. thumbnail:: images/KDSbasics/KDSnew011.png
                :show_caption: true
                :width: 40%
                :align: center
                :title: Fixing Block Trials
-       
+
            |center-end|
 
        .. only:: latex
-       
+
            .. figure:: images/KDSbasics/KDSnew011.png
               :scale: 17 %
               :alt: Fixing Block Trials
-              
+
               Fixing Block Trials
-              
+
    * - **3.**
-     - A list of block trials will be displayed. Select the trial that you want to fix and it should be converted to be compatible with the newest version of KDSmart.   
+     - A list of block trials will be displayed. Select the trial that you want to fix and it should be converted to be compatible with the newest version of KDSmart.
 
 
 .. raw:: latex
-  
+
       \newpage
 
 .. rst-class:: activity
 
-Plot Attribute Alias Issues 
+Plot Attribute Alias Issues
 """""""""""""""""""""""""""
 
 The 3.0.28 update to KDSmart has involved a change in the way that block trials are handled. Some users may experience issues with the plot attribute alias of a block trial if they try to import a block trial to KDSmart 3.0.28 if it was exported from an earlier version of KDSmart.
 
 |br|
 
-If you have this issue, KDSmart will present options for setting the correct plot attribute alias which can be seen in the below image. Choose the field that should match up with the plot attribute alias and the file will be converted for you.  
+If you have this issue, KDSmart will present options for setting the correct plot attribute alias which can be seen in the below image. Choose the field that should match up with the plot attribute alias and the file will be converted for you.
 
 .. only:: html
 
@@ -856,6 +856,5 @@ If you have this issue, KDSmart will present options for setting the correct plo
     .. figure:: images/KDSbasics/KDSnew012.png
        :scale: 17 %
        :alt: Fixing Plot Attribute Alias
-       
+
        Fixing Plot Attribute Alias
-      

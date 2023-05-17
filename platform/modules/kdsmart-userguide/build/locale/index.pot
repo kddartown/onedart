@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-18 08:18+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/index.rst:103
+msgid "Home"
+msgstr ""
+
+#: ../../source/index.rst:103
+msgid "Table of Contents"
+msgstr ""
+
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/index.rst:11
+msgid "KDSmart User Guide"
+msgstr ""
+
+#: ../../source/index.rst:16
+msgid "You are viewing the PDF version of the KDSmart User Guide."
+msgstr ""
+
+#: ../../source/index.rst:18
+msgid "Some features such as video will not visible however links to them are provided. They can be selected if you have Internet access or manually typed if you're viewing a printed copy."
+msgstr ""
+
+#: ../../source/index.rst:19
+msgid "Please email us at kdsmart@diversityarrays.com if you find any omissions, errors or have suggestions for improvement in this user guide."
+msgstr ""
+
+#: ../../source/index.rst:25
+msgid "A PDF version of this KDSmart User Guide is now available for download at http://www.kddart.org/help/"
+msgstr ""
+
+#: ../../source/index.rst:27
+msgid "Welcome to the KDSmart application user guides. This user guide provides comprehensive information on KDSmart, our data collection application. Some sections of this help are also available as onboard help within the KDSmart application."
+msgstr ""
+
+#: ../../source/index.rst:29
+msgid "KDSmart can be a *standalone* application, but it is also a part of the integrated `KDDart Platform <https://www.kddart.org/introduction.html>`_."
+msgstr ""
+
+#: ../../source/index.rst:33
+msgid "See the video below for more information on the KDDart Platform and how KDSmart fits within it:"
+msgstr ""
+
+#: ../../source/index.rst:35
+#: ../../source/index.rst:45
+#: ../../source/index.rst:51
+#: ../../source/index.rst:64
+#: ../../source/index.rst:73
+#: ../../source/index.rst:96
+msgid "|br|"
+msgstr ""
+
+#: ../../source/index.rst:37
+msgid "|center-start|"
+msgstr ""
+
+#: ../../source/index.rst:43
+msgid "|center-end|"
+msgstr ""
+
+#: ../../source/index.rst:49
+msgid "See the KDDart Introduction video at https://youtu.be/GpP9jxyHUDY for more information on the KDDart platform and how KDSmart fits within it."
+msgstr ""
+
+#: ../../source/index.rst:54
+msgid "Key Features"
+msgstr ""
+
+#: ../../source/index.rst:56
+msgid "Collect phenotypic data for trials by scoring traits;"
+msgstr ""
+
+#: ../../source/index.rst:57
+msgid "You can collect data at the plot or subplot level;"
+msgstr ""
+
+#: ../../source/index.rst:58
+msgid "Create and manage trials, traits, and tags within the app;"
+msgstr ""
+
+#: ../../source/index.rst:59
+msgid "Integrates with other KDDart applications;"
+msgstr ""
+
+#: ../../source/index.rst:60
+msgid "Allows your device to scan trait and plot barcodes; and"
+msgstr ""
+
+#: ../../source/index.rst:61
+msgid "Flexible data transfer solutions, including sharing with 3rd party applications such as Google Drive or Dropbox."
+msgstr ""
+
+#: ../../source/index.rst:67
+msgid "What Now?"
+msgstr ""
+
+#: ../../source/index.rst:69
+msgid "KDSmart is available for free on the `Google Play Store <https://play.google.com/store/apps/details?id=com.diversityarrays.kdsmart>`_. You will need an Android device that supports Android 4.4 and above as a minimum."
+msgstr ""
+
+#: ../../source/index.rst:71
+msgid "See the `Getting Started <https://www.kddart.org/help/kdsmart/html/kdsmart-basics.html>`_ page for more information about the basics of getting started with KDSmart."
+msgstr ""
+
+#: ../../source/index.rst:76
+msgid "More Information"
+msgstr ""
+
+#: ../../source/index.rst:78
+msgid "For information about KDSmart and the KDDart Platform:"
+msgstr ""
+
+#: ../../source/index.rst:80
+msgid "`Introduction to the KDDart Environment <http://www.kddart.org/introduction.html>`_"
+msgstr ""
+
+#: ../../source/index.rst:81
+msgid "`The KDSmart Application <http://www.kddart.org/kdsmart.html>`_"
+msgstr ""
+
+#: ../../source/index.rst:83
+msgid "DArT's main website and KDDart website:"
+msgstr ""
+
+#: ../../source/index.rst:85
+msgid "http://www.kddart.org"
+msgstr ""
+
+#: ../../source/index.rst:86
+msgid "https://www.diversityarrays.com"
+msgstr ""
+
+#: ../../source/index.rst:88
+msgid "For KDSmart tutorials (along with tutorials for our other applications), please see the |tutorials| page."
+msgstr ""
+
+#: ../../source/index.rst:99
+msgid "We are constantly improving KDSmart and welcome any feedback or queries. You can contact us by email at kdsmart@diversityarrays.com if you want to get in touch."
+msgstr ""

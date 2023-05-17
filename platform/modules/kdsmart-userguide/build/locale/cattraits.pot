@@ -1,0 +1,624 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-18 08:18+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/cattraits.rst:43
+msgid "Version 3.2 Changes"
+msgstr ""
+
+#: ../../source/cattraits.rst:45
+msgid "Along with many usability and bug fixes, the newest version of KDSmart (v3.2) has implemented several new features that provide more options for users to score trials. These are the new or updated features that are outlined in this page:"
+msgstr ""
+
+#: ../../source/cattraits.rst:47
+msgid "Categorical other traits;"
+msgstr ""
+
+#: ../../source/cattraits.rst:48
+msgid "Block selection;"
+msgstr ""
+
+#: ../../source/cattraits.rst:49
+msgid "Field Scoring Mode;"
+msgstr ""
+
+#: ../../source/cattraits.rst:50
+msgid "Bulk scoring;"
+msgstr ""
+
+#: ../../source/cattraits.rst:51
+msgid "Creating trials; and"
+msgstr ""
+
+#: ../../source/cattraits.rst:52
+msgid "Adding sub-plots."
+msgstr ""
+
+#: ../../source/cattraits.rst:54
+msgid "This page will be updated as the new KDSmart version is tested. Any feedback or questions are more than welcome, and can be sent to kdsmartp@diversityarrays.com"
+msgstr ""
+
+#: ../../source/cattraits.rst:56
+#: ../../source/cattraits.rst:69
+#: ../../source/cattraits.rst:76
+#: ../../source/cattraits.rst:86
+#: ../../source/cattraits.rst:112
+#: ../../source/cattraits.rst:119
+#: ../../source/cattraits.rst:129
+#: ../../source/cattraits.rst:158
+#: ../../source/cattraits.rst:165
+#: ../../source/cattraits.rst:175
+#: ../../source/cattraits.rst:194
+#: ../../source/cattraits.rst:201
+#: ../../source/cattraits.rst:211
+#: ../../source/cattraits.rst:230
+#: ../../source/cattraits.rst:238
+#: ../../source/cattraits.rst:248
+#: ../../source/cattraits.rst:271
+#: ../../source/cattraits.rst:278
+#: ../../source/cattraits.rst:288
+#: ../../source/cattraits.rst:309
+#: ../../source/cattraits.rst:362
+#: ../../source/cattraits.rst:388
+msgid "|br|"
+msgstr ""
+
+#: ../../source/cattraits.rst:59
+msgid "Categorical Other Traits"
+msgstr ""
+
+#: ../../source/cattraits.rst:61
+msgid "The latest version of KDSmart (v3.2) has introduced the a new trait type called the *categorical other* trait. This is like a regular categorical trait (is scored with categories such as colours) except that it has an extra category called 'Other' which is an editable text field. This means that a categorical other trait is essentially a categorical **and** text trait combined."
+msgstr ""
+
+#: ../../source/cattraits.rst:63
+msgid "There has been changes to some aspects of KDSmart to accommodate this new trait and this tutorial will demonstrate some of the changes plus some helpful hints for using categorical other traits. This will include activities such as:"
+msgstr ""
+
+#: ../../source/cattraits.rst:65
+msgid "Creating a categorical other trait;"
+msgstr ""
+
+#: ../../source/cattraits.rst:66
+msgid "Adding that trait to a trial; and"
+msgstr ""
+
+#: ../../source/cattraits.rst:67
+msgid "Scoring a categorical other trait."
+msgstr ""
+
+#: ../../source/cattraits.rst:72
+#: ../../source/cattraits.rst:88
+msgid "Creating a Categorical Other Trait"
+msgstr ""
+
+#: ../../source/cattraits.rst:74
+msgid "As traits can be created within KDSmart, an extra option has been added so that categorical traits can be created with an *other* field. The video and accompanying instructions below demonstrate how to create a categorical other trait."
+msgstr ""
+
+#: ../../source/cattraits.rst:78
+#: ../../source/cattraits.rst:121
+#: ../../source/cattraits.rst:167
+#: ../../source/cattraits.rst:203
+#: ../../source/cattraits.rst:240
+#: ../../source/cattraits.rst:280
+msgid "|center-start|"
+msgstr ""
+
+#: ../../source/cattraits.rst:84
+#: ../../source/cattraits.rst:127
+#: ../../source/cattraits.rst:173
+#: ../../source/cattraits.rst:209
+#: ../../source/cattraits.rst:246
+#: ../../source/cattraits.rst:286
+msgid "|center-end|"
+msgstr ""
+
+#: ../../source/cattraits.rst:92
+#: ../../source/cattraits.rst:135
+#: ../../source/cattraits.rst:149
+#: ../../source/cattraits.rst:181
+#: ../../source/cattraits.rst:217
+#: ../../source/cattraits.rst:254
+#: ../../source/cattraits.rst:294
+#: ../../source/cattraits.rst:321
+#: ../../source/cattraits.rst:374
+msgid "Step"
+msgstr ""
+
+#: ../../source/cattraits.rst:93
+#: ../../source/cattraits.rst:136
+#: ../../source/cattraits.rst:150
+#: ../../source/cattraits.rst:182
+#: ../../source/cattraits.rst:218
+#: ../../source/cattraits.rst:255
+#: ../../source/cattraits.rst:295
+#: ../../source/cattraits.rst:322
+#: ../../source/cattraits.rst:375
+msgid "Action"
+msgstr ""
+
+#: ../../source/cattraits.rst:94
+#: ../../source/cattraits.rst:137
+#: ../../source/cattraits.rst:151
+#: ../../source/cattraits.rst:183
+#: ../../source/cattraits.rst:219
+#: ../../source/cattraits.rst:256
+#: ../../source/cattraits.rst:296
+#: ../../source/cattraits.rst:323
+#: ../../source/cattraits.rst:376
+msgid "**1.**"
+msgstr ""
+
+#: ../../source/cattraits.rst:95
+msgid "Navigate to the **Traits Screen** as seen in the above image."
+msgstr ""
+
+#: ../../source/cattraits.rst:96
+#: ../../source/cattraits.rst:139
+#: ../../source/cattraits.rst:153
+#: ../../source/cattraits.rst:185
+#: ../../source/cattraits.rst:221
+#: ../../source/cattraits.rst:258
+#: ../../source/cattraits.rst:298
+#: ../../source/cattraits.rst:325
+#: ../../source/cattraits.rst:378
+msgid "**2.**"
+msgstr ""
+
+#: ../../source/cattraits.rst:97
+msgid "Select the **Add Trait Button** which will display the **Add Trait Screen**."
+msgstr ""
+
+#: ../../source/cattraits.rst:98
+#: ../../source/cattraits.rst:141
+#: ../../source/cattraits.rst:155
+#: ../../source/cattraits.rst:187
+#: ../../source/cattraits.rst:223
+#: ../../source/cattraits.rst:260
+#: ../../source/cattraits.rst:300
+#: ../../source/cattraits.rst:327
+#: ../../source/cattraits.rst:380
+msgid "**3.**"
+msgstr ""
+
+#: ../../source/cattraits.rst:99
+msgid "Choose a name for the trait by entering it in the text field and selecting the **Use Button**. If the trait name is already taken then the **Use Button** will be disabled."
+msgstr ""
+
+#: ../../source/cattraits.rst:100
+#: ../../source/cattraits.rst:189
+#: ../../source/cattraits.rst:225
+#: ../../source/cattraits.rst:262
+#: ../../source/cattraits.rst:302
+#: ../../source/cattraits.rst:329
+#: ../../source/cattraits.rst:382
+msgid "**4.**"
+msgstr ""
+
+#: ../../source/cattraits.rst:104
+msgid "For the new trait, choose a:"
+msgstr ""
+
+#: ../../source/cattraits.rst:102
+msgid "Alias (optional);"
+msgstr ""
+
+#: ../../source/cattraits.rst:103
+msgid "Description; and"
+msgstr ""
+
+#: ../../source/cattraits.rst:104
+msgid "Trial unit (what is being measured; such as *colour*)."
+msgstr ""
+
+#: ../../source/cattraits.rst:106
+msgid "Then the data type must be set to *Categorical*."
+msgstr ""
+
+#: ../../source/cattraits.rst:107
+#: ../../source/cattraits.rst:191
+#: ../../source/cattraits.rst:227
+#: ../../source/cattraits.rst:264
+#: ../../source/cattraits.rst:304
+#: ../../source/cattraits.rst:384
+msgid "**5.**"
+msgstr ""
+
+#: ../../source/cattraits.rst:108
+msgid "Enter the your categories in the **Choices Field**. Select the **Add Button** after entering each choice to add it to the list of categories. Each one should appear below and you can select the **Trash Icon** if you need to delete any."
+msgstr ""
+
+#: ../../source/cattraits.rst:109
+#: ../../source/cattraits.rst:266
+msgid "**6.**"
+msgstr ""
+
+#: ../../source/cattraits.rst:110
+msgid "Select the **Enable Other Checkbox** and then name the *other* category."
+msgstr ""
+
+#: ../../source/cattraits.rst:115
+msgid "Adding Categorical Other Traits to a Trial"
+msgstr ""
+
+#: ../../source/cattraits.rst:117
+msgid "Categorical Other traits are added to existing trials the same way that any other traits are. If you already have a trial loaded into KDSmart, then please see the video below if you would like a refresher on how to add traits to a trial."
+msgstr ""
+
+#: ../../source/cattraits.rst:131
+msgid "Adding Categorical Other Traits to a Trial - Method 1"
+msgstr ""
+
+#: ../../source/cattraits.rst:138
+msgid "Select the **Trial Details Button** to view details of a trial."
+msgstr ""
+
+#: ../../source/cattraits.rst:140
+msgid "Select the **Edit Traits Button**. This will display the **Trait/Instance Screen**."
+msgstr ""
+
+#: ../../source/cattraits.rst:142
+#: ../../source/cattraits.rst:156
+msgid "Select the **Add Traits Button** then choose a trait/s to add to the trial."
+msgstr ""
+
+#: ../../source/cattraits.rst:145
+msgid "Adding Categorical Other Traits to a Trial - Method 2"
+msgstr ""
+
+#: ../../source/cattraits.rst:152
+msgid "Start scoring a trial so that the **Configuration Screen** will open."
+msgstr ""
+
+#: ../../source/cattraits.rst:154
+msgid "Swipe to the **Trait/Instance Screen**."
+msgstr ""
+
+#: ../../source/cattraits.rst:161
+#: ../../source/cattraits.rst:177
+msgid "Scoring Categorical Other Traits"
+msgstr ""
+
+#: ../../source/cattraits.rst:163
+msgid "Scoring a categorical other trait is much like scoring any other type of trait. The video below will provide a short refresher and will include tips for creating an *other* category."
+msgstr ""
+
+#: ../../source/cattraits.rst:184
+msgid "To start scoring, find a trial and select the **Scoring Button**."
+msgstr ""
+
+#: ../../source/cattraits.rst:186
+msgid "Configure your trial how you wish and then select the **Start Scoring Button**."
+msgstr ""
+
+#: ../../source/cattraits.rst:188
+msgid "On the plot you want to score, select the empty trait value ('-') to navigate to the **Trait Scoring Screen**."
+msgstr ""
+
+#: ../../source/cattraits.rst:190
+msgid "On a categorical other trait, choose a category to score the plot/sub-plot."
+msgstr ""
+
+#: ../../source/cattraits.rst:192
+msgid "The score the *other* category, select the radio button and then the **Edit Icon** which will display a text field to enter what you would like to name the other value."
+msgstr ""
+
+#: ../../source/cattraits.rst:197
+#: ../../source/cattraits.rst:213
+msgid "Selecting a Block for Scoring"
+msgstr ""
+
+#: ../../source/cattraits.rst:199
+msgid "Block selection can be done on any trial that is a block trial and it is available in the **Scoring Configuration Screen**. See the video and instructions below for how to select one or more blocks to score."
+msgstr ""
+
+#: ../../source/cattraits.rst:220
+msgid "To choose specific blocks to score, start by choosing a trial and opening the **Scoring Configuration Screen**."
+msgstr ""
+
+#: ../../source/cattraits.rst:222
+msgid "Swipe across to the **Select Blocks Tab**."
+msgstr ""
+
+#: ../../source/cattraits.rst:224
+msgid "Check the checkbox for each block that you want to score. You can choose one or more but you will not be allowed to choose no block. Select the **Start Scoring Button** to begin scoring the blocks."
+msgstr ""
+
+#: ../../source/cattraits.rst:226
+msgid "The **Scoring Screen** will appear as normal. You can see what blocks are selected by opening **Field View**."
+msgstr ""
+
+#: ../../source/cattraits.rst:228
+msgid "If you want to select a different block or set of blocks then exit back to the **Scoring Configuration Screen** to start again."
+msgstr ""
+
+#: ../../source/cattraits.rst:234
+msgid "Field Scoring Mode"
+msgstr ""
+
+#: ../../source/cattraits.rst:236
+msgid "Previously there have been two methods of scoring, **Path Scoring Mode**, and **Sheet Scoring Mode**. There have also been multiple methods of plot navigation with trials such as the **Field View**. The **Field Scoring Mode** is a new scoring method that uses **Field View** as the default for the **Scoring Screen**, and selection of a plot opens **Sheet Scoring View**. The new bulk scoring feature is also exclusively available in **Field Scoring Mode** which is outlined in the next section. See below for more information on how to use scoring mode:"
+msgstr ""
+
+#: ../../source/cattraits.rst:250
+msgid "Scoring in Field Scoring Mode"
+msgstr ""
+
+#: ../../source/cattraits.rst:257
+msgid "Find a trial that's to be scored and select the **Scoring Button**. This will open the **Scoring Configuration Screen**."
+msgstr ""
+
+#: ../../source/cattraits.rst:259
+msgid "Under the **Scoring Mode Section** are three radio buttons that enable selection of a scoring mode. Select the **Field View Icon** on the right."
+msgstr ""
+
+#: ../../source/cattraits.rst:261
+msgid "Select the **Start Scoring Button** after all configuration options have been chosen to begin trial scoring in **Field Scoring Mode**."
+msgstr ""
+
+#: ../../source/cattraits.rst:263
+msgid "*Long Press* on a plot to highlight it. This will enter you into **Selection Mode** where a *short press* on any other plot will also highlight it. Select all plots that you want to score."
+msgstr ""
+
+#: ../../source/cattraits.rst:265
+msgid "Select the **Scoring Button** to open up the **Spreadsheet Scoring View**. Only the plots you have selected will be present."
+msgstr ""
+
+#: ../../source/cattraits.rst:267
+msgid "Select any plot or sub-plot trait value to open the **Trait Scoring Screen** then choose a value for it."
+msgstr ""
+
+#: ../../source/cattraits.rst:268
+msgid "**7.**"
+msgstr ""
+
+#: ../../source/cattraits.rst:269
+msgid "Select the **Deselect Button** to deselect the currently highlighted plots."
+msgstr ""
+
+#: ../../source/cattraits.rst:274
+msgid "Bulk Scoring"
+msgstr ""
+
+#: ../../source/cattraits.rst:276
+msgid "The new bulk scoring feature allows users to apply a single value to many plots or sub-plots. This can dramatically increase efficiency of scoring in some situations but is only available in **Field Scoring Mode**. See the instructions below for how to bulk score plots and sub-plots."
+msgstr ""
+
+#: ../../source/cattraits.rst:290
+msgid "Plot Bulk Scoring"
+msgstr ""
+
+#: ../../source/cattraits.rst:297
+msgid "Open a trial in **Field Scoring Mode** and select the plots that you need to apply the same trait value for. A *long-press* will enter you into select mode then you can add any plot to your selection."
+msgstr ""
+
+#: ../../source/cattraits.rst:299
+msgid "Select the **Plot Bulk Scoring Button** to open the **Bulk Scoring Screen**. All plot traits will be listed and the number of trait that are already scored will be listen in the **# Already Scored Column**."
+msgstr ""
+
+#: ../../source/cattraits.rst:301
+msgid "Select a trait to open a **Trait Measurement Screen**. Select a value and you will be automatically returned to the **Bulk Scoring Screen**."
+msgstr ""
+
+#: ../../source/cattraits.rst:303
+msgid "If there are plots that are already scored, you will need to select the **Overwrite Trait Values Checkbox** to overwrite the previous values."
+msgstr ""
+
+#: ../../source/cattraits.rst:305
+msgid "The **Undo Button** for that trait will now be available in case you selected the wrong value."
+msgstr ""
+
+#: ../../source/cattraits.rst:307
+msgid "Sub-plot bulk scoring is the exact same process as bulk scoring plots. However, the **Sub-plot Bulk Scoring Button** will only be available if there is only one plot selected."
+msgstr ""
+
+#: ../../source/cattraits.rst:313
+msgid "Creating Trials"
+msgstr ""
+
+#: ../../source/cattraits.rst:315
+msgid "Whilst previous versions of KDSmart had a trial creation feature, it has been completely overhauled for KDSmart 3.2 to provide flexibility when creating trials. This includes setting the trial type, size, adding sub-plots, etc. See the following instructions for how to create a new trial:"
+msgstr ""
+
+#: ../../source/cattraits.rst:317
+msgid "Creating a Trial"
+msgstr ""
+
+#: ../../source/cattraits.rst:324
+msgid "Navigate the the **Trials Screen** and select the **Menu Button** to display the menu options."
+msgstr ""
+
+#: ../../source/cattraits.rst:326
+msgid "Select the **Create Trial Button** from the menu options. This will open the **Create Trials Screen**"
+msgstr ""
+
+#: ../../source/cattraits.rst:328
+msgid "Enter trial details for the new trial (see the following table)."
+msgstr ""
+
+#: ../../source/cattraits.rst:330
+msgid "Select the **Confirm Button** to confirm the creation of the trial. It will now be available in the **Trials Screen**."
+msgstr ""
+
+#: ../../source/cattraits.rst:332
+msgid "The following table provides more information on each of the fields that can be completed. Please note that the trial details that are available will be different depending on the trial type that is chosen. See the following table for more information:"
+msgstr ""
+
+#: ../../source/cattraits.rst:334
+msgid "Trial Details of the Create Trial Screen"
+msgstr ""
+
+#: ../../source/cattraits.rst:338
+msgid "Detail"
+msgstr ""
+
+#: ../../source/cattraits.rst:339
+msgid "Description"
+msgstr ""
+
+#: ../../source/cattraits.rst:340
+msgid "**Trial Name**"
+msgstr ""
+
+#: ../../source/cattraits.rst:341
+msgid "The name for the trial."
+msgstr ""
+
+#: ../../source/cattraits.rst:342
+msgid "**Trial Type**"
+msgstr ""
+
+#: ../../source/cattraits.rst:343
+msgid "Choose either a Plot ID (plots are organised by plot number) or an X/Y trial (plots are organised by columns and rows) from the dropdown menu."
+msgstr ""
+
+#: ../../source/cattraits.rst:344
+msgid "**Number of Plots** (Plot ID)"
+msgstr ""
+
+#: ../../source/cattraits.rst:345
+msgid "The total number of plots in the trial"
+msgstr ""
+
+#: ../../source/cattraits.rst:346
+msgid "**First Plot ID** (Plot ID)"
+msgstr ""
+
+#: ../../source/cattraits.rst:347
+msgid "The number of the first plot in the trial."
+msgstr ""
+
+#: ../../source/cattraits.rst:348
+msgid "**Run Direction** (Plot ID)"
+msgstr ""
+
+#: ../../source/cattraits.rst:349
+msgid "Sets the direction that plots are laid out."
+msgstr ""
+
+#: ../../source/cattraits.rst:350
+msgid "**Custom Run Length**"
+msgstr ""
+
+#: ../../source/cattraits.rst:351
+msgid "Determines the number of plots that will be set per row."
+msgstr ""
+
+#: ../../source/cattraits.rst:352
+msgid "**Number of Columns** (X/Y)"
+msgstr ""
+
+#: ../../source/cattraits.rst:353
+msgid "Number of columns in an X/Y trial."
+msgstr ""
+
+#: ../../source/cattraits.rst:354
+msgid "**Number of Rows** (X/Y)"
+msgstr ""
+
+#: ../../source/cattraits.rst:355
+msgid "Number of rows in an X/Y trial."
+msgstr ""
+
+#: ../../source/cattraits.rst:356
+msgid "**Number of Sub-Plots per Plot**"
+msgstr ""
+
+#: ../../source/cattraits.rst:357
+msgid "Determines the number of sub-plot for each plot in the trial."
+msgstr ""
+
+#: ../../source/cattraits.rst:358
+msgid "**Trait Instance Style**"
+msgstr ""
+
+#: ../../source/cattraits.rst:359
+msgid "Choose between the *Trait:123* or *Trait_123* trait instance styles, or choose no trait instance style."
+msgstr ""
+
+#: ../../source/cattraits.rst:366
+msgid "Adding Sub-Plots"
+msgstr ""
+
+#: ../../source/cattraits.rst:368
+msgid "In previous versions of KDSmart, sub-plots could only be added to one plot at a time whilst the trial was being scored. KDSmart version 3.2 has included two new ways to add sub-plots to a plot; in trial creation (outlined in the Creating Trials section), and with the **Add Sub-Plot Screen**. This section outlines how to add sub-plots to plots in an existing trial with the **Add Sub-Plots Screen**."
+msgstr ""
+
+#: ../../source/cattraits.rst:370
+msgid "Adding Sub-Plots to a Trial"
+msgstr ""
+
+#: ../../source/cattraits.rst:377
+msgid "Navigate to the desired trial in the **Trials Screen** and *long press* the trial so that it is selected."
+msgstr ""
+
+#: ../../source/cattraits.rst:379
+msgid "Open the menu with the **Menu Button** then select the **Add Sub-Plots Button** to open the **Add Sub-Plots Screen**."
+msgstr ""
+
+#: ../../source/cattraits.rst:381
+msgid "Use the picker to select a number of sub-plots (between one and ten) for each plot. Please note that the number chosen determines the total number of sub-plots for each plot, not the number of sub-plots to be created. An example would be if plots in a trial contain one plot and then two sub-plots were chosen with the picker, one new sub-plot would be created."
+msgstr ""
+
+#: ../../source/cattraits.rst:383
+msgid "Select the **Confirm Button** to confirm the creation of the sub-plot creation."
+msgstr ""
+
+#: ../../source/cattraits.rst:385
+msgid "The **Sub-Plot Report Screen** will be displayed which provides information on newly added sub-plots."
+msgstr ""

@@ -1,0 +1,341 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2020, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.2.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-18 08:18+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:9
+msgid "Example Files"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:12
+msgid "back-btn"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:15
+msgid "blue-bars"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:18
+msgid "back-btn2"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:21
+msgid "back-btn3"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:24
+msgid "back-area"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:27
+msgid "rotate-btn"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:30
+msgid "accept-btn2"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:33
+msgid "cancel-btn2"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:38
+msgid "expand"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:42
+msgid "contract"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:46
+msgid "This page contains links to example files that to help you get started using KDSmart and KDXplore."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:48
+msgid "You can use these files as templates by replacing them with your data (trials, traits or tags) and then importing them into KDSmart or KDXplore."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:50
+msgid "The example files belong to three categories:"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:52
+msgid "Trials that contain plot-level data"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:53
+msgid "Trials that contain subplot-level data (as well as plot-level)"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:54
+msgid "Additional template files for traits and tags"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:56
+msgid "Definition: Plots & Subplots"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:58
+msgid "Trials contain multiple *plots* - areas, spaces or even pots, uniquely identified by a plot ID or by coordinate pairs (Column/row ID), or both. *Subplots* are individual specimens within a plot."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:60
+#: ../../source/samplefiles-include.txt:66
+#: ../../source/samplefiles-include.txt:75
+#: ../../source/samplefiles-include.txt:98
+#: ../../source/samplefiles-include.txt:107
+#: ../../source/samplefiles-include.txt:130
+#: ../../source/samplefiles-include.txt:162
+#: ../../source/samplefiles-include.txt:168
+#: ../../source/samplefiles-include.txt:180
+#: ../../source/samplefiles-include.txt:195
+#: ../../source/samplefiles-include.txt:213
+#: ../../source/samplefiles-include.txt:226
+#: ../../source/samplefiles-include.txt:232
+#: ../../source/samplefiles-include.txt:244
+#: ../../source/samplefiles-include.txt:255
+#: ../../source/samplefiles-include.txt:265
+msgid "|br|"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:64
+msgid "Plot-level Example Files"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:69
+msgid "Column and Row Trial"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:71
+msgid "A trial where the *combination of column and row numbers is* a unique identifier for every plot in the trial."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:73
+msgid "**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample1_Normal_Trial_X_Y.csv>`"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:79
+#: ../../source/samplefiles-include.txt:111
+#: ../../source/samplefiles-include.txt:142
+msgid "|center-start|"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:88
+#: ../../source/samplefiles-include.txt:120
+#: ../../source/samplefiles-include.txt:151
+msgid "|center-end|"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:96
+#: ../../source/samplefiles-include.txt:96
+msgid "KDSmart Column and Row Trial Example"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:101
+msgid "Plot ID Trial"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:103
+msgid "A trial where the *plot ID* is a unique identifier for every plot."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:105
+msgid "**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample4_demo_trial_plot_id.csv>`"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:128
+#: ../../source/samplefiles-include.txt:128
+msgid "KDSmart Plot ID Trial Example"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:133
+msgid "Block Trial"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:135
+msgid "A trial where the *combination of block, column, and row numbers* is a unique identifier for each plot."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:137
+msgid "**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample5_Block_Plots_Right.csv>`"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:159
+#: ../../source/samplefiles-include.txt:159
+msgid "KDSmart Block Trial Example"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:166
+msgid "Subplot-level Example Files"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:173
+msgid "Trial With Subplot Data For a Particular Subplot"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:175
+msgid "The first three plots in this example file have values for the trait *Plant_Height* for subplot 2."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:178
+msgid "**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample6_Specimen_Value_particular_subplot.csv>`"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:185
+msgid "Trial with Subplot Data For a Particular Subplot and Trait Instance"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:187
+#: ../../source/samplefiles-include.txt:204
+msgid "This example file contains the first three plots with values for:"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:189
+#: ../../source/samplefiles-include.txt:206
+msgid "The trait *Plant_Height:* Instances 1 and 2; and"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:190
+msgid "Subplots 1 and 2."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:193
+msgid "**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample7_Specimen_value_particular_subplot_and_instance.csv>`"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:200
+msgid "Trial with Subplot Data For All Subplots"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:202
+msgid "The trial contains subplots specified by subplot count and contains data for every subplot."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:207
+msgid "All subplots."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:210
+msgid "**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample8_Specimen_Count_and_data_for_every_subplot.csv>`"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:216
+msgid "Trial Containing Subplot Tags"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:218
+msgid "This example trial contains tags on the subplot level."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:220
+msgid "New tags created with this trial import will not have a description. If this is an issue, import (i.e. create) the tags by using a tag definition file (see above `Tags File`_)."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:221
+msgid "This trial has no traits."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:224
+msgid "**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample9_wheat-with-data.csv>`"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:230
+msgid "Additional Example Files"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:235
+msgid "Traits File"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:237
+msgid "Traits files contain `trait <http://www.kddart.org/help/kdsmart/html/traits.html#traits>`_ attributes but no trial data."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:240
+msgid "The example file below is of traits that could be found in a wheat trial."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:242
+msgid "**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample3_wheat-traits.csv>`"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:247
+msgid "Tags File"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:249
+msgid "Tags files contain `tag <http://www.kddart.org/help/kdsmart/html/tags.html>`_ attributes but no trial data."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:251
+msgid "**Download link:** :download:`Download <http://www.kddart.org/public/KDSXsample2_tags.csv>`"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:253
+msgid "An additional tags example is provided above in the `Trial Containing Subplot Tags`_, containing subplot data tags."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:259
+msgid "Excel Workbook Format"
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:261
+msgid "This Excel workbook contains example sheets for a variety of trials."
+msgstr ""
+
+#: ../../source/samplefiles-include.txt:263
+msgid "**Download link:** :download:`Download <http://www.kddart.org/public/KDSmart_CSV_Import_Format.xlsx>`"
+msgstr ""

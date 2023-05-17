@@ -11,9 +11,9 @@
     <style> .orange   {color:orange}   </style>
 
 .. role:: orange
-  
+
 .. raw:: html
-    
+
     <style> .brown {color:brown} </style>
 
 .. role:: brown
@@ -26,14 +26,13 @@
 Traits
 =======
 
-
-KDSmart facilitates the recording or scoring of traits for trials and nurseries. Traits are usually phenotypic information although this arbitrary. 
+KDSmart facilitates the recording or scoring of traits for trials and nurseries. Traits are usually phenotypic information although this arbitrary.
 
 KDSmart scoring screens are designed to allow quick recording of measurements, usually with a single touch.
 
 Traits can be defined with validation rules to facilitate strict data capture rules to assist in preventing recording errors. These rules can also be utilised to also make scoring more efficient by minimising the required keystrokes.
 
-The **Traits Screen** (pictured below) provides a list of all available traits and options for management of traits including importing and exporting. 
+The **Traits Screen** (pictured below) provides a list of all available traits and options for management of traits including importing and exporting.
 
 |br|
 
@@ -52,16 +51,16 @@ Traits are the quality or characteristic being inspected, measured and recorded 
 A measurement is stored for each trait instance in each plot or sub-plot includes the:
 
 -  Date and time when the measurement was taken;
--  GPS coordinates (if this is enabled); and 
+-  GPS coordinates (if this is enabled); and
 -  Value of the measurement.
 
-Some examples of traits include the height of a plant (this might be called :brown:`Plant\_Height`) or the date that a plot was irrigated (which could be called :brown:`Irrigated`). 
+Some examples of traits include the height of a plant (this might be called :brown:`Plant\_Height`) or the date that a plot was irrigated (which could be called :brown:`Irrigated`).
 
 
 |br|
 
 .. raw:: latex
-  
+
       \newpage
 
 
@@ -85,15 +84,15 @@ Each trait contains a set of attributes that define its characteristics. The fol
      - This is an optional longer explanation of the trait to assist in data entry.
    * - **Data Type**
      - Constrains permitted values of traits. Types available are:
-       
-          - CATEGORICAL, 
-          - DATE, 
-          - ELAPSED_DAYS, 
-          - INTEGER, 
-          - DECIMAL;  |nbsp| or 
+
+          - CATEGORICAL,
+          - DATE,
+          - ELAPSED_DAYS,
+          - INTEGER,
+          - DECIMAL;  |nbsp| or
           - TEXT;
-       
-       For details refer to `Trait Data Types`_ 
+
+       For details refer to `Trait Data Types`_
    * - **Unit**
      - An arbitrary term for the *unit* of the trait to assist with what value to enter when scoring (e.g. measurement in millimetres or centimetres).
    * - **Validation Rule**
@@ -111,13 +110,13 @@ Each trait contains a set of attributes that define its characteristics. The fol
 
 
 .. raw:: latex
-  
+
       \newpage
 
-Trait Instances 
+Trait Instances
 ===============
 
-A trial consists of plots and sub-plots which have traits for scoring. Furthermore, KDSmart allows you to score each trait multiple times - this is called a *Trait Instance*. The benefit of instancing traits is that they are easier to create and manage because only one trait needs to be managed rather than separate ones. Having separate traits also creates more work for data analysis and curation in KDXplore. 
+A trial consists of plots and sub-plots which have traits for scoring. Furthermore, KDSmart allows you to score each trait multiple times - this is called a *Trait Instance*. The benefit of instancing traits is that they are easier to create and manage because only one trait needs to be managed rather than separate ones. Having separate traits also creates more work for data analysis and curation in KDXplore.
 
 For example, you may wish to score :brown:`PH\_Soil` three times: after 3 weeks, after 5 weeks and after 7 weeks. You can either:
 
@@ -142,9 +141,9 @@ For example, you may wish to score :brown:`PH\_Soil` three times: after 3 weeks,
 .. only:: latex
 
     .. figure:: images/Traits/traits1.png
-       :scale: 18 %
+       :scale: 40 %
        :alt: Trait Instances
-       
+
        Trait Instances
 
 |br|
@@ -155,12 +154,12 @@ Trait Naming
 When preparing traits it is recommended that the use spaces in trait names are avoided and underscores are used instead. For example instead of :brown:`Plant Height` use :brown:`Plant_Height`.
 
 Should KDXplore software be used after scoring it has the ability to calculate trait values from other traits, however, is restricted if trait names contain spaces.
- 
+
 
 |br|
 
-.. _Trait Data Types:
 
+.. _Trait Data Types:
 
 Trait Data Types
 =================
@@ -204,8 +203,8 @@ The following table describes the available data types for traits:
      - Specify a lower and upper bound and whether or not the bounds are included in the range and the number of digits of precision that will be recorded.
      - Entry is done using a numeric keypad that includes the decimal point. |br| NOTE: If you use a custom keyboard, this may affect the appearance of the numeric keypad.
      - :orange:`RANGE(min..max)` |br| or use :orange:`LERANGE, RERANGE, BERANGE` |br| However, min and max must now contain a decimal point and at least one digit following the point. |br| So: :orange:`BERANGE(1.0..2.99)` |br| means accept values for x where :orange:`1.00 < x < 2.99` |br| (the greater number of digits after the "." for min/max is  the "precision" desired).
-   * - **CALC** 
-     - Calculated or Derived Trait. |br| |br| See `Calculated or Derived Traits`_ below for further description. 
+   * - **CALC**
+     - Calculated or Derived Trait. |br| |br| See `Calculated or Derived Traits`_ below for further description.
      - Data entry is not permitted for this type. |br| |br| Traits with this data type **cannot** be scored during data collection.
      - A simple calculated or derived trait is: |br| :orange:`CALC( max(PH_CM/5,1) )` |br| This calculation references a trait named :orange:`PH_CM`, dividing the value by 5 and returning the maximum of the division or :orange:`1`, whichever is the greater. So a value of :orange:`17` for :orange:`PH_CM` gives a result of :orange:`3`. |br| Alternatively, |br| :orange:`CALC( max(PH_CM/5,1) , 1 )` |br| will retain the result with one decimal place. |br| In this case the value of :orange:`17` for  :orange:`PH_CM` results in :orange:`3.4`.
 
@@ -218,15 +217,15 @@ Calculated or Derived Traits
 =============================
 
 
-The validation rule has either one or two components (with a comma separating them if required): 
+The validation rule has either one or two components (with a comma separating them if required):
 
-     - The first component provides a formula that may reference other traits (by the trait name), using the operators and functions listed below. 
-     - If present, the second component indicates the number of decimal digits to retain in the computed result. 
+     - The first component provides a formula that may reference other traits (by the trait name), using the operators and functions listed below.
+     - If present, the second component indicates the number of decimal digits to retain in the computed result.
 
-The functions available are in a table below. Arithmetic operators are: 
+The functions available are in a table below. Arithmetic operators are:
 
-    :orange:`* / %` (the last is the **modulo** operation) |br| 
-    :orange:`+ -` (unary minus is also supported) |br| 
+    :orange:`* / %` (the last is the **modulo** operation) |br|
+    :orange:`+ -` (unary minus is also supported) |br|
     :orange:`^ **` (for exponentiation).
 
 
@@ -236,7 +235,7 @@ The functions available are in a table below. Arithmetic operators are:
 |br|
 
 Functions Available For CALC Data Type
-"""""""""""""""""""""""""""""""""""""""
+---------------------------------------
 
 The following table describes the functions available for the CALC data type.
 
@@ -254,10 +253,10 @@ The following table describes the functions available for the CALC data type.
      - **Example**
    * - :orange:`sin cos tan asin acos atan`
      - **Trigonometric functions**
-     - 
+     -
    * - :orange:`sinh cosh tanh`
      - **Hyperbolic functions**
-     - 
+     -
    * - :orange:`abs round floor ceil sqrt exp ln log sign`
      - **Unary mathematical functions:** |br| ROUND, FLOOR and CEIL return an integral portion of the input.  |br| LN is the natural logarithm  |br| LOG is the logarithm to base 10
      - :orange:`round(1.5)` returns 2.0 |br| :orange:`round(1.4)` returns 1.0 |br| :orange:`floor(1.5)` returns 1.0 |br| :orange:`ceil(1.5)` returns 2.0
@@ -284,26 +283,28 @@ The following table describes the functions available for the CALC data type.
 Categorical Traits
 ===================
 
-At times during scoring, the precision level required can vary. 
-This may be dictated by a number of factors, e.g. sheer volume of specimens, time frame for data collection, reduced/limited people to perform the scoring, etc. 
-In these instances, the *Categorical Data Type* may prove useful.
+At times during scoring, the precision level required can vary.
+This may be dictated by a number of factors, e.g. sheer volume of specimens, time frame for data collection, reduced/limited people to perform the scoring, etc.
+In these instances, the *Categorical* trait may be useful.
 
 
-Typically *Categorical* is used for constraining the data entered to a predefined list of values, such as the following definitions: 
+Typicall, categories are used for constraining the data entered to a predefined list of values, such as the following definitions:
 
 - :orange:`CHOICE(BLUE | YELLOW | RED)`; and
 - :orange:`CHOICE(White | Yellow | Purple | Variegated | Brown | Orange yellow | Mottled | White top | Red | Sun red | Blue | Other)`.
- 
+
+A *categorical other* trait is one where an *other* field can be used as a text field. In this case, the user can choose either a category that is provided to them, or the other field to enter their own text.
+
 .. Note:: In these examples, the pipe character ‘|’ is shown with a space character either side to improve legibility.
 
 |br|
 
 
 Using Categorical Traits
-""""""""""""""""""""""""" 
+------------------------
 
 
-In some situations using a categorical data type may be more beneficial as this facilitates the use of selection ranges instead of data entry. 
+In some situations using a categorical data type may be more beneficial as this facilitates the use of selection ranges instead of data entry.
 
 The following table illustrates the collection of plant height using both methods:
 
@@ -313,12 +314,12 @@ The following table illustrates the collection of plant height using both method
    :widths: 10 30 30
    :header-rows: 1
 
-   * - 
+   * -
      - **Trait Defined as Integer**
      - **Trait Defined as Categorical**
    * - **Entry Method**
-     - Plant height entered by selecting a value buttons. |br| 
-     - Plant height entered by selecting a value range from a list. |br| 
+     - Plant height entered by selecting a value buttons. |br|
+     - Plant height entered by selecting a value range from a list. |br|
    * - **Conditions**
      - Trait validation with a minimum of 5 and maximum of 50
      - Trait validation with six ranges defined (e.g. The unit of measure may be 5 centimetres).

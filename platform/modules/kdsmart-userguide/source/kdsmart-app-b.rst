@@ -1,8 +1,8 @@
 .. File converted, quickly, from Brian's KDSmart User Guide: Appendix B: CSV Import File Formats.docx
-.. h1 == 
+.. h1 ==
 .. h2 ""
 .. h3 **
-.. h4 
+.. h4
 
 
 
@@ -38,7 +38,7 @@ KDSmart and KDXplore share the same import code base, designed to make the task 
 KDSmart/KDXplore Import Mapping
 ===============================
 
-Importing a Trial using CSV format in KDSmart/KDXplore commences with an attribute mapping table, similar to the examples in the following illustration. This is an important step which helps you setup how your Trial or Nursery information is loaded and defined in each application. 
+Importing a Trial using CSV format in KDSmart/KDXplore commences with an attribute mapping table, similar to the examples in the following illustration. This is an important step which helps you setup how your Trial or Nursery information is loaded and defined in each application.
 
 **Note:** This method of attribute selection is employed to make the import task easier, rather than keep editing and adjusting the CSV file format.
 
@@ -49,13 +49,13 @@ Before the import proceeds, CSV Column Headings in the file need to be assigned 
 .. only:: html
 
     |center-start|
-    
-    
-    .. list-table:: :blue:`Trait Name Style` Import Trial from CSV Column Mapping Example  
+
+
+    .. list-table:: :blue:`Trait Name Style` Import Trial from CSV Column Mapping Example
        :widths: 30 30
        :class: longtable
        :header-rows: 1
-    
+
        * - **KDSmart**
          - **KDXplore**
        * - .. thumbnail:: images/kds-import-trialmapping.png
@@ -66,32 +66,32 @@ Before the import proceeds, CSV Column Headings in the file need to be assigned 
                 :width: 80%
                 :show_caption: True
                 :title: KDXplore CSV Column Mapping Example
-    
+
     |center-end|
 
 .. only:: latex
-    
+
     .. tabularcolumns:: |\Y{0.5}|\Y{0.5}|
-    
-    .. list-table:: :blue:`Trait Name Style` Import Trial from CSV Column Mapping Example  
+
+    .. list-table:: :blue:`Trait Name Style` Import Trial from CSV Column Mapping Example
        :widths: 30 30
        :class: longtable
        :header-rows: 1
-    
+
        * - **KDSmart**
          - **KDXplore**
        * - .. figure:: images/kds-import-trialmapping.png
                 :scale: 100%
                 :alt: KDSmart CSV Column Mapping Example
-                
+
                 KDSmart CSV Column Mapping Example
-         - 
+         -
            .. figure:: images/kdx-import-trialmapping.png
                 :scale: 100%
                 :alt: KDXplore CSV Column Mapping Example
-                
+
                 KDXplore CSV Column Mapping Example
-        
+
 
 
 
@@ -99,8 +99,8 @@ The interface examples above illustrate the:
 
 * File chosen to import is "maize-with-data.csv";
 * Name of the CSV's column Headings;
-* First data row; and 
-* Blue (KDSmart) 'Import As' column. 
+* First data row; and
+* Blue (KDSmart) 'Import As' column.
 
 Selecting the 'Import As' entry, for each row as necessary, reveals a drop down list of attributes that can be assigned to the column. KDSmart/KDXplore makes a 'best guess' of the attribute type where possible based upon the first row of data.
 
@@ -120,10 +120,10 @@ The following tables list each Attribute Type. Pay particular attention to the o
 
    * - **Attribute Type**
      - **Usage**
-   * - - :blue:`Trial Attribute` or 
+   * - - :blue:`Trial Attribute` or
        - :blue:`Plot Attribute`
      - Indicates KDSmart must retain the value as an attribute, either for the Trial or for each Plot respectively.
-   * - - :blue:`Trait` or 
+   * - - :blue:`Trait` or
        - :blue:`Trait for Sub-Plot`
      - Applying either of these Attributes to a column causes a *Trait* of that name to be added to the list of Traits for the Trial.
    * - :blue:`Ignore`
@@ -134,11 +134,11 @@ The *Attribute Types* listed above may be applied to **ANY** heading in the CSV 
 
 Any columns with a name starting with "Link:", "Date:", "Date\_", "Sub-Plot#:", or "Sub-Plot#_" will be automatically assigned as *Ignore* (but you can always change that if you wish).
 
-.. 
-   Editors note - in the above line the reference to column name "Date_" requires the backslash '\' character 
+..
+   Editors note - in the above line the reference to column name "Date_" requires the backslash '\' character
    to prevent, or 'escape', Sphinx translation. As the backslash is not part of the syntax being described
    it is important that it does not appear in the output which would mislead the user.
-   
+
 |br|
 
 Trial & Plot Import Options
@@ -165,8 +165,8 @@ You may choose one of the following options:
      - **Format**
      - **Example / Description**
    * - **No Trait Instance detection**
-     - 
-     - 
+     -
+     -
      - All Trait headings will have a single Trait Instance created. Headings of: |br| :peru:`AMT1`, |br| :peru:`AMT:1`, |br| :peru:`AMT__1` |br| will correspond to three different Traits with exactly the names provided.
    * - **Ends in colon followed by digits**
      - 1
@@ -174,7 +174,7 @@ You may choose one of the following options:
      - :peru:`AMT`, :peru:`AMT:2` results in Trait Instance numbers of :peru:`1` and :peru:`2`.
    * - **Ends in two underscores then digits**
      - 1
-     - <traitName> __ 
+     - <traitName> __
        <instanceNumber>
      - :peru:`AMT`, :peru:`AMT\_\_2` results in Trait Instance numbers of 1 and 2.
        Note: Don't include spaces - only depicted here for display purposes.
@@ -183,7 +183,7 @@ The other options you need to select are how KDSmart/KDXplore determines Sub-Plo
 
 To specify that a column is for a particular Sub-Plot, add the following suffix :peru:`#nn` (i.e. :peru:`#` followed by digits, which must be an integer greater than zero) where the number identifies the individual.
 
-You may specify whether or not "sub-plot" data is to be collected here or while scoring by touching the Plot icon: |plot-icon| 
+You may specify whether or not "sub-plot" data is to be collected here or while scoring by touching the Plot icon: |plot-icon|
 
 The following three tables list, in turn, the headings that are used for different parts of a Trial Import. |br|
 Abbreviations used: |br|
@@ -209,46 +209,46 @@ The first table lists the headings that pertain to Trial-specific data. |br|
      - **Headings Automatically Recognised**
      - **Description**
    * - :peru:`Trial Planting Date` |br| OPT
-     - - PlantingDate 
-       - TrialPlantingDate 
-       - DatePlanted 
-       - Planted 
-       - DateSown 
-       - Sown 
+     - - PlantingDate
+       - TrialPlantingDate
+       - DatePlanted
+       - Planted
+       - DateSown
+       - Sown
        - SownDate
-     - The base value used for computing ELAPSED_DAYS values for Traits, e.g. Days to Flowering.  (Can be changed manually after import) 
+     - The base value used for computing ELAPSED_DAYS values for Traits, e.g. Days to Flowering.  (Can be changed manually after import)
    * - :peru:`Trial Name` |br| OPT
      - Trial Name
      - If present, this is used as the name of the Trialin. If not present, the name of the CSV file will be used.
    * - :peru:`Trial Alias` |br| OPT
-     - - Abbreviation 
-       - TrialAbbreviation 
-       - TrialAcronym 
+     - - Abbreviation
+       - TrialAbbreviation
+       - TrialAcronym
        - Acronym
      - A short name for the Trial that will be used on screens where there is limited space.
    * - :peru:`Trial Column Name` |br| OPT
-     - - ColumnName 
+     - - ColumnName
        - NameForColumn
      - This is the word used for the X coordinate (see the attribute type X-Column in the Plot headings table below). |br| Example: for "Range/Row" the value here would be "Range".
    * - :peru:`Trial Row Name` |br| OPT
-     - - RowName 
+     - - RowName
        - NameForRow
      - This is the word used for the Y coordinate (see the attribute type Y-Row in the Plot headings table). |br| Example: for "Range/Row" the value here would be "Range".
    * - :peru:`Trial Plot Name` |br| OPT
-     - - CellName 
-       - NameForCell 
-       - PlotName 
+     - - CellName
+       - NameForCell
+       - PlotName
        - NameForPlot
      - This is the word used to describe each "cell". For many plant-related field trials this is likely to be "Plot". For other trials/experiments it may be "Panel", "Pond", "Test-tube" etc.
    * - :peru:`Trial Bundle` |br| OPT
-     - - TrialBundle 
+     - - TrialBundle
        - TrialGroup
        - TB
        - TG
      - Assigns the name of a Trial Bundle for the Trial
    * - :peru:`Trial Database Id` |br| OPT
-     - - DatabaseTrialId 
-       - TrialId 
+     - - DatabaseTrialId
+       - TrialId
        - TrialNumber
      - May be provided to cross-reference to the originating database.
    * - :peru:`Trial Attribute` |br| ATTR
@@ -272,70 +272,70 @@ Plot Specific Data
      - **Description**
 
    * - :peru:`Plot Id` |br| ID |br| Integer
-     - - CellId 
-       - PlotId 
-       - EntryId  
+     - - CellId
+       - PlotId
+       - EntryId
        - Plot
      - If present, uniquely identifies the Plot in the Trial. Must be unique.
    * - :peru:`PlotBlock` |br| ID |br| Integer
-     - - PlotBlock 
-       - BlockNo  
+     - - PlotBlock
+       - BlockNo
      - If present uniquely identifies the Block in the Trial.
    * - :peru:`Plot Column (X)` |br| ID |br| Integer
-     - - PlotColumn 
-       - X 
-       - Column 
-       - Col 
-       - ColumnX 
-       - X-Column 
+     - - PlotColumn
+       - X
+       - Column
+       - Col
+       - ColumnX
+       - X-Column
        - Column_No
        - BlockX
-     - The X–coordinate of the Plot within the Trial. 
-       
-       If present, the (X,Y) pair must uniquely identify the Plot in the Trial, OR 
-       
+     - The X–coordinate of the Plot within the Trial.
+
+       If present, the (X,Y) pair must uniquely identify the Plot in the Trial, OR
+
        If PlotBlock is selected the (X,Y) pair must be unique within the Block.
    * - :peru:`Plot Row (Y)` |br| ID |br| Integer
-     - - PlotRow 
-       - Y 
-       - Row 
-       - RowY 
-       - Y-Row 
-       - Range_No 
+     - - PlotRow
+       - Y
+       - Row
+       - RowY
+       - Y-Row
+       - Range_No
        - Range
        - BlockY
-       
-     - The Y–coordinate of the Plot within the Trial. 
-       
+
+     - The Y–coordinate of the Plot within the Trial.
+
        If present, the (X,Y) pair must uniquely identify the Plot in the Trial, OR
-       
+
        If PlotBlock is selected the (X,Y) pair must be unique within the Block.
    * - :peru:`Plot Note` |br| OPT
-     - - PlotNote 
-       - Note 
+     - - PlotNote
+       - Note
        - TrialUnitComment
      - A description or information for the imported plot.
    * - :peru:`Plot Type` |br| OPT
      - PlotType
      - If present, this specifies the type of plot (e.g. Control, Check, etc.).
    * - :peru:`Plot Barcode` |br| OPT
-     - - PlotBarcode 
-       - Barcode 
+     - - PlotBarcode
+       - Barcode
        - TrialUnitBarcode
-     - If Plot Barcode column provided it must not be blank. |br| 
+     - If Plot Barcode column provided it must not be blank. |br|
        See the User Guide section on Barcode Scanning for further details of how the data in this column is used.
    * - :peru:`Plot Tags` |br| OPT
-     - - Tags, 
-       - PlotComments, 
+     - - Tags,
+       - PlotComments,
        - Comments
      - Additional comments for the imported plot. A list of pipe-separated ( | ) Tag labels.
    * - :peru:`Plot Database Id` |br| OPT
-     - - DatabasePlotId, 
-       - TrialUnitId, 
+     - - DatabasePlotId,
+       - TrialUnitId,
        - TrialUnitNumber
      - May be provided to cross-reference to the originating database.
    * - :peru:`Sub-Plot Count` |br| OPT |br| Integer
-     - - SpecimenCount, 
+     - - SpecimenCount,
        - IndividualCount,
        - Plant Count
      - Number of Sub-Plots or plants present within the plot to be imported. |br| Please read the section below `Sub-Plot Count and Trait Instances`_.
@@ -361,21 +361,21 @@ Sub-Plot Specific Data
      - **Description**
 
    * - :peru:`Sub-Plot Id` |br| ID |br| Integer
-     - - SpecimenDatabaseId 
-       - Sub-PlotDatabaseId 
-       - Sub-PlotDbId  
+     - - SpecimenDatabaseId
+       - Sub-PlotDatabaseId
+       - Sub-PlotDbId
        - PlantDatabaseId
        - IndividualDatabaseId
      - If present, uniquely identifies the Sub-Plot in the Trial. Must be unique.
    * - :peru:`Sub-Plot Tags` |br| OPT
-     - - Sub-PlotTags 
+     - - Sub-PlotTags
        - SPTags
        - PlantTags
        - IndividualTags
        - SpecimenTags
      - Additional comments for the imported Sub-Plot. A list of pipe-separated ( | ) Tag labels.
    * - :peru:`Sub-Plot Traits` |br| OPT
-     - 
+     -
      - Any heading with # that is not matched to one of the above Sub-Plot specific headings will default to a Sub-Plot Trait. |br| E.g Plant_Height#6 will default to Sub-Plot Trait.
 
 
@@ -405,24 +405,24 @@ This table continues from the two above but lists the Attribute Types for Trait 
      - :blue:`Trait`
      - :blue:`May be applied to any heading in the CSV file.`
      - Marks this column as representing a Trait that is scored **only for Plots**.
-       
+
        The *Trait Name Style* governs if a *Trait Instance* is being referenced or not.
    * - :blue:`Trait for Sub-Plot` |br| OPT
      - :blue:`Trait`
      - :blue:`May be applied to any heading in the CSV file.`
      - Marks this column as representing a Trait that is scored **only for Sub-Plots**.
-       
+
        The *Trait Name Style* governs if a *Trait Instance* is being referenced or not.
    * - :blue:`Ignore`
-     - 
+     -
      - :blue:`May be applied to any heading in the CSV file.`
      - Indicates that this column should **not** be imported.
 
 
-For an example see the following `A Simple Example`_ topic. 
+For an example see the following `A Simple Example`_ topic.
 
 .. raw:: latex
-  
+
       \newpage
 
 Sub-Plot Count and Trait Instances
@@ -444,7 +444,7 @@ If a column is **NOT** marked as :blue:`Sub-Plot Count`, no Sub-Plots will be cr
 Notes For Importing Subplot Data
 """""""""""""""""""""""""""""""""
 
-The TRAIT FOR SUB-PLOT column heading requires a suffix of :blue:`#` with the Sub-Plot number the value is referring to. 
+The TRAIT FOR SUB-PLOT column heading requires a suffix of :blue:`#` with the Sub-Plot number the value is referring to.
 
 For example, importing a Plant_Height value for Sub-Plot three have a heading :blue:`Plant_Height#3`. To import for all of the Sub-Plots available (Number seen in Sub-Plot count column) use :blue:`#*`. |br|
 If the trait is a specific instance, the instance number can be imported as you would typically just with the Sub-Plot number appended e.g. :blue:`Plant_Height:2#3`.
@@ -472,7 +472,7 @@ Plot Attribute Headings
 The items below identify headings that are automatically classified as *Plot Attributes* by KDSmart.
 
 
-- Treatment 
+- Treatment
 - SelectionHistory, Selection\_History
 - ReplicateNumber, Replicate, Rep, Repeticion, REP\_NO
 - GenotypeName, Genotype, GID
@@ -519,7 +519,7 @@ Similarly, if you have not chosen a column as the *Trial Name*, the name of the 
 .. note:: *Trial Name* checks are **not** case sensitive.
 
 .. raw:: latex
-  
+
       \newpage
 
 A Simple Example
@@ -528,7 +528,7 @@ A Simple Example
 Example File Construction
 """"""""""""""""""""""""""
 
-For this simple example (line no.s shown for clarity) the CSV file with three lines consists of: 
+For this simple example (line no.s shown for clarity) the CSV file with three lines consists of:
 
 .. code-block:: xml
    :linenos:
@@ -537,7 +537,7 @@ For this simple example (line no.s shown for clarity) the CSV file with three li
    2014-12-15,23,4,,,2,
    2014-12-15,21,5,,,0,
 
-.. 
+..
    Editors note: It's not really XML, in the code-block above, however it renders better     than other choices or just using '::'.
 
 
@@ -574,18 +574,18 @@ Using the "After Sub-Plot Count", described in `Sub-Plot Count and Trait Instanc
      - 2014-12-15
      - 23
      - 4
-     - 
-     - 
+     -
+     -
      - 2
-     - 
+     -
    * - CSV Line 3
      - 2014-12-15
      - 21
      - 5
-     - 
-     - 
+     -
+     -
      - 0
-     - 
+     -
 
 |br|
 
@@ -611,7 +611,7 @@ When reading and parsing the headers, KDSmart removes all spaces and performs a 
 It also skips over any blank lines and takes the first non-blank line as the headings line.
 
 .. raw:: latex
-  
+
       \newpage
 
 Traits
@@ -633,13 +633,13 @@ The following table describes the required and optional Trait headings for a CSV
      - **Notes**
    * - **TraitName**
      - Name
-     - This column heading must be present. All others are optional. |br| 
+     - This column heading must be present. All others are optional. |br|
        The value should be kept short and, if you wish to use the name in KDXplore with CALC *Traits* no spaces are permitted and the name **must** begin with a letter.  |br| We recommend using the underscore ( _ ) character or CamelCase to improve readability. |br| See also the description of the import option regarding `Trait Name Style`_.
    * - **TraitAlias** OPT
      - Alias
      - If provided, should be a shorter form of the *TraitName* to use during scoring.
-   * - **TraitLevel** OPT 
-     - Level 
+   * - **TraitLevel** OPT
+     - Level
      - Default: Plot. Versions before (KDSmart V3.0.3, KDXplore Beta1.1.4 or Prod 2.1.4) TraitLevel could specify only *Plot* or *Sub-Plot*.  For versions equal to or above, TraitLevel can specify the trait is either for the: *Plot Level* by using "Plot" or "TrialUnit"; or |br| the *Sub-Plot* level by using "Sub-Plot", "Sub-Plot", "Individual" or "Plant".
    * - **TraitBarcode** OPT
      - Barcode
@@ -664,7 +664,7 @@ The following table describes the required and optional Trait headings for a CSV
 .. Note:: A new Trait can be created directly in KDSmart. If you do this and are also uploading or synchronising your data to KDXplore or KDDart you may have to reconcile the differences if there is already a Trait of the same name (compared in a case-insensitive manner).
 
 .. raw:: latex
-  
+
       \newpage
 
 Overwriting Existing Traits
@@ -696,13 +696,13 @@ Entries for existing Traits can be specified in a CSV file. The Traits are match
    * - Description
      - Description
      - Descriptions are truncated to the current database limit then compared for equality.
-         
+
        If they are the same (ignoring case), a warning will be issued but the new Trait’s description will replace the current one in the database.
        Otherwise:
-       
+
        - CHOICE: must have the choices or the old choices must be a subset of the new choices
        - INTEGER and DECIMAL: the limit "exclusions" must be identical, however the new Trait’s limits may be "wider" than the current Trait in the database
-       
+
        If any of incompatibilities above are identified, a warning is issues and the import continues without altering the current Trait in the database.
 
 .. End of Table
@@ -729,10 +729,10 @@ The value may only be viewed in KDXplore during data curation. KDXplore is able 
 
 .. Note:: New Traits cannot be derived from Trait names containing spaces. Recommendation that underscores are used in place of spaces for Trait names, especially if they are intended for use in calculations.
 
-See: :ref:`Calculated_or_Derived_Traits` 
+See: :ref:`Calculated_or_Derived_Traits`
 
 .. raw:: latex
-  
+
       \newpage
 
 
@@ -744,7 +744,7 @@ The following details the required and optional headings in a CSV file that cont
 .. tabularcolumns:: |\Y{0.2}|\Y{0.2}|\Y{0.2}|\Y{0.4}|
 
 
-.. list-table:: 
+.. list-table::
    :widths: 5 10 5 20
    :class: longtable
    :header-rows: 1
@@ -756,7 +756,7 @@ The following details the required and optional headings in a CSV file that cont
      - **Description**
    * - **Label**
      - TagLabel, Comment
-     - Yes 
+     - Yes
      - Name of the Tag e.g. BD for bird damage
    * - **Description**
      - TagDescription, Desc, CommentDescription
@@ -824,7 +824,7 @@ The following six cases illustrate part of the input CSV file and how the Trait 
             :scale: 100 %
 
 .. raw:: latex
-  
+
       \newpage
 
 
@@ -835,7 +835,9 @@ Excel Formula for Converting ISO-8601 Timestamp to Excel Date
 
    <a href="https://en.wikipedia.org/wiki/ISO_8601" target="_blank">ISO-8601 format</a>
 
-When KDXplore or KDSmart use a timestamp for a scored trait value the timestamp is recorded in |ISO_link|. 
+When KDXplore or KDSmart use a timestamp for a scored trait value the timestamp is recorded in a format compatible with |ISO_link|.
+
+This formula should work for any timestamp produced by KDXplore or KDSmart, but is not universally applicable to all date/times produced in the |ISO_link| format.
 
 Using this format means that you can correctly compare data collected in different
 time zones.
@@ -844,7 +846,7 @@ Unfortunately Microsoft Excel does not automatically recognise this format. Howe
 
 The formula is:
 
-:: 
+::
 
         =DATEVALUE(LEFT(A1,10))
         + TIMEVALUE(MID(A1,12,8))
