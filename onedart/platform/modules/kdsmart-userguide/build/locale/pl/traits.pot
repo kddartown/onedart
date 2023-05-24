@@ -8,73 +8,87 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-05-24 00:53+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Polish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/traits/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/traits.rst:27
 msgid "Traits"
-msgstr ""
+msgstr "Cechy"
 
 #: ../../source/traits.rst:30
 msgid "KDSmart facilitates the recording or scoring of traits for trials and nurseries. Traits are usually phenotypic information although this arbitrary."
 msgstr ""
+"KDSmart ułatwia rejestrowanie lub punktację cech dla prób i żłobków. Cechy "
+"są zwykle informacjami fenotypowymi, chociaż są to arbitralne."
 
 #: ../../source/traits.rst:32
 msgid "KDSmart scoring screens are designed to allow quick recording of measurements, usually with a single touch."
 msgstr ""
+"Ekrany punktacji KDSmart są zaprojektowane tak, aby umożliwić szybkie "
+"rejestrowanie pomiarów, zwykle jednym dotknięciem."
 
 #: ../../source/traits.rst:34
 msgid "Traits can be defined with validation rules to facilitate strict data capture rules to assist in preventing recording errors. These rules can also be utilised to also make scoring more efficient by minimising the required keystrokes."
 msgstr ""
+"Cechy można zdefiniować za pomocą reguł walidacji, aby ułatwić ścisłe zasady "
+"przechwytywania danych, aby pomóc w zapobieganiu błędom nagrywania. Reguły "
+"te można również wykorzystać do zwiększenia wydajności punktacji poprzez "
+"zminimalizowanie wymaganych naciśnięć klawiszy."
 
 #: ../../source/traits.rst:36
 msgid "The **Traits Screen** (pictured below) provides a list of all available traits and options for management of traits including importing and exporting."
 msgstr ""
+"Ekran **Cechy** (na zdjęciu poniżej) zawiera listę wszystkich dostępnych "
+"cech i opcji zarządzania cechami, w tym importu i eksportu."
 
 #: ../../source/traits.rst:38
 #: ../../source/traits.rst:61
@@ -87,562 +101,732 @@ msgstr ""
 #: ../../source/traits.rst:299
 #: ../../source/traits.rst:335
 msgid "|br|"
-msgstr ""
+msgstr "|pl|"
 
 #: ../../source/traits.rst:41
 msgid "What is a Trait?"
-msgstr ""
+msgstr "Co to jest cecha?"
 
 #: ../../source/traits.rst:43
 msgid "Traits are the quality or characteristic being inspected, measured and recorded for the organism. Within KDSmart, traits have the following characteristics and features:"
 msgstr ""
+"Cechy to jakość lub cecha, która jest kontrolowana, mierzona i rejestrowana "
+"dla organizmu. W ramach KDSmart cechy mają następujące cechy i cechy:"
 
 #: ../../source/traits.rst:45
 msgid "User definable;"
-msgstr ""
+msgstr "Definiowalny przez użytkownika;"
 
 #: ../../source/traits.rst:46
 msgid "Defined by six different data types;"
-msgstr ""
+msgstr "Zdefiniowane przez sześć różnych typów danych;"
 
 #: ../../source/traits.rst:47
 msgid "Optionally lockable once scored to prevent accidental change;"
-msgstr ""
+msgstr "Opcjonalnie zamykany po nacięciu, aby zapobiec przypadkowej zmianie;"
 
 #: ../../source/traits.rst:48
 msgid "Importable and exportable;"
-msgstr ""
+msgstr "Importowane i eksportowane;"
 
 #: ../../source/traits.rst:49
 msgid "Can be grouped into bundles for easier management; and"
-msgstr ""
+msgstr "Można je pogrupować w pakiety dla łatwiejszego zarządzania; oraz"
 
 #: ../../source/traits.rst:50
 msgid "Are either plot level or sub-plot level."
-msgstr ""
+msgstr "Są albo poziomem wydruku, albo poziomem poddziałki."
 
 #: ../../source/traits.rst:52
 msgid "A measurement is stored for each trait instance in each plot or sub-plot includes the:"
 msgstr ""
+"Pomiar jest przechowywany dla każdej instancji cechy na każdym wykresie lub "
+"podwykresie zawiera:"
 
 #: ../../source/traits.rst:54
 msgid "Date and time when the measurement was taken;"
-msgstr ""
+msgstr "Data i godzina, w której dokonano pomiaru;"
 
 #: ../../source/traits.rst:55
 msgid "GPS coordinates (if this is enabled); and"
-msgstr ""
+msgstr "współrzędne GPS (jeśli jest włączona); oraz"
 
 #: ../../source/traits.rst:56
 msgid "Value of the measurement."
-msgstr ""
+msgstr "Wartość pomiaru."
 
 #: ../../source/traits.rst:58
 msgid "Some examples of traits include the height of a plant (this might be called :brown:`Plant\\_Height`) or the date that a plot was irrigated (which could be called :brown:`Irrigated`)."
 msgstr ""
+"Niektóre przykłady cech obejmują wysokość rośliny (można to nazywać:brown: `"
+"Plant\\ _Height`) lub datę nawadniania działki (którą można nazywać:brązowy: "
+"`Nawadniany`)."
 
 #: ../../source/traits.rst:69
 #: ../../source/traits.rst:74
 msgid "Trait Attributes"
-msgstr ""
+msgstr "Atrybuty cechy"
 
 #: ../../source/traits.rst:71
 msgid "Each trait contains a set of attributes that define its characteristics. The following table lists the attributes of a trait:"
 msgstr ""
+"Każda cecha zawiera zestaw atrybutów, które definiują jej cechy. Poniższa "
+"tabela zawiera atrybuty cechy:"
 
 #: ../../source/traits.rst:78
 msgid "**Attribute**"
-msgstr ""
+msgstr "**Atrybut**"
 
 #: ../../source/traits.rst:79
 #: ../../source/traits.rst:84
 #: ../../source/traits.rst:180
 #: ../../source/traits.rst:253
 msgid "**Description**"
-msgstr ""
+msgstr "**Opis**"
 
 #: ../../source/traits.rst:80
 msgid "**Trait Name**"
-msgstr ""
+msgstr "**Nazwa cemy**"
 
 #: ../../source/traits.rst:81
 msgid "Must be *unique and short* for display in the **Scoring Screen** where space is limited on smaller devices (i.e. phones)."
 msgstr ""
+"Musi być *unikalny i krótki* do wyświetlania na ekranie **Scoring Screen**, "
+"gdzie miejsce jest ograniczone na mniejszych urządzeniach (tj. telefonach)."
 
 #: ../../source/traits.rst:82
 msgid "**Alias**"
-msgstr ""
+msgstr "**Alias**"
 
 #: ../../source/traits.rst:83
 msgid "An alternative trait name, useful when the trait name is too long for the screen."
 msgstr ""
+"Alternatywna nazwa cechy, przydatna, gdy nazwa cechy jest zbyt długa dla "
+"ekranu."
 
 #: ../../source/traits.rst:85
 msgid "This is an optional longer explanation of the trait to assist in data entry."
 msgstr ""
+"Jest to opcjonalne dłuższe wyjaśnienie cechy pomagające we wprowadzaniu "
+"danych."
 
 #: ../../source/traits.rst:86
 #: ../../source/traits.rst:179
 msgid "**Data Type**"
-msgstr ""
+msgstr "**Typ danych**"
 
 #: ../../source/traits.rst:87
 msgid "Constrains permitted values of traits. Types available are:"
-msgstr ""
+msgstr "Ogranicza dopuszczalne wartości cech. Dostępne typy to:"
 
 #: ../../source/traits.rst:89
 msgid "CATEGORICAL,"
-msgstr ""
+msgstr "KATEGORYCZNY,"
 
 #: ../../source/traits.rst:90
 msgid "DATE,"
-msgstr ""
+msgstr "DATA,"
 
 #: ../../source/traits.rst:91
 msgid "ELAPSED_DAYS,"
-msgstr ""
+msgstr "UPŁYNĄŁ_DNI,"
 
 #: ../../source/traits.rst:92
 msgid "INTEGER,"
-msgstr ""
+msgstr "LICZBA CAŁKOWITA,"
 
 #: ../../source/traits.rst:93
 msgid "DECIMAL;  |nbsp| or"
-msgstr ""
+msgstr "DZIESIĘTNY; |nbsp| lub"
 
 #: ../../source/traits.rst:94
 msgid "TEXT;"
-msgstr ""
+msgstr "TEKST;"
 
 #: ../../source/traits.rst:96
 msgid "For details refer to `Trait Data Types`_"
-msgstr ""
+msgstr "Szczegółowe informacje można znaleźć w sekcji „Typy danych cech” _"
 
 #: ../../source/traits.rst:97
 msgid "**Unit**"
-msgstr ""
+msgstr "**Jednostki**"
 
 #: ../../source/traits.rst:98
 msgid "An arbitrary term for the *unit* of the trait to assist with what value to enter when scoring (e.g. measurement in millimetres or centimetres)."
 msgstr ""
+"Dowolny termin określający jednostkę* cechy, aby pomóc w określeniu, jaką "
+"wartość wprowadzić podczas punktacji (np. pomiar w milimetrach lub "
+"centymetrach)."
 
 #: ../../source/traits.rst:99
 #: ../../source/traits.rst:325
 msgid "**Validation Rule**"
-msgstr ""
+msgstr "**Walidacja**"
 
 #: ../../source/traits.rst:100
 msgid "The validation rule optionally restricts the values being entered. The nature of the rule is dependent upon the selection of a data type."
 msgstr ""
+"Reguła walidacji opcjonalnie ogranicza wprowadzane wartości. Charakter "
+"reguły zależy od wyboru typu danych."
 
 #: ../../source/traits.rst:102
 msgid "Within the **Scoring Screen**, a *long press* of any trait name will:"
 msgstr ""
+"W obrębie **Ekranu Punktacji**, *długie naciśnięcie* dowolnej nazwy cechy "
+"będzie:"
 
 #: ../../source/traits.rst:104
 msgid "Display the trait details; and"
-msgstr ""
+msgstr "Wyświetla szczegóły cechy; oraz"
 
 #: ../../source/traits.rst:105
 msgid "Allow editing of the trait value if it is locked."
-msgstr ""
+msgstr "Zezwalaj na edycję wartości cechy, jeśli jest zablokowana."
 
 #: ../../source/traits.rst:108
 msgid "Traits loaded from CSV all default to the *TEXT* data type unless they have previously been loaded or defined. Once loaded you may edit the trait definition to define its data type etc."
 msgstr ""
+"Cechy załadowane z CSV wszystkie domyślnie do typu danych *TEXT*, chyba że "
+"zostały wcześniej załadowane lub zdefiniowane. Po załadowaniu możesz "
+"edytować definicję cechy, aby zdefiniować jej typ danych itp."
 
 #: ../../source/traits.rst:110
 msgid "Unless specified in the CSV, traits loaded from CSV default to the *TEXT* data type. If the Trait already exists and is not yet scored unless they have previously been loaded or defined. Once loaded you may edit the trait definition to define its data type etc."
 msgstr ""
+"O ile nie określono w pliku CSV, cechy są ładowane z domyślnego pliku CSV do "
+"typu danych *TEXT*. Jeśli cecha już istnieje i nie została jeszcze oceniona, "
+"chyba że została wcześniej załadowana lub zdefiniowana. Po załadowaniu "
+"możesz edytować definicję cechy, aby zdefiniować jej typ danych itp."
 
 #: ../../source/traits.rst:118
 #: ../../source/traits.rst:148
 #: ../../source/traits.rst:148
 msgid "Trait Instances"
-msgstr ""
+msgstr "Wystąpienia cech"
 
 #: ../../source/traits.rst:120
 msgid "A trial consists of plots and sub-plots which have traits for scoring. Furthermore, KDSmart allows you to score each trait multiple times - this is called a *Trait Instance*. The benefit of instancing traits is that they are easier to create and manage because only one trait needs to be managed rather than separate ones. Having separate traits also creates more work for data analysis and curation in KDXplore."
 msgstr ""
+"Próba składa się z wykresów i wykresów podrzędnych, które mają cechy "
+"punktacji. Co więcej, KDSmart pozwala wielokrotnie oceniać każdą cechę - "
+"nazywa się to *Cechą instance*. Zaletą cech instancji jest to, że łatwiej je "
+"tworzyć i zarządzać, ponieważ trzeba zarządzać tylko jedną cechą, a nie "
+"oddzielnymi. Posiadanie oddzielnych cech stwarza również więcej pracy dla "
+"analizy danych i kuracji w KDXplore."
 
 #: ../../source/traits.rst:122
 msgid "For example, you may wish to score :brown:`PH\\_Soil` three times: after 3 weeks, after 5 weeks and after 7 weeks. You can either:"
 msgstr ""
+"Na przykład możesz chcieć punktować:brown: `PH\\ _Soil` trzy razy: po 3 "
+"tygodniach, po 5 tygodniach i po 7 tygodniach. Możesz:"
 
 #: ../../source/traits.rst:124
 msgid "Define three different traits (e.g. :brown:`PH\\_Soil1`, :brown:`PH\\_Soil2`, and :brown:`PH\\_Soil3`)."
 msgstr ""
+"Zdefiniuj trzy różne cechy (np.: brązowy: `PH\\ _Soil1`, :brown: `PH\\ "
+"_Soil2`, oraz:brown: `PH\\ _Soil3`)."
 
 #: ../../source/traits.rst:125
 msgid "Define three instances of the single trait (e.g. :brown:`PH\\_Soil #1`, :brown:`PH\\_Soil #2`, and :brown:`PH\\_Soil #3`)."
 msgstr ""
+"Zdefiniuj trzy przypadki pojedynczej cechy (np.:brown: `PH\\ _Soil #1 `, "
+":brown: `PH\\ _Soil #2`, oraz:brown: `PH\\ _Soil #3 `)."
 
 #: ../../source/traits.rst:131
 msgid "|center-start|"
-msgstr ""
+msgstr "|centrum-start|"
 
 #: ../../source/traits.rst:139
 msgid "|center-end|"
-msgstr ""
+msgstr "|centralny końc|"
 
 #: ../../source/traits.rst:153
 msgid "Trait Naming"
-msgstr ""
+msgstr "Nazewnictwo cech"
 
 #: ../../source/traits.rst:155
 msgid "When preparing traits it is recommended that the use spaces in trait names are avoided and underscores are used instead. For example instead of :brown:`Plant Height` use :brown:`Plant_Height`."
 msgstr ""
+"Podczas przygotowywania cech zaleca się unikanie przestrzeni użytkowania w "
+"nazwach cech, a zamiast tego stosowane są podkreślenia. Na przykład zamiast: "
+"brown: `Plant Height` użyj:brown: `Plant_Height`."
 
 #: ../../source/traits.rst:157
 msgid "Should KDXplore software be used after scoring it has the ability to calculate trait values from other traits, however, is restricted if trait names contain spaces."
 msgstr ""
+"Jeśli oprogramowanie KDXplore będzie używane po punktacji, ma możliwość "
+"obliczania wartości cech na podstawie innych cech, jest jednak ograniczone, "
+"jeśli nazwy cech zawierają spacje."
 
 #: ../../source/traits.rst:166
 #: ../../source/traits.rst:174
 msgid "Trait Data Types"
-msgstr ""
+msgstr "Typy danych cech"
 
 #: ../../source/traits.rst:168
 msgid "The following table describes the available data types for traits:"
-msgstr ""
+msgstr "Poniższa tabela opisuje dostępne typy danych dla cech:"
 
 #: ../../source/traits.rst:181
 msgid "**Data Entry Style**"
-msgstr ""
+msgstr "**Styl wprowadzania danych**"
 
 #: ../../source/traits.rst:182
 msgid "**Example Validation Rule**"
-msgstr ""
+msgstr "**Przykładowa regula walidacji**"
 
 #: ../../source/traits.rst:183
 msgid "**TEXT**"
-msgstr ""
+msgstr "**TEKST**"
 
 #: ../../source/traits.rst:184
 msgid "No constraint on what may be entered."
-msgstr ""
+msgstr "Brak ograniczeń co do tego, co można wprowadzić."
 
 #: ../../source/traits.rst:185
 msgid "A text input field with a full keyboard."
-msgstr ""
+msgstr "Pole wprowadzania tekstu z pełną klawiaturą."
 
 #: ../../source/traits.rst:186
 msgid "No rule required."
-msgstr ""
+msgstr "Nie jest wymagana żadna reguła."
 
 #: ../../source/traits.rst:187
 msgid "**CATEGORICAL**"
-msgstr ""
+msgstr "**KATEGORYCZNE**"
 
 #: ../../source/traits.rst:188
 msgid "Value is constrained to be one from a list of allowed values. |br| Translations to other languages are supported."
 msgstr ""
+"Wartość jest ograniczona do jednej z listy dozwolonych wartości. |br| "
+"Obsługiwane są tłumaczenia na inne języki."
 
 #: ../../source/traits.rst:189
 msgid "A list of the allowed values is presented and the user touches the value desired."
 msgstr ""
+"Prezentowana jest lista dozwolonych wartości, a użytkownik dotyka żądanej "
+"wartości."
 
 #: ../../source/traits.rst:190
 msgid "Example: |br| :orange:`CHOICE(BLUE|YELLOW|RED)` |br| There must be at least two values provided in the pipe separated list (such as in the example above). |br| In a later release, the format will support providing a description for each value. This will likely be of the form |br| value:description |br| To prevent future problems you should not use the colon (:) character in any current value."
 msgstr ""
+"Przykład: |br|:orange: `CHOICE (BLUE|YELLOW|RED) `|br| Na liście oddzielnej "
+"rury muszą znajdować się co najmniej dwie wartości (jak w powyższym "
+"przykładzie). |br| W późniejszej wersji format będzie obsługiwał podanie "
+"opisu każdej wartości. Prawdopodobnie będzie to postać |br| value:"
+"description |br| Aby zapobiec przyszłym problemom, nie należy używać znaku "
+"dwukropka (:) w żadnej bieżącej wartości."
 
 #: ../../source/traits.rst:191
 msgid "**DATE**"
-msgstr ""
+msgstr "**DATA**"
 
 #: ../../source/traits.rst:192
 msgid "Value is a date."
-msgstr ""
+msgstr "Wartość to data."
 
 #: ../../source/traits.rst:193
 msgid "A calendar is presented from which to choose a date."
-msgstr ""
+msgstr "Prezentowany jest kalendarz, z którego można wybrać datę."
 
 #: ../../source/traits.rst:194
 msgid "May be left blank or specified as :orange:`date`."
-msgstr ""
+msgstr "Można pozostawić puste lub określone jako:orange: `date`."
 
 #: ../../source/traits.rst:195
 msgid "**ELAPSED_DAYS**"
-msgstr ""
+msgstr "**UPŁYNĄ_DNI**"
 
 #: ../../source/traits.rst:196
 msgid "Value is the number of days since the trial’s planting date. |br| The range in the calendar is constrained by the start date and an optional upper limit. |br| KDSmart stores the values as a date but presents the value as a number when required."
 msgstr ""
+"Wartość to liczba dni od daty sadzenia próby. |br| Zakres w kalendarzu jest "
+"ograniczony datą początkową i opcjonalnym górnym limitem. |br| KDSmart "
+"przechowuje wartości jako datę, ale w razie potrzeby przedstawia wartość "
+"jako liczbę."
 
 #: ../../source/traits.rst:197
 msgid "A list of days around the current date are presented and the user selects the desired value or chooses ':orange:`Other`' to use a calendar to pick a date outside this range. |br| The choices in the list (:orange:`-3d,  -2d, -1d, Today, +1d, +2d, +3d`) may be presented in different languages depending on locale support."
 msgstr ""
+"Prezentowana jest lista dni wokół bieżącej daty, a użytkownik wybiera żądaną "
+"wartość lub wybiera „:orange: `Inne``, aby użyć kalendarza, aby wybrać datę "
+"spoza tego zakresu. |br| Wybory na liście (:orange: `-3d, -2d, -1d, Dzisiaj, "
+"+1d, +2d, +3d`) mogą być prezentowane w różnych językach, w zależności od "
+"obsługi ustawień regionalnej."
 
 #: ../../source/traits.rst:198
 msgid "May be left blank or specified as |br| :orange:`elapsed_days`. |br| To enforce a maximum value, use: |br| :orange:`elapsed_days_max=NNN`."
 msgstr ""
+"Można pozostawić puste lub określone jako |br|:orange: `elapsed_days`. |br| "
+"Aby wymusić maksymalną wartość, użyj: |br|:orange: `elapsed_days_max=nnn`."
 
 #: ../../source/traits.rst:199
 msgid "**INTEGER**"
-msgstr ""
+msgstr "**LICZBA CAŁKOWITA**"
 
 #: ../../source/traits.rst:200
 msgid "Integer numeric values in a range specified. |br| The range is specified as a lower and upper bound and whether or not the bounds are included in the range."
 msgstr ""
+"Całkowite wartości liczbowe w określonym zakresie. |br| Zakres jest "
+"określony jako dolna i górna granica oraz to, czy granice są zawarte w "
+"zakresie."
 
 #: ../../source/traits.rst:201
 msgid "If the number of values is 'small' then the entry is similar to the categorical data type.  Otherwise, a numeric keypad is presented (excluding a decimal point key). |br| The changeover from categorical style to numeric keypad may be altered in the **Settings Screen**. |br| For Example: :orange:`RERANGE(1..5)`  presents as a list of choices: :orange:`1,2,3,4` but :orange:`RANGE(1..500)` presents a keypad."
 msgstr ""
+"Jeśli liczba wartości jest „mała”, to wpis jest podobny do kategorycznego "
+"typu danych. W przeciwnym razie prezentowana jest klawiatura numeryczna (z "
+"wyłączeniem klawisza dziesiętnego). |br| Zmiana stylu kategorycznego na "
+"klawiaturę numeryczną może zostać zmieniona na ekranie **Ustawienia**. |br| "
+"Na przykład: :orange: `RERANGE (1.. 5) `przedstawia jako listę opcji: "
+":orange: `1,2,3,4` but:orange: `RANGE (1.. 500)` przedstawia klawiaturę."
 
 #: ../../source/traits.rst:202
 msgid "Specify the range of values as: |br| :orange:`RANGE(min..max)` |br| or use `LERANGE, RERANGE, BERANGE` to exclude the left, right or both limits respectively. |br|  |br| Example: :orange:`RERANGE(-1..5)` |br| means the accepted values are |br| -1, 0, 1, 2, 3, 4 |br| |br| **Note:** If you use a custom keyboard, this may affect the appearance of the numeric keypad."
 msgstr ""
+"Określ zakres wartości jako: |br|:orange: `RANGE (min.. max) `|br| lub użyj `"
+"LERANGE, RERANGE, BERANGE`, aby wykluczyć odpowiednio lewy, prawy lub oba "
+"granice. |br| |br| Przykład: :orange: `RERANGE (-1.. 5) `|br| oznacza, że "
+"akceptowane wartości to |br| -1, 0, 1, 2, 3, 4 |br| |br| **Uwaga: ** Jeśli "
+"używasz niestandardowej klawiatury, może to wpłynąć na wygląd klawiatury "
+"numerycznej."
 
 #: ../../source/traits.rst:203
 msgid "**DECIMAL**"
-msgstr ""
+msgstr "**DZIESIĘTNY**"
 
 #: ../../source/traits.rst:204
 msgid "Specify a lower and upper bound and whether or not the bounds are included in the range and the number of digits of precision that will be recorded."
 msgstr ""
+"Określ dolną i górną granicę oraz to, czy granice są uwzględnione w zakresie "
+"i liczbę cyfr dokładności, które będą rejestrowane."
 
 #: ../../source/traits.rst:205
 msgid "Entry is done using a numeric keypad that includes the decimal point. |br| NOTE: If you use a custom keyboard, this may affect the appearance of the numeric keypad."
 msgstr ""
+"Wprowadzanie odbywa się za pomocą klawiatury numerycznej, która zawiera "
+"kropkę dziesiętną. |br| UWAGA: Jeśli używasz niestandardowej klawiatury, "
+"może to wpłynąć na wygląd klawiatury numerycznej."
 
 #: ../../source/traits.rst:206
 msgid ":orange:`RANGE(min..max)` |br| or use :orange:`LERANGE, RERANGE, BERANGE` |br| However, min and max must now contain a decimal point and at least one digit following the point. |br| So: :orange:`BERANGE(1.0..2.99)` |br| means accept values for x where :orange:`1.00 < x < 2.99` |br| (the greater number of digits after the \".\" for min/max is  the \"precision\" desired)."
 msgstr ""
+":orange: `RANGE (min.. max) `|br| lub use:orange: `LERANGE, RERANGE, BERANGE`"
+" |br| Jednak min i max muszą teraz zawierać kropkę dziesiętną i co najmniej "
+"jedną cyfrę następującą po kropce. |br| So: :orange: `BERANGE (1.0.. 2.99) "
+"`|br| oznacza akceptację wartości dla x, gdzie:orange: `1.00 < x < 2.99` |br|"
+" (większa liczba cyfr po „.” dla min/max jest pożądaną „precyzją”)."
 
 #: ../../source/traits.rst:207
 msgid "**CALC**"
-msgstr ""
+msgstr "**CALC**"
 
 #: ../../source/traits.rst:208
 msgid "Calculated or Derived Trait. |br| |br| See `Calculated or Derived Traits`_ below for further description."
 msgstr ""
+"Cecha obliczona lub pochodna. |br| |br| Patrz „Cechy obliczone lub pochodne” "
+"poniżej, aby uzyskać dalszy opis."
 
 #: ../../source/traits.rst:209
 msgid "Data entry is not permitted for this type. |br| |br| Traits with this data type **cannot** be scored during data collection."
 msgstr ""
+"Wprowadzanie danych jest niedozwolone dla tego typu. |br| |br| Cechy z tym "
+"typem danych**nie może** być oceniane podczas zbierania danych."
 
 #: ../../source/traits.rst:210
 msgid "A simple calculated or derived trait is: |br| :orange:`CALC( max(PH_CM/5,1) )` |br| This calculation references a trait named :orange:`PH_CM`, dividing the value by 5 and returning the maximum of the division or :orange:`1`, whichever is the greater. So a value of :orange:`17` for :orange:`PH_CM` gives a result of :orange:`3`. |br| Alternatively, |br| :orange:`CALC( max(PH_CM/5,1) , 1 )` |br| will retain the result with one decimal place. |br| In this case the value of :orange:`17` for  :orange:`PH_CM` results in :orange:`3.4`."
 msgstr ""
+"Prostą cechą obliczoną lub pochodną jest: |br|:orange: `CALC (max (PH_CM/"
+"5,1)) `|br| To obliczenie odnosi się do cechy nazwy:orange: `PH_CM`, dzieląc "
+"wartość przez 5 i zwracając maksimum podziału lub:orange: `1`, w zależności "
+"od tego, która z tych wartości jest większa. Tak więc wartość:orange: `17` "
+"dla:orange: `PH_CM` daje wynik:orange: `3`. |br| Alternatywnie, |br|:orange: "
+"`CALC (max (PH_CM/5,1), 1) `|br| zachowa wynik z jednym miejscem po "
+"przecinku. |br| W tym przypadku wartość:orange: `17` dla:orange: `PH_CM` "
+"daje wynik:orange: `3.4`."
 
 #: ../../source/traits.rst:218
 msgid "Calculated or Derived Traits"
-msgstr ""
+msgstr "Cechy obliczone lub pochodne"
 
 #: ../../source/traits.rst:221
 msgid "The validation rule has either one or two components (with a comma separating them if required):"
 msgstr ""
+"Reguła walidacji składa się z jednego lub dwóch komponentów (z przecinkiem "
+"oddzielającym je w razie potrzeby):"
 
 #: ../../source/traits.rst:223
 msgid "The first component provides a formula that may reference other traits (by the trait name), using the operators and functions listed below."
 msgstr ""
+"Pierwszy składnik zawiera formułę, która może odnosić się do innych cech ("
+"według nazwy cechy), przy użyciu operatorów i funkcji wymienionych poniżej."
 
 #: ../../source/traits.rst:224
 msgid "If present, the second component indicates the number of decimal digits to retain in the computed result."
 msgstr ""
+"Jeśli występuje, drugi składnik wskazuje liczbę cyfr dziesiętnych, które "
+"należy zachować w obliczonym wyniku."
 
 #: ../../source/traits.rst:226
 msgid "The functions available are in a table below. Arithmetic operators are:"
 msgstr ""
+"Dostępne funkcje znajdują się w poniższej tabeli. Operatorami arytmetycznymi "
+"są:"
 
 #: ../../source/traits.rst:228
 msgid ":orange:`* / %` (the last is the **modulo** operation) |br| :orange:`+ -` (unary minus is also supported) |br| :orange:`^ **` (for exponentiation)."
 msgstr ""
+":orange: `*/%` (ostatnia to operacja **modulo**) |br|:orange: `+ -` ("
+"obsługiwany jest również unary minus) |br|:orange: `^ **` (do wykładania)."
 
 #: ../../source/traits.rst:233
 msgid "The comparison operators: :orange:`< <= = != > >=` and the logical operators: :orange:`&& ||` evaluate to either :orange:`1` or :orange:`0` representing **true** or **false** respectively. This is relevant for the :orange:`if(cond,a,b)` function."
 msgstr ""
+"Operatory porównania: :orange: `< <= =! = > >=` i operatory logiczne: "
+":orange: `&& |||` oceniają także:orange: `1` lub:orange: `0` reprezentujące "
+"odpowiednio **true** lub **false**. Jest to istotne dla funkcji:orange: `if ("
+"cond, a, b) `funkcji:orange: `if (cond, a, b)`."
 
 #: ../../source/traits.rst:239
 #: ../../source/traits.rst:247
 msgid "Functions Available For CALC Data Type"
-msgstr ""
+msgstr "Funkcje dostępne dla typu danych CALC"
 
 #: ../../source/traits.rst:241
 msgid "The following table describes the functions available for the CALC data type."
-msgstr ""
+msgstr "W poniższej tabeli opisano funkcje dostępne dla typu danych CALC."
 
 #: ../../source/traits.rst:252
 msgid "**Function Name(s)**"
-msgstr ""
+msgstr "**Nazwa (y) funkcjy**"
 
 #: ../../source/traits.rst:254
 msgid "**Example**"
-msgstr ""
+msgstr "**Przykl**"
 
 #: ../../source/traits.rst:255
 msgid ":orange:`sin cos tan asin acos atan`"
-msgstr ""
+msgstr ":orange: `nie tak, jako`"
 
 #: ../../source/traits.rst:256
 msgid "**Trigonometric functions**"
-msgstr ""
+msgstr "**Funkcje trygonometryczne**"
 
 #: ../../source/traits.rst:258
 msgid ":orange:`sinh cosh tanh`"
-msgstr ""
+msgstr ":orange: `sinh cosh tanh`"
 
 #: ../../source/traits.rst:259
 msgid "**Hyperbolic functions**"
-msgstr ""
+msgstr "**Funkcje hiperboliczne**"
 
 #: ../../source/traits.rst:261
 msgid ":orange:`abs round floor ceil sqrt exp ln log sign`"
-msgstr ""
+msgstr ":orange: `abs okrągły sufity podłogowe sqrt exp ln log sign`"
 
 #: ../../source/traits.rst:262
 msgid "**Unary mathematical functions:** |br| ROUND, FLOOR and CEIL return an integral portion of the input.  |br| LN is the natural logarithm  |br| LOG is the logarithm to base 10"
 msgstr ""
+"**Funkcje matematyczne: ** |br| ROUND, FLOOR i CEIL zwracają integralną "
+"część danych wejściowych. |br| LN jest logarytmem naturalnym |br| LOG jest "
+"logarytmem do bazy 10"
 
 #: ../../source/traits.rst:263
 msgid ":orange:`round(1.5)` returns 2.0 |br| :orange:`round(1.4)` returns 1.0 |br| :orange:`floor(1.5)` returns 1.0 |br| :orange:`ceil(1.5)` returns 2.0"
 msgstr ""
+":orange: `round (1.5) `zwraca 2,0 |br|:orange: `round (1.4)` zwraca 1,0 "
+"|br|:orange: `floor (1.5) `zwraca 1,0 |br|:orange: `ceil (1.5)` zwraca 2,0 "
+"|br|:orange: `ceil (1.5) `zwraca 2,0"
 
 #: ../../source/traits.rst:264
 msgid ":orange:`pow min max`"
-msgstr ""
+msgstr ":orange: `pow min max`"
 
 #: ../../source/traits.rst:265
 msgid "**Binary mathematical functions**"
-msgstr ""
+msgstr "**Binarne funkcje matematyczne**"
 
 #: ../../source/traits.rst:266
 msgid ":orange:`pow(2,3)` returns 8.0 |br| :orange:`pow(3,2)` returns 9.0"
-msgstr ""
+msgstr ":orange: `pow (2,3) `zwraca 8,0 |br|:orange: `pow (3,2)` zwraca 9,0"
 
 #: ../../source/traits.rst:267
 msgid ":orange:`rnd deg(radians) rad(degrees)`"
-msgstr ""
+msgstr ":orange: `rnd deg (radiany) rad (stopnie) `"
 
 #: ../../source/traits.rst:268
 msgid "**Other functions:** |br| :orange:`rnd(a)` returns the value of a multiplied by a random number satisfying the constraint :orange:`RERANGE(0..1.0)` i.e. a value :orange:`x` where: :orange:`0.0 <= x < 1.0`  |br| :orange:`deg` and :orange:`rad` convert between degrees and radians."
 msgstr ""
+"**Inne funkcje: ** |br|:orange: `rnd (a) `zwraca wartość pomnożonej przez "
+"liczbę losową spełniającą ograniczenie:orange: `RERANGE (0.. 1.0)` tj. "
+"wartość:orange: `x` gdzie: :orange: `0.0 <= x < 1.0` |br|:orange: `deg` "
+"i:orange: `rad` konwertuj między stopniami i radianami."
 
 #: ../../source/traits.rst:269
 msgid ":orange:`rnd(10)` will return a value :orange:`y` satisfying: |br| :orange:`0 <= y < 10`"
 msgstr ""
+":orange: `rnd (10) `zwróci wartość:orange: `y` satysfakcjonująca: "
+"|br|:orange: `0 <= y < 10`"
 
 #: ../../source/traits.rst:270
 msgid ":orange:`if(expr , a , b)`"
-msgstr ""
+msgstr ":orange: `if (expr, a, b) `"
 
 #: ../../source/traits.rst:271
 msgid "**Conditional expression:** |br| If the value of **expr** is **1**, the result is the expression **a** otherwise the result is expression **b**"
 msgstr ""
+"**Wyrażenie warunkowe: ** |br| Jeśli wartością **wyrażenie** jest **1**, "
+"wynikiem jest wyrażenie **a** w przeciwnym razie wynikiem jest wyrażenie "
+"**b**"
 
 #: ../../source/traits.rst:272
 msgid ":orange:`if(PH_CM <= 5 , 1 , 2)` |br| evaluates to :orange:`1` if the value of the trait :orange:`PH_CM` is 5  or less otherwise to :orange:`2`"
 msgstr ""
+":orange: `if (PH_CM <= 5, 1, 2) `|br| ocenia do:orange: `1`, jeśli wartość "
+"ceszy:orange: `PH_CM` wynosi 5 lub mniej, w przeciwnym razie do:orange: `2`"
 
 #: ../../source/traits.rst:275
 msgid "Why can't I import my CALC trait?!"
-msgstr ""
+msgstr "Dlaczego nie mogę zaimportować mojej cechy CALC?!"
 
 #: ../../source/traits.rst:277
 msgid "Ensure validation rules using comma's (e.g. CALC( max(PH_CM/5,1) , 1 )) are wrapped by double quotes (e.g. \"CALC( max(PH_CM/5,1) , 1 )\"). Excel handles this automatically."
 msgstr ""
+"Upewnij się, że reguły walidacji za pomocą przecinków (np. CALC (max (PH_CM/"
+"5,1), 1)) są zawijane podwójnymi cudzysłowami (np. „CALC (max (PH_CM/5,1), "
+"1)”). Excel obsługuje to automatycznie."
 
 #: ../../source/traits.rst:278
 msgid "Ensure the number of opening and closing brackets match (It's an easy thing to miss at a glance)."
 msgstr ""
+"Upewnij się, że liczba nawiasów otwierających i zamykających jest zgodna (na "
+"pierwszy rzut oka łatwo przeoczyć)."
 
 #: ../../source/traits.rst:279
 msgid "Trait names that use white spaces in their names cannot be used for derived CALC traits."
 msgstr ""
+"Nazwy cech, które używają białych spacji w swoich nazwach, nie mogą być "
+"używane do pochodnych cech CALC."
 
 #: ../../source/traits.rst:285
 msgid "Categorical Traits"
-msgstr ""
+msgstr "Cechy kategoryczne"
 
 #: ../../source/traits.rst:287
 msgid "At times during scoring, the precision level required can vary. This may be dictated by a number of factors, e.g. sheer volume of specimens, time frame for data collection, reduced/limited people to perform the scoring, etc. In these instances, the *Categorical Data Type* may prove useful."
 msgstr ""
+"Czasami podczas punktacji wymagany poziom dokładności może się różnić. Może "
+"to być podyktowane wieloma czynnikami, np. samą liczbą próbek, ramami "
+"czasowymi gromadzenia danych, zmniejszoną/ograniczonymi osobami do wykonania "
+"punktacji itp. W takich przypadkach przydatny może okazać się *Categorical "
+"Data Type."
 
 #: ../../source/traits.rst:292
 msgid "Typically *Categorical* is used for constraining the data entered to a predefined list of values, such as the following definitions:"
 msgstr ""
+"Zazwyczaj *Kategoryczne* służy do ograniczania wprowadzanych danych do "
+"wstępnie zdefiniowanej listy wartości, takich jak następujące definicje:"
 
 #: ../../source/traits.rst:294
 msgid ":orange:`CHOICE(BLUE | YELLOW | RED)`; and"
-msgstr ""
+msgstr ":orange: `CHOICE (NIEBIESKI | ŻÓŁTY | CZERWONY) `; oraz"
 
 #: ../../source/traits.rst:295
 msgid ":orange:`CHOICE(White | Yellow | Purple | Variegated | Brown | Orange yellow | Mottled | White top | Red | Sun red | Blue | Other)`."
 msgstr ""
+":orange: `CHOICE (Biały | Żółty | Fioletowy | Różnobarwny | Brązowy | "
+"Pomarańczowy żółty | Cętkowany | Biały top | Czerwony | Czerwony | Słońce "
+"czerwony | Niebieski | Inne) `."
 
 #: ../../source/traits.rst:297
 msgid "In these examples, the pipe character ‘|’ is shown with a space character either side to improve legibility."
 msgstr ""
+"W tych przykładach znak rury '|' jest pokazany ze znakiem spacji po obu "
+"stronach, aby poprawić czytelność."
 
 #: ../../source/traits.rst:303
 msgid "Using Categorical Traits"
-msgstr ""
+msgstr "Korzystanie z cech kategorycznych"
 
 #: ../../source/traits.rst:306
 msgid "In some situations using a categorical data type may be more beneficial as this facilitates the use of selection ranges instead of data entry."
 msgstr ""
+"W niektórych sytuacjach korzystanie z kategorycznego typu danych może być "
+"bardziej korzystne, ponieważ ułatwia to korzystanie z zakresów selekcji "
+"zamiast wprowadzania danych."
 
 #: ../../source/traits.rst:308
 msgid "The following table illustrates the collection of plant height using both methods:"
 msgstr ""
+"Poniższa tabela ilustruje zbiór wysokości rośliny przy użyciu obu metod:"
 
 #: ../../source/traits.rst:312
 msgid "Comparison Scoring Integer VS Categorical Trait Type - Required Precision 5cm"
 msgstr ""
+"Porównanie Punktacja Integer VS Categorical Trait Type - Wymagana Precyzja "
+"5cm"
 
 #: ../../source/traits.rst:317
 msgid "**Trait Defined as Integer**"
-msgstr ""
+msgstr "**Cecha zdefiniowana jako liczba całkowita**"
 
 #: ../../source/traits.rst:318
 msgid "**Trait Defined as Categorical**"
-msgstr ""
+msgstr "**Cecha zdefiniowana jako kategoryczna**"
 
 #: ../../source/traits.rst:319
 msgid "**Entry Method**"
-msgstr ""
+msgstr "**Metoda wejścia**"
 
 #: ../../source/traits.rst:320
 msgid "Plant height entered by selecting a value buttons. |br|"
-msgstr ""
+msgstr "Wysokość rośliny wprowadzana przez wybranie przycisków wartości. |pl|"
 
 #: ../../source/traits.rst:321
 msgid "Plant height entered by selecting a value range from a list. |br|"
 msgstr ""
+"Wysokość rośliny wprowadzana przez wybranie zakresu wartości z listy. |pl|"
 
 #: ../../source/traits.rst:322
 msgid "**Conditions**"
-msgstr ""
+msgstr "**Warunki**"
 
 #: ../../source/traits.rst:323
 msgid "Trait validation with a minimum of 5 and maximum of 50"
-msgstr ""
+msgstr "Walidacja cech z minimum 5 i maksimum 50"
 
 #: ../../source/traits.rst:324
 msgid "Trait validation with six ranges defined (e.g. The unit of measure may be 5 centimetres)."
 msgstr ""
+"Walidacja cech z sześcioma zdefiniowanymi zakresami (np. Jednostka miary "
+"może wynosić 5 centymetrów)."
 
 #: ../../source/traits.rst:326
 msgid "5 <= x <= 50"
-msgstr ""
+msgstr "5 <= x <= 50"
 
 #: ../../source/traits.rst:327
 msgid ":orange:`CHOICE(5-10 | 10-15 | 15-20 | 20-25 | 25-30 | 30++)`."
-msgstr ""
+msgstr ":orange: `WYBÓR (5-10 | 10-15 | 15-20 | 20-25 | 25-30 | 30++) `."
 
 #: ../../source/traits.rst:328
 msgid "**Key Presses**"
-msgstr ""
+msgstr "**Prasy klawiszowe**"
 
 #: ../../source/traits.rst:329
 msgid "Minimum 2 button press per sub-plot (single digit) then **Accept Button**."
 msgstr ""
+"Minimum 2 naciśnięcie przycisku na podwykres (pojedyncza cyfra), a następnie "
+"**Przycisk Akceptuj**."
 
 #: ../../source/traits.rst:330
 msgid "Minimum 1 button press per sub-plot, unless a long condition list requires scrolling."
 msgstr ""
+"Minimum 1 naciśnięcie przycisku na poddziałkę, chyba że długa lista warunków "
+"wymaga przewijania."
 
 #: ../../source/traits.rst:333
 msgid "For a categorical trait, the number of choices may be limited to suit the circumstances of the trial stage."
 msgstr ""
+"W przypadku cechy kategorycznej liczba wyborów może być ograniczona do "
+"okoliczności etapu próbnego."
