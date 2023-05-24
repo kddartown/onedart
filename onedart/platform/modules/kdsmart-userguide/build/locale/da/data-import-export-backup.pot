@@ -8,112 +8,131 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-05-24 04:54+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Danish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/data-import-export-and-backup/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/imagerefs.txt:5
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/data-import-export-backup.rst:21
 #: ../../source/data-import-export-backup.rst:21
 #: ../../source/data-import-export-backup.rst:21
 msgid "trial-imp-menu"
-msgstr ""
+msgstr "prøve-imp-menu"
 
 #: ../../source/data-import-export-backup.rst:24
 #: ../../source/data-import-export-backup.rst:24
 #: ../../source/data-import-export-backup.rst:24
 msgid "tt-imp-menu"
-msgstr ""
+msgstr "tt-imp-menu"
 
 #: ../../source/data-import-export-backup.rst:27
 msgid "importtagmsg"
-msgstr ""
+msgstr "importtagmsg"
 
 #: ../../source/data-import-export-backup.rst:30
 #: ../../source/data-import-export-backup.rst:30
 #: ../../source/data-import-export-backup.rst:30
 msgid "menu_btn"
-msgstr ""
+msgstr "menu_btn"
 
 #: ../../source/data-import-export-backup.rst:33
 #: ../../source/data-import-export-backup.rst:33
 msgid "save_btn"
-msgstr ""
+msgstr "save_btn"
 
 #: ../../source/data-import-export-backup.rst:36
 #: ../../source/data-import-export-backup.rst:36
 msgid "folder_btn"
-msgstr ""
+msgstr "folder_btn"
 
 #: ../../source/data-import-export-backup.rst:39
 #: ../../source/data-import-export-backup.rst:39
 #: ../../source/data-import-export-backup.rst:39
 msgid "import_btn"
-msgstr ""
+msgstr "import_btn"
 
 #: ../../source/data-import-export-backup.rst:47
 msgid "Data Import, Export & Backup"
-msgstr ""
+msgstr "Dataimport, eksport og sikkerhedskopiering"
 
 #: ../../source/data-import-export-backup.rst:50
 msgid "KDSmart contains three types of data that can be used in experiments: trials, traits, and tags. KDSmart manages it's own database located on your Android device which contains this data but they can also be imported, exported, and backed up."
 msgstr ""
+"KDSmart indeholder tre typer data, der kan bruges i eksperimenter: forsøg, "
+"træk og tags. KDSmart administrerer sin egen database placeret på din "
+"Android-enhed, som indeholder disse data, men de kan også importeres, "
+"eksporteres og sikkerhedskopieres."
 
 #: ../../source/data-import-export-backup.rst:52
 msgid "Any trial that is imported or exported will also contain any traits or tags that is used in it. However, traits and tags can also be imported or exported in separate files if required."
 msgstr ""
+"Enhver prøveversion, der importeres eller eksporteres, vil også indeholde "
+"egenskaber eller tags, der bruges i den. Imidlertid, træk og tags kan også "
+"importeres eller eksporteres i separate filer, hvis det kræves."
 
 #: ../../source/data-import-export-backup.rst:54
 msgid "To commence using KDSmart with your own trials, that trial data must first be imported into KDSmart."
 msgstr ""
+"For at begynde at bruge KDSmart med dine egne forsøg, skal prøvedata først "
+"importeres til KDSmart."
 
 #: ../../source/data-import-export-backup.rst:57
 msgid "There is a separate *Data Transfer* page at http://www.kddart.org/help/kdsmart/html/exchangedata.html#data-exchange-kdxchange-method which provides examples for transferring data between KDXplore and KDSmart using the Google Drive and KDXchange methods. It is a separate page because it provides instructions on using both KDXplore and KDSmart. The objective of this page is to provide more information on the various options available for KDSmart."
 msgstr ""
+"Der er en separat *Dataoverførsel* side på http://www.kddart.org/help/"
+"kdsmart/html/exchangedata.html#data-exchange-kdxchange-method, som giver "
+"eksempler på overførsel af data mellem KDXplore og KDSmart ved hjælp af "
+"Google Drev og KDXchange metoderne. Det er en separat side, fordi den "
+"indeholder instruktioner om brug af både KDXplore og KDSmart. Formålet med "
+"denne side er at give mere information om de forskellige muligheder, der er "
+"tilgængelige for KDSmart."
 
 #: ../../source/data-import-export-backup.rst:60
 #: ../../source/data-import-export-backup.rst:75
@@ -132,61 +151,90 @@ msgstr ""
 #: ../../source/data-import-export-backup.rst:400
 #: ../../source/data-import-export-backup.rst:424
 msgid "|br|"
-msgstr ""
+msgstr "|br|"
 
 #: ../../source/data-import-export-backup.rst:65
 msgid "Importing Data"
-msgstr ""
+msgstr "Import af data"
 
 #: ../../source/data-import-export-backup.rst:66
 msgid "KDSmart can be used as a standalone application or as a part of the integrated KDDart platform. This means that there is a need for several different methods for importing files and data depending on how KDSmart is used. There are also options for both offline and online imports which can be helpful depending on the user's location and access to the internet."
 msgstr ""
+"KDSmart kan bruges som et selvstændigt program eller som en del af den "
+"integrerede KDDart platform. Det betyder, at der er behov for flere "
+"forskellige metoder til import af filer og data afhængigt af hvordan KDSmart "
+"bruges. Der er også muligheder for både offline og online import, som kan "
+"være nyttige afhængigt af brugerens placering og adgang til internettet."
 
 #: ../../source/data-import-export-backup.rst:68
 msgid "Since Android version 4.4, the Storage Access Framework (SAF) has been used for browsing and opening files. This has been implemented in KDSmart and makes it possible to import (and export) files from document providers such as Google Drive or Dropbox, or files that are stored internally on the device. This means that there are many options for importing files whether your device is offline/online and what file hosting services you use."
 msgstr ""
+"Siden Android version 4.4 er Storage Access Framework (SAF) blevet brugt til "
+"browsing og åbning af filer. Dette er implementeret i KDSmart og gør det "
+"muligt at importere (og eksportere) filer fra dokumentudbydere som Google "
+"Drev eller Dropbox, eller filer, der gemmes internt på enheden. Dette "
+"betyder, at der er mange muligheder for at importere filer, uanset om din "
+"enhed er offline/online, og hvilke filhostingtjenester du bruger."
 
 #: ../../source/data-import-export-backup.rst:70
 msgid "If you have exported a *scoring set* from KDXplore, it will be importable as a *trial* in KDSmart. There is only a distinction between the terms in KDXplore. KDSmart views scoring sets and trials as the same thing."
 msgstr ""
+"Hvis du har eksporteret et *scoringssæt* fra KDXplore, vil det kunne "
+"importeres som et *prøve* i KDSmart. Der skelnes kun mellem udtrykkene i "
+"KDXplore. KDSmart ser scoringssæt og forsøg som den samme ting."
 
 #: ../../source/data-import-export-backup.rst:72
 msgid "Depending on whether you are importing trials, traits, or tags, there will be different options available. These will be outlined in the following sections."
 msgstr ""
+"Afhængigt af om du importerer forsøg, træk, eller tags, der vil være "
+"forskellige muligheder tilgængelige. Disse vil blive beskrevet i de følgende "
+"afsnit."
 
 #: ../../source/data-import-export-backup.rst:78
 msgid "CSV Import"
-msgstr ""
+msgstr "CSV-import"
 
 #: ../../source/data-import-export-backup.rst:79
 msgid "Comma Separated Value (CSV) files are a common file format that many users collect data with prior to using KDDart. Some users also use CSV files if they use KDSmart as a standalone application. More information about formatting CSV files can be found on the *CSV Formats* page at http://www.kddart.org/help/kdsmart/html/kdsmart-app-b.html"
 msgstr ""
+"CSV-filer (Comma Separated Value) er et almindeligt filformat, som mange "
+"brugere indsamler data med før brug af KDDart. Nogle brugere bruger også CSV-"
+"filer hvis de bruger KDSmart som et selvstændigt program. Flere oplysninger "
+"om formatering af CSV-filer kan findes på siden *CSV-formater* på http://www."
+"kddart.org/help/kdsmart/html/kdsmart-app-b.html"
 
 #: ../../source/data-import-export-backup.rst:81
 msgid "After selecting a file to import, each column in the CSV must be assigned an attribute type. This determines how the data in the column will be interpreted. Columns can be selected as **Don't Import** as well as whether the data is related to the trial, a plot, or a trait name to be scored."
 msgstr ""
+"Når du har valgt en fil, der skal importeres, skal hver kolonne i CSV'en "
+"tildeles en attributtype. Dette bestemmer, hvordan dataene i kolonnen skal "
+"fortolkes. Kolonner kan vælges som **Importér ikke** samt om dataene er "
+"relateret til prøveversionen, et plot eller et egentegnsnavn, der skal "
+"scores."
 
 #: ../../source/data-import-export-backup.rst:83
 msgid "TO successfully import a CSV trial, the file must contain at least a Plot ID **OR** both Plot Column and Plot Row **OR** all three columns."
 msgstr ""
+"For at kunne importere en CSV-prøveversion skal filen mindst indeholde et "
+"Plot ID**ELLER** både Plot Column og Plot Row **ELLER** alle tre kolonner."
 
 #: ../../source/data-import-export-backup.rst:85
 msgid "See the steps below on how to import CSV files:"
-msgstr ""
+msgstr "Se nedenstående trin for, hvordan du importerer CSV-filer:"
 
 #: ../../source/data-import-export-backup.rst:87
 #: ../../source/data-import-export-backup.rst:209
 msgid "|br| |center-start|"
-msgstr ""
+msgstr "|br| |center-start|"
 
 #: ../../source/data-import-export-backup.rst:94
 #: ../../source/data-import-export-backup.rst:216
 msgid "|center-end| |br|"
-msgstr ""
+msgstr "|center-end| |br|"
 
 #: ../../source/data-import-export-backup.rst:100
 msgid "CSV Import (SAF)"
-msgstr ""
+msgstr "CSV-import (SAF)"
 
 #: ../../source/data-import-export-backup.rst:105
 #: ../../source/data-import-export-backup.rst:143
@@ -194,7 +242,7 @@ msgstr ""
 #: ../../source/data-import-export-backup.rst:355
 #: ../../source/data-import-export-backup.rst:410
 msgid "**Step**"
-msgstr ""
+msgstr "**Trin**"
 
 #: ../../source/data-import-export-backup.rst:106
 #: ../../source/data-import-export-backup.rst:144
@@ -202,7 +250,7 @@ msgstr ""
 #: ../../source/data-import-export-backup.rst:356
 #: ../../source/data-import-export-backup.rst:411
 msgid "**Action**"
-msgstr ""
+msgstr "**Handling**"
 
 #: ../../source/data-import-export-backup.rst:107
 #: ../../source/data-import-export-backup.rst:145
@@ -210,12 +258,15 @@ msgstr ""
 #: ../../source/data-import-export-backup.rst:357
 #: ../../source/data-import-export-backup.rst:412
 msgid "**1.**"
-msgstr ""
+msgstr "**1. **"
 
 #: ../../source/data-import-export-backup.rst:108
 #: ../../source/data-import-export-backup.rst:146
 msgid "Open the **Trial Screen**, **Trait Screen**, or **Tag Screen** on KDSmart and select the |import_btn| **Import Button** or the *Import As* option in the |menu_btn| **Menu Options**."
 msgstr ""
+"Åbn **Prøveskærmen**, **Trait Screen** eller **Tag Screen** på KDSmart, og "
+"vælg |import_btn| **Import-knap** eller *Importer som* i |menu_btn| "
+"**Menuindstillinger**."
 
 #: ../../source/data-import-export-backup.rst:109
 #: ../../source/data-import-export-backup.rst:147
@@ -223,27 +274,31 @@ msgstr ""
 #: ../../source/data-import-export-backup.rst:359
 #: ../../source/data-import-export-backup.rst:414
 msgid "**2.**"
-msgstr ""
+msgstr "**2. **"
 
 #: ../../source/data-import-export-backup.rst:110
 #: ../../source/data-import-export-backup.rst:148
 msgid "The **Import Options** will open. If you are importing traits or tags, there will be the following options:"
 msgstr ""
+"**Importindstillinger** åbnes. Hvis du importerer træk eller tags, vil der "
+"være følgende muligheder:"
 
 #: ../../source/data-import-export-backup.rst:112
 #: ../../source/data-import-export-backup.rst:150
 msgid "|tt-imp-menu|"
-msgstr ""
+msgstr "|tt-imp-menu|"
 
 #: ../../source/data-import-export-backup.rst:114
 #: ../../source/data-import-export-backup.rst:152
 msgid "Importing from the **Trials Screen** will result in an additional option to import KDX files:"
 msgstr ""
+"Import fra **Trials Screen** vil resultere i en ekstra mulighed for at "
+"importere KDX-filer:"
 
 #: ../../source/data-import-export-backup.rst:116
 #: ../../source/data-import-export-backup.rst:154
 msgid "|trial-imp-menu|"
-msgstr ""
+msgstr "|prøve-imp-menu|"
 
 #: ../../source/data-import-export-backup.rst:118
 #: ../../source/data-import-export-backup.rst:156
@@ -251,11 +306,11 @@ msgstr ""
 #: ../../source/data-import-export-backup.rst:361
 #: ../../source/data-import-export-backup.rst:416
 msgid "**3.**"
-msgstr ""
+msgstr "**3. **"
 
 #: ../../source/data-import-export-backup.rst:119
 msgid "Choose the **File CSV Button**. This will open the SAF as pictured below:"
-msgstr ""
+msgstr "Vælg**Fil CSV-knappen**. Dette åbner SAF som vist nedenfor:"
 
 #: ../../source/data-import-export-backup.rst:120
 #: ../../source/data-import-export-backup.rst:158
@@ -263,56 +318,70 @@ msgstr ""
 #: ../../source/data-import-export-backup.rst:363
 #: ../../source/data-import-export-backup.rst:418
 msgid "**4.**"
-msgstr ""
+msgstr "**4. **"
 
 #: ../../source/data-import-export-backup.rst:121
 msgid "Select the CSV file you want to import and then select the **Open Button**."
-msgstr ""
+msgstr "Vælg den CSV-fil, du vil importere, og vælg dernæst **Åbn knap**."
 
 #: ../../source/data-import-export-backup.rst:122
 #: ../../source/data-import-export-backup.rst:181
 #: ../../source/data-import-export-backup.rst:299
 #: ../../source/data-import-export-backup.rst:420
 msgid "**5.**"
-msgstr ""
+msgstr "**5. **"
 
 #: ../../source/data-import-export-backup.rst:123
 msgid "Ensure that all headings are present and the *Import As* options are correct such as plot attributes and traits for plots."
 msgstr ""
+"Sørg for, at alle overskrifter er til stede, og at indstillingerne *Importer "
+"som* er korrekte, f.eks. plotattributter og egenskaber for plot."
 
 #: ../../source/data-import-export-backup.rst:124
 #: ../../source/data-import-export-backup.rst:204
 #: ../../source/data-import-export-backup.rst:301
 msgid "**6.**"
-msgstr ""
+msgstr "**6. **"
 
 #: ../../source/data-import-export-backup.rst:125
 msgid "Select the **Import Button** to finalise the trial import."
-msgstr ""
+msgstr "Vælg **Import-knappen** for at afslutte prøveimporten."
 
 #: ../../source/data-import-export-backup.rst:127
 msgid "All types of CSV files (trials, traits, and tags) can be imported into KDSmart."
 msgstr ""
+"Alle typer CSV-filer (forsøg, egenskaber og tags) kan importeres til KDSmart."
 
 #: ../../source/data-import-export-backup.rst:132
 msgid "KDX Import"
-msgstr ""
+msgstr "KDX Import"
 
 #: ../../source/data-import-export-backup.rst:133
 msgid "KDX files contain all experiment information including a trial, traits, and tags. It is similar to a zipped folder and is much easier to transfer than a CSV because there is no import mapping. It is recommended to use KDX files when using KDXplore and KDSmart together as it reduces complexity of importing and the chance of errors. See the instructions below for how to import a KDX file:"
 msgstr ""
+"KDX-filer indeholder alle eksperimentoplysninger inklusive en prøve, træk, "
+"og tags. Det ligner en zippet mappe og er meget lettere at overføre end en "
+"CSV, fordi der ikke er nogen importkortlægning. Det anbefales at bruge KDX-"
+"filer, når KDXplore og KDSmart bruges sammen, da det reducerer "
+"kompleksiteten af import og risikoen for fejl. Se vejledningen nedenfor for, "
+"hvordan du importerer en KDX-fil:"
 
 #: ../../source/data-import-export-backup.rst:138
 msgid "KDX Import (SAF)"
-msgstr ""
+msgstr "KDX-import (SAF)"
 
 #: ../../source/data-import-export-backup.rst:157
 msgid "Select the **File KDX Button**. This will open the Storage Access Framework for choosing files on the device internal storage or an application such as Google Drive."
 msgstr ""
+"Vælg **Fil KDX-knappen**. Dette åbner Storage Access Framework til valg af "
+"filer på enhedens interne lager eller et program som Google Drev."
 
 #: ../../source/data-import-export-backup.rst:159
 msgid "If the file you need is in the folder that has been opened then select it. If you need to search for the file then select the **SAF Menu Button** at |circle1| (as outlined in the image below):"
 msgstr ""
+"Hvis den fil, du har brug for, er i den mappe, der er åbnet, skal du vælge "
+"den. Hvis du har brug for at søge efter filen, skal du vælge **SAF Menu "
+"Button** på |circle1| (som beskrevet på billedet nedenfor):"
 
 #: ../../source/data-import-export-backup.rst:163
 #: ../../source/data-import-export-backup.rst:186
@@ -320,13 +389,13 @@ msgstr ""
 #: ../../source/data-import-export-backup.rst:328
 #: ../../source/data-import-export-backup.rst:386
 msgid "|center-start|"
-msgstr ""
+msgstr "|center-start|"
 
 #: ../../source/data-import-export-backup.rst:161
 #: ../../source/data-import-export-backup.rst:179
 #: ../../source/data-import-export-backup.rst:179
 msgid "SAF (Select to zoom)"
-msgstr ""
+msgstr "SAF (Vælg for at zoome)"
 
 #: ../../source/data-import-export-backup.rst:171
 #: ../../source/data-import-export-backup.rst:194
@@ -334,212 +403,294 @@ msgstr ""
 #: ../../source/data-import-export-backup.rst:334
 #: ../../source/data-import-export-backup.rst:392
 msgid "|center-end|"
-msgstr ""
+msgstr "|center-slut|"
 
 #: ../../source/data-import-export-backup.rst:182
 msgid "The **SAF Menu** will be opened and you will be able to select either folders on the device, or any application that is installed."
 msgstr ""
+"**SAF Menu** åbnes, og du vil være i stand til at vælge enten mapper på "
+"enheden eller ethvert program, der er installeret."
 
 #: ../../source/data-import-export-backup.rst:184
 #: ../../source/data-import-export-backup.rst:202
 #: ../../source/data-import-export-backup.rst:202
 msgid "SAF Menu (Select to zoom)"
-msgstr ""
+msgstr "SAF Menu (Vælg for at zoome)"
 
 #: ../../source/data-import-export-backup.rst:205
 msgid "Select an internal location or application (such as Google Drive or Dropbox) and locate then choose the KDX file that you are importing. Once selected, an **Open Button** will appear at the top of the screen. Select the **Open Button** and the KDX file will be imported with no additional configuration."
 msgstr ""
+"Vælg en intern placering eller et program (f.eks. Google Drev eller Dropbox)"
+", og find derefter den KDX-fil, du importerer. Når den er valgt, vises en**"
+"Åbn knap** øverst på skærmen. Vælg **Åbn knappen** og KDX-filen vil blive "
+"importeret uden yderligere konfiguration."
 
 #: ../../source/data-import-export-backup.rst:207
 msgid "The video referenced below is a part of our KDTutorial series which demonstrates how to import a scoring set (KDSmart views scoring sets as trials) from Google Drive to KDSmart."
 msgstr ""
+"Videoen, der refereres til nedenfor, er en del af vores KDTutorial serie, "
+"som demonstrerer hvordan man importerer et scoringssæt (KDSmart viser "
+"scoringssæt som forsøg) fra Google Drev til KDSmart."
 
 #: ../../source/data-import-export-backup.rst:219
 msgid "KDX files can contain all types of data (trials, traits, and tags) however, you will only be able to find the option to import a KDX file in the **Trial Import Options**."
 msgstr ""
+"KDX-filer kan indeholde alle typer data (forsøg, træk og tags), men du vil "
+"kun kunne finde muligheden for at importere en KDX-fil i **Trial Import "
+"Options**."
 
 #: ../../source/data-import-export-backup.rst:224
 msgid "KDXplore Import (KDXchange)"
-msgstr ""
+msgstr "KDXplore Import (KDXchange)"
 
 #: ../../source/data-import-export-backup.rst:225
 #: ../../source/data-import-export-backup.rst:309
 msgid "The KDXplore option will open KDXchange which is used for transferring data from KDXplore to KDSmart (and vice versa) over a Wi-fi connection when there is no cellular connection available. You will need access to a router or a mobile device that can host a Wi-fi hotspot."
 msgstr ""
+"Tilvalget KDXplore åbner KDXchange som bruges til at overføre data fra "
+"KDXplore til KDSmart (og omvendt) via en Wi-Fi-forbindelse, når der ikke er "
+"nogen mobilforbindelse tilgængelig. Du har brug for adgang til en router "
+"eller en mobilenhed, der kan være vært for et Wi-Fi-hotspot."
 
 #: ../../source/data-import-export-backup.rst:227
 #: ../../source/data-import-export-backup.rst:311
 msgid "Connecting to KDXchange requires both KDXplore and KDSmart to be configured. There is a separate *Data Transfer* page at http://www.kddart.org/help/kdsmart/html/exchangedata.html#data-exchange-kdxchange-method  which gives specific instructions for how to use both Google Drive, and KDXchange for transferring data between KDXplore and KDSmart. See that page for more information on using KDXchange."
 msgstr ""
+"Tilslutning til KDXchange kræver både KDXplore og KDSmart at være "
+"konfigureret. Der er en separat *Dataoverførsel* side på http://www.kddart."
+"org/help/kdsmart/html/exchangedata.html#data-exchange-kdxchange-method, som "
+"giver specifikke instruktioner til, hvordan du bruger både Google Drev og "
+"KDXchange til overførsel af data mellem KDXplore og KDSmart. Se denne side "
+"for mere information om brug af KDXchange."
 
 #: ../../source/data-import-export-backup.rst:232
 msgid "Exporting & Sharing Data"
-msgstr ""
+msgstr "Eksport og deling af data"
 
 #: ../../source/data-import-export-backup.rst:233
 msgid "Exporting and sharing data files in KDSmart are similar but distinct actions that allow users to send trials, traits, and tags to the device internal memory or other applications. These differences will be outlined in the sections below."
 msgstr ""
+"Eksport og deling af datafiler i KDSmart er lignende, men forskellige "
+"handlinger, der giver brugerne mulighed for at sende forsøg, træk og tags "
+"til enhedens interne hukommelse eller andre programmer. Disse forskelle vil "
+"blive beskrevet i nedenstående afsnit."
 
 #: ../../source/data-import-export-backup.rst:235
 msgid "Both of these methods have the same *Export Options* listed below:"
 msgstr ""
+"Begge disse metoder har de samme *Eksportmuligheder*, der er anført nedenfor:"
 
 #: ../../source/data-import-export-backup.rst:237
 msgid "Full Data for KDXplore;"
-msgstr ""
+msgstr "Fuldstændige data for KDXplore;"
 
 #: ../../source/data-import-export-backup.rst:238
 msgid "Full Data in Zip;"
-msgstr ""
+msgstr "Fuld data i zip;"
 
 #: ../../source/data-import-export-backup.rst:239
 msgid "Only Scores: Plots (CSV); and"
-msgstr ""
+msgstr "Kun scoringer: Plots (CSV); og"
 
 #: ../../source/data-import-export-backup.rst:240
 msgid "Only Scores: Plots & Sub-Plots (CSV)."
-msgstr ""
+msgstr "Kun scoringer: Plots & Sub-Plots (CSV)."
 
 #: ../../source/data-import-export-backup.rst:245
 #: ../../source/data-import-export-backup.rst:284
 msgid "Exporting Data"
-msgstr ""
+msgstr "Eksport af data"
 
 #: ../../source/data-import-export-backup.rst:246
 msgid "*Exporting* allows the user to export a trial, trait, or tag to either the device internal memory (Tablet) or to KDXplore through KDXchange."
 msgstr ""
+"*Eksport* giver brugeren mulighed for at eksportere en prøveversion, et træk "
+"eller tag til enten enhedens interne hukommelse (Tablet) eller til KDXplore "
+"gennem KDXchange."
 
 #: ../../source/data-import-export-backup.rst:249
 msgid "Tablet (Internal Memory)"
-msgstr ""
+msgstr "Tablet (intern hukommelse)"
 
 #: ../../source/data-import-export-backup.rst:250
 msgid "The *Export to Tablet* option will export data to the internal storage of the KDSmart device."
 msgstr ""
+"Tilvalget *Eksporter til tablet* vil eksportere data til det interne lager "
+"af KDSmart-enheden."
 
 #: ../../source/data-import-export-backup.rst:258
 msgid "The video and instructions below outline how to export data:"
 msgstr ""
+"Videoen og instruktionerne nedenfor beskriver, hvordan du eksporterer data:"
 
 #: ../../source/data-import-export-backup.rst:271
 msgid "The video available at https://www.youtube.com/embed/WJsHN0tApWo provides a guide and instructions to exporting data:"
 msgstr ""
+"Videoen, der er tilgængelig på https://www.youtube.com/embed/WJsHN0tApWo, "
+"indeholder en vejledning og instruktioner til eksport af data:"
 
 #: ../../source/data-import-export-backup.rst:277
 #: ../../source/data-import-export-backup.rst:343
 msgid "The video provides an example of exporting trials but the same process can also be used for traits and tags."
 msgstr ""
+"Videoen giver et eksempel på eksport af forsøg, men den samme proces kan "
+"også bruges til træk og tags."
 
 #: ../../source/data-import-export-backup.rst:292
 msgid "Depending on what sort of data you would like to export, navigate to the **Trial Screen**, **Trait Screen**, or **Tag Screen**. Choose a trial to export."
 msgstr ""
+"Afhængigt af hvilken slags data, du gerne vil eksportere, skal du navigere "
+"til**Trial Screen**, **Trait Screen** eller **Tag Screen**. Vælg en "
+"prøveversion, der skal eksporteres."
 
 #: ../../source/data-import-export-backup.rst:294
 msgid "Select the **Export To Button**. You will be presented with the **Export To Options**."
 msgstr ""
+"Vælg **Eksporter til knappen**. Du vil blive præsenteret for**Eksporter til "
+"indstillinger**."
 
 #: ../../source/data-import-export-backup.rst:296
 msgid "Select the **Tablet Button** to export a data file directly to the device that you are using. The **Choose Export Option Window** will appear with the options that are listed above these instructions."
 msgstr ""
+"Vælg **Tablet-knappen** for at eksportere en datafil direkte til den enhed, "
+"du bruger. Vinduet**Vælg Export Option Vindue** vises med de indstillinger, "
+"der er angivet ovenfor disse instruktioner."
 
 #: ../../source/data-import-export-backup.rst:298
 msgid "Choose an export option. The Storage Access Framework (SAF) File Chooser will open."
 msgstr ""
+"Vælg en eksportindstilling. Storage Access Framework (SAF) File Chooser "
+"åbnes."
 
 #: ../../source/data-import-export-backup.rst:300
 msgid "Select a file location on your device to save the exported file to."
 msgstr ""
+"Vælg en filplacering på din enhed, som den eksporterede fil skal gemmes i."
 
 #: ../../source/data-import-export-backup.rst:302
 msgid "Select the **Select Button** to finalise the export. There will be a notification on your device when the exported file has saved to that location."
 msgstr ""
+"Vælg **Vælg knappen** for at afslutte eksporten. Der vil være en meddelelse "
+"på din enhed, når den eksporterede fil er gemt på den pågældende placering."
 
 #: ../../source/data-import-export-backup.rst:308
 msgid "KDXplore Export (KDXchange)"
-msgstr ""
+msgstr "Eksport af KDXplore (KDXchange)"
 
 #: ../../source/data-import-export-backup.rst:316
 #: ../../source/data-import-export-backup.rst:350
 msgid "Sharing Data"
-msgstr ""
+msgstr "Deling af data"
 
 #: ../../source/data-import-export-backup.rst:318
 msgid "*Sharing* allows the user to send a trial, trait, or tag through a 3rd party application such as Google Drive, Gmail, Drop Box, etc."
 msgstr ""
+"*Deling* giver brugeren mulighed for at sende en prøveversion, træk eller "
+"tag gennem en tredjepartsapplikation som Google Drev, Gmail, Drop Box osv."
 
 #: ../../source/data-import-export-backup.rst:325
 msgid "The video and instructions below outline how to share data."
-msgstr ""
+msgstr "Videoen og instruktionerne nedenfor beskriver, hvordan du deler data."
 
 #: ../../source/data-import-export-backup.rst:339
 msgid "The video available at https://www.youtube.com/embed/VQPYOaGw8hY provides a guide and instructions on how to share data:"
 msgstr ""
+"Videoen, der er tilgængelig på https://www.youtube.com/embed/VQPYOaGw8hY, "
+"indeholder en vejledning og instruktioner om, hvordan du deler data:"
 
 #: ../../source/data-import-export-backup.rst:358
 msgid "Depending on what sort of data you would like to export, navigate to the **Trial Screen**, **Trait Screen**, or **Tag Screen**."
 msgstr ""
+"Afhængigt af hvilken slags data, du gerne vil eksportere, skal du navigere "
+"til**Trial Screen**, **Trait Screen** eller **Tag Screen**."
 
 #: ../../source/data-import-export-backup.rst:360
 msgid "Select the **Share Button**. The **Choose Export Option Window** will appear with the options that are listed above these instructions."
 msgstr ""
+"Vælg **Share-knappen**. Vinduet**Vælg Export Option Vindue** vises med de "
+"indstillinger, der er angivet ovenfor disse instruktioner."
 
 #: ../../source/data-import-export-backup.rst:362
 msgid "Choose an export option. A list of applications compatible with the Storage Access Framework (SAF) will open. These applications may include Google Drive, Gmail, Drop Box, etc."
 msgstr ""
+"Vælg en eksportindstilling. En liste over programmer, der er kompatible med "
+"Storage Access Framework (SAF), åbnes. Disse applikationer kan omfatte "
+"Google Drev, Gmail, Drop Box osv."
 
 #: ../../source/data-import-export-backup.rst:364
 msgid "Choose an application that you want to share the file with. After making a choice, the application that you chose will open. What you do next will depend on what application you are using to share the file. See the video referenced above for an example of saving a file to Google Drive."
 msgstr ""
+"Vælg et program, som du vil dele filen med. Når du har valgt et valg, åbnes "
+"det program, du valgte. Hvad du gør næste vil afhænge af, hvilken "
+"applikation du bruger til at dele filen. Se videoen, der henvises til "
+"ovenfor, for et eksempel på at gemme en fil på Google Drev."
 
 #: ../../source/data-import-export-backup.rst:369
 #: ../../source/data-import-export-backup.rst:405
 msgid "Data Backup"
-msgstr ""
+msgstr "Backup af data"
 
 #: ../../source/data-import-export-backup.rst:371
 msgid "Any saved data on KDSmart including trials, traits, and tags, can be backed up improve data security and management."
 msgstr ""
+"Alle gemte data på KDSmart inklusive forsøg, træk og tags, kan "
+"sikkerhedskopieres forbedre datasikkerhed og styring."
 
 #: ../../source/data-import-export-backup.rst:373
 msgid "There are various options for backing up KDSmart data:"
-msgstr ""
+msgstr "Der er forskellige muligheder for sikkerhedskopiering af KDSmart-data:"
 
 #: ../../source/data-import-export-backup.rst:375
 msgid "Trials as Zip - best for saving files as CSVs;"
-msgstr ""
+msgstr "Forsøg som zip - bedst til at gemme filer som CSV'er;"
 
 #: ../../source/data-import-export-backup.rst:376
 msgid "Trials as KDX - best for using with KDXplore; and"
-msgstr ""
+msgstr "Forsøg som KDX - bedst til brug med KDXplore; og"
 
 #: ../../source/data-import-export-backup.rst:377
 msgid "Database Files - for backing up all data."
-msgstr ""
+msgstr "Databasefiler - til sikkerhedskopiering af alle data."
 
 #: ../../source/data-import-export-backup.rst:384
 msgid "The video and instructions below provide a guide for backing up data with the *Trials as KDX* option:"
 msgstr ""
+"Videoen og instruktionerne nedenfor giver en vejledning til "
+"sikkerhedskopiering af data med indstillingen *Forsøg som KDX*:"
 
 #: ../../source/data-import-export-backup.rst:397
 msgid "The video available at https://www.youtube.com/embed/3w8OAh_amao provides a guide and instructions for backing up data with the *Trials as KDX* option:"
 msgstr ""
+"Videoen, der er tilgængelig på https://www.youtube.com/embed/3w8OAh_amao, "
+"indeholder en vejledning og instruktioner til sikkerhedskopiering af data "
+"med indstillingen *Trials as KDX*:"
 
 #: ../../source/data-import-export-backup.rst:413
 msgid "Navigate to the **Manage Screen**. On the **Database Tab**, there are options for backing up data and database fixes."
 msgstr ""
+"Naviger til **Administrer skærm**. På fanen **Database** er der muligheder "
+"for sikkerhedskopiering af data- og databaserettelser."
 
 #: ../../source/data-import-export-backup.rst:415
 msgid "Select the |folder_btn| **Output to Folder Button**. This will open the device SAF."
 msgstr ""
+"Vælg |mappen_btn| **Output til mappe-knappen**. Dette vil åbne enheden SAF."
 
 #: ../../source/data-import-export-backup.rst:417
 msgid "Choose a folder to save your backups to by navigating to the folder and then selecting the **Select Button**. You will be directed back to the **Database Tab**."
 msgstr ""
+"Vælg en mappe, du vil gemme dine sikkerhedskopier i, ved at navigere til "
+"mappen og derefter vælge **Vælg Knap**. Du vil blive sendt tilbage til fanen "
+"**Database**."
 
 #: ../../source/data-import-export-backup.rst:419
 msgid "Use the radio buttons to select a backup option such as *Trials as KDX*."
 msgstr ""
+"Brug alternativknapperne til at vælge en sikkerhedskopieringsindstilling som "
+"f.eks. *Forsøg som KDX*."
 
 #: ../../source/data-import-export-backup.rst:421
 msgid "Select the |save_btn| **Save Button** to confirm the backup. The files will now be available in the chosen location."
 msgstr ""
+"Vælg |save_btn| **Gem-knap** for at bekræfte sikkerhedskopieringen. Filerne "
+"vil nu være tilgængelige på det valgte sted."
