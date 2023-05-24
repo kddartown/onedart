@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: 2023-05-17 05:50+0000\n"
+"PO-Revision-Date: 2023-05-24 00:53+0000\n"
 "Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
 "Language-Team: Danish <http://translate.diversityarrays.cloud/projects/"
 "kdsmart-userguide/getting-started/da/>\n"
@@ -21,146 +21,150 @@ msgstr ""
 
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/kdsmart-basics.rst:25
 msgid "back-btn"
-msgstr ""
+msgstr "tilbage-btn"
 
 #: ../../source/kdsmart-basics.rst:28
 msgid "blue-bars"
-msgstr ""
+msgstr "blå-barer"
 
 #: ../../source/kdsmart-basics.rst:31
 msgid "back-btn2"
-msgstr ""
+msgstr "tilbage-btn2"
 
 #: ../../source/kdsmart-basics.rst:34
 msgid "back-btn3"
-msgstr ""
+msgstr "tilbage-btn3"
 
 #: ../../source/kdsmart-basics.rst:37
 msgid "back-area"
-msgstr ""
+msgstr "back-område"
 
 #: ../../source/kdsmart-basics.rst:40
 msgid "rotate-btn"
-msgstr ""
+msgstr "rotere-BTN"
 
 #: ../../source/kdsmart-basics.rst:43
 msgid "accept-btn2"
-msgstr ""
+msgstr "acceptere-btn2"
 
 #: ../../source/kdsmart-basics.rst:46
 msgid "cancel-btn2"
-msgstr ""
+msgstr "annuller-btn2"
 
 #: ../../source/kdsmart-basics.rst:49
 msgid "expand"
-msgstr ""
+msgstr "udvide"
 
 #: ../../source/kdsmart-basics.rst:53
 msgid "contract"
-msgstr ""
+msgstr "kontrakt"
 
 #: ../../source/kdsmart-basics.rst:60
 #: ../../source/kdsmart-basics.rst:60
 msgid "version"
-msgstr ""
+msgstr "udgave"
 
 #: ../../source/kdsmart-basics.rst:63
 #: ../../source/kdsmart-basics.rst:63
 msgid "play_btn"
-msgstr ""
+msgstr "play_btn"
 
 #: ../../source/kdsmart-basics.rst:66
 #: ../../source/kdsmart-basics.rst:66
 msgid "bright_btn"
-msgstr ""
+msgstr "bright_btn"
 
 #: ../../source/kdsmart-basics.rst:69
 #: ../../source/kdsmart-basics.rst:69
 msgid "lock_btn"
-msgstr ""
+msgstr "lock_btn"
 
 #: ../../source/kdsmart-basics.rst:72
 #: ../../source/kdsmart-basics.rst:72
 msgid "info"
-msgstr ""
+msgstr "info"
 
 #: ../../source/kdsmart-basics.rst:75
 #: ../../source/kdsmart-basics.rst:75
 msgid "KDDart"
-msgstr ""
+msgstr "KDDart"
 
 #: ../../source/kdsmart-basics.rst:78
 #: ../../source/kdsmart-basics.rst:78
 msgid "DArray"
-msgstr ""
+msgstr "Darray"
 
 #: ../../source/kdsmart-basics.rst:81
 #: ../../source/kdsmart-basics.rst:81
 msgid "demo"
-msgstr ""
+msgstr "demo"
 
 #: ../../source/kdsmart-basics.rst:84
 #: ../../source/kdsmart-basics.rst:84
 msgid "trial"
-msgstr ""
+msgstr "forsøg"
 
 #: ../../source/kdsmart-basics.rst:87
 #: ../../source/kdsmart-basics.rst:87
 msgid "details"
-msgstr ""
+msgstr "detaljer"
 
 #: ../../source/kdsmart-basics.rst:90
 #: ../../source/kdsmart-basics.rst:90
 msgid "options"
-msgstr ""
+msgstr "muligheder"
 
 #: ../../source/kdsmart-basics.rst:99
 msgid "Getting Started"
-msgstr ""
+msgstr "Kom godt i gang"
 
 #: ../../source/kdsmart-basics.rst:102
 msgid "This page provides an introduction to the KDSmart application including its requirements and the basics of how to use it. Read this page first if you have not used KDSmart before. The following pages provide a more comprehensive guide to using KDSmart."
 msgstr ""
+"Denne side giver en introduktion til KDSmart-applikationen inklusive dens "
+"krav og det grundlæggende i, hvordan du bruger det. Læs denne side først, "
+"hvis du ikke har brugt KDSmart før. De følgende sider giver en mere "
+"omfattende guide til brug af KDSmart."
 
 #: ../../source/kdsmart-basics.rst:104
 #: ../../source/kdsmart-basics.rst:111
@@ -172,248 +176,302 @@ msgstr ""
 #: ../../source/kdsmart-basics.rst:242
 #: ../../source/kdsmart-basics.rst:249
 msgid "|br|"
-msgstr ""
+msgstr "|br|"
 
 #: ../../source/kdsmart-basics.rst:107
 msgid "Purpose"
-msgstr ""
+msgstr "Formål"
 
 #: ../../source/kdsmart-basics.rst:109
 msgid "KDSmart is an application that is used to collect phenotypic data from plants that are a part of trials. It allows the user to add information about a plot or sub-plot that they have observed (e.g. plant height), and then save that information in the trial. Data can then be exported and saved in the KDDart database."
 msgstr ""
+"KDSmart er et program, der bruges til at indsamle fænotypiske data fra "
+"planter, der er en del af forsøg. Det giver brugeren mulighed for at tilføje "
+"oplysninger om et plot eller delplot, som de har observeret (f.eks. "
+"plantehøjde), og derefter gemme disse oplysninger i forsøget. Data kan "
+"derefter eksporteres og gemmes i KDDart-databasen."
 
 #: ../../source/kdsmart-basics.rst:114
 msgid "Requirements"
-msgstr ""
+msgstr "Krav"
 
 #: ../../source/kdsmart-basics.rst:117
 msgid "The following will be needed to run KDsmart:"
-msgstr ""
+msgstr "Følgende vil være nødvendige for at køre KDSmart:"
 
 #: ../../source/kdsmart-basics.rst:119
 msgid "An internet connection to download or update the application (it can be used offline);"
 msgstr ""
+"En internetforbindelse til at downloade eller opdatere applikationen (den "
+"kan bruges offline);"
 
 #: ../../source/kdsmart-basics.rst:120
 msgid "Access to the Google Play Store;"
-msgstr ""
+msgstr "Adgang til Google Play Butik;"
 
 #: ../../source/kdsmart-basics.rst:121
 msgid "An Android device such as a phone or tablet with Android version 4.4 (Kit Kat) or above with the appropriate permissions accepted OR;"
 msgstr ""
+"En Android-enhed såsom en telefon eller tablet med Android version 4.4 (Kit "
+"Kat) eller nyere med de relevante tilladelser accepteret OR;"
 
 #: ../../source/kdsmart-basics.rst:122
 msgid "A computer with Android SDK 19 or above installed."
-msgstr ""
+msgstr "En computer med Android SDK 19 eller derover installeret."
 
 #: ../../source/kdsmart-basics.rst:124
 msgid "Incorrectly set **Android permissions** will either prevent KDSmart completely from working or disable some features, e.g. taking pictures with the camera. |br| Please see the :ref:`Android Permissions` topic for more information."
 msgstr ""
+"Forkert indstillede **Android tilladelser** vil enten forhindre KDSmart helt "
+"i at virke eller deaktivere nogle funktioner, f.eks. at tage billeder med "
+"kameraet. |br| Se venligst emne:ref: `Android tilladelser` emne for mere "
+"information."
 
 #: ../../source/kdsmart-basics.rst:129
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: ../../source/kdsmart-basics.rst:132
 msgid "There are three main types of items that are found in KDSmart. These are trials, traits, and tags (sometimes referred to as TTT)."
 msgstr ""
+"Der er tre hovedtyper af elementer, der findes i KDSmart. Disse er forsøg, "
+"træk, og tags (undertiden benævnt TTT)."
 
 #: ../../source/kdsmart-basics.rst:134
 msgid "**Trial** - Contains data on the physical layout of a field and the plots and sub-plots within that field. Trials also have information such as planting date and traits that are included."
 msgstr ""
+"**Trial** - Indeholder data om det fysiske layout af et felt og plottene og "
+"underplotterne inden for dette felt. Forsøg har også oplysninger såsom "
+"plantedato og træk, der er inkluderet."
 
 #: ../../source/kdsmart-basics.rst:135
 msgid "**Trait** - The quality or characteristic being inspected, measured and recorded for the organism e.g. plant height. There are traits for both plots and sub-plots and can be used in multiple trials."
 msgstr ""
+"**Træk** - Kvaliteten eller karakteristikken, der inspiceres, måles og "
+"registreres for organismen, f.eks. plantehøjde. Der er træk for både plot og "
+"delplot og kan bruges i flere forsøg."
 
 #: ../../source/kdsmart-basics.rst:136
 msgid "**Tag** - Short text codes that provide a quick method of applying predefined classification or annotation to Plots or sub-plots e.g. BD is a tag that can refer to bird damage."
 msgstr ""
+"**Tag** - Korte tekstkoder, der giver en hurtig metode til at anvende "
+"foruddefineret klassificering eller annotation på Plots eller sub-plot, "
+"f.eks. BD er et mærke, der kan henvise til fugleskader."
 
 #: ../../source/kdsmart-basics.rst:138
 msgid "Trials are generally created in KDManage or KDXplore and then loaded onto a device with KDSmart such as a mobile phone. Once the KDSmart device has a trial to work with, the user can go into the field and collect information on traits of the plot and sub-plots (this is known as *scoring*). Tags can be applied to each plot or sub-plot to define any characteristics that are not measured by traits. The data collected with KDSmart can then be loaded into KDXplore for curation and storage. A guide for this basic workflow is outlined in the `KDTutorials <http://www.kddart.org/help/kdtutorials/html/index.html>`_ section."
 msgstr ""
+"Forsøg oprettes generelt i KDManage eller KDXplore og indlæses derefter på "
+"en enhed med KDSmart, såsom en mobiltelefon. Når KDSmart-enheden har en "
+"prøveversion at arbejde med, kan brugeren gå ind i feltet og indsamle "
+"oplysninger om træk ved plottet og underplotterne (dette kaldes *scoring*). "
+"Mærker kan anvendes på hvert område eller delområde for at definere "
+"eventuelle egenskaber, der ikke måles ved træk. De data, der indsamles med "
+"KDSmart, kan derefter indlæses i KDXplore til kurering og opbevaring. < "
+"http://www.kddart.org/help/kdtutorials/html/index.html>En vejledning til "
+"denne grundlæggende arbejdsgang er beskrevet i afsnittet `KDTutorials`_."
 
 #: ../../source/kdsmart-basics.rst:144
 msgid "Home Screen"
-msgstr ""
+msgstr "Startskærm"
 
 #: ../../source/kdsmart-basics.rst:146
 msgid "KDSmart will open on the screen that is shown below. Please refer to the following table to learn more about KDSmart."
 msgstr ""
+"KDSmart åbnes på skærmen, der vises nedenfor. Se nedenstående tabel for at "
+"lære mere om KDSmart."
 
 #: ../../source/kdsmart-basics.rst:152
 #: ../../source/kdsmart-basics.rst:224
 msgid "|center-start|"
-msgstr ""
+msgstr "|center-start|"
 
 #: ../../source/kdsmart-basics.rst:160
 #: ../../source/kdsmart-basics.rst:230
 msgid "|center-end|"
-msgstr ""
+msgstr "|center-slut|"
 
 #: ../../source/kdsmart-basics.rst:169
 #: ../../source/kdsmart-basics.rst:169
 #: ../../source/kdsmart-basics.rst:177
 msgid "KDSmart Home Screen"
-msgstr ""
+msgstr "KDSmart startskærm"
 
 #: ../../source/kdsmart-basics.rst:181
 msgid "**Item Number**"
-msgstr ""
+msgstr "** Varenummer"
 
 #: ../../source/kdsmart-basics.rst:182
 msgid "**Icon/Image**"
-msgstr ""
+msgstr "**Icon/Image**"
 
 #: ../../source/kdsmart-basics.rst:183
 msgid "**Description**"
-msgstr ""
+msgstr "**Beskrivelse**"
 
 #: ../../source/kdsmart-basics.rst:184
 msgid "**1.**"
-msgstr ""
+msgstr "**1. **"
 
 #: ../../source/kdsmart-basics.rst:185
 msgid "|version|"
-msgstr ""
+msgstr "|version|"
 
 #: ../../source/kdsmart-basics.rst:186
 msgid "Displays the version of KDS that is being used. Check Google Play to see if any updates are available."
 msgstr ""
+"Viser den version af KDS, der bruges. Tjek Google Play for at se, om der er "
+"tilgængelige opdateringer."
 
 #: ../../source/kdsmart-basics.rst:187
 msgid "**2.**"
-msgstr ""
+msgstr "**2. **"
 
 #: ../../source/kdsmart-basics.rst:188
 msgid "|play_btn|"
-msgstr ""
+msgstr "|play_btn|"
 
 #: ../../source/kdsmart-basics.rst:189
 msgid "Starts scoring of the selected trial."
-msgstr ""
+msgstr "Starter scoring af den valgte prøveversion."
 
 #: ../../source/kdsmart-basics.rst:190
 msgid "**3.**"
-msgstr ""
+msgstr "**3. **"
 
 #: ../../source/kdsmart-basics.rst:191
 msgid "|bright_btn|"
-msgstr ""
+msgstr "|bright_btn|"
 
 #: ../../source/kdsmart-basics.rst:192
 msgid "Changes the brightness settings from *Dark Mode* to *Light Mode* (Note that this has been deprecated in the current version - it is likely to come back in future versions)."
 msgstr ""
+"Ændrer lysstyrkeindstillingerne fra *Mørk tilstand* til *Lystilstand* ("
+"Bemærk, at dette er forældet i den aktuelle version - det vil sandsynligvis "
+"komme tilbage i fremtidige versioner)."
 
 #: ../../source/kdsmart-basics.rst:193
 msgid "**4.**"
-msgstr ""
+msgstr "**4. **"
 
 #: ../../source/kdsmart-basics.rst:194
 msgid "|lock_btn|"
-msgstr ""
+msgstr "|lock_btn|"
 
 #: ../../source/kdsmart-basics.rst:195
 msgid "Locks editing so that trials may not be edited. A password will be needed to unlock editing features."
 msgstr ""
+"Låser redigering, så forsøg muligvis ikke redigeres. Der kræves en "
+"adgangskode for at låse op for redigeringsfunktioner."
 
 #: ../../source/kdsmart-basics.rst:196
 msgid "**5.**"
-msgstr ""
+msgstr "**5. **"
 
 #: ../../source/kdsmart-basics.rst:197
 msgid "|info|"
-msgstr ""
+msgstr "|info|"
 
 #: ../../source/kdsmart-basics.rst:198
 msgid "Provides an in-app Help Guide, an About page, and information on licenses."
 msgstr ""
+"Indeholder en hjælpevejledning i appen, en Om side, og oplysninger om "
+"licenser."
 
 #: ../../source/kdsmart-basics.rst:199
 msgid "**6.**"
-msgstr ""
+msgstr "**6. **"
 
 #: ../../source/kdsmart-basics.rst:200
 msgid "|KDDart|"
-msgstr ""
+msgstr "|KDDart|"
 
 #: ../../source/kdsmart-basics.rst:201
 msgid "Navigates to the KDDart web page."
-msgstr ""
+msgstr "Navigerer til KDDart-websiden."
 
 #: ../../source/kdsmart-basics.rst:202
 msgid "**7.**"
-msgstr ""
+msgstr "**7. **"
 
 #: ../../source/kdsmart-basics.rst:203
 msgid "|DArray|"
-msgstr ""
+msgstr "|Darray|"
 
 #: ../../source/kdsmart-basics.rst:204
 msgid "Navigates to the Diversity Arrays website."
-msgstr ""
+msgstr "Navigerer til webstedet Diversity Arrays."
 
 #: ../../source/kdsmart-basics.rst:205
 msgid "**8.**"
-msgstr ""
+msgstr "**8. **"
 
 #: ../../source/kdsmart-basics.rst:206
 msgid "|demo|"
-msgstr ""
+msgstr "|demo|"
 
 #: ../../source/kdsmart-basics.rst:207
 msgid "Indicates that this is the Demo database."
-msgstr ""
+msgstr "Angiver, at dette er demo-databasen."
 
 #: ../../source/kdsmart-basics.rst:208
 msgid "**9.**"
-msgstr ""
+msgstr "**9. **"
 
 #: ../../source/kdsmart-basics.rst:209
 msgid "|trial|"
-msgstr ""
+msgstr "|forsøg|"
 
 #: ../../source/kdsmart-basics.rst:210
 msgid "This is the selected trial."
-msgstr ""
+msgstr "Dette er den valgte prøve."
 
 #: ../../source/kdsmart-basics.rst:211
 msgid "**10.**"
-msgstr ""
+msgstr "**10. **"
 
 #: ../../source/kdsmart-basics.rst:212
 msgid "|details|"
-msgstr ""
+msgstr "|detaljer|"
 
 #: ../../source/kdsmart-basics.rst:213
 msgid "View more details on the selected trial."
-msgstr ""
+msgstr "Se flere detaljer om den valgte prøveversion."
 
 #: ../../source/kdsmart-basics.rst:214
 msgid "**11.**"
-msgstr ""
+msgstr "**11. **"
 
 #: ../../source/kdsmart-basics.rst:215
 msgid "|options|"
-msgstr ""
+msgstr "|muligheder|"
 
 #: ../../source/kdsmart-basics.rst:216
 msgid "Various options for KDS. An explanation of the options will be displayed in the table below."
 msgstr ""
+"Forskellige muligheder for KDS. En forklaring af mulighederne vises i "
+"nedenstående tabel."
 
 #: ../../source/kdsmart-basics.rst:222
 msgid "The following video is a short KDSmart tour where you can learn about some of the UI elements and features of KDSmart."
 msgstr ""
+"Følgende video er en kort KDSmart-tur, hvor du kan lære om nogle af UI-"
+"elementerne og funktionerne i KDSmart."
 
 #: ../../source/kdsmart-basics.rst:235
 msgid "This link, https://youtu.be/PM_lWMbHnBc , is to a short KDSmart tour video where you can learn about some of the UI elements and features of KDSmart."
 msgstr ""
+"Dette link, https://youtu.be/PM_lWMbHnBc, er til en kort KDSmart tour video, "
+"hvor du kan lære om nogle af UI elementer og funktioner i KDSmart."
 
 #: ../../source/kdsmart-basics.rst:245
 msgid "What now?"
-msgstr ""
+msgstr "Hvad nu?"
 
 #: ../../source/kdsmart-basics.rst:247
 msgid "The rest of the KDSmart Help Guide will provide a more in-depth explanation of the features and uses of KDSmart. Refer to the navigation bar on the left for more information on scoring trials, exchanging data with KDXplore, sample files, etc."
 msgstr ""
+"Resten af KDSmart Hjælp Guide vil give en mere dybdegående forklaring af "
+"funktioner og anvendelser af KDSmart. Se navigationslinjen til venstre for "
+"at få flere oplysninger om scoringsforsøg, udveksling af data med KDXplore, "
+"eksempelfiler osv."
