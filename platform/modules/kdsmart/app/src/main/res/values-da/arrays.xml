@@ -40,4 +40,106 @@
     <!-- pref_auto_scoring_titles -->
     <!-- trait_level_names -->
     <!-- run_length_choices -->
+    <string name="pref_textAppearance_names_2">Stor</string>
+    <string name="pref_database_names_0">Demo</string>
+    <string name="pref_database_names_1">Produktion</string>
+    <string name="pref_trait_date_format_titles_0">1915/Apr/25</string>
+    <string name="pref_trait_date_format_titles_1">Apr/25/1915</string>
+    <string name="pref_trait_date_format_titles_2">25/Apr/1915</string>
+    <string name="pref_trait_date_format_titles_3">1915/04/25</string>
+    <string name="pref_trait_date_format_titles_4">25/04/1915</string>
+    <string name="pref_trait_date_format_titles_5">25/04/1915</string>
+    <string name="pref_trait_date_format_titles_6">1915/115</string>
+    <string name="pref_trait_date_format_titles_7">115/1915</string>
+    <string name="pref_trait_date_format_titles_8">Apr/25</string>
+    <string name="pref_trait_date_format_titles_9">29/04</string>
+    <string name="pref_trait_date_format_titles_10">25/apr</string>
+    <string name="pref_trait_date_format_titles_11">25/04</string>
+    <string name="collOrder_pref_names_0">nederst til venstre, op, serpentin</string>
+    <string name="collOrder_pref_names_1">nederst til venstre, op, en vej</string>
+    <string name="collOrder_pref_names_2">nederst til venstre, højre, serpentin</string>
+    <string name="collOrder_pref_names_3">Lavere til venstre, Højre, Oneway</string>
+    <string name="collOrder_pref_names_4">Øverste venstre, Ned, Serpentin</string>
+    <string name="collOrder_pref_names_5">Øverste venstre, Ned, Oneway</string>
+    <string name="collOrder_pref_names_6">Øverste venstre, højre, Serpentin</string>
+    <string name="collOrder_pref_names_7">Øverste venstre, højre, Oneway</string>
+    <string name="collOrder_pref_names_8">Øverst til højre, Ned, Serpentin</string>
+    <string name="collOrder_pref_names_9">Øverst til højre, Ned, Oneway</string>
+    <string name="collOrder_pref_names_10">Øverste højre, venstre, Serpentine</string>
+    <string name="collOrder_pref_names_11">Øverst til højre, Venstre, Oneway</string>
+    <string name="collOrder_pref_names_12">nederst til højre, op, serpentin</string>
+    <string name="collOrder_pref_names_13">nederst til højre, op, en vej</string>
+    <string name="collOrder_pref_names_14">nederst til højre, venstre, serpentin</string>
+    <string name="collOrder_pref_names_15">nederst til højre, venstre, en vej</string>
+    <string name="pref_transition_type_titles_0">Ingen overgang</string>
+    <string name="pref_transition_type_titles_1">Skub ned</string>
+    <string name="pref_transition_type_titles_2">Skub op</string>
+    <string name="pref_transition_type_titles_3">Skub til venstre</string>
+    <string name="pref_transition_type_titles_4">Skub til højre</string>
+    <string name="pref_transition_type_titles_5">Fade ud</string>
+    <string name="pref_transition_type_titles_6">Rotere</string>
+    <string name="pref_scoring_view_titles_0">Regnearkstilstand</string>
+    <string name="pref_scoring_view_titles_1">Sti- tilstand</string>
+    <string name="pref_scoring_view_titles_2">Felt-tilstand</string>
+    <string name="pref_howto_view_attachment_names_0">Intern fremviser</string>
+    <string name="pref_howto_view_attachment_names_1">Vælg ansøgning</string>
+    <string name="pref_auto_scoring_titles_0">Alle træk</string>
+    <string name="pref_auto_scoring_titles_1">Uscorede træk</string>
+    <string name="trait_level_names_0">Plot</string>
+    <string name="trait_level_names_1">Sub-plot</string>
+    <string name="run_length_choices_0">Lodret</string>
+    <string name="run_length_choices_1">Vandret</string>
+    <string name="run_length_choices_2">Brugerdefineret</string>
+    <string name="pref_textAppearance_names_0">Lille</string>
+    <string name="pref_textAppearance_names_1">Medium</string>
+    <string name="pref_textAppearance_names_3">X-Large</string>
+    <string name="pref_keyboard_size_names_0">Lille</string>
+    <string name="pref_keyboard_size_names_1">Medium</string>
+    <string name="pref_keyboard_size_names_2">Stor</string>
+    <string name="pref_phone_picker_date_format_names_0">Spinner</string>
+    <string name="pref_phone_picker_date_format_names_1">Kalender</string>
+    <string name="pref_phone_picker_date_format_names_2">Begge</string>
+    <string name="gradient_pref_names_0">Blå nuancer</string>
+    <string name="gradient_pref_names_1">Orange nuancer</string>
+    <string name="gradient_pref_names_2">Magenta nuancer</string>
+    <string name="gradient_pref_names_3">Blå til rød</string>
+    <string name="gradient_pref_names_4">Grøn, Gul, Orange, Rød</string>
+    <string name="gradient_pref_names_5">Rød til Grøn</string>
+    <string name="gradient_pref_names_6">Gul, Orange, Rød</string>
+    <string name="gradient_pref_names_7">Sort, Brun, Rød, Tan</string>
+    <string name="gradient_pref_names_8">Brun, Gul, Rød, Orange, Sort</string>
+    <string name="gradient_pref_names_9">Regnbue</string>
+    <string name="orgtype_pref_names_0">Generisk</string>
+    <string name="orgtype_pref_names_1">Plante</string>
+    <string name="orgtype_pref_names_2">Majs</string>
+    <string name="orgtype_pref_names_3">Hvede</string>
+    <string name="orgtype_pref_names_4">DNA</string>
+    <string name="pref_gps_titles_0">GPS (højere nøjagtighed)</string>
+    <string name="pref_gps_titles_1">Netværk (lavere nøjagtighed)</string>
+    <string name="pref_gps_titles_2">Brug ikke placering</string>
+    <string name="drawer_list_items_0">Hjem</string>
+    <string name="drawer_list_items_1">Forsøg</string>
+    <string name="drawer_list_items_2">Træk</string>
+    <string name="drawer_list_items_3">Mærker</string>
+    <string name="drawer_list_items_4">Administrer enheder</string>
+    <string name="drawer_list_items_5">Indstillinger</string>
+    <string name="drawer_list_items_6">Info</string>
+    <string name="minutes_ago_options_0">1=1 minut siden</string>
+    <string name="minutes_ago_options_1">2=2 minutter siden</string>
+    <string name="minutes_ago_options_2">3=3 minutter siden</string>
+    <string name="minutes_ago_options_3">4=4 minutter siden</string>
+    <string name="minutes_ago_options_4">5=5 minutter siden</string>
+    <string name="minutes_ago_options_5">10=10 minutter siden</string>
+    <string name="minutes_ago_options_6">15=15 minutter siden</string>
+    <string name="minutes_ago_options_7">Mere…</string>
+    <string name="locale_pref_titles_0">Brug systemindstilling</string>
+    <string name="locale_pref_titles_1">engelsk</string>
+    <string name="locale_pref_titles_2">Tysk</string>
+    <string name="locale_pref_titles_3">Spansk-Mex</string>
+    <string name="locale_pref_titles_4">Polere</string>
+    <string name="trial_group_settings_titles_0">Trial Bundle</string>
+    <string name="trial_group_settings_titles_1">Trial Type</string>
+    <string name="trial_group_settings_titles_2">KDDart-URL</string>
+    <string name="trial_group_settings_titles_3">Organisme Type</string>
+    <string name="trial_group_settings_titles_4">Plantning År</string>
 </resources>
