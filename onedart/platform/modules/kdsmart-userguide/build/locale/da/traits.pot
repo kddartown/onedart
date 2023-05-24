@@ -8,73 +8,86 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-05-24 00:53+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Danish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/traits/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/traits.rst:27
 msgid "Traits"
-msgstr ""
+msgstr "Træk"
 
 #: ../../source/traits.rst:30
 msgid "KDSmart facilitates the recording or scoring of traits for trials and nurseries. Traits are usually phenotypic information although this arbitrary."
 msgstr ""
+"KDSmart letter optagelse eller score af træk til forsøg og planteskoler. "
+"Træk er normalt fænotypiske oplysninger, selvom dette er vilkårligt."
 
 #: ../../source/traits.rst:32
 msgid "KDSmart scoring screens are designed to allow quick recording of measurements, usually with a single touch."
 msgstr ""
+"KDSmart-scoringsskærme er designet til at muliggøre hurtig optagelse af "
+"målinger, normalt med et enkelt tryk."
 
 #: ../../source/traits.rst:34
 msgid "Traits can be defined with validation rules to facilitate strict data capture rules to assist in preventing recording errors. These rules can also be utilised to also make scoring more efficient by minimising the required keystrokes."
 msgstr ""
+"Egenskaber kan defineres med valideringsregler for at lette strenge "
+"datafangstregler for at hjælpe med at forhindre optagelsesfejl. Disse regler "
+"kan også bruges til også at gøre scoringen mere effektiv ved at minimere de "
+"krævede tastetryk."
 
 #: ../../source/traits.rst:36
 msgid "The **Traits Screen** (pictured below) provides a list of all available traits and options for management of traits including importing and exporting."
 msgstr ""
+"**Traits Screen** (billedet nedenfor) giver en liste over alle tilgængelige "
+"træk og muligheder for styring af træk, herunder import og eksport."
 
 #: ../../source/traits.rst:38
 #: ../../source/traits.rst:61
@@ -87,562 +100,729 @@ msgstr ""
 #: ../../source/traits.rst:299
 #: ../../source/traits.rst:335
 msgid "|br|"
-msgstr ""
+msgstr "|br|"
 
 #: ../../source/traits.rst:41
 msgid "What is a Trait?"
-msgstr ""
+msgstr "Hvad er et træk?"
 
 #: ../../source/traits.rst:43
 msgid "Traits are the quality or characteristic being inspected, measured and recorded for the organism. Within KDSmart, traits have the following characteristics and features:"
 msgstr ""
+"Egenskaber er kvaliteten eller karakteristikken, der inspiceres, måles og "
+"registreres for organismen. Inden for KDSmart har træk følgende egenskaber "
+"og egenskaber:"
 
 #: ../../source/traits.rst:45
 msgid "User definable;"
-msgstr ""
+msgstr "Bruger definerbar;"
 
 #: ../../source/traits.rst:46
 msgid "Defined by six different data types;"
-msgstr ""
+msgstr "Defineret af seks forskellige datatyper;"
 
 #: ../../source/traits.rst:47
 msgid "Optionally lockable once scored to prevent accidental change;"
-msgstr ""
+msgstr "Valgfrit låsbar en gang scoret for at forhindre utilsigtet ændring;"
 
 #: ../../source/traits.rst:48
 msgid "Importable and exportable;"
-msgstr ""
+msgstr "Importerbare og eksporterbare"
 
 #: ../../source/traits.rst:49
 msgid "Can be grouped into bundles for easier management; and"
-msgstr ""
+msgstr "Kan grupperes i bundter for lettere administration; og"
 
 #: ../../source/traits.rst:50
 msgid "Are either plot level or sub-plot level."
-msgstr ""
+msgstr "Er enten plotniveau eller delplot niveau."
 
 #: ../../source/traits.rst:52
 msgid "A measurement is stored for each trait instance in each plot or sub-plot includes the:"
 msgstr ""
+"Der lagres en måling for hver egengikforekomst i hvert område eller "
+"delområde, der omfatter:"
 
 #: ../../source/traits.rst:54
 msgid "Date and time when the measurement was taken;"
-msgstr ""
+msgstr "Dato og klokkeslæt for målingen"
 
 #: ../../source/traits.rst:55
 msgid "GPS coordinates (if this is enabled); and"
-msgstr ""
+msgstr "GPS-koordinater (hvis dette er aktiveret); og"
 
 #: ../../source/traits.rst:56
 msgid "Value of the measurement."
-msgstr ""
+msgstr "Værdien af målingen."
 
 #: ../../source/traits.rst:58
 msgid "Some examples of traits include the height of a plant (this might be called :brown:`Plant\\_Height`) or the date that a plot was irrigated (which could be called :brown:`Irrigated`)."
 msgstr ""
+"Nogle eksempler på træk inkluderer højden på en plante (dette kan "
+"kaldes:Brun: `Plante_Højde`) eller datoen, hvor et plot blev vandet (som "
+"kunne kaldes:Brun: `Vanding`)."
 
 #: ../../source/traits.rst:69
 #: ../../source/traits.rst:74
 msgid "Trait Attributes"
-msgstr ""
+msgstr "Trait Egenskaber"
 
 #: ../../source/traits.rst:71
 msgid "Each trait contains a set of attributes that define its characteristics. The following table lists the attributes of a trait:"
 msgstr ""
+"Hvert træk indeholder et sæt attributter, der definerer dets egenskaber. "
+"Følgende tabel viser attributterne for et træk:"
 
 #: ../../source/traits.rst:78
 msgid "**Attribute**"
-msgstr ""
+msgstr "**Attribute**"
 
 #: ../../source/traits.rst:79
 #: ../../source/traits.rst:84
 #: ../../source/traits.rst:180
 #: ../../source/traits.rst:253
 msgid "**Description**"
-msgstr ""
+msgstr "**Beskrivelse**"
 
 #: ../../source/traits.rst:80
 msgid "**Trait Name**"
-msgstr ""
+msgstr "** Trait Navn**"
 
 #: ../../source/traits.rst:81
 msgid "Must be *unique and short* for display in the **Scoring Screen** where space is limited on smaller devices (i.e. phones)."
 msgstr ""
+"Skal være en* unik og kort* til visning i **Scoringsskærmen**, hvor pladsen "
+"er begrænset på mindre enheder (dvs. telefoner)."
 
 #: ../../source/traits.rst:82
 msgid "**Alias**"
-msgstr ""
+msgstr "**Alias**"
 
 #: ../../source/traits.rst:83
 msgid "An alternative trait name, useful when the trait name is too long for the screen."
 msgstr ""
+"Et alternativt træknavn, nyttigt, når egenkenavnet er for langt til skærmen."
 
 #: ../../source/traits.rst:85
 msgid "This is an optional longer explanation of the trait to assist in data entry."
 msgstr ""
+"Dette er en valgfri længere forklaring på træk til at hjælpe med "
+"dataindtastning."
 
 #: ../../source/traits.rst:86
 #: ../../source/traits.rst:179
 msgid "**Data Type**"
-msgstr ""
+msgstr "**Datatype**"
 
 #: ../../source/traits.rst:87
 msgid "Constrains permitted values of traits. Types available are:"
-msgstr ""
+msgstr "Begrænser tilladte værdier af træk. Typer til rådighed er:"
 
 #: ../../source/traits.rst:89
 msgid "CATEGORICAL,"
-msgstr ""
+msgstr "KATEGORISK,"
 
 #: ../../source/traits.rst:90
 msgid "DATE,"
-msgstr ""
+msgstr "DATO"
 
 #: ../../source/traits.rst:91
 msgid "ELAPSED_DAYS,"
-msgstr ""
+msgstr "ELAPSED_DAYS,"
 
 #: ../../source/traits.rst:92
 msgid "INTEGER,"
-msgstr ""
+msgstr "HELTAL,"
 
 #: ../../source/traits.rst:93
 msgid "DECIMAL;  |nbsp| or"
-msgstr ""
+msgstr "DECIMAL; |nbsp| eller"
 
 #: ../../source/traits.rst:94
 msgid "TEXT;"
-msgstr ""
+msgstr "TEKST;"
 
 #: ../../source/traits.rst:96
 msgid "For details refer to `Trait Data Types`_"
-msgstr ""
+msgstr "For detaljer henvises til `Trait Data Typer`_"
 
 #: ../../source/traits.rst:97
 msgid "**Unit**"
-msgstr ""
+msgstr "** ENHED**"
 
 #: ../../source/traits.rst:98
 msgid "An arbitrary term for the *unit* of the trait to assist with what value to enter when scoring (e.g. measurement in millimetres or centimetres)."
 msgstr ""
+"Et vilkårligt udtryk for egenskaben*enhed* for at hjælpe med, hvilken værdi "
+"der skal indtastes ved scoring (f.eks. måling i millimeter eller centimeter)."
 
 #: ../../source/traits.rst:99
 #: ../../source/traits.rst:325
 msgid "**Validation Rule**"
-msgstr ""
+msgstr "**Valideringsregel**"
 
 #: ../../source/traits.rst:100
 msgid "The validation rule optionally restricts the values being entered. The nature of the rule is dependent upon the selection of a data type."
 msgstr ""
+"Valideringsreglen begrænser valgfrit de værdier, der indtastes. Reglenes art "
+"afhænger af valget af en datatype."
 
 #: ../../source/traits.rst:102
 msgid "Within the **Scoring Screen**, a *long press* of any trait name will:"
 msgstr ""
+"Inden for **Scoringsskærmen** vil et * langt tryk* på ethvert egenskabsnavn:"
 
 #: ../../source/traits.rst:104
 msgid "Display the trait details; and"
-msgstr ""
+msgstr "Vise egenkdetaljerne; og"
 
 #: ../../source/traits.rst:105
 msgid "Allow editing of the trait value if it is locked."
-msgstr ""
+msgstr "Tillad redigering af egenskabens værdi, hvis den er låst."
 
 #: ../../source/traits.rst:108
 msgid "Traits loaded from CSV all default to the *TEXT* data type unless they have previously been loaded or defined. Once loaded you may edit the trait definition to define its data type etc."
 msgstr ""
+"Egenskaber indlæst fra CSV alle standard til datatypen *TEXT*, medmindre de "
+"tidligere er blevet indlæst eller defineret. Når du er indlæst, kan du "
+"redigere egentikdefinitionen for at definere dens datatype osv."
 
 #: ../../source/traits.rst:110
 msgid "Unless specified in the CSV, traits loaded from CSV default to the *TEXT* data type. If the Trait already exists and is not yet scored unless they have previously been loaded or defined. Once loaded you may edit the trait definition to define its data type etc."
 msgstr ""
+"Medmindre det er angivet i CSV, træk indlæst fra CSV standard til datatypen "
+"*TEXT*. Hvis træk allerede findes og endnu ikke er scoret, medmindre de "
+"tidligere er indlæst eller defineret. Når du er indlæst, kan du redigere "
+"egentikdefinitionen for at definere dens datatype osv."
 
 #: ../../source/traits.rst:118
 #: ../../source/traits.rst:148
 #: ../../source/traits.rst:148
 msgid "Trait Instances"
-msgstr ""
+msgstr "Træktilfælde"
 
 #: ../../source/traits.rst:120
 msgid "A trial consists of plots and sub-plots which have traits for scoring. Furthermore, KDSmart allows you to score each trait multiple times - this is called a *Trait Instance*. The benefit of instancing traits is that they are easier to create and manage because only one trait needs to be managed rather than separate ones. Having separate traits also creates more work for data analysis and curation in KDXplore."
 msgstr ""
+"En prøve består af plot og delplotter, der har træk til at score. Desuden "
+"giver KDSmart dig mulighed for at score hvert træk flere gange - dette "
+"kaldes en * Trait Instance*. Fordelen ved instancing træk er, at de er "
+"lettere at oprette og administrere, fordi kun én egenskab skal styres "
+"snarere end separate dem. At have separate træk skaber også mere arbejde for "
+"dataanalyse og kurering i KDXplore."
 
 #: ../../source/traits.rst:122
 msgid "For example, you may wish to score :brown:`PH\\_Soil` three times: after 3 weeks, after 5 weeks and after 7 weeks. You can either:"
 msgstr ""
+"For eksempel kan du ønske at score:brown: `PH\\ _Soil` tre gange: efter 3 "
+"uger, efter 5 uger og efter 7 uger. Du kan enten:"
 
 #: ../../source/traits.rst:124
 msgid "Define three different traits (e.g. :brown:`PH\\_Soil1`, :brown:`PH\\_Soil2`, and :brown:`PH\\_Soil3`)."
 msgstr ""
+"Definer tre forskellige træk (f.eks.: brun: `PH\\ _Soil1`, :brun: `PH\\ "
+"_Soil2`, og:brun: `PH\\ _Soil3`)."
 
 #: ../../source/traits.rst:125
 msgid "Define three instances of the single trait (e.g. :brown:`PH\\_Soil #1`, :brown:`PH\\_Soil #2`, and :brown:`PH\\_Soil #3`)."
 msgstr ""
+"Definer tre forekomster af det enkelte træk (f.eks.: brun: `PH\\ _Soil #1 `, "
+":brun: `PH\\ _Soil #2`, og:brown: `PH\\ _Soil #3 `)."
 
 #: ../../source/traits.rst:131
 msgid "|center-start|"
-msgstr ""
+msgstr "|center-start|"
 
 #: ../../source/traits.rst:139
 msgid "|center-end|"
-msgstr ""
+msgstr "|center-slut|"
 
 #: ../../source/traits.rst:153
 msgid "Trait Naming"
-msgstr ""
+msgstr "Navngivning af træk"
 
 #: ../../source/traits.rst:155
 msgid "When preparing traits it is recommended that the use spaces in trait names are avoided and underscores are used instead. For example instead of :brown:`Plant Height` use :brown:`Plant_Height`."
 msgstr ""
+"Når man forbereder træk, anbefales det, at brugsrum i egenskabsnavne undgås, "
+"og understregninger bruges i stedet. For eksempel i stedet for: brun: `Plant "
+"Height` brug: brun: `Plant_Height`."
 
 #: ../../source/traits.rst:157
 msgid "Should KDXplore software be used after scoring it has the ability to calculate trait values from other traits, however, is restricted if trait names contain spaces."
 msgstr ""
+"Skulle KDXplore software bruges efter scoring, har den evnen til at beregne "
+"egenskabsværdier fra andre træk, men er begrænset, hvis egenskabsnavne "
+"indeholder mellemrum."
 
 #: ../../source/traits.rst:166
 #: ../../source/traits.rst:174
 msgid "Trait Data Types"
-msgstr ""
+msgstr "Trait datatyper"
 
 #: ../../source/traits.rst:168
 msgid "The following table describes the available data types for traits:"
-msgstr ""
+msgstr "Følgende tabel beskriver de tilgængelige datatyper for træk:"
 
 #: ../../source/traits.rst:181
 msgid "**Data Entry Style**"
-msgstr ""
+msgstr "**Dataindtastning Style**"
 
 #: ../../source/traits.rst:182
 msgid "**Example Validation Rule**"
-msgstr ""
+msgstr "**Eksempel Validering Regel**"
 
 #: ../../source/traits.rst:183
 msgid "**TEXT**"
-msgstr ""
+msgstr "**TEKST**"
 
 #: ../../source/traits.rst:184
 msgid "No constraint on what may be entered."
-msgstr ""
+msgstr "Ingen begrænsning for, hvad der kan indtastes."
 
 #: ../../source/traits.rst:185
 msgid "A text input field with a full keyboard."
-msgstr ""
+msgstr "Et tekstindtastningsfelt med et fuldt tastatur."
 
 #: ../../source/traits.rst:186
 msgid "No rule required."
-msgstr ""
+msgstr "Ingen regel krævet."
 
 #: ../../source/traits.rst:187
 msgid "**CATEGORICAL**"
-msgstr ""
+msgstr "**KATEGORISK**"
 
 #: ../../source/traits.rst:188
 msgid "Value is constrained to be one from a list of allowed values. |br| Translations to other languages are supported."
 msgstr ""
+"Værdien er begrænset til at være en fra en liste over tilladte værdier. |br| "
+"Oversættelser til andre sprog understøttes."
 
 #: ../../source/traits.rst:189
 msgid "A list of the allowed values is presented and the user touches the value desired."
 msgstr ""
+"En liste over de tilladte værdier præsenteres, og brugeren rører den ønskede "
+"værdi."
 
 #: ../../source/traits.rst:190
 msgid "Example: |br| :orange:`CHOICE(BLUE|YELLOW|RED)` |br| There must be at least two values provided in the pipe separated list (such as in the example above). |br| In a later release, the format will support providing a description for each value. This will likely be of the form |br| value:description |br| To prevent future problems you should not use the colon (:) character in any current value."
 msgstr ""
+"Eksempel: |br|:orange: `CHOICE (BLUE|GUL|RØD) `|br| Der skal være mindst to "
+"værdier angivet i den rørseparerede liste (som i eksemplet ovenfor). |br| I "
+"en senere version understøtter formatet at give en beskrivelse for hver "
+"værdi. Dette vil sandsynligvis være af formularen |br| værdi:beskrivelse |br|"
+" For at forhindre fremtidige problemer bør du ikke bruge kolontegnet (:) i "
+"nogen aktuel værdi."
 
 #: ../../source/traits.rst:191
 msgid "**DATE**"
-msgstr ""
+msgstr "**DATO**"
 
 #: ../../source/traits.rst:192
 msgid "Value is a date."
-msgstr ""
+msgstr "Værdi er en dato."
 
 #: ../../source/traits.rst:193
 msgid "A calendar is presented from which to choose a date."
-msgstr ""
+msgstr "En kalender præsenteres, hvorfra man kan vælge en dato."
 
 #: ../../source/traits.rst:194
 msgid "May be left blank or specified as :orange:`date`."
-msgstr ""
+msgstr "Kan være tom eller angivet som:orange: `dato `."
 
 #: ../../source/traits.rst:195
 msgid "**ELAPSED_DAYS**"
-msgstr ""
+msgstr "**ELAPSED_DAYS**"
 
 #: ../../source/traits.rst:196
 msgid "Value is the number of days since the trial’s planting date. |br| The range in the calendar is constrained by the start date and an optional upper limit. |br| KDSmart stores the values as a date but presents the value as a number when required."
 msgstr ""
+"Værdi er antallet af dage siden forsøgets plantedato. |br| Området i "
+"kalenderen er begrænset af startdatoen og en valgfri øvre grænse. |br| "
+"KDSmart gemmer værdierne som en dato, men præsenterer værdien som et tal, "
+"når det kræves."
 
 #: ../../source/traits.rst:197
 msgid "A list of days around the current date are presented and the user selects the desired value or chooses ':orange:`Other`' to use a calendar to pick a date outside this range. |br| The choices in the list (:orange:`-3d,  -2d, -1d, Today, +1d, +2d, +3d`) may be presented in different languages depending on locale support."
 msgstr ""
+"En liste over dage omkring den aktuelle dato præsenteres, og brugeren vælger "
+"den ønskede værdi eller vælger\":orange: \"Andet“ for at bruge en kalender "
+"til at vælge en dato uden for dette interval. |br| Valgene på listen "
+"(:orange: `-3d, -2d, -1d, Today, +1d, +2d, +3d`) kan præsenteres på "
+"forskellige sprog afhængigt af lokal support."
 
 #: ../../source/traits.rst:198
 msgid "May be left blank or specified as |br| :orange:`elapsed_days`. |br| To enforce a maximum value, use: |br| :orange:`elapsed_days_max=NNN`."
 msgstr ""
+"Kan være tom eller angivet som |br|:orange: `elapsed_days`. |br| For at "
+"håndhæve en maksimal værdi, brug: |br|:orange: `elapsed_days_max=nnn`."
 
 #: ../../source/traits.rst:199
 msgid "**INTEGER**"
-msgstr ""
+msgstr "**HELTAL**"
 
 #: ../../source/traits.rst:200
 msgid "Integer numeric values in a range specified. |br| The range is specified as a lower and upper bound and whether or not the bounds are included in the range."
 msgstr ""
+"Taltal numeriske værdier i et angivet interval. |br| Området er angivet som "
+"en nedre og øvre grænse, og om grænserne er inkluderet i området eller ej."
 
 #: ../../source/traits.rst:201
 msgid "If the number of values is 'small' then the entry is similar to the categorical data type.  Otherwise, a numeric keypad is presented (excluding a decimal point key). |br| The changeover from categorical style to numeric keypad may be altered in the **Settings Screen**. |br| For Example: :orange:`RERANGE(1..5)`  presents as a list of choices: :orange:`1,2,3,4` but :orange:`RANGE(1..500)` presents a keypad."
 msgstr ""
+"Hvis antallet af værdier er\"lille“, svarer posten til den kategoriske "
+"datatype. Ellers vises et numerisk tastatur (eksklusive en decimaltast). |br|"
+" Overgangen fra kategorisk stil til numerisk tastatur kan ændres i **"
+"Settings Screen**. |br| For eksempel: :orange: `RERANGE (1.. 5) `præsenterer "
+"som en liste over valg: :orange: `1,2,3,4` men:orange: `RANGE (1.. 500)` "
+"præsenterer et tastatur."
 
 #: ../../source/traits.rst:202
 msgid "Specify the range of values as: |br| :orange:`RANGE(min..max)` |br| or use `LERANGE, RERANGE, BERANGE` to exclude the left, right or both limits respectively. |br|  |br| Example: :orange:`RERANGE(-1..5)` |br| means the accepted values are |br| -1, 0, 1, 2, 3, 4 |br| |br| **Note:** If you use a custom keyboard, this may affect the appearance of the numeric keypad."
 msgstr ""
+"Angiv rækkevidden af værdier som: |br|:orange: `RANGE (min.. max) `|br| "
+"eller brug `LERANGE, RERANGE, BERANGE` for at udelukke henholdsvis venstre, "
+"højre eller begge grænser. |br| |br| Eksempel: :orange: `RERANGE (-1.. 5) "
+"`|br| betyder, at de accepterede værdier er |br| -1, 0, 1, 2, 3, 4 |br| |br| "
+"**Bemærk: ** Hvis du bruger et brugerdefineret tastatur, kan dette påvirke "
+"udseendet af det numeriske tastatur."
 
 #: ../../source/traits.rst:203
 msgid "**DECIMAL**"
-msgstr ""
+msgstr "**DECIMAL**"
 
 #: ../../source/traits.rst:204
 msgid "Specify a lower and upper bound and whether or not the bounds are included in the range and the number of digits of precision that will be recorded."
 msgstr ""
+"Angiv en nedre og øvre grænse, og om grænserne er inkluderet i området og "
+"antallet af præcisionscifre, der skal registreres."
 
 #: ../../source/traits.rst:205
 msgid "Entry is done using a numeric keypad that includes the decimal point. |br| NOTE: If you use a custom keyboard, this may affect the appearance of the numeric keypad."
 msgstr ""
+"Indtastning sker ved hjælp af et numerisk tastatur, der indeholder "
+"decimaltegnet. |br| BEMÆRK: Hvis du bruger et brugerdefineret tastatur, kan "
+"dette påvirke udseendet af det numeriske tastatur."
 
 #: ../../source/traits.rst:206
 msgid ":orange:`RANGE(min..max)` |br| or use :orange:`LERANGE, RERANGE, BERANGE` |br| However, min and max must now contain a decimal point and at least one digit following the point. |br| So: :orange:`BERANGE(1.0..2.99)` |br| means accept values for x where :orange:`1.00 < x < 2.99` |br| (the greater number of digits after the \".\" for min/max is  the \"precision\" desired)."
 msgstr ""
+":orange: `RANGE (min.. max) `|br| eller brug:orange: `LERANGE, RERANGE, "
+"BERANGE` |br| Min og max skal dog nu indeholde et decimaltegn og mindst et "
+"ciffer efter punktet. |br| So: :orange: `BERANGE (1.0.. 2.99) `|br| betyder "
+"acceptere værdier for x hvor:orange: `1,00 < x < 2,99` |br| (det større "
+"antal cifre efter „.“ for min/max er den ønskede „præcision“)."
 
 #: ../../source/traits.rst:207
 msgid "**CALC**"
-msgstr ""
+msgstr "**CALC**"
 
 #: ../../source/traits.rst:208
 msgid "Calculated or Derived Trait. |br| |br| See `Calculated or Derived Traits`_ below for further description."
 msgstr ""
+"Beregnet eller afledt træk. |br| |br| Se `Beregnede eller afledte træk`_ "
+"nedenfor for yderligere beskrivelse."
 
 #: ../../source/traits.rst:209
 msgid "Data entry is not permitted for this type. |br| |br| Traits with this data type **cannot** be scored during data collection."
 msgstr ""
+"Dataindtastning er ikke tilladt for denne type. |br| |br| Træk med denne "
+"datatype** kan ikke** scores under dataindsamling."
 
 #: ../../source/traits.rst:210
 msgid "A simple calculated or derived trait is: |br| :orange:`CALC( max(PH_CM/5,1) )` |br| This calculation references a trait named :orange:`PH_CM`, dividing the value by 5 and returning the maximum of the division or :orange:`1`, whichever is the greater. So a value of :orange:`17` for :orange:`PH_CM` gives a result of :orange:`3`. |br| Alternatively, |br| :orange:`CALC( max(PH_CM/5,1) , 1 )` |br| will retain the result with one decimal place. |br| In this case the value of :orange:`17` for  :orange:`PH_CM` results in :orange:`3.4`."
 msgstr ""
+"Et simpelt beregnet eller afledt træk er: |br|:orange: `CALC (max (PH_CM/"
+"5,1)) `|br| Denne beregning refererer til et træk navn:orange: `PH_CM`, "
+"dividere værdien med 5 og returnering af maksimum af divisionen eller:orange:"
+" `1`, alt efter hvad der er størst. Så en værdi af:orange: `17` til:orange: "
+"`PH_CM` giver et resultat af:orange: `3`. |br| Alternativt, |br|:orange: `"
+"CALC (max (PH_CM/5,1), 1) `|br| bevarer resultatet med en decimal. |br| I "
+"dette tilfælde værdien af:orange: `17` til:orange: `PH_CM` resulterer "
+"i:orange: `3.4`."
 
 #: ../../source/traits.rst:218
 msgid "Calculated or Derived Traits"
-msgstr ""
+msgstr "Beregnede eller afledte træk"
 
 #: ../../source/traits.rst:221
 msgid "The validation rule has either one or two components (with a comma separating them if required):"
 msgstr ""
+"Valideringsreglen har enten en eller to komponenter (med et komma, der "
+"adskiller dem, hvis det kræves):"
 
 #: ../../source/traits.rst:223
 msgid "The first component provides a formula that may reference other traits (by the trait name), using the operators and functions listed below."
 msgstr ""
+"Den første komponent indeholder en formel, der kan referere til andre træk ("
+"ved egenskabsnavnet), ved hjælp af de operatører og funktioner, der er "
+"anført nedenfor."
 
 #: ../../source/traits.rst:224
 msgid "If present, the second component indicates the number of decimal digits to retain in the computed result."
 msgstr ""
+"Hvis til stede, den anden komponent angiver antallet af decimalcifre, der "
+"skal bevares i det beregnede resultat."
 
 #: ../../source/traits.rst:226
 msgid "The functions available are in a table below. Arithmetic operators are:"
 msgstr ""
+"De tilgængelige funktioner findes i en tabel nedenfor. Aritmetiske "
+"operatører er:"
 
 #: ../../source/traits.rst:228
 msgid ":orange:`* / %` (the last is the **modulo** operation) |br| :orange:`+ -` (unary minus is also supported) |br| :orange:`^ **` (for exponentiation)."
 msgstr ""
+":orange: `*/%` (den sidste er **modulo** operation) |br|:orange: `+ -` ("
+"unary minus understøttes også) |br|:orange: `^ **` (til eksponentiering)."
 
 #: ../../source/traits.rst:233
 msgid "The comparison operators: :orange:`< <= = != > >=` and the logical operators: :orange:`&& ||` evaluate to either :orange:`1` or :orange:`0` representing **true** or **false** respectively. This is relevant for the :orange:`if(cond,a,b)` function."
 msgstr ""
+"Sammenligningen operatører: :orange: `< <= =! = > >=` og de logiske "
+"operatorer: :orange: `&& ||` evaluere til enten:orange: `1` eller:orange: `0`"
+" repræsenter**true** eller **false** hhv. Dette er relevant for funktionen: "
+"orange: `if (cond, a, b) `."
 
 #: ../../source/traits.rst:239
 #: ../../source/traits.rst:247
 msgid "Functions Available For CALC Data Type"
-msgstr ""
+msgstr "Tilgængelige funktioner for CALC-datatype"
 
 #: ../../source/traits.rst:241
 msgid "The following table describes the functions available for the CALC data type."
 msgstr ""
+"I følgende tabel beskrives de funktioner, der er tilgængelige for CALC-"
+"datatypen."
 
 #: ../../source/traits.rst:252
 msgid "**Function Name(s)**"
-msgstr ""
+msgstr "**Funktionsnavn (e) **"
 
 #: ../../source/traits.rst:254
 msgid "**Example**"
-msgstr ""
+msgstr "**Eksempel**"
 
 #: ../../source/traits.rst:255
 msgid ":orange:`sin cos tan asin acos atan`"
-msgstr ""
+msgstr ":orange: `sin cos tan asin acos atan`"
 
 #: ../../source/traits.rst:256
 msgid "**Trigonometric functions**"
-msgstr ""
+msgstr "** Trigonometriske funktioner**"
 
 #: ../../source/traits.rst:258
 msgid ":orange:`sinh cosh tanh`"
-msgstr ""
+msgstr ":orange: `sinh cosh tanh`"
 
 #: ../../source/traits.rst:259
 msgid "**Hyperbolic functions**"
-msgstr ""
+msgstr "** Hyperbolske funktioner**"
 
 #: ../../source/traits.rst:261
 msgid ":orange:`abs round floor ceil sqrt exp ln log sign`"
-msgstr ""
+msgstr ":orange: `abs runde gulv ceil sqrt exp ln log tegn“"
 
 #: ../../source/traits.rst:262
 msgid "**Unary mathematical functions:** |br| ROUND, FLOOR and CEIL return an integral portion of the input.  |br| LN is the natural logarithm  |br| LOG is the logarithm to base 10"
 msgstr ""
+"** Unary matematiske funktioner: ** |br| RUND, FLOOR og CEIL returnerer en "
+"integreret del af input. |br| LN er den naturlige logaritme |br| LOG er "
+"logaritmen til base 10"
 
 #: ../../source/traits.rst:263
 msgid ":orange:`round(1.5)` returns 2.0 |br| :orange:`round(1.4)` returns 1.0 |br| :orange:`floor(1.5)` returns 1.0 |br| :orange:`ceil(1.5)` returns 2.0"
 msgstr ""
+":orange: `round (1.5) `returnerer 2,0 |br|:orange: `round (1.4)` returnerer "
+"1.0 |br|:orange: `gulv (1.5) `returnerer 1.0 |br|:orange: `ceil (1.5)` "
+"returnerer 2.0"
 
 #: ../../source/traits.rst:264
 msgid ":orange:`pow min max`"
-msgstr ""
+msgstr ":orange: `pow min max`"
 
 #: ../../source/traits.rst:265
 msgid "**Binary mathematical functions**"
-msgstr ""
+msgstr "** Binære matematiske funktioner**"
 
 #: ../../source/traits.rst:266
 msgid ":orange:`pow(2,3)` returns 8.0 |br| :orange:`pow(3,2)` returns 9.0"
 msgstr ""
+":orange: `pow (2,3) `returnerer 8,0 |br|:orange: `pow (3,2)` returnerer 9.0"
 
 #: ../../source/traits.rst:267
 msgid ":orange:`rnd deg(radians) rad(degrees)`"
-msgstr ""
+msgstr ":orange: `rnd deg (radianer) rad (grader) `"
 
 #: ../../source/traits.rst:268
 msgid "**Other functions:** |br| :orange:`rnd(a)` returns the value of a multiplied by a random number satisfying the constraint :orange:`RERANGE(0..1.0)` i.e. a value :orange:`x` where: :orange:`0.0 <= x < 1.0`  |br| :orange:`deg` and :orange:`rad` convert between degrees and radians."
 msgstr ""
+"**Andre funktioner: ** |br|:orange: `rnd (a) `returnerer værdien af en "
+"ganget med et tilfældigt tal opfylder begrænsningen:orange: `RERANGE (0.. 1."
+"0)` dvs en værdi:orange: `x` hvor: :orange: `0.0 <= x < 1,0` |br|:orange: "
+"`deg` og:orange: `rad` konvertere mellem grader og Anere."
 
 #: ../../source/traits.rst:269
 msgid ":orange:`rnd(10)` will return a value :orange:`y` satisfying: |br| :orange:`0 <= y < 10`"
 msgstr ""
+":orange: `rnd (10) `returnerer en værdi: orange: `y` tilfredsstillende: "
+"|br|:orange: `0 <= y < 10`"
 
 #: ../../source/traits.rst:270
 msgid ":orange:`if(expr , a , b)`"
-msgstr ""
+msgstr ":orange: `hvis (expr, a, b) `"
 
 #: ../../source/traits.rst:271
 msgid "**Conditional expression:** |br| If the value of **expr** is **1**, the result is the expression **a** otherwise the result is expression **b**"
 msgstr ""
+"**Betinget udtryk: ** |br| Hvis værdien af **expr** er **1**, er resultatet "
+"udtrykket **a** ellers er resultatet udtryk **b**"
 
 #: ../../source/traits.rst:272
 msgid ":orange:`if(PH_CM <= 5 , 1 , 2)` |br| evaluates to :orange:`1` if the value of the trait :orange:`PH_CM` is 5  or less otherwise to :orange:`2`"
 msgstr ""
+":orange: `if (PH_CM <= 5, 1, 2) `|br| evaluerer til:orange: `1` hvis værdien "
+"af egenskaben:orange: `PH_CM` er 5 eller mindre ellers til:orange: `2`"
 
 #: ../../source/traits.rst:275
 msgid "Why can't I import my CALC trait?!"
-msgstr ""
+msgstr "Hvorfor kan jeg ikke importere mit CALC-træk?!"
 
 #: ../../source/traits.rst:277
 msgid "Ensure validation rules using comma's (e.g. CALC( max(PH_CM/5,1) , 1 )) are wrapped by double quotes (e.g. \"CALC( max(PH_CM/5,1) , 1 )\"). Excel handles this automatically."
 msgstr ""
+"Sørg for, at valideringsregler ved hjælp af kommaer (f.eks. CALC (maks. ("
+"PH_CM/5,1), 1)) pakkes med dobbelte anførselstegn (f.eks. „CALC (maks. ("
+"PH_CM/5,1), 1)“). Excel håndterer dette automatisk."
 
 #: ../../source/traits.rst:278
 msgid "Ensure the number of opening and closing brackets match (It's an easy thing to miss at a glance)."
 msgstr ""
+"Sørg for, at antallet af åbnings- og lukkebeslag matcher (Det er en nem ting "
+"at gå glip af med et øjeblik)."
 
 #: ../../source/traits.rst:279
 msgid "Trait names that use white spaces in their names cannot be used for derived CALC traits."
 msgstr ""
+"Træknavne, der bruger hvide rum i deres navne, kan ikke bruges til afledte "
+"CALC-træk."
 
 #: ../../source/traits.rst:285
 msgid "Categorical Traits"
-msgstr ""
+msgstr "Kategoriske træk"
 
 #: ../../source/traits.rst:287
 msgid "At times during scoring, the precision level required can vary. This may be dictated by a number of factors, e.g. sheer volume of specimens, time frame for data collection, reduced/limited people to perform the scoring, etc. In these instances, the *Categorical Data Type* may prove useful."
 msgstr ""
+"Til tider under scoringen kan det krævede præcisionsniveau variere. Dette "
+"kan være dikteret af en række faktorer, f.eks. et stort antal prøver, "
+"tidsramme for dataindsamling, reducerede/begrænsede personer til at udføre "
+"scoringen osv. I disse tilfælde kan *Kategoriske datatype* vise sig nyttig."
 
 #: ../../source/traits.rst:292
 msgid "Typically *Categorical* is used for constraining the data entered to a predefined list of values, such as the following definitions:"
 msgstr ""
+"Typisk bruges *Kategorisk* til at begrænse de indtastede data til en "
+"foruddefineret liste over værdier, såsom følgende definitioner:"
 
 #: ../../source/traits.rst:294
 msgid ":orange:`CHOICE(BLUE | YELLOW | RED)`; and"
-msgstr ""
+msgstr ":orange: `CHOICE (BLÅ | GUL | RØD) `; og"
 
 #: ../../source/traits.rst:295
 msgid ":orange:`CHOICE(White | Yellow | Purple | Variegated | Brown | Orange yellow | Mottled | White top | Red | Sun red | Blue | Other)`."
 msgstr ""
+":orange: `VALG (hvid | Gul | Lilla | Broget | Brun | Orange gul | Marmoreret "
+"| Hvid top | Rød | Solrød | Blå | Andet) `."
 
 #: ../../source/traits.rst:297
 msgid "In these examples, the pipe character ‘|’ is shown with a space character either side to improve legibility."
 msgstr ""
+"I disse eksempler vises rørtegnet '|' med et mellemrumstegn på hver side for "
+"at forbedre læsbarheden."
 
 #: ../../source/traits.rst:303
 msgid "Using Categorical Traits"
-msgstr ""
+msgstr "Brug af kategoriske træk"
 
 #: ../../source/traits.rst:306
 msgid "In some situations using a categorical data type may be more beneficial as this facilitates the use of selection ranges instead of data entry."
 msgstr ""
+"I nogle situationer kan det være mere fordelagtigt at bruge en kategorisk "
+"datatype, da dette letter brugen af udvælgelsesområder i stedet for "
+"dataindtastning."
 
 #: ../../source/traits.rst:308
 msgid "The following table illustrates the collection of plant height using both methods:"
 msgstr ""
+"Følgende tabel viser indsamling af plantehøjde ved hjælp af begge metoder:"
 
 #: ../../source/traits.rst:312
 msgid "Comparison Scoring Integer VS Categorical Trait Type - Required Precision 5cm"
 msgstr ""
+"Sammenligning Scoring Heltal VS Kategorisk egenskabstype - Nødvendig "
+"præcision 5cm"
 
 #: ../../source/traits.rst:317
 msgid "**Trait Defined as Integer**"
-msgstr ""
+msgstr "** Træk defineret som heltal**"
 
 #: ../../source/traits.rst:318
 msgid "**Trait Defined as Categorical**"
-msgstr ""
+msgstr "** Trait Defineret som kategorisk**"
 
 #: ../../source/traits.rst:319
 msgid "**Entry Method**"
-msgstr ""
+msgstr "**Indgangsmetode**"
 
 #: ../../source/traits.rst:320
 msgid "Plant height entered by selecting a value buttons. |br|"
-msgstr ""
+msgstr "Plant højde indtastet ved at vælge en værdi knapper. |br|"
 
 #: ../../source/traits.rst:321
 msgid "Plant height entered by selecting a value range from a list. |br|"
-msgstr ""
+msgstr "Plantehøjde indtastet ved at vælge et værdiområde fra en liste. |br|"
 
 #: ../../source/traits.rst:322
 msgid "**Conditions**"
-msgstr ""
+msgstr "**Betingelser**"
 
 #: ../../source/traits.rst:323
 msgid "Trait validation with a minimum of 5 and maximum of 50"
-msgstr ""
+msgstr "Validering af træk med mindst 5 og maksimalt 50"
 
 #: ../../source/traits.rst:324
 msgid "Trait validation with six ranges defined (e.g. The unit of measure may be 5 centimetres)."
 msgstr ""
+"Validering af træk med seks intervaller defineret (f.eks. Måleenheden kan "
+"være 5 centimeter)."
 
 #: ../../source/traits.rst:326
 msgid "5 <= x <= 50"
-msgstr ""
+msgstr "5 <= x <= 50"
 
 #: ../../source/traits.rst:327
 msgid ":orange:`CHOICE(5-10 | 10-15 | 15-20 | 20-25 | 25-30 | 30++)`."
-msgstr ""
+msgstr ":orange: `VALG (5-10 | 10-15 | 15-20 | 20-25 | 25-30 | 30++) `."
 
 #: ../../source/traits.rst:328
 msgid "**Key Presses**"
-msgstr ""
+msgstr "**Tastetryk**"
 
 #: ../../source/traits.rst:329
 msgid "Minimum 2 button press per sub-plot (single digit) then **Accept Button**."
 msgstr ""
+"Minimum 2 tryk på knappen pr. delplot (enkelt ciffer) og dernæst **Accept-"
+"knap**."
 
 #: ../../source/traits.rst:330
 msgid "Minimum 1 button press per sub-plot, unless a long condition list requires scrolling."
 msgstr ""
+"Minimum 1 knaptryk pr. delplot, medmindre en lang tilstandsliste kræver "
+"rulning."
 
 #: ../../source/traits.rst:333
 msgid "For a categorical trait, the number of choices may be limited to suit the circumstances of the trial stage."
 msgstr ""
+"For et kategorisk træk, antallet af valg kan være begrænset, så de passer "
+"til omstændighederne i prøvefasen."
