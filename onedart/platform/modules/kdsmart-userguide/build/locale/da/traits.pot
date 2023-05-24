@@ -1,0 +1,648 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.0.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-17 14:30+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/traits.rst:27
+msgid "Traits"
+msgstr ""
+
+#: ../../source/traits.rst:30
+msgid "KDSmart facilitates the recording or scoring of traits for trials and nurseries. Traits are usually phenotypic information although this arbitrary."
+msgstr ""
+
+#: ../../source/traits.rst:32
+msgid "KDSmart scoring screens are designed to allow quick recording of measurements, usually with a single touch."
+msgstr ""
+
+#: ../../source/traits.rst:34
+msgid "Traits can be defined with validation rules to facilitate strict data capture rules to assist in preventing recording errors. These rules can also be utilised to also make scoring more efficient by minimising the required keystrokes."
+msgstr ""
+
+#: ../../source/traits.rst:36
+msgid "The **Traits Screen** (pictured below) provides a list of all available traits and options for management of traits including importing and exporting."
+msgstr ""
+
+#: ../../source/traits.rst:38
+#: ../../source/traits.rst:61
+#: ../../source/traits.rst:127
+#: ../../source/traits.rst:150
+#: ../../source/traits.rst:160
+#: ../../source/traits.rst:213
+#: ../../source/traits.rst:236
+#: ../../source/traits.rst:282
+#: ../../source/traits.rst:299
+#: ../../source/traits.rst:335
+msgid "|br|"
+msgstr ""
+
+#: ../../source/traits.rst:41
+msgid "What is a Trait?"
+msgstr ""
+
+#: ../../source/traits.rst:43
+msgid "Traits are the quality or characteristic being inspected, measured and recorded for the organism. Within KDSmart, traits have the following characteristics and features:"
+msgstr ""
+
+#: ../../source/traits.rst:45
+msgid "User definable;"
+msgstr ""
+
+#: ../../source/traits.rst:46
+msgid "Defined by six different data types;"
+msgstr ""
+
+#: ../../source/traits.rst:47
+msgid "Optionally lockable once scored to prevent accidental change;"
+msgstr ""
+
+#: ../../source/traits.rst:48
+msgid "Importable and exportable;"
+msgstr ""
+
+#: ../../source/traits.rst:49
+msgid "Can be grouped into bundles for easier management; and"
+msgstr ""
+
+#: ../../source/traits.rst:50
+msgid "Are either plot level or sub-plot level."
+msgstr ""
+
+#: ../../source/traits.rst:52
+msgid "A measurement is stored for each trait instance in each plot or sub-plot includes the:"
+msgstr ""
+
+#: ../../source/traits.rst:54
+msgid "Date and time when the measurement was taken;"
+msgstr ""
+
+#: ../../source/traits.rst:55
+msgid "GPS coordinates (if this is enabled); and"
+msgstr ""
+
+#: ../../source/traits.rst:56
+msgid "Value of the measurement."
+msgstr ""
+
+#: ../../source/traits.rst:58
+msgid "Some examples of traits include the height of a plant (this might be called :brown:`Plant\\_Height`) or the date that a plot was irrigated (which could be called :brown:`Irrigated`)."
+msgstr ""
+
+#: ../../source/traits.rst:69
+#: ../../source/traits.rst:74
+msgid "Trait Attributes"
+msgstr ""
+
+#: ../../source/traits.rst:71
+msgid "Each trait contains a set of attributes that define its characteristics. The following table lists the attributes of a trait:"
+msgstr ""
+
+#: ../../source/traits.rst:78
+msgid "**Attribute**"
+msgstr ""
+
+#: ../../source/traits.rst:79
+#: ../../source/traits.rst:84
+#: ../../source/traits.rst:180
+#: ../../source/traits.rst:253
+msgid "**Description**"
+msgstr ""
+
+#: ../../source/traits.rst:80
+msgid "**Trait Name**"
+msgstr ""
+
+#: ../../source/traits.rst:81
+msgid "Must be *unique and short* for display in the **Scoring Screen** where space is limited on smaller devices (i.e. phones)."
+msgstr ""
+
+#: ../../source/traits.rst:82
+msgid "**Alias**"
+msgstr ""
+
+#: ../../source/traits.rst:83
+msgid "An alternative trait name, useful when the trait name is too long for the screen."
+msgstr ""
+
+#: ../../source/traits.rst:85
+msgid "This is an optional longer explanation of the trait to assist in data entry."
+msgstr ""
+
+#: ../../source/traits.rst:86
+#: ../../source/traits.rst:179
+msgid "**Data Type**"
+msgstr ""
+
+#: ../../source/traits.rst:87
+msgid "Constrains permitted values of traits. Types available are:"
+msgstr ""
+
+#: ../../source/traits.rst:89
+msgid "CATEGORICAL,"
+msgstr ""
+
+#: ../../source/traits.rst:90
+msgid "DATE,"
+msgstr ""
+
+#: ../../source/traits.rst:91
+msgid "ELAPSED_DAYS,"
+msgstr ""
+
+#: ../../source/traits.rst:92
+msgid "INTEGER,"
+msgstr ""
+
+#: ../../source/traits.rst:93
+msgid "DECIMAL;  |nbsp| or"
+msgstr ""
+
+#: ../../source/traits.rst:94
+msgid "TEXT;"
+msgstr ""
+
+#: ../../source/traits.rst:96
+msgid "For details refer to `Trait Data Types`_"
+msgstr ""
+
+#: ../../source/traits.rst:97
+msgid "**Unit**"
+msgstr ""
+
+#: ../../source/traits.rst:98
+msgid "An arbitrary term for the *unit* of the trait to assist with what value to enter when scoring (e.g. measurement in millimetres or centimetres)."
+msgstr ""
+
+#: ../../source/traits.rst:99
+#: ../../source/traits.rst:325
+msgid "**Validation Rule**"
+msgstr ""
+
+#: ../../source/traits.rst:100
+msgid "The validation rule optionally restricts the values being entered. The nature of the rule is dependent upon the selection of a data type."
+msgstr ""
+
+#: ../../source/traits.rst:102
+msgid "Within the **Scoring Screen**, a *long press* of any trait name will:"
+msgstr ""
+
+#: ../../source/traits.rst:104
+msgid "Display the trait details; and"
+msgstr ""
+
+#: ../../source/traits.rst:105
+msgid "Allow editing of the trait value if it is locked."
+msgstr ""
+
+#: ../../source/traits.rst:108
+msgid "Traits loaded from CSV all default to the *TEXT* data type unless they have previously been loaded or defined. Once loaded you may edit the trait definition to define its data type etc."
+msgstr ""
+
+#: ../../source/traits.rst:110
+msgid "Unless specified in the CSV, traits loaded from CSV default to the *TEXT* data type. If the Trait already exists and is not yet scored unless they have previously been loaded or defined. Once loaded you may edit the trait definition to define its data type etc."
+msgstr ""
+
+#: ../../source/traits.rst:118
+#: ../../source/traits.rst:148
+#: ../../source/traits.rst:148
+msgid "Trait Instances"
+msgstr ""
+
+#: ../../source/traits.rst:120
+msgid "A trial consists of plots and sub-plots which have traits for scoring. Furthermore, KDSmart allows you to score each trait multiple times - this is called a *Trait Instance*. The benefit of instancing traits is that they are easier to create and manage because only one trait needs to be managed rather than separate ones. Having separate traits also creates more work for data analysis and curation in KDXplore."
+msgstr ""
+
+#: ../../source/traits.rst:122
+msgid "For example, you may wish to score :brown:`PH\\_Soil` three times: after 3 weeks, after 5 weeks and after 7 weeks. You can either:"
+msgstr ""
+
+#: ../../source/traits.rst:124
+msgid "Define three different traits (e.g. :brown:`PH\\_Soil1`, :brown:`PH\\_Soil2`, and :brown:`PH\\_Soil3`)."
+msgstr ""
+
+#: ../../source/traits.rst:125
+msgid "Define three instances of the single trait (e.g. :brown:`PH\\_Soil #1`, :brown:`PH\\_Soil #2`, and :brown:`PH\\_Soil #3`)."
+msgstr ""
+
+#: ../../source/traits.rst:131
+msgid "|center-start|"
+msgstr ""
+
+#: ../../source/traits.rst:139
+msgid "|center-end|"
+msgstr ""
+
+#: ../../source/traits.rst:153
+msgid "Trait Naming"
+msgstr ""
+
+#: ../../source/traits.rst:155
+msgid "When preparing traits it is recommended that the use spaces in trait names are avoided and underscores are used instead. For example instead of :brown:`Plant Height` use :brown:`Plant_Height`."
+msgstr ""
+
+#: ../../source/traits.rst:157
+msgid "Should KDXplore software be used after scoring it has the ability to calculate trait values from other traits, however, is restricted if trait names contain spaces."
+msgstr ""
+
+#: ../../source/traits.rst:166
+#: ../../source/traits.rst:174
+msgid "Trait Data Types"
+msgstr ""
+
+#: ../../source/traits.rst:168
+msgid "The following table describes the available data types for traits:"
+msgstr ""
+
+#: ../../source/traits.rst:181
+msgid "**Data Entry Style**"
+msgstr ""
+
+#: ../../source/traits.rst:182
+msgid "**Example Validation Rule**"
+msgstr ""
+
+#: ../../source/traits.rst:183
+msgid "**TEXT**"
+msgstr ""
+
+#: ../../source/traits.rst:184
+msgid "No constraint on what may be entered."
+msgstr ""
+
+#: ../../source/traits.rst:185
+msgid "A text input field with a full keyboard."
+msgstr ""
+
+#: ../../source/traits.rst:186
+msgid "No rule required."
+msgstr ""
+
+#: ../../source/traits.rst:187
+msgid "**CATEGORICAL**"
+msgstr ""
+
+#: ../../source/traits.rst:188
+msgid "Value is constrained to be one from a list of allowed values. |br| Translations to other languages are supported."
+msgstr ""
+
+#: ../../source/traits.rst:189
+msgid "A list of the allowed values is presented and the user touches the value desired."
+msgstr ""
+
+#: ../../source/traits.rst:190
+msgid "Example: |br| :orange:`CHOICE(BLUE|YELLOW|RED)` |br| There must be at least two values provided in the pipe separated list (such as in the example above). |br| In a later release, the format will support providing a description for each value. This will likely be of the form |br| value:description |br| To prevent future problems you should not use the colon (:) character in any current value."
+msgstr ""
+
+#: ../../source/traits.rst:191
+msgid "**DATE**"
+msgstr ""
+
+#: ../../source/traits.rst:192
+msgid "Value is a date."
+msgstr ""
+
+#: ../../source/traits.rst:193
+msgid "A calendar is presented from which to choose a date."
+msgstr ""
+
+#: ../../source/traits.rst:194
+msgid "May be left blank or specified as :orange:`date`."
+msgstr ""
+
+#: ../../source/traits.rst:195
+msgid "**ELAPSED_DAYS**"
+msgstr ""
+
+#: ../../source/traits.rst:196
+msgid "Value is the number of days since the trial’s planting date. |br| The range in the calendar is constrained by the start date and an optional upper limit. |br| KDSmart stores the values as a date but presents the value as a number when required."
+msgstr ""
+
+#: ../../source/traits.rst:197
+msgid "A list of days around the current date are presented and the user selects the desired value or chooses ':orange:`Other`' to use a calendar to pick a date outside this range. |br| The choices in the list (:orange:`-3d,  -2d, -1d, Today, +1d, +2d, +3d`) may be presented in different languages depending on locale support."
+msgstr ""
+
+#: ../../source/traits.rst:198
+msgid "May be left blank or specified as |br| :orange:`elapsed_days`. |br| To enforce a maximum value, use: |br| :orange:`elapsed_days_max=NNN`."
+msgstr ""
+
+#: ../../source/traits.rst:199
+msgid "**INTEGER**"
+msgstr ""
+
+#: ../../source/traits.rst:200
+msgid "Integer numeric values in a range specified. |br| The range is specified as a lower and upper bound and whether or not the bounds are included in the range."
+msgstr ""
+
+#: ../../source/traits.rst:201
+msgid "If the number of values is 'small' then the entry is similar to the categorical data type.  Otherwise, a numeric keypad is presented (excluding a decimal point key). |br| The changeover from categorical style to numeric keypad may be altered in the **Settings Screen**. |br| For Example: :orange:`RERANGE(1..5)`  presents as a list of choices: :orange:`1,2,3,4` but :orange:`RANGE(1..500)` presents a keypad."
+msgstr ""
+
+#: ../../source/traits.rst:202
+msgid "Specify the range of values as: |br| :orange:`RANGE(min..max)` |br| or use `LERANGE, RERANGE, BERANGE` to exclude the left, right or both limits respectively. |br|  |br| Example: :orange:`RERANGE(-1..5)` |br| means the accepted values are |br| -1, 0, 1, 2, 3, 4 |br| |br| **Note:** If you use a custom keyboard, this may affect the appearance of the numeric keypad."
+msgstr ""
+
+#: ../../source/traits.rst:203
+msgid "**DECIMAL**"
+msgstr ""
+
+#: ../../source/traits.rst:204
+msgid "Specify a lower and upper bound and whether or not the bounds are included in the range and the number of digits of precision that will be recorded."
+msgstr ""
+
+#: ../../source/traits.rst:205
+msgid "Entry is done using a numeric keypad that includes the decimal point. |br| NOTE: If you use a custom keyboard, this may affect the appearance of the numeric keypad."
+msgstr ""
+
+#: ../../source/traits.rst:206
+msgid ":orange:`RANGE(min..max)` |br| or use :orange:`LERANGE, RERANGE, BERANGE` |br| However, min and max must now contain a decimal point and at least one digit following the point. |br| So: :orange:`BERANGE(1.0..2.99)` |br| means accept values for x where :orange:`1.00 < x < 2.99` |br| (the greater number of digits after the \".\" for min/max is  the \"precision\" desired)."
+msgstr ""
+
+#: ../../source/traits.rst:207
+msgid "**CALC**"
+msgstr ""
+
+#: ../../source/traits.rst:208
+msgid "Calculated or Derived Trait. |br| |br| See `Calculated or Derived Traits`_ below for further description."
+msgstr ""
+
+#: ../../source/traits.rst:209
+msgid "Data entry is not permitted for this type. |br| |br| Traits with this data type **cannot** be scored during data collection."
+msgstr ""
+
+#: ../../source/traits.rst:210
+msgid "A simple calculated or derived trait is: |br| :orange:`CALC( max(PH_CM/5,1) )` |br| This calculation references a trait named :orange:`PH_CM`, dividing the value by 5 and returning the maximum of the division or :orange:`1`, whichever is the greater. So a value of :orange:`17` for :orange:`PH_CM` gives a result of :orange:`3`. |br| Alternatively, |br| :orange:`CALC( max(PH_CM/5,1) , 1 )` |br| will retain the result with one decimal place. |br| In this case the value of :orange:`17` for  :orange:`PH_CM` results in :orange:`3.4`."
+msgstr ""
+
+#: ../../source/traits.rst:218
+msgid "Calculated or Derived Traits"
+msgstr ""
+
+#: ../../source/traits.rst:221
+msgid "The validation rule has either one or two components (with a comma separating them if required):"
+msgstr ""
+
+#: ../../source/traits.rst:223
+msgid "The first component provides a formula that may reference other traits (by the trait name), using the operators and functions listed below."
+msgstr ""
+
+#: ../../source/traits.rst:224
+msgid "If present, the second component indicates the number of decimal digits to retain in the computed result."
+msgstr ""
+
+#: ../../source/traits.rst:226
+msgid "The functions available are in a table below. Arithmetic operators are:"
+msgstr ""
+
+#: ../../source/traits.rst:228
+msgid ":orange:`* / %` (the last is the **modulo** operation) |br| :orange:`+ -` (unary minus is also supported) |br| :orange:`^ **` (for exponentiation)."
+msgstr ""
+
+#: ../../source/traits.rst:233
+msgid "The comparison operators: :orange:`< <= = != > >=` and the logical operators: :orange:`&& ||` evaluate to either :orange:`1` or :orange:`0` representing **true** or **false** respectively. This is relevant for the :orange:`if(cond,a,b)` function."
+msgstr ""
+
+#: ../../source/traits.rst:239
+#: ../../source/traits.rst:247
+msgid "Functions Available For CALC Data Type"
+msgstr ""
+
+#: ../../source/traits.rst:241
+msgid "The following table describes the functions available for the CALC data type."
+msgstr ""
+
+#: ../../source/traits.rst:252
+msgid "**Function Name(s)**"
+msgstr ""
+
+#: ../../source/traits.rst:254
+msgid "**Example**"
+msgstr ""
+
+#: ../../source/traits.rst:255
+msgid ":orange:`sin cos tan asin acos atan`"
+msgstr ""
+
+#: ../../source/traits.rst:256
+msgid "**Trigonometric functions**"
+msgstr ""
+
+#: ../../source/traits.rst:258
+msgid ":orange:`sinh cosh tanh`"
+msgstr ""
+
+#: ../../source/traits.rst:259
+msgid "**Hyperbolic functions**"
+msgstr ""
+
+#: ../../source/traits.rst:261
+msgid ":orange:`abs round floor ceil sqrt exp ln log sign`"
+msgstr ""
+
+#: ../../source/traits.rst:262
+msgid "**Unary mathematical functions:** |br| ROUND, FLOOR and CEIL return an integral portion of the input.  |br| LN is the natural logarithm  |br| LOG is the logarithm to base 10"
+msgstr ""
+
+#: ../../source/traits.rst:263
+msgid ":orange:`round(1.5)` returns 2.0 |br| :orange:`round(1.4)` returns 1.0 |br| :orange:`floor(1.5)` returns 1.0 |br| :orange:`ceil(1.5)` returns 2.0"
+msgstr ""
+
+#: ../../source/traits.rst:264
+msgid ":orange:`pow min max`"
+msgstr ""
+
+#: ../../source/traits.rst:265
+msgid "**Binary mathematical functions**"
+msgstr ""
+
+#: ../../source/traits.rst:266
+msgid ":orange:`pow(2,3)` returns 8.0 |br| :orange:`pow(3,2)` returns 9.0"
+msgstr ""
+
+#: ../../source/traits.rst:267
+msgid ":orange:`rnd deg(radians) rad(degrees)`"
+msgstr ""
+
+#: ../../source/traits.rst:268
+msgid "**Other functions:** |br| :orange:`rnd(a)` returns the value of a multiplied by a random number satisfying the constraint :orange:`RERANGE(0..1.0)` i.e. a value :orange:`x` where: :orange:`0.0 <= x < 1.0`  |br| :orange:`deg` and :orange:`rad` convert between degrees and radians."
+msgstr ""
+
+#: ../../source/traits.rst:269
+msgid ":orange:`rnd(10)` will return a value :orange:`y` satisfying: |br| :orange:`0 <= y < 10`"
+msgstr ""
+
+#: ../../source/traits.rst:270
+msgid ":orange:`if(expr , a , b)`"
+msgstr ""
+
+#: ../../source/traits.rst:271
+msgid "**Conditional expression:** |br| If the value of **expr** is **1**, the result is the expression **a** otherwise the result is expression **b**"
+msgstr ""
+
+#: ../../source/traits.rst:272
+msgid ":orange:`if(PH_CM <= 5 , 1 , 2)` |br| evaluates to :orange:`1` if the value of the trait :orange:`PH_CM` is 5  or less otherwise to :orange:`2`"
+msgstr ""
+
+#: ../../source/traits.rst:275
+msgid "Why can't I import my CALC trait?!"
+msgstr ""
+
+#: ../../source/traits.rst:277
+msgid "Ensure validation rules using comma's (e.g. CALC( max(PH_CM/5,1) , 1 )) are wrapped by double quotes (e.g. \"CALC( max(PH_CM/5,1) , 1 )\"). Excel handles this automatically."
+msgstr ""
+
+#: ../../source/traits.rst:278
+msgid "Ensure the number of opening and closing brackets match (It's an easy thing to miss at a glance)."
+msgstr ""
+
+#: ../../source/traits.rst:279
+msgid "Trait names that use white spaces in their names cannot be used for derived CALC traits."
+msgstr ""
+
+#: ../../source/traits.rst:285
+msgid "Categorical Traits"
+msgstr ""
+
+#: ../../source/traits.rst:287
+msgid "At times during scoring, the precision level required can vary. This may be dictated by a number of factors, e.g. sheer volume of specimens, time frame for data collection, reduced/limited people to perform the scoring, etc. In these instances, the *Categorical Data Type* may prove useful."
+msgstr ""
+
+#: ../../source/traits.rst:292
+msgid "Typically *Categorical* is used for constraining the data entered to a predefined list of values, such as the following definitions:"
+msgstr ""
+
+#: ../../source/traits.rst:294
+msgid ":orange:`CHOICE(BLUE | YELLOW | RED)`; and"
+msgstr ""
+
+#: ../../source/traits.rst:295
+msgid ":orange:`CHOICE(White | Yellow | Purple | Variegated | Brown | Orange yellow | Mottled | White top | Red | Sun red | Blue | Other)`."
+msgstr ""
+
+#: ../../source/traits.rst:297
+msgid "In these examples, the pipe character ‘|’ is shown with a space character either side to improve legibility."
+msgstr ""
+
+#: ../../source/traits.rst:303
+msgid "Using Categorical Traits"
+msgstr ""
+
+#: ../../source/traits.rst:306
+msgid "In some situations using a categorical data type may be more beneficial as this facilitates the use of selection ranges instead of data entry."
+msgstr ""
+
+#: ../../source/traits.rst:308
+msgid "The following table illustrates the collection of plant height using both methods:"
+msgstr ""
+
+#: ../../source/traits.rst:312
+msgid "Comparison Scoring Integer VS Categorical Trait Type - Required Precision 5cm"
+msgstr ""
+
+#: ../../source/traits.rst:317
+msgid "**Trait Defined as Integer**"
+msgstr ""
+
+#: ../../source/traits.rst:318
+msgid "**Trait Defined as Categorical**"
+msgstr ""
+
+#: ../../source/traits.rst:319
+msgid "**Entry Method**"
+msgstr ""
+
+#: ../../source/traits.rst:320
+msgid "Plant height entered by selecting a value buttons. |br|"
+msgstr ""
+
+#: ../../source/traits.rst:321
+msgid "Plant height entered by selecting a value range from a list. |br|"
+msgstr ""
+
+#: ../../source/traits.rst:322
+msgid "**Conditions**"
+msgstr ""
+
+#: ../../source/traits.rst:323
+msgid "Trait validation with a minimum of 5 and maximum of 50"
+msgstr ""
+
+#: ../../source/traits.rst:324
+msgid "Trait validation with six ranges defined (e.g. The unit of measure may be 5 centimetres)."
+msgstr ""
+
+#: ../../source/traits.rst:326
+msgid "5 <= x <= 50"
+msgstr ""
+
+#: ../../source/traits.rst:327
+msgid ":orange:`CHOICE(5-10 | 10-15 | 15-20 | 20-25 | 25-30 | 30++)`."
+msgstr ""
+
+#: ../../source/traits.rst:328
+msgid "**Key Presses**"
+msgstr ""
+
+#: ../../source/traits.rst:329
+msgid "Minimum 2 button press per sub-plot (single digit) then **Accept Button**."
+msgstr ""
+
+#: ../../source/traits.rst:330
+msgid "Minimum 1 button press per sub-plot, unless a long condition list requires scrolling."
+msgstr ""
+
+#: ../../source/traits.rst:333
+msgid "For a categorical trait, the number of choices may be limited to suit the circumstances of the trial stage."
+msgstr ""
