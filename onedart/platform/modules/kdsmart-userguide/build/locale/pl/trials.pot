@@ -8,65 +8,77 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.2.4\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-18 08:18+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-05-24 05:26+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Polish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/trials/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/trials.rst:27
 msgid "Trials"
-msgstr ""
+msgstr "Próby"
 
 #: ../../source/trials.rst:29
 msgid "KDSmart is designed for collecting data for *trials*. Trials can either be `imported <https://www.kddart.org/help/kdsmart/html/data-import-export-backup.html>`_ from external sources, `transferred <https://www.kddart.org/help/kdsmart/html/exchangedata.html>`_ from KDXplore, or `created <https://www.kddart.org/help/kdsmart/html/trials.html#creating-a-trial>`_ within KDSmart."
 msgstr ""
+"KDSmart jest przeznaczony do zbierania danych do *trials*. < https://www."
+"kddart.org/help/kdsmart/html/exchangedata.html> < https://www.kddart.org/"
+"help/kdsmart/html/trials.html#creating-a-trial>Próby mogą być `importowane`_ "
+"ze < https://www.kddart.org/help/kdsmart/html/data-import-export-"
+"backup.html> źródeł zewnętrznych, `transferred`_ z KDXplore lub `created`_ w "
+"KDSmart."
 
 #: ../../source/trials.rst:31
 msgid "Trials in KDSmart can be viewed and managed from the **Trials screen**:"
 msgstr ""
+"Wersje próbne w KDSmart można przeglądać i zarządzać z poziomu "
+"ekranu**Próby**:"
 
 #: ../../source/trials.rst:33
 #: ../../source/trials.rst:56
@@ -86,7 +98,7 @@ msgstr ""
 #: ../../source/trials.rst:238
 #: ../../source/trials.rst:261
 msgid "|br|"
-msgstr ""
+msgstr "|pl|"
 
 #: ../../source/trials.rst:37
 #: ../../source/trials.rst:100
@@ -94,7 +106,7 @@ msgstr ""
 #: ../../source/trials.rst:162
 #: ../../source/trials.rst:242
 msgid "|center-start|"
-msgstr ""
+msgstr "|centrum-start|"
 
 #: ../../source/trials.rst:45
 #: ../../source/trials.rst:108
@@ -102,64 +114,89 @@ msgstr ""
 #: ../../source/trials.rst:170
 #: ../../source/trials.rst:250
 msgid "|center-end|"
-msgstr ""
+msgstr "|centralny końc|"
 
 #: ../../source/trials.rst:54
 #: ../../source/trials.rst:54
 msgid "Trials Screen"
-msgstr ""
+msgstr "Ekran prób"
 
 #: ../../source/trials.rst:59
 msgid "This page provides more information on trials, including creating and managing them in KDSmart."
 msgstr ""
+"Ta strona zawiera więcej informacji na temat prób, w tym tworzenie i "
+"zarządzanie nimi w KDSmart."
 
 #: ../../source/trials.rst:64
 msgid "What is a Trial?"
-msgstr ""
+msgstr "Co to jest próba?"
 
 #: ../../source/trials.rst:66
 msgid "*Trial*  is the general term used in KDDart to refer to studies, experiments, nurseries, projects, etc. Trials contain data on the physical layout of a field and trial details and the plots and sub-plots within that field."
 msgstr ""
+"*Trial* to ogólny termin używany w KDDart w odniesieniu do badań, "
+"eksperymentów, żłobków, projektów itp. Próby zawierają dane dotyczące "
+"fizycznego układu pola i szczegółów próby oraz wykresów i podwykresów w tej "
+"dziedzinie."
 
 #: ../../source/trials.rst:68
 msgid "Trials also contain `traits <https://www.kddart.org/help/kdsmart/html/traits.html>`_ which are the qualities or characteristics being scored, and possibly `tags <https://www.kddart.org/help/kdsmart/html/tags.html>`_ that are reusable notes."
 msgstr ""
+"< https://www.kddart.org/help/kdsmart/html/tags.html>Próby zawierają również "
+"„cechy”, które są cechami < https://www.kddart.org/help/kdsmart/html/"
+"traits.html> lub cechami, które są oceniane, i prawdopodobnie „tagi”, które "
+"są nutami wielokrotnego użytku."
 
 #: ../../source/trials.rst:70
 msgid "Generally, a trial is created in KDXplore or KDManage, transferred to KDSmart for scoring in the field, transferred back to KDXplore for data curation, and finally uploaded into KDDart."
 msgstr ""
+"Ogólnie rzecz biorąc, próba jest tworzona w KDXplore lub KDManage, "
+"przenoszona do KDSmart w celu punktacji w terenie, przeniesiona z powrotem "
+"do KDXplore w celu kuracji danych, a ostatecznie przesłana do KDDart."
 
 #: ../../source/trials.rst:74
 msgid "Trials contain multiple *plots* - areas, spaces or even pots, uniquely identified by a plot ID, coordinate pairs (column/row ID), or both. *Subplots* are individual specimens within a plot."
 msgstr ""
+"Próby zawierają wielokrotne*wykres* - obszary, spacje, a nawet doniczki, "
+"jednoznacznie identyfikowane za pomocą identyfikatora wykresu, par "
+"współrzędnych (identyfikator kolumny/wiersz) lub obu. *Poddziałki* to "
+"pojedyncze okazy w obrębie działki."
 
 #: ../../source/trials.rst:80
 msgid "Trial Types"
-msgstr ""
+msgstr "Rodzaje prób"
 
 #: ../../source/trials.rst:82
 msgid "There are three types of trials in KDXplore:"
-msgstr ""
+msgstr "Istnieją trzy rodzaje prób w KDXplore:"
 
 #: ../../source/trials.rst:84
 msgid "Column and Row (X/Y) - the combination of column and row numbers is a unique identifier for every plot in the trial;"
 msgstr ""
+"Kolumna i wiersz (X/Y) - kombinacja numerów kolumn i wierszy jest unikalnym "
+"identyfikatorem dla każdego wykresu w próbie;"
 
 #: ../../source/trials.rst:85
 msgid "Plot ID - the plot ID is a unique identifier for every plot; and"
 msgstr ""
+"Identyfikator wykresu - identyfikator wykresu jest unikalnym identyfikatorem "
+"dla każdego wykresu; oraz"
 
 #: ../../source/trials.rst:86
 msgid "Block - the combination of block, column, and row numbers is a unique identifier for each plot."
 msgstr ""
+"Blok - kombinacja numerów bloków, kolumn i wierszy jest unikalnym "
+"identyfikatorem dla każdego wykresu."
 
 #: ../../source/trials.rst:92
 msgid "Trial Details"
-msgstr ""
+msgstr "Szczegóły próbne"
 
 #: ../../source/trials.rst:94
 msgid "Each trial contains a set of attributes that define its characteristics. You can find the details for each trial in the **Trial Details screen**:"
 msgstr ""
+"Każda próba zawiera zestaw atrybutów, które definiują jej cechy. Szczegóły "
+"każdej wersji próbnej można znaleźć na ekranie **Szczegóły próbny**:"
 
 #: ../../source/trials.rst:117
 #: ../../source/trials.rst:117
@@ -167,138 +204,177 @@ msgstr ""
 #: ../../source/trials.rst:258
 #: ../../source/trials.rst:258
 msgid "Trial Details Screen"
-msgstr ""
+msgstr "Ekran szczegółów wersji próbnej"
 
 #: ../../source/trials.rst:123
 msgid "Trial Management"
-msgstr ""
+msgstr "Zarządzanie próbami"
 
 #: ../../source/trials.rst:125
 msgid "Trials in KDSmart are managed from the **Trials screen**, shown in the sections above. This screen has options for many trial management activities such as importing, exporting, creating, and editing trials."
 msgstr ""
+"Próby w KDSmart są zarządzane z poziomu ekranu**Próby ekranu**, pokazanego w "
+"powyższych sekcjach. Ten ekran zawiera opcje dla wielu działań związanych z "
+"zarządzaniem próbami, takich jak importowanie, eksportowanie, tworzenie i "
+"edytowanie prób."
 
 #: ../../source/trials.rst:130
 #: ../../source/trials.rst:182
 msgid "Creating a New Trial"
-msgstr ""
+msgstr "Tworzenie nowej wersji próbnej"
 
 #: ../../source/trials.rst:132
 msgid "New X/Y and Plot ID trials can be created within KDSmart."
-msgstr ""
+msgstr "W KDSmart można tworzyć nowe próby X/Y i Plot ID."
 
 #: ../../source/trials.rst:136
 msgid "Creating a New X/Y Trial"
-msgstr ""
+msgstr "Tworzenie nowej wersji próbnej X/Y"
 
 #: ../../source/trials.rst:154
 #: ../../source/trials.rst:154
 msgid "Creating a New X/Y Tria"
-msgstr ""
+msgstr "Tworzenie nowego X/Y Tria"
 
 #: ../../source/trials.rst:160
 #: ../../source/trials.rst:178
 #: ../../source/trials.rst:178
 msgid "Creating a New Plot ID Trial"
-msgstr ""
+msgstr "Tworzenie nowej wersji próbnej identyfikatora wydruku"
 
 #: ../../source/trials.rst:186
 #: ../../source/trials.rst:216
 msgid "Step"
-msgstr ""
+msgstr "Krok"
 
 #: ../../source/trials.rst:187
 #: ../../source/trials.rst:217
 msgid "Action"
-msgstr ""
+msgstr "Akcja"
 
 #: ../../source/trials.rst:188
 #: ../../source/trials.rst:218
 msgid "**1.**"
-msgstr ""
+msgstr "**1. **"
 
 #: ../../source/trials.rst:189
 msgid "Navigate to the **Trials screen** and select the **Menu button** to open the **Menu**."
 msgstr ""
+"Przejdź do ekranu**Próby i wybierz przycisk **Menu, aby otworzyć menu "
+"**Menu**."
 
 #: ../../source/trials.rst:190
 #: ../../source/trials.rst:220
 msgid "**2.**"
-msgstr ""
+msgstr "**2. **"
 
 #: ../../source/trials.rst:191
 msgid "Select the **Create Trial button** to display the **Create Trial screen**."
 msgstr ""
+"Wybierz przycisk **Utwórz wersję próbn**, aby wyświetlić ekran**Utwórz "
+"wersję próbn**."
 
 #: ../../source/trials.rst:192
 #: ../../source/trials.rst:222
 msgid "**3.**"
-msgstr ""
+msgstr "**3. **"
 
 #: ../../source/trials.rst:193
 msgid "Enter the details for the new trial. Depending on whether you are creating an X/Y or Plot ID trial, there will be different options. See the table below for a complete list of all details."
 msgstr ""
+"Wprowadź szczegóły nowej wersji próbnej. W zależności od tego, czy tworzysz "
+"wersję próbną X/Y, czy Plot ID, dostępne będą różne opcje. Zobacz poniższą "
+"tabelę, aby uzyskać pełną listę wszystkich szczegółów."
 
 #: ../../source/trials.rst:194
 #: ../../source/trials.rst:224
 msgid "**4.**"
-msgstr ""
+msgstr "**4. **"
 
 #: ../../source/trials.rst:195
 msgid "Select the **Confirm button** to finalise the creation of the trial."
 msgstr ""
+"Wybierz przycisk **Potwierdza**, aby sfinalizować tworzenie wersji próbnej."
 
 #: ../../source/trials.rst:202
 msgid "Currently, you cannot create new block trials in KDSmart. Instead, you will need to import or transfer them into the app."
 msgstr ""
+"Obecnie nie można tworzyć nowych prób bloków w KDSmart. Zamiast tego "
+"będziesz musiał zaimportować lub przenieść je do aplikacji."
 
 #: ../../source/trials.rst:208
 msgid "Adding & Removing Traits in a Trial"
-msgstr ""
+msgstr "Dodawanie i usuwanie cech w próbie"
 
 #: ../../source/trials.rst:210
 msgid "Trials need to have traits added to them for scoring. You can also remove traits from an existing trial."
 msgstr ""
+"Próby muszą mieć dodane cechy do punktacji. Możesz także usunąć cechy z "
+"istniejącej próby."
 
 #: ../../source/trials.rst:212
 msgid "Adding Traits to a Trial"
-msgstr ""
+msgstr "Dodawanie cech do próby"
 
 #: ../../source/trials.rst:219
 msgid "Select the **Trial Details button** to view the details of a trial."
 msgstr ""
+"Wybierz przycisk **Szczegóły próbny**, aby wyświetlić szczegóły wersji "
+"próbnej."
 
 #: ../../source/trials.rst:221
 msgid "Select the **Edit Traits button** to display the **Trait Instances screen**. If there are existing traits, it will list them here. See the `Preparing for Scoring <https://www.kddart.org/help/kdsmart/html/preparation.html#trait-instance>`_ page for information on this screen."
 msgstr ""
+"Wybierz przycisk **Edytuj cechy**, aby wyświetlić ekran**Wystąpienia cechów**"
+". Jeśli istnieją istniejące cechy, wymieni je tutaj. Zobacz < https://www."
+"kddart.org/help/kdsmart/html/preparation.html#trait-instance> stronę `"
+"Przygotowanie do punktacji`_, aby uzyskać informacje na tym ekranie."
 
 #: ../../source/trials.rst:223
 msgid "Select the **Menu button**, and choose traits to add from under the title *Trait Bundles*. They are organised in bundles (if you have any bundles). This allows you to add sets of related traits at once."
 msgstr ""
+"Wybierz przycisk **Menu i wybierz cechy, które chcesz dodać pod tytułem *"
+"Zestawy cech*. Są one zorganizowane w pakiety (jeśli masz jakieś pakiety). "
+"Pozwala to na jednoczesne dodawanie zestawów powiązanych cech."
 
 #: ../../source/trials.rst:225
 msgid "Select the **Confirm button** to add the traits. You will now see the newly added traits in the **Trait Instances screen**."
 msgstr ""
+"Wybierz przycisk **Potwierdź**, aby dodać cechy. Zobaczysz teraz nowo dodane "
+"cechy na ekranie**Wystąpienia cechów**."
 
 #: ../../source/trials.rst:227
 msgid "To remove traits, go to the **Trait Instances screen** and select the **Manage Traits button** to open a menu where you will find the *Remove option*."
 msgstr ""
+"Aby usunąć cechy, przejdź do ekranu**Wystąpienia cech** i wybierz przycisk **"
+"Zarządzaj cechami**, aby otworzyć menu, w którym znajdziesz opcję*Usuń."
 
 #: ../../source/trials.rst:229
 msgid "If you don’t want to score a trait, it is not always necessary to completely remove it from the trial. See the `Preparing for Scoring <https://www.kddart.org/help/kdsmart/html/preparation.html#trait-instance>`_ page for information on how to deselect traits when scoring."
 msgstr ""
+"Jeśli nie chcesz zdobyć cechy, nie zawsze jest konieczne całkowite usunięcie "
+"jej z próby. Zobacz < https://www.kddart.org/help/kdsmart/html/preparation."
+"html#trait-instance> stronę `Przygotowanie do punktacji`_, aby uzyskać "
+"informacje o tym, jak odznaczyć cechy podczas punktacji."
 
 #: ../../source/trials.rst:234
 msgid "Editing Trial Details"
-msgstr ""
+msgstr "Edycja szczegółów wersji próbnej"
 
 #: ../../source/trials.rst:236
 msgid "Trial details are displayed in the **Trial Details screen**. You can edit some *details*; however, trial *attributes* that are imported data are not editable. Each editable detail will have an **Edit button** next to it."
 msgstr ""
+"Szczegóły wersji próbnej są wyświetlane na ekranie **Szczegóły próbny**. "
+"Możesz edytować niektóre *szczegóły*; jednak wersja próbna*atrybutów*, które "
+"są importowanymi danymi, nie są edytowalne. Każdy edytalny szczegół będzie "
+"miał obok niego przycisk**Edycja**."
 
 #: ../../source/trials.rst:264
 msgid "Deleting Trials"
-msgstr ""
+msgstr "Usuwanie wersji próbnych"
 
 #: ../../source/trials.rst:266
 msgid "*Long-press* on a trial in the **Trials screen** to select it and then select the *Delete option*."
 msgstr ""
+"*Długie naciśnięcie* na wersji próbnej na ekranie **Próby próbne**, aby ją "
+"zaznaczyć**, a następnie wybierz opcję *Usuć*."
