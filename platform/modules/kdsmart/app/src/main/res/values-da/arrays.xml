@@ -23,7 +23,6 @@
     <!-- Black, Brown, Red, Orange, Yellow -->
     <!-- User visible -->
     <!-- orgtype_pref_names -->
-    <string name="orgtype_pref_names_1"/>
     <!-- Must match order of LocationProviderState and strings_activity_settings.xml#pref_gps_values -->
     <!-- pref_gps_titles -->
     <!-- drawer_list_items -->
