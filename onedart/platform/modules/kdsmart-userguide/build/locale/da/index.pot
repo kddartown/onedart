@@ -8,89 +8,108 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-05-24 00:53+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Danish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/home/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/index.rst:140
 msgid "Home"
-msgstr ""
+msgstr "Hjem"
 
 #: ../../source/index.rst:140
 msgid "Table of Contents"
-msgstr ""
+msgstr "Indholdsfortegnelse"
 
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/index.rst:11
 msgid "KDSmart User Guide"
-msgstr ""
+msgstr "KDSmart Brugerhåndbog"
 
 #: ../../source/index.rst:16
 msgid "You are viewing the PDF version of the KDSmart User Guide."
-msgstr ""
+msgstr "Du ser PDF-versionen af KDSmart Brugervejledning."
 
 #: ../../source/index.rst:18
 msgid "Some features such as video will not visible however links to them are provided. They can be selected if you have Internet access or manually typed if you're viewing a printed copy."
 msgstr ""
+"Nogle funktioner såsom video vil ikke være synlige dog links til dem er "
+"forudsat. De kan vælges, hvis du har internetadgang eller manuelt indtastet, "
+"hvis du ser en udskrevet kopi."
 
 #: ../../source/index.rst:19
 msgid "Please email us at kdsmart@diversityarrays.com if you find any omissions, errors or have suggestions for improvement in this user guide."
 msgstr ""
+"Send os en e-mail på kdsmart@diversityarrays.com, hvis du finder "
+"udeladelser, fejl eller har forslag til forbedringer i denne "
+"brugervejledning."
 
 #: ../../source/index.rst:25
 msgid "A PDF version of this KDSmart User Guide is now available for download at http://www.kddart.org/help/"
 msgstr ""
+"En PDF-version af denne KDSmart brugervejledning er nu tilgængelig til "
+"download på http://www.kddart.org/help/"
 
 #: ../../source/index.rst:27
 msgid "Welcome to the KDSmart application user guides. This user guide provides comprehensive information on KDSmart, out data collection application. Navigate this help by using the left hand menu and return to this page using the logo at the top left. Some sections of this help are also available as on-board help within the KDSmart application."
 msgstr ""
+"Velkommen til KDSmart-programmets brugervejledninger. Denne brugervejledning "
+"giver omfattende information om KDSmart, ud dataindsamlingsapplikation. "
+"Naviger i denne hjælp ved at bruge menuen til venstre og vende tilbage til "
+"denne side ved hjælp af logoet øverst til venstre. Nogle dele af denne hjælp "
+"er også tilgængelige som indbygget hjælp i KDSmart-applikationen."
 
 #: ../../source/index.rst:30
 msgid "KDSmart is available for standalone use however, it forms an integral part of a bigger  **Integrated KDDart Platform** as seen in the following image:"
 msgstr ""
+"KDSmart er tilgængelig til enkeltstående brug, men det udgør en integreret "
+"del af en større** Integreret KDDart Platform** som det ses på følgende "
+"billede:"
 
 #: ../../source/index.rst:32
 #: ../../source/index.rst:54
@@ -99,82 +118,104 @@ msgstr ""
 #: ../../source/index.rst:86
 #: ../../source/index.rst:109
 msgid "|br|"
-msgstr ""
+msgstr "|br|"
 
 #: ../../source/index.rst:36
 #: ../../source/index.rst:62
 #: ../../source/index.rst:90
 msgid "|center-start|"
-msgstr ""
+msgstr "|center-start|"
 
 #: ../../source/index.rst:44
 #: ../../source/index.rst:70
 #: ../../source/index.rst:98
 msgid "|center-end|"
-msgstr ""
+msgstr "|center-slut|"
 
 #: ../../source/index.rst:52
 #: ../../source/index.rst:52
 msgid "KDDart System Design Principles - Integrated Platform"
-msgstr ""
+msgstr "KDDart System Design Principper - Integreret platform"
 
 #: ../../source/index.rst:56
 msgid "Both KDSmart and KDXplore can operate remotely, away from office networks and the internet as shown in the \"KDDart Application Network Dependency\" illustration."
 msgstr ""
+"Både KDSmart og KDXplore kan fungere eksternt, væk fra kontornetværk og "
+"internettet som vist i illustrationen „KDDart Application Network "
+"Dependency“."
 
 #: ../../source/index.rst:79
 msgid "KDSmart - WiFi Connection Warning Example"
-msgstr ""
+msgstr "KDSmart - WiFi-forbindelse Advarsel Eksempel"
 
 #: ../../source/index.rst:79
 msgid "KDDart Application Network Dependency"
-msgstr ""
+msgstr "KDDart Application Netværk Afhængighed"
 
 #: ../../source/index.rst:83
 msgid "These images will help you gain a basic understanding of the platform and how KDSmart fits within the *breeding cycle* before getting started. The \"Example of the Trial Data Workflow\" illustration depicts a simple trial data workflow for KDDart, however look to the centre of the illustration to see KDSmart and KDXplore's role in the workflow:"
 msgstr ""
+"Disse billeder hjælper dig med at få en grundlæggende forståelse af "
+"platformen, og hvordan KDSmart passer ind i *avlscyklussen*, inden du kommer "
+"i gang. Illustrationen „Eksempel på prøvedata-workflow“ viser en simpel "
+"prøvedata-workflow for KDDart, men kig til midten af illustrationen for at "
+"se KDSmart og KDXplore rolle i arbejdsgangen:"
 
 #: ../../source/index.rst:107
 #: ../../source/index.rst:107
 msgid "Example of the Trial Data Workflow"
-msgstr ""
+msgstr "Eksempel på arbejdsgangen for prøvedata"
 
 #: ../../source/index.rst:111
 msgid "KDSmart is available for free from the Google Play Store at the following link: |br| https://play.google.com/store/apps/details?id=com.diversityarrays.kdsmart. |br| KDSmart also supports Android 4.4 Kit Kat (Android SDK 19) and above as the minimum."
 msgstr ""
+"KDSmart er tilgængelig gratis fra Google Play Store på følgende link: |br| "
+"https://play.google.com/store/apps/details?id=com.diversityarrays.kdsmart. "
+"|br| KDSmart understøtter også Android 4.4 Kit Kat (Android SDK 19) og "
+"derover som minimum."
 
 #: ../../source/index.rst:115
 msgid "Before diving into details we strongly suggest taking a look at two brief overviews:"
 msgstr ""
+"Før du dykker ned i detaljer, foreslår vi kraftigt at se på to korte "
+"oversigter:"
 
 #: ../../source/index.rst:117
 msgid "Of the KDDart environment at: |br| `Introduction to the KDDart Environment <http://www.kddart.org/introduction.html>`_   ; followed by"
 msgstr ""
+"< http://www.kddart.org/introduction.html>Af KDDart-miljøet på: |br| `"
+"Introduktion til KDDart-miljøet`_; efterfulgt af"
 
 #: ../../source/index.rst:118
 msgid "`The KDSmart Application <http://www.kddart.org/kdsmart.html>`_"
-msgstr ""
+msgstr "< http://www.kddart.org/kdsmart.html>`KDSmart-applikationen `_"
 
 #: ../../source/index.rst:120
 msgid "For more information please explore the following websites:"
-msgstr ""
+msgstr "For mere information bedes du udforske følgende websteder:"
 
 #: ../../source/index.rst:122
 msgid "http://www.kddart.org  (hosting site of these help pages)"
-msgstr ""
+msgstr "http://www.kddart.org (hosting site af disse hjælpesider)"
 
 #: ../../source/index.rst:123
 msgid "https://www.diversityarrays.com"
-msgstr ""
+msgstr "https://www.diversityarrays.com"
 
 #: ../../source/index.rst:125
 msgid "For KDSmart tutorials (along with tutorials for our other applications), please see the |tutorials| page."
 msgstr ""
+"For KDSmart tutorials (sammen med tutorials til vores andre programmer), se "
+"venligst |tutorials| side."
 
 #: ../../source/index.rst:136
 msgid "March 2019 - We are constantly improving KDSmart and welcome any feedback or queries. You can contact us by email at kdsmart@diversityarrays.com if you want to get in touch."
 msgstr ""
+"Marts 2019 - Vi forbedrer konstant KDSmart og glæder os over enhver feedback "
+"eller forespørgsler. Du kan kontakte os via e-mail på kdsmart@"
+"diversityarrays.com, hvis du ønsker at komme i kontakt."
 
 #: ../../source/index.rst:137
 msgid "Sample files are now located on the :ref:`KDSmart/KDXplore Sample Files` page."
 msgstr ""
+"Eksempelfiler er nu placeret på siden: ref: `KDSmart/KDXplore Sample Files`."
