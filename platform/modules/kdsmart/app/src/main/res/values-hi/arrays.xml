@@ -40,4 +40,106 @@
     <!-- pref_auto_scoring_titles -->
     <!-- trait_level_names -->
     <!-- run_length_choices -->
+    <string name="pref_database_names_0">डेमो</string>
+    <string name="pref_database_names_1">प्रोडक्शन</string>
+    <string name="pref_trait_date_format_titles_0">1915/अप्रैल/25</string>
+    <string name="pref_trait_date_format_titles_1">अप्रैल/25/1915</string>
+    <string name="pref_trait_date_format_titles_2">25/अप्रैल/1915</string>
+    <string name="pref_trait_date_format_titles_3">1915/04/25</string>
+    <string name="trait_level_names_1">सब-प्लॉट</string>
+    <string name="pref_trait_date_format_titles_4">04/25/1915</string>
+    <string name="pref_trait_date_format_titles_5">25/04/1915</string>
+    <string name="pref_trait_date_format_titles_6">1915/115</string>
+    <string name="pref_trait_date_format_titles_7">15/1915</string>
+    <string name="pref_trait_date_format_titles_8">अप्रैल/25</string>
+    <string name="pref_trait_date_format_titles_9">04/25</string>
+    <string name="pref_trait_date_format_titles_10">25/अप्रैल</string>
+    <string name="pref_trait_date_format_titles_11">25/04</string>
+    <string name="collOrder_pref_names_0">लोअर-लेफ्ट, अप, सर्पेंटाइन</string>
+    <string name="collOrder_pref_names_1">लोअर-लेफ्ट, अप, वनवे</string>
+    <string name="collOrder_pref_names_2">लोअर-लेफ्ट, राइट, सर्पेंटाइन</string>
+    <string name="collOrder_pref_names_3">लोअर-लेफ्ट, राइट, वनवे</string>
+    <string name="collOrder_pref_names_4">अपर-लेफ्ट, डाउन, सर्पेंटाइन</string>
+    <string name="collOrder_pref_names_5">अपर-लेफ्ट, डाउन, वनवे</string>
+    <string name="collOrder_pref_names_6">अपर-लेफ्ट, राइट, सर्पेंटाइन</string>
+    <string name="collOrder_pref_names_7">अपर-लेफ्ट, राइट, वनवे</string>
+    <string name="collOrder_pref_names_8">अपर-राइट, डाउन, सर्पेंटाइन</string>
+    <string name="collOrder_pref_names_9">अपर-राइट, डाउन, वनवे</string>
+    <string name="collOrder_pref_names_10">अपर-राइट, लेफ्ट, सर्पेंटाइन</string>
+    <string name="collOrder_pref_names_11">अपर-राइट, लेफ्ट, वनवे</string>
+    <string name="collOrder_pref_names_12">लोअर-राइट, अप, सर्पेंटाइन</string>
+    <string name="collOrder_pref_names_13">लोअर-राइट, अप, वनवे</string>
+    <string name="collOrder_pref_names_14">लोअर-राइट, लेफ्ट, सर्पेंटाइन</string>
+    <string name="collOrder_pref_names_15">लोअर-राइट, लेफ्ट, वनवे</string>
+    <string name="pref_transition_type_titles_0">कोई संक्रमण नहीं</string>
+    <string name="pref_transition_type_titles_1">नीचे स्लाइड करें</string>
+    <string name="pref_transition_type_titles_2">ऊपर स्लाइड करें</string>
+    <string name="pref_transition_type_titles_3">बाईं ओर स्लाइड करें</string>
+    <string name="pref_transition_type_titles_4">दाईं ओर स्लाइड करें</string>
+    <string name="pref_transition_type_titles_5">फ़ेड आउट</string>
+    <string name="pref_transition_type_titles_6">घुमाएँ</string>
+    <string name="pref_scoring_view_titles_0">स्प्रैडशीट मोड</string>
+    <string name="pref_scoring_view_titles_1">पाथ मोड</string>
+    <string name="pref_scoring_view_titles_2">फ़ील्ड मोड</string>
+    <string name="pref_howto_view_attachment_names_0">इंटरनल व्यूअर</string>
+    <string name="pref_howto_view_attachment_names_1">ऐप्लिकेशन चुनें</string>
+    <string name="pref_textAppearance_names_0">छोटा</string>
+    <string name="pref_textAppearance_names_1">मीडियम</string>
+    <string name="pref_textAppearance_names_2">लार्ज</string>
+    <string name="pref_textAppearance_names_3">एक्स-लार्ज</string>
+    <string name="pref_keyboard_size_names_0">छोटा</string>
+    <string name="pref_keyboard_size_names_1">मीडियम</string>
+    <string name="pref_keyboard_size_names_2">लार्ज</string>
+    <string name="pref_phone_picker_date_format_names_0">कातनेवाला</string>
+    <string name="pref_phone_picker_date_format_names_1">कैलेन्डर</string>
+    <string name="pref_phone_picker_date_format_names_2">दोनो</string>
+    <string name="gradient_pref_names_0">ब्लू ह्यूज़</string>
+    <string name="gradient_pref_names_1">ऑरेंज ह्यूज़</string>
+    <string name="gradient_pref_names_2">मैजेंटा ह्यूज़</string>
+    <string name="gradient_pref_names_3">नीला से लाल</string>
+    <string name="gradient_pref_names_4">हरा, पीला, नारंगी, लाल</string>
+    <string name="gradient_pref_names_5">लाल से हरा</string>
+    <string name="gradient_pref_names_6">लाल, नारंगी, पीला</string>
+    <string name="gradient_pref_names_7">ब्लैक, ब्राउन, रेड, टैन</string>
+    <string name="gradient_pref_names_8">ब्लैक, ब्राउन, रेड, ऑरेंज, येलो</string>
+    <string name="gradient_pref_names_9">इंद्रधनुष</string>
+    <string name="orgtype_pref_names_0">जेनेरिक</string>
+    <string name="orgtype_pref_names_1">प्लांट</string>
+    <string name="orgtype_pref_names_2">मक्का</string>
+    <string name="orgtype_pref_names_3">गेहूँ</string>
+    <string name="orgtype_pref_names_4">डीएनए</string>
+    <string name="pref_gps_titles_0">GPS (उच्च सटीकता)</string>
+    <string name="pref_gps_titles_1">नेटवर्क (कम सटीकता)</string>
+    <string name="pref_gps_titles_2">स्थान का उपयोग न करें</string>
+    <string name="drawer_list_items_0">होम</string>
+    <string name="drawer_list_items_1">ट्रायल्स</string>
+    <string name="drawer_list_items_2">लक्षण</string>
+    <string name="drawer_list_items_3">टैग्स</string>
+    <string name="drawer_list_items_4">डिवाइस मैनेज करें</string>
+    <string name="drawer_list_items_5">सेटिंग्स</string>
+    <string name="drawer_list_items_6">जानकारी</string>
+    <string name="minutes_ago_options_0">1=1 मिनट पहले</string>
+    <string name="minutes_ago_options_1">2=2 मिनट पहले</string>
+    <string name="minutes_ago_options_2">3=3 मिनट पहले</string>
+    <string name="minutes_ago_options_3">4=4 मिनट पहले</string>
+    <string name="minutes_ago_options_4">5=5 मिनट पहले</string>
+    <string name="minutes_ago_options_5">10=10 मिनट पहले</string>
+    <string name="minutes_ago_options_6">15=15 मिनट पहले</string>
+    <string name="minutes_ago_options_7">और..।</string>
+    <string name="locale_pref_titles_0">सिस्टम सेटिंग का उपयोग करें</string>
+    <string name="locale_pref_titles_1">अंग्रेजी</string>
+    <string name="locale_pref_titles_2">जर्मन</string>
+    <string name="locale_pref_titles_3">स्पैनिश-मेक्स</string>
+    <string name="locale_pref_titles_4">पोलिश</string>
+    <string name="trial_group_settings_titles_0">ट्रायल बंडल</string>
+    <string name="trial_group_settings_titles_1">ट्रायल टाइप</string>
+    <string name="trial_group_settings_titles_2">केडीडार्ट यूआरएल</string>
+    <string name="trial_group_settings_titles_3">जीव का प्रकार</string>
+    <string name="trial_group_settings_titles_4">पौधरोपण वर्ष</string>
+    <string name="pref_auto_scoring_titles_0">सभी लक्षण</string>
+    <string name="pref_auto_scoring_titles_1">अनस्कोर्ड ट्रेट्स</string>
+    <string name="trait_level_names_0">प्लॉट</string>
+    <string name="run_length_choices_0">वर्टिकल</string>
+    <string name="run_length_choices_1">क्षैतिज</string>
+    <string name="run_length_choices_2">मनपसंद</string>
 </resources>
