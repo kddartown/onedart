@@ -8,69 +8,81 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-06-07 06:25+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Polish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/csv-file-formats/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/kdsmart-app-b.rst:27
 msgid "CSV File Formats"
-msgstr ""
+msgstr "Formaty plików CSV"
 
 #: ../../source/kdsmart-app-b.rst:30
 msgid "These pages provide information and formatting assistance for the construction of valid CSV Trial/Nursery files for import into KDSmart and KDXplore."
 msgstr ""
+"Strony te zawierają informacje i pomoc w formatowaniu przy budowie ważnych "
+"plików CSV Trial/Nursery do importu do KDSmart i KDXplore."
 
 #: ../../source/kdsmart-app-b.rst:32
 msgid "KDSmart and KDXplore share the same import code base, designed to make the task easier. This introduction will help with understanding what needs to be prepared for a CSV import using either application."
 msgstr ""
+"KDSmart i KDXplore mają tę samą bazę kodu importu, zaprojektowaną w celu "
+"ułatwienia zadania. To wprowadzenie pomoże zrozumieć, co należy przygotować "
+"do importu CSV przy użyciu dowolnej aplikacji."
 
 #: ../../source/kdsmart-app-b.rst:34
 msgid "Other data import methods exist, instead of CSV files, for loading Trial/Nursery/Trait/Tag data into KDSmart/KDXplore which can offer better and longer term advantages."
 msgstr ""
+"Istnieją inne metody importu danych, zamiast plików CSV, do ładowania danych "
+"Trial/Nursery/Trait/Tag do KDSmart/KDXplore, które mogą oferować lepsze i "
+"długoterminowe korzyści."
 
 #: ../../source/kdsmart-app-b.rst:36
 #: ../../source/kdsmart-app-b.rst:107
@@ -90,92 +102,109 @@ msgstr ""
 #: ../../source/kdsmart-app-b.rst:721
 #: ../../source/kdsmart-app-b.rst:776
 msgid "|br|"
-msgstr ""
+msgstr "|pl|"
 
 #: ../../source/kdsmart-app-b.rst:39
 msgid "KDSmart/KDXplore Import Mapping"
-msgstr ""
+msgstr "Mapowanie importu KDSmart/KDXplore"
 
 #: ../../source/kdsmart-app-b.rst:41
 msgid "Importing a Trial using CSV format in KDSmart/KDXplore commences with an attribute mapping table, similar to the examples in the following illustration. This is an important step which helps you setup how your Trial or Nursery information is loaded and defined in each application."
 msgstr ""
+"Importowanie wersji próbnej przy użyciu formatu CSV w KDSmart/KDXplore "
+"rozpoczyna się od tabeli mapowania atrybutów, podobnej do przykładów na "
+"poniższej ilustracji. Jest to ważny krok, który pomaga skonfigurować sposób "
+"ładowania i definiowania informacji próbnych lub żłobka w każdej aplikacji."
 
 #: ../../source/kdsmart-app-b.rst:43
 msgid "**Note:** This method of attribute selection is employed to make the import task easier, rather than keep editing and adjusting the CSV file format."
 msgstr ""
+"**Uwaga: ** Ta metoda wyboru atrybutów jest stosowana w celu ułatwienia "
+"zadania importowania, zamiast kontynuować edycję i dostosowywanie formatu "
+"pliku CSV."
 
 #: ../../source/kdsmart-app-b.rst:45
 msgid "Before the import proceeds, CSV Column Headings in the file need to be assigned an *Attribute Type* using the \"Import As\" column."
 msgstr ""
+"Przed przystąpieniem do importu, Nagłówki kolumn CSV w pliku muszą być "
+"przypisane *Typ atrybutu* przy użyciu kolumny „Importuj jako”."
 
 #: ../../source/kdsmart-app-b.rst:51
 msgid "|center-start|"
-msgstr ""
+msgstr "|centrum-start|"
 
 #: ../../source/kdsmart-app-b.rst:54
 #: ../../source/kdsmart-app-b.rst:76
 msgid ":blue:`Trait Name Style` Import Trial from CSV Column Mapping Example"
 msgstr ""
+":blue: `Cecha Name Style` Importuj wersję próbną z przykładowego mapowania "
+"kolumn CSV"
 
 #: ../../source/kdsmart-app-b.rst:59
 #: ../../source/kdsmart-app-b.rst:81
 msgid "**KDSmart**"
-msgstr ""
+msgstr "**KDSmart**"
 
 #: ../../source/kdsmart-app-b.rst:60
 #: ../../source/kdsmart-app-b.rst:82
 msgid "**KDXplore**"
-msgstr ""
+msgstr "**KDXplore**"
 
 #: ../../source/kdsmart-app-b.rst:70
 msgid "|center-end|"
-msgstr ""
+msgstr "|centralny końc|"
 
 #: ../../source/kdsmart-app-b.rst:0
 #: ../../source/kdsmart-app-b.rst:87
 msgid "KDSmart CSV Column Mapping Example"
-msgstr ""
+msgstr "Przykład mapowania kolumn KDSmart CSV"
 
 #: ../../source/kdsmart-app-b.rst:0
 #: ../../source/kdsmart-app-b.rst:93
 msgid "KDXplore CSV Column Mapping Example"
-msgstr ""
+msgstr "Przykład mapowania kolumn KDXplore CSV"
 
 #: ../../source/kdsmart-app-b.rst:98
 msgid "The interface examples above illustrate the:"
-msgstr ""
+msgstr "Powyższe przykłady interfejsu ilustrują:"
 
 #: ../../source/kdsmart-app-b.rst:100
 msgid "File chosen to import is \"maize-with-data.csv\";"
-msgstr ""
+msgstr "Plik wybrany do importu to \"maize-with-data.csv „;"
 
 #: ../../source/kdsmart-app-b.rst:101
 msgid "Name of the CSV's column Headings;"
-msgstr ""
+msgstr "Nazwa kolumny CSV Nagłówki;"
 
 #: ../../source/kdsmart-app-b.rst:102
 msgid "First data row; and"
-msgstr ""
+msgstr "Pierwszy wiersz danych; oraz"
 
 #: ../../source/kdsmart-app-b.rst:103
 msgid "Blue (KDSmart) 'Import As' column."
-msgstr ""
+msgstr "Niebieska kolumna „Importuj jako” (KDSmart)."
 
 #: ../../source/kdsmart-app-b.rst:105
 msgid "Selecting the 'Import As' entry, for each row as necessary, reveals a drop down list of attributes that can be assigned to the column. KDSmart/KDXplore makes a 'best guess' of the attribute type where possible based upon the first row of data."
 msgstr ""
+"Wybranie wpisu „Importuj jako”, dla każdego wiersza, jeśli to konieczne, "
+"wyświetla listę rozwijaną atrybutów, które można przypisać do kolumny. "
+"KDSmart/KDXplore dokonuje „najlepszego zgadywania” typu atrybutu tam, gdzie "
+"to możliwe, na podstawie pierwszego wiersza danych."
 
 #: ../../source/kdsmart-app-b.rst:110
 msgid "Trials and Plots"
-msgstr ""
+msgstr "Próby i wykresy"
 
 #: ../../source/kdsmart-app-b.rst:112
 msgid "The following tables list each Attribute Type. Pay particular attention to the ones marked as :blue:`blue text`:"
 msgstr ""
+"Poniższe tabele zawierają listę każdego typu atrybutu. Zwróć szczególną "
+"uwagę na te oznaczone jako:blue: `blue text`:"
 
 #: ../../source/kdsmart-app-b.rst:116
 msgid ":blue:`Trait Name Style` Attribute Type Usage"
-msgstr ""
+msgstr ":blue: `Cecha Name Style` Typ atrybutu Użycie"
 
 #: ../../source/kdsmart-app-b.rst:121
 #: ../../source/kdsmart-app-b.rst:208
@@ -184,166 +213,201 @@ msgstr ""
 #: ../../source/kdsmart-app-b.rst:400
 #: ../../source/kdsmart-app-b.rst:557
 msgid "**Attribute Type**"
-msgstr ""
+msgstr "**Typ atrybutu**"
 
 #: ../../source/kdsmart-app-b.rst:122
 msgid "**Usage**"
-msgstr ""
+msgstr "**Użycie**"
 
 #: ../../source/kdsmart-app-b.rst:123
 msgid ":blue:`Trial Attribute` or"
-msgstr ""
+msgstr ":blue: `Trial Attribute` lub"
 
 #: ../../source/kdsmart-app-b.rst:124
 msgid ":blue:`Plot Attribute`"
-msgstr ""
+msgstr ":blue: `Atrybut wykretu`"
 
 #: ../../source/kdsmart-app-b.rst:125
 msgid "Indicates KDSmart must retain the value as an attribute, either for the Trial or for each Plot respectively."
 msgstr ""
+"Wskazuje, że KDSmart musi zachować wartość jako atrybut, odpowiednio dla "
+"wersji próbnej lub dla każdego wykresu."
 
 #: ../../source/kdsmart-app-b.rst:126
 msgid ":blue:`Trait` or"
-msgstr ""
+msgstr ":blue: `Cecha` lub"
 
 #: ../../source/kdsmart-app-b.rst:127
 msgid ":blue:`Trait for Sub-Plot`"
-msgstr ""
+msgstr ":blue: `Cecha dla wykresu podrzędnego”"
 
 #: ../../source/kdsmart-app-b.rst:128
 msgid "Applying either of these Attributes to a column causes a *Trait* of that name to be added to the list of Traits for the Trial."
 msgstr ""
+"Zastosowanie któregokolwiek z tych atrybutów do kolumny powoduje, że *Cecha* "
+"o tej nazwie zostanie dodana do listy cech dla Próby."
 
 #: ../../source/kdsmart-app-b.rst:129
 #: ../../source/kdsmart-app-b.rst:416
 msgid ":blue:`Ignore`"
-msgstr ""
+msgstr ":blue: `Ignore`"
 
 #: ../../source/kdsmart-app-b.rst:130
 msgid "Use this Attribute to ignore columns in the CSV file."
-msgstr ""
+msgstr "Użyj tego atrybutu, aby ignorować kolumny w pliku CSV."
 
 #: ../../source/kdsmart-app-b.rst:133
 msgid "The *Attribute Types* listed above may be applied to **ANY** heading in the CSV file."
 msgstr ""
+"Wymienione powyżej typy atrybutów* mogą być stosowane do nagłówka**ANY** w "
+"pliku CSV."
 
 #: ../../source/kdsmart-app-b.rst:135
 msgid "Any columns with a name starting with \"Link:\", \"Date:\", \"Date\\_\", \"Sub-Plot#:\", or \"Sub-Plot#_\" will be automatically assigned as *Ignore* (but you can always change that if you wish)."
 msgstr ""
+"Wszystkie kolumny z nazwami zaczynającymi się od „Link:”, „Date:”, „Date\\ _”"
+", „Sub-Plot #:” lub „Sub-Plot #_\" zostaną automatycznie przypisane jako "
+"*Ignore* (ale zawsze możesz to zmienić, jeśli chcesz)."
 
 #: ../../source/kdsmart-app-b.rst:145
 msgid "Trial & Plot Import Options"
-msgstr ""
+msgstr "Opcje importu próbnego i wydruku"
 
 #: ../../source/kdsmart-app-b.rst:147
 msgid "When importing a heading classified as :blue:`Trait` or :blue:`Trait for Sub-Plot` KDSmart/KDXplore uses hints in the heading to determine whether it is only a Trait Name or if the heading also identifies a Trait Instance."
 msgstr ""
+"Podczas importowania nagłówka sklasyfikowanego jako:blue: `Cecha` lub:blue: `"
+"Cecha dla Sub-Plot` KDSmart/KDXplore używa podpowiedzi w nagłówku, aby "
+"określić, czy jest to tylko nazwa cechy, czy nagłówek identyfikuje również "
+"Instancję Cechy."
 
 #: ../../source/kdsmart-app-b.rst:151
 msgid "This is designated as the :blue:`Trait Name Style`."
-msgstr ""
+msgstr "Jest on oznaczony jako: niebieski: `Styl nazwy cechy”."
 
 #: ../../source/kdsmart-app-b.rst:154
 msgid "You may choose one of the following options:"
-msgstr ""
+msgstr "Możesz wybrać jedną z następujących opcji:"
 
 #: ../../source/kdsmart-app-b.rst:158
 msgid ":blue:`Trait Name Style` options:"
-msgstr ""
+msgstr ":blue: `Opcje stylu nazwy cety`:"
 
 #: ../../source/kdsmart-app-b.rst:163
 msgid "**Option**"
-msgstr ""
+msgstr "**Opcja**"
 
 #: ../../source/kdsmart-app-b.rst:164
 msgid "**Base Instance Number**"
-msgstr ""
+msgstr "**Podstawowy numer instancji"
 
 #: ../../source/kdsmart-app-b.rst:165
 msgid "**Format**"
-msgstr ""
+msgstr "**Format**"
 
 #: ../../source/kdsmart-app-b.rst:166
 msgid "**Example / Description**"
-msgstr ""
+msgstr "**Przykład/opis**"
 
 #: ../../source/kdsmart-app-b.rst:167
 msgid "**No Trait Instance detection**"
-msgstr ""
+msgstr "**Brak wykrywania instancji ceji**"
 
 #: ../../source/kdsmart-app-b.rst:170
 msgid "All Trait headings will have a single Trait Instance created. Headings of: |br| :peru:`AMT1`, |br| :peru:`AMT:1`, |br| :peru:`AMT__1` |br| will correspond to three different Traits with exactly the names provided."
 msgstr ""
+"Wszystkie nagłówki cech będą miały utworzoną pojedynczą instancję cechy. "
+"Nagłówki: |br|:peru: `AMT1`, |br|:peru: `AMT:1`, |br|:peru: `AMT__1` |br| "
+"będą odpowiadać trzem różnym cechom o dokładnie podanych nazwach."
 
 #: ../../source/kdsmart-app-b.rst:171
 msgid "**Ends in colon followed by digits**"
-msgstr ""
+msgstr "**Kończy się w okrężnicy, a następnie cyfry**"
 
 #: ../../source/kdsmart-app-b.rst:172
 #: ../../source/kdsmart-app-b.rst:176
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../source/kdsmart-app-b.rst:173
 msgid "<traitName> : <instanceNumber>"
-msgstr ""
+msgstr "<traitName>: <instanceNumber>"
 
 #: ../../source/kdsmart-app-b.rst:174
 msgid ":peru:`AMT`, :peru:`AMT:2` results in Trait Instance numbers of :peru:`1` and :peru:`2`."
 msgstr ""
+":peru: `AMT`, :peru: `AMT:2` daje liczbę wystąpień cech: peru: `1` i:peru: "
+"`2`."
 
 #: ../../source/kdsmart-app-b.rst:175
 msgid "**Ends in two underscores then digits**"
-msgstr ""
+msgstr "**Kończy się na dwa podkreślenia, a następnie cyfry**"
 
 #: ../../source/kdsmart-app-b.rst:177
 msgid "<traitName> __ <instanceNumber>"
-msgstr ""
+msgstr "<traitName>__ <instanceNumber>"
 
 #: ../../source/kdsmart-app-b.rst:179
 msgid ":peru:`AMT`, :peru:`AMT\\_\\_2` results in Trait Instance numbers of 1 and 2. Note: Don't include spaces - only depicted here for display purposes."
 msgstr ""
+":peru: `AMT`, :peru: `AMT\\ _\\ _2` daje liczbę instancji cechy 1 i 2. Uwaga:"
+" Nie dołączaj spacji - tylko przedstawione tutaj do celów wyświetlania."
 
 #: ../../source/kdsmart-app-b.rst:182
 msgid "The other options you need to select are how KDSmart/KDXplore determines Sub-Plots from the CSV headings. This is described in the `Sub-Plot Count and Trait Instances`_ section below."
 msgstr ""
+"Inne opcje, które musisz wybrać, to sposób, w jaki KDSmart/KDXplore określa "
+"Sub-Plots z nagłówków CSV. Jest to opisane w sekcji „Liczba wykresów "
+"podrzędnych i wystąpień cech” poniżej."
 
 #: ../../source/kdsmart-app-b.rst:184
 msgid "To specify that a column is for a particular Sub-Plot, add the following suffix :peru:`#nn` (i.e. :peru:`#` followed by digits, which must be an integer greater than zero) where the number identifies the individual."
 msgstr ""
+"Aby określić, że kolumna jest przeznaczona dla określonego wykresu "
+"podrzędnego, dodaj następujący przyrostek:peru: `#nn` (tj.:peru: `#`, po "
+"którym następują cyfry, które muszą być liczbą całkowitą większą od zera), "
+"gdzie liczba identyfikuje osobę."
 
 #: ../../source/kdsmart-app-b.rst:186
 msgid "You may specify whether or not \"sub-plot\" data is to be collected here or while scoring by touching the Plot icon: |plot-icon|"
 msgstr ""
+"Możesz określić, czy dane „podwykresu” mają być zbierane tutaj lub podczas "
+"punktacji, dotykając ikony wydruku: |plot-icon|"
 
 #: ../../source/kdsmart-app-b.rst:773
 #: ../../source/kdsmart-app-b.rst:773
 #: ../../source/kdsmart-app-b.rst:773
 msgid "plot-icon"
-msgstr ""
+msgstr "ikona fabuły"
 
 #: ../../source/kdsmart-app-b.rst:188
 msgid "The following three tables list, in turn, the headings that are used for different parts of a Trial Import. |br| Abbreviations used: |br| :blue:`ID` - Required for Identification  |br| :blue:`OPT` - Optional |br| :blue:`ATTR` - Attribute."
 msgstr ""
+"Poniższe trzy tabele zawierają z kolei nagłówki, które są używane dla "
+"różnych części importu próbnego. |br| Użyte skróty: |br|:blue: `ID` - "
+"Wymagane do Identyfikacji |br|:blue: `OPT` - Opcjonalne |br|:blue: `ATTR` - "
+"Atrybut."
 
 #: ../../source/kdsmart-app-b.rst:197
 msgid "Trial Specific Data"
-msgstr ""
+msgstr "Dane specyficzne dla okresu próbnego"
 
 #: ../../source/kdsmart-app-b.rst:199
 msgid "The first table lists the headings that pertain to Trial-specific data. |br|"
 msgstr ""
+"Pierwsza tabela zawiera nagłówki odnoszące się do danych specyficznych dla "
+"usługi Trial. |pl|"
 
 #: ../../source/kdsmart-app-b.rst:203
 msgid "Headings For **Trial** Specific Data"
-msgstr ""
+msgstr "Nagłówki dla **Trial** Specyficzne dane"
 
 #: ../../source/kdsmart-app-b.rst:209
 #: ../../source/kdsmart-app-b.rst:271
 #: ../../source/kdsmart-app-b.rst:360
 #: ../../source/kdsmart-app-b.rst:402
 msgid "**Headings Automatically Recognised**"
-msgstr ""
+msgstr "**Nagłówki automatycznie rozpoznawane**"
 
 #: ../../source/kdsmart-app-b.rst:210
 #: ../../source/kdsmart-app-b.rst:272
@@ -352,1318 +416,1559 @@ msgstr ""
 #: ../../source/kdsmart-app-b.rst:756
 #: ../../source/kdsmart-app-b.rst:761
 msgid "**Description**"
-msgstr ""
+msgstr "**Opis**"
 
 #: ../../source/kdsmart-app-b.rst:211
 msgid ":peru:`Trial Planting Date` |br| OPT"
-msgstr ""
+msgstr ":peru: `Data sadzenia próbne` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:212
 msgid "PlantingDate"
-msgstr ""
+msgstr "Data sadzenia"
 
 #: ../../source/kdsmart-app-b.rst:213
 msgid "TrialPlantingDate"
-msgstr ""
+msgstr "Data sadzenia w TrialPlantingDate"
 
 #: ../../source/kdsmart-app-b.rst:214
 msgid "DatePlanted"
-msgstr ""
+msgstr "DataPlanted"
 
 #: ../../source/kdsmart-app-b.rst:215
 msgid "Planted"
-msgstr ""
+msgstr "Posadzone"
 
 #: ../../source/kdsmart-app-b.rst:216
 msgid "DateSown"
-msgstr ""
+msgstr "DateSown"
 
 #: ../../source/kdsmart-app-b.rst:217
 msgid "Sown"
-msgstr ""
+msgstr "zasiać"
 
 #: ../../source/kdsmart-app-b.rst:218
 msgid "SownDate"
-msgstr ""
+msgstr "SownDate"
 
 #: ../../source/kdsmart-app-b.rst:219
 msgid "The base value used for computing ELAPSED_DAYS values for Traits, e.g. Days to Flowering.  (Can be changed manually after import)"
 msgstr ""
+"Wartość bazowa używana do obliczania wartości ELAPSED_DAYS dla Cechy, np. "
+"Dni do kwitnienia. (Można zmienić ręcznie po imporcie)"
 
 #: ../../source/kdsmart-app-b.rst:220
 msgid ":peru:`Trial Name` |br| OPT"
-msgstr ""
+msgstr ":peru: `Nazwa próbna` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:221
 msgid "Trial Name"
-msgstr ""
+msgstr "Nazwa Próbna"
 
 #: ../../source/kdsmart-app-b.rst:222
 msgid "If present, this is used as the name of the Trialin. If not present, the name of the CSV file will be used."
 msgstr ""
+"Jeśli jest obecny, jest to używane jako nazwa Trialin. Jeśli nie ma, "
+"zostanie użyta nazwa pliku CSV."
 
 #: ../../source/kdsmart-app-b.rst:223
 msgid ":peru:`Trial Alias` |br| OPT"
-msgstr ""
+msgstr ":peru: `Trial Alias` |pl| OPT"
 
 #: ../../source/kdsmart-app-b.rst:224
 msgid "Abbreviation"
-msgstr ""
+msgstr "Skrót"
 
 #: ../../source/kdsmart-app-b.rst:225
 msgid "TrialAbbreviation"
-msgstr ""
+msgstr "TrialSkrót"
 
 #: ../../source/kdsmart-app-b.rst:226
 msgid "TrialAcronym"
-msgstr ""
+msgstr "TrialAcronim"
 
 #: ../../source/kdsmart-app-b.rst:227
 msgid "Acronym"
-msgstr ""
+msgstr "Akronim"
 
 #: ../../source/kdsmart-app-b.rst:228
 msgid "A short name for the Trial that will be used on screens where there is limited space."
 msgstr ""
+"Krótka nazwa wersji próbnej, która będzie używana na ekranach, na których "
+"jest ograniczona przestrzeń."
 
 #: ../../source/kdsmart-app-b.rst:229
 msgid ":peru:`Trial Column Name` |br| OPT"
-msgstr ""
+msgstr ":peru: `Nazwa kolumny próbne` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:230
 msgid "ColumnName"
-msgstr ""
+msgstr "Nazwa kolumny"
 
 #: ../../source/kdsmart-app-b.rst:231
 msgid "NameForColumn"
-msgstr ""
+msgstr "NazwaForColumn"
 
 #: ../../source/kdsmart-app-b.rst:232
 msgid "This is the word used for the X coordinate (see the attribute type X-Column in the Plot headings table below). |br| Example: for \"Range/Row\" the value here would be \"Range\"."
 msgstr ""
+"Jest to słowo używane dla współrzędnej X (patrz typ atrybutu X-Column w "
+"tabeli Nagłówki wydruku poniżej). |br| Przykład: dla „Zakres/Wiersz” "
+"wartością tutaj będzie „Zakres”."
 
 #: ../../source/kdsmart-app-b.rst:233
 msgid ":peru:`Trial Row Name` |br| OPT"
-msgstr ""
+msgstr ":peru: `Nazwa wiersza próbna` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:234
 msgid "RowName"
-msgstr ""
+msgstr "Nazwa wiercza"
 
 #: ../../source/kdsmart-app-b.rst:235
 msgid "NameForRow"
-msgstr ""
+msgstr "NazwaForrow"
 
 #: ../../source/kdsmart-app-b.rst:236
 msgid "This is the word used for the Y coordinate (see the attribute type Y-Row in the Plot headings table). |br| Example: for \"Range/Row\" the value here would be \"Range\"."
 msgstr ""
+"Jest to słowo używane dla współrzędnej Y (patrz typ atrybutu Y-Row w tabeli "
+"Nagłówki wydruku). |br| Przykład: dla „Zakres/Wiersz” wartością tutaj będzie "
+"„Zakres”."
 
 #: ../../source/kdsmart-app-b.rst:237
 msgid ":peru:`Trial Plot Name` |br| OPT"
-msgstr ""
+msgstr ":peru: `Nazwa działki próbnej` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:238
 msgid "CellName"
-msgstr ""
+msgstr "Nazwa komórki"
 
 #: ../../source/kdsmart-app-b.rst:239
 msgid "NameForCell"
-msgstr ""
+msgstr "NazwaForCELL"
 
 #: ../../source/kdsmart-app-b.rst:240
 msgid "PlotName"
-msgstr ""
+msgstr "PlotName"
 
 #: ../../source/kdsmart-app-b.rst:241
 msgid "NameForPlot"
-msgstr ""
+msgstr "NazwaForPlot"
 
 #: ../../source/kdsmart-app-b.rst:242
 msgid "This is the word used to describe each \"cell\". For many plant-related field trials this is likely to be \"Plot\". For other trials/experiments it may be \"Panel\", \"Pond\", \"Test-tube\" etc."
 msgstr ""
+"Jest to słowo używane do opisania każdej „komórki”. W przypadku wielu prób "
+"terenowych związanych z roślinami jest to prawdopodobnie „Działka”. W "
+"przypadku innych prób lub eksperymentów może to być „Panel”, „Staw”, "
+"„Probówka” itp."
 
 #: ../../source/kdsmart-app-b.rst:243
 msgid ":peru:`Trial Bundle` |br| OPT"
-msgstr ""
+msgstr ":peru: `Pakiet próbny` |pl| OPT"
 
 #: ../../source/kdsmart-app-b.rst:244
 msgid "TrialBundle"
-msgstr ""
+msgstr "TrialBundle"
 
 #: ../../source/kdsmart-app-b.rst:245
 msgid "TrialGroup"
-msgstr ""
+msgstr "Grupa TrialGroup"
 
 #: ../../source/kdsmart-app-b.rst:246
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 #: ../../source/kdsmart-app-b.rst:247
 msgid "TG"
-msgstr ""
+msgstr "TG"
 
 #: ../../source/kdsmart-app-b.rst:248
 msgid "Assigns the name of a Trial Bundle for the Trial"
-msgstr ""
+msgstr "Przypisuje nazwę pakietu próbnego dla wersji próbnej"
 
 #: ../../source/kdsmart-app-b.rst:249
 msgid ":peru:`Trial Database Id` |br| OPT"
-msgstr ""
+msgstr ":peru: `Identyfikator bazy danych próbnych` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:250
 msgid "DatabaseTrialId"
-msgstr ""
+msgstr "Baza danychTrialid"
 
 #: ../../source/kdsmart-app-b.rst:251
 msgid "TrialId"
-msgstr ""
+msgstr "TriaLid"
 
 #: ../../source/kdsmart-app-b.rst:252
 msgid "TrialNumber"
-msgstr ""
+msgstr "Numer TrialNumber"
 
 #: ../../source/kdsmart-app-b.rst:253
 #: ../../source/kdsmart-app-b.rst:336
 msgid "May be provided to cross-reference to the originating database."
-msgstr ""
+msgstr "Może być dostarczony w celu odsyłania do pierwotnej bazy danych."
 
 #: ../../source/kdsmart-app-b.rst:254
 msgid ":peru:`Trial Attribute` |br| ATTR"
-msgstr ""
+msgstr ":peru: `Trial Atrybute` |pl| ATTR"
 
 #: ../../source/kdsmart-app-b.rst:255
 msgid ":peru:`May apply to any heading in the file.` |br| See `Trial Attribute Headings`_ below."
 msgstr ""
+":peru: `Może dotyczyć dowolnego nagłówka w pliku.` |br| Patrz `Trial "
+"Attribute Headings`_ poniżej."
 
 #: ../../source/kdsmart-app-b.rst:256
 msgid ":peru:`Retain the value as an attribute of the Trial. If you apply this type to a column then every row must have the same value.`"
 msgstr ""
+":peru: `Zachowaj wartość jako atrybut Próby. Jeśli zastosujesz ten typ do "
+"kolumny, każdy wiersz musi mieć tę samą wartość. `"
 
 #: ../../source/kdsmart-app-b.rst:261
 msgid "Plot Specific Data"
-msgstr ""
+msgstr "Wykreśl konkretne dane"
 
 #: ../../source/kdsmart-app-b.rst:265
 msgid "Headings For **Plot** Specific Data"
-msgstr ""
+msgstr "Nagłówki dla **Wykres** Specyficzne dane"
 
 #: ../../source/kdsmart-app-b.rst:274
 msgid ":peru:`Plot Id` |br| ID |br| Integer"
-msgstr ""
+msgstr ":peru: `Identyfikator wykresu` |br| ID |br| Liczba całkowita"
 
 #: ../../source/kdsmart-app-b.rst:275
 msgid "CellId"
-msgstr ""
+msgstr "CellD"
 
 #: ../../source/kdsmart-app-b.rst:276
 msgid "PlotId"
-msgstr ""
+msgstr "PlotId"
 
 #: ../../source/kdsmart-app-b.rst:277
 msgid "EntryId"
-msgstr ""
+msgstr "Identyfikator wpisu"
 
 #: ../../source/kdsmart-app-b.rst:278
 msgid "Plot"
-msgstr ""
+msgstr "Działka"
 
 #: ../../source/kdsmart-app-b.rst:279
 msgid "If present, uniquely identifies the Plot in the Trial. Must be unique."
 msgstr ""
+"Jeśli jest obecny, jednoznacznie identyfikuje fabułę w procesie. Musi być "
+"wyjątkowy."
 
 #: ../../source/kdsmart-app-b.rst:280
 msgid ":peru:`PlotBlock` |br| ID |br| Integer"
-msgstr ""
+msgstr ":peru: `PlotBlock` |br| ID |br| Liczba całkowita"
 
 #: ../../source/kdsmart-app-b.rst:281
 msgid "PlotBlock"
-msgstr ""
+msgstr "Blok ploterów"
 
 #: ../../source/kdsmart-app-b.rst:282
 msgid "BlockNo"
-msgstr ""
+msgstr "BlockNo"
 
 #: ../../source/kdsmart-app-b.rst:283
 msgid "If present uniquely identifies the Block in the Trial."
-msgstr ""
+msgstr "Jeśli jest obecny, jednoznacznie identyfikuje Blok w Próbie."
 
 #: ../../source/kdsmart-app-b.rst:284
 msgid ":peru:`Plot Column (X)` |br| ID |br| Integer"
-msgstr ""
+msgstr ":peru: `Kolumna wykresu (X) `|br| ID |br| Liczba całkowita"
 
 #: ../../source/kdsmart-app-b.rst:285
 msgid "PlotColumn"
-msgstr ""
+msgstr "PlotKolumna"
 
 #: ../../source/kdsmart-app-b.rst:286
 msgid "X"
-msgstr ""
+msgstr "X"
 
 #: ../../source/kdsmart-app-b.rst:287
 msgid "Column"
-msgstr ""
+msgstr "Kolumna"
 
 #: ../../source/kdsmart-app-b.rst:288
 msgid "Col"
-msgstr ""
+msgstr "płk"
 
 #: ../../source/kdsmart-app-b.rst:289
 msgid "ColumnX"
-msgstr ""
+msgstr "KolumnaX"
 
 #: ../../source/kdsmart-app-b.rst:290
 msgid "X-Column"
-msgstr ""
+msgstr "Kolumna X"
 
 #: ../../source/kdsmart-app-b.rst:291
 msgid "Column_No"
-msgstr ""
+msgstr "Kolumna_Nie"
 
 #: ../../source/kdsmart-app-b.rst:292
 msgid "BlockX"
-msgstr ""
+msgstr "BlockX"
 
 #: ../../source/kdsmart-app-b.rst:293
 msgid "The X–coordinate of the Plot within the Trial."
-msgstr ""
+msgstr "Współrzędna X fabuły w ramach Próby."
 
 #: ../../source/kdsmart-app-b.rst:295
 #: ../../source/kdsmart-app-b.rst:310
 msgid "If present, the (X,Y) pair must uniquely identify the Plot in the Trial, OR"
 msgstr ""
+"Jeśli jest obecna, para (X, Y) musi jednoznacznie identyfikować Wykres w "
+"Próbie, LUB"
 
 #: ../../source/kdsmart-app-b.rst:297
 #: ../../source/kdsmart-app-b.rst:312
 msgid "If PlotBlock is selected the (X,Y) pair must be unique within the Block."
 msgstr ""
+"Jeśli wybrano opcję PlotBlock, para (X, Y) musi być unikalna w obrębie Bloku."
 
 #: ../../source/kdsmart-app-b.rst:298
 msgid ":peru:`Plot Row (Y)` |br| ID |br| Integer"
-msgstr ""
+msgstr ":peru: `Wiersz wykresu (Y) `|br| ID |br| Liczba całkowita"
 
 #: ../../source/kdsmart-app-b.rst:299
 msgid "PlotRow"
-msgstr ""
+msgstr "Plotrow"
 
 #: ../../source/kdsmart-app-b.rst:300
 msgid "Y"
-msgstr ""
+msgstr "Y"
 
 #: ../../source/kdsmart-app-b.rst:301
 #: ../../source/kdsmart-app-b.rst:567
 msgid "Row"
-msgstr ""
+msgstr "Wiersz"
 
 #: ../../source/kdsmart-app-b.rst:302
 msgid "RowY"
-msgstr ""
+msgstr "Rowy"
 
 #: ../../source/kdsmart-app-b.rst:303
 msgid "Y-Row"
-msgstr ""
+msgstr "Y-Row"
 
 #: ../../source/kdsmart-app-b.rst:304
 msgid "Range_No"
-msgstr ""
+msgstr "Zasięg_Nie"
 
 #: ../../source/kdsmart-app-b.rst:305
 #: ../../source/kdsmart-app-b.rst:568
 msgid "Range"
-msgstr ""
+msgstr "Zakres"
 
 #: ../../source/kdsmart-app-b.rst:306
 msgid "BlockY"
-msgstr ""
+msgstr "BlockY"
 
 #: ../../source/kdsmart-app-b.rst:308
 msgid "The Y–coordinate of the Plot within the Trial."
-msgstr ""
+msgstr "Współrzędna Y - fabuła w ramach procesu."
 
 #: ../../source/kdsmart-app-b.rst:313
 msgid ":peru:`Plot Note` |br| OPT"
-msgstr ""
+msgstr ":peru: `Plot Note` |pl| OPT"
 
 #: ../../source/kdsmart-app-b.rst:314
 msgid "PlotNote"
-msgstr ""
+msgstr "PlotNote"
 
 #: ../../source/kdsmart-app-b.rst:315
 msgid "Note"
-msgstr ""
+msgstr "Uwaga"
 
 #: ../../source/kdsmart-app-b.rst:316
 msgid "TrialUnitComment"
-msgstr ""
+msgstr "TrialUnitKomentarz"
 
 #: ../../source/kdsmart-app-b.rst:317
 msgid "A description or information for the imported plot."
-msgstr ""
+msgstr "Opis lub informacje dotyczące importowanego wykresu."
 
 #: ../../source/kdsmart-app-b.rst:318
 msgid ":peru:`Plot Type` |br| OPT"
-msgstr ""
+msgstr ":peru: `Typ działki` |pl| OPT"
 
 #: ../../source/kdsmart-app-b.rst:319
 msgid "PlotType"
-msgstr ""
+msgstr "Typ wydruku"
 
 #: ../../source/kdsmart-app-b.rst:320
 msgid "If present, this specifies the type of plot (e.g. Control, Check, etc.)."
-msgstr ""
+msgstr "Jeśli jest obecny, określa typ wykresu (np. Sterowanie, Check itp.)."
 
 #: ../../source/kdsmart-app-b.rst:321
 msgid ":peru:`Plot Barcode` |br| OPT"
-msgstr ""
+msgstr ":peru: `Wydrukuj kod kreskowy` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:322
 msgid "PlotBarcode"
-msgstr ""
+msgstr "PlotKod kreskowy"
 
 #: ../../source/kdsmart-app-b.rst:323
 #: ../../source/kdsmart-app-b.rst:645
 msgid "Barcode"
-msgstr ""
+msgstr "Kod kreskowy"
 
 #: ../../source/kdsmart-app-b.rst:324
 msgid "TrialUnitBarcode"
-msgstr ""
+msgstr "Kod kreskowy TrialUnit"
 
 #: ../../source/kdsmart-app-b.rst:325
 msgid "If Plot Barcode column provided it must not be blank. |br| See the User Guide section on Barcode Scanning for further details of how the data in this column is used."
 msgstr ""
+"Jeśli kolumna Drukuj kod kreskowy jest podana, nie może być pusta. |br| "
+"Zobacz sekcję Podręcznik użytkownika dotyczącą skanowania kodów kreskowych, "
+"aby uzyskać więcej informacji na temat wykorzystania danych w tej kolumnie."
 
 #: ../../source/kdsmart-app-b.rst:327
 msgid ":peru:`Plot Tags` |br| OPT"
-msgstr ""
+msgstr ":peru: `Plot Tags` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:328
 msgid "Tags,"
-msgstr ""
+msgstr "Tagi,"
 
 #: ../../source/kdsmart-app-b.rst:329
 msgid "PlotComments,"
-msgstr ""
+msgstr "PlotKomentarze,"
 
 #: ../../source/kdsmart-app-b.rst:330
 msgid "Comments"
-msgstr ""
+msgstr "Komentarze"
 
 #: ../../source/kdsmart-app-b.rst:331
 msgid "Additional comments for the imported plot. A list of pipe-separated ( | ) Tag labels."
 msgstr ""
+"Dodatkowe uwagi dotyczące importowanego wykresu. Lista etykiet etykiet "
+"oddzielonych rurami (|)."
 
 #: ../../source/kdsmart-app-b.rst:332
 msgid ":peru:`Plot Database Id` |br| OPT"
-msgstr ""
+msgstr ":peru: `Identyfikator bazy wydruków` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:333
 msgid "DatabasePlotId,"
-msgstr ""
+msgstr "DatabaseCzas,"
 
 #: ../../source/kdsmart-app-b.rst:334
 msgid "TrialUnitId,"
-msgstr ""
+msgstr "TrialUnitid,"
 
 #: ../../source/kdsmart-app-b.rst:335
 msgid "TrialUnitNumber"
-msgstr ""
+msgstr "Numer jednostkiTrialUnitNumber"
 
 #: ../../source/kdsmart-app-b.rst:337
 msgid ":peru:`Sub-Plot Count` |br| OPT |br| Integer"
-msgstr ""
+msgstr ":peru: `Liczba poddziałów` |br| OPT |br| Liczba całkowita"
 
 #: ../../source/kdsmart-app-b.rst:338
 msgid "SpecimenCount,"
-msgstr ""
+msgstr "SpecimenCount,"
 
 #: ../../source/kdsmart-app-b.rst:339
 msgid "IndividualCount,"
-msgstr ""
+msgstr "IndividualCount,"
 
 #: ../../source/kdsmart-app-b.rst:340
 msgid "Plant Count"
-msgstr ""
+msgstr "Liczba roślin"
 
 #: ../../source/kdsmart-app-b.rst:341
 msgid "Number of Sub-Plots or plants present within the plot to be imported. |br| Please read the section below `Sub-Plot Count and Trait Instances`_."
 msgstr ""
+"Liczba poddziałek lub roślin obecnych na działce, która ma być importowana. "
+"|br| Przeczytaj sekcję poniżej `Liczba wykresów podrzędnych i wystąpień "
+"cechów`_."
 
 #: ../../source/kdsmart-app-b.rst:342
 msgid ":blue:`Plot Attribute` |br| ATTR"
-msgstr ""
+msgstr ":blue: `Atrybut wykreślenia` |pl| ATTR"
 
 #: ../../source/kdsmart-app-b.rst:343
 msgid ":blue:`May be applied to any heading in CSV.` |br| See `Plot Attribute Headings`_ below."
 msgstr ""
+":blue: `Można zastosować do dowolnego nagłówka w CSV.` |br| Patrz `Nagłówki "
+"atrybutów wykresu`_ poniżej."
 
 #: ../../source/kdsmart-app-b.rst:344
 msgid ":blue:`Retain the value as an attribute of the Plot.` |br| :blue:`Each row may have a different value (including blanks). Choose any subset to display as Plot Info while scoring.`"
 msgstr ""
+":blue: `Zachowaj wartość jako atrybut wykresu.` |br|:blue: `Każdy wiersz "
+"może mieć inną wartość (łącznie z pustymi polami). Wybierz dowolny podzbiór, "
+"który ma być wyświetlany jako Informacje o wydruku podczas punktacji. `"
 
 #: ../../source/kdsmart-app-b.rst:349
 msgid "Sub-Plot Specific Data"
-msgstr ""
+msgstr "Dane specyficzne dla wykresu podrzędnego"
 
 #: ../../source/kdsmart-app-b.rst:354
 msgid "Headings For **Sub-Plot** Specific Data"
-msgstr ""
+msgstr "Nagłówki dla **Sub-plot** Specyficzne dane"
 
 #: ../../source/kdsmart-app-b.rst:363
 msgid ":peru:`Sub-Plot Id` |br| ID |br| Integer"
-msgstr ""
+msgstr ":peru: `Identyfikator poddziału` |br| ID |br| Liczba całkowita"
 
 #: ../../source/kdsmart-app-b.rst:364
 msgid "SpecimenDatabaseId"
-msgstr ""
+msgstr "Identyfikator bazy danychokazówIdentyfikator"
 
 #: ../../source/kdsmart-app-b.rst:365
 msgid "Sub-PlotDatabaseId"
-msgstr ""
+msgstr "Identyfikator bazy danych wykresu podrzędnego"
 
 #: ../../source/kdsmart-app-b.rst:366
 msgid "Sub-PlotDbId"
-msgstr ""
+msgstr "Podziałka podrzędna"
 
 #: ../../source/kdsmart-app-b.rst:367
 msgid "PlantDatabaseId"
-msgstr ""
+msgstr "Identyfikator bazy danych roślin"
 
 #: ../../source/kdsmart-app-b.rst:368
 msgid "IndividualDatabaseId"
-msgstr ""
+msgstr "Indywidualny identyfikator bazy danych"
 
 #: ../../source/kdsmart-app-b.rst:369
 msgid "If present, uniquely identifies the Sub-Plot in the Trial. Must be unique."
 msgstr ""
+"Jeśli jest obecny, jednoznacznie identyfikuje wykres podrzędny w Próbie. "
+"Musi być wyjątkowy."
 
 #: ../../source/kdsmart-app-b.rst:370
 msgid ":peru:`Sub-Plot Tags` |br| OPT"
-msgstr ""
+msgstr ":peru: `Sub-Plot Tags` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:371
 msgid "Sub-PlotTags"
-msgstr ""
+msgstr "Podrzędne znaczniki wykresu"
 
 #: ../../source/kdsmart-app-b.rst:372
 msgid "SPTags"
-msgstr ""
+msgstr "SPTags"
 
 #: ../../source/kdsmart-app-b.rst:373
 msgid "PlantTags"
-msgstr ""
+msgstr "PlantTags"
 
 #: ../../source/kdsmart-app-b.rst:374
 msgid "IndividualTags"
-msgstr ""
+msgstr "IndywidualneTagi"
 
 #: ../../source/kdsmart-app-b.rst:375
 msgid "SpecimenTags"
-msgstr ""
+msgstr "SpecimentTags"
 
 #: ../../source/kdsmart-app-b.rst:376
 msgid "Additional comments for the imported Sub-Plot. A list of pipe-separated ( | ) Tag labels."
 msgstr ""
+"Dodatkowe uwagi dotyczące importowanego wykresu podrzędnego. Lista etykiet "
+"etykiet oddzielonych rurami (|)."
 
 #: ../../source/kdsmart-app-b.rst:377
 msgid ":peru:`Sub-Plot Traits` |br| OPT"
-msgstr ""
+msgstr ":peru: `Cechy poddziałki` |pl| OPT"
 
 #: ../../source/kdsmart-app-b.rst:379
 msgid "Any heading with # that is not matched to one of the above Sub-Plot specific headings will default to a Sub-Plot Trait. |br| E.g Plant_Height#6 will default to Sub-Plot Trait."
 msgstr ""
+"Każdy nagłówek z #, który nie jest dopasowany do jednego z powyższych "
+"nagłówków specyficznych dla wykresu podrzędnego, będzie domyślnie jako cecha "
+"podwykresu. |br| Np. Plant_Height #6 będzie domyślnie wartością Cecha "
+"podwykresu."
 
 #: ../../source/kdsmart-app-b.rst:387
 msgid "Attribute Types for Trait Variations"
-msgstr ""
+msgstr "Typy atrybutów dla odmian cech"
 
 #: ../../source/kdsmart-app-b.rst:390
 msgid "This table continues from the two above but lists the Attribute Types for Trait variations and for *excluding* a column from import."
 msgstr ""
+"Ta tabela jest kontynuowana od dwóch powyższych, ale zawiera listę Typy "
+"atrybutów dla odmian cech i dla *wykluczenia* kolumnę z importu."
 
 #: ../../source/kdsmart-app-b.rst:395
 msgid "Attribute Types For Trait Variations"
-msgstr ""
+msgstr "Typy atrybutów dla odmian cech"
 
 #: ../../source/kdsmart-app-b.rst:401
 msgid "**Section**"
-msgstr ""
+msgstr "**Sekcja**"
 
 #: ../../source/kdsmart-app-b.rst:404
 msgid ":blue:`Trait` |br| OPT"
-msgstr ""
+msgstr ":blue: `Trait` |pl| OPT"
 
 #: ../../source/kdsmart-app-b.rst:405
 #: ../../source/kdsmart-app-b.rst:411
 msgid ":blue:`Trait`"
-msgstr ""
+msgstr ":blue: `Cecha`"
 
 #: ../../source/kdsmart-app-b.rst:406
 #: ../../source/kdsmart-app-b.rst:412
 #: ../../source/kdsmart-app-b.rst:418
 msgid ":blue:`May be applied to any heading in the CSV file.`"
-msgstr ""
+msgstr ":blue: `Może być zastosowany do dowolnego nagłówka w pliku CSV. `"
 
 #: ../../source/kdsmart-app-b.rst:407
 msgid "Marks this column as representing a Trait that is scored **only for Plots**."
 msgstr ""
+"Zaznacza tę kolumnę jako reprezentującą Cechę, która jest oceniana **tylko "
+"dla wykresów**."
 
 #: ../../source/kdsmart-app-b.rst:409
 #: ../../source/kdsmart-app-b.rst:415
 msgid "The *Trait Name Style* governs if a *Trait Instance* is being referenced or not."
 msgstr ""
+"Styl*Nazwa Cechy* reguluje, czy odwołuje się do instancji*Cechy*, czy nie."
 
 #: ../../source/kdsmart-app-b.rst:410
 msgid ":blue:`Trait for Sub-Plot` |br| OPT"
-msgstr ""
+msgstr ":blue: `Cecha dla poddziału` |br| OPT"
 
 #: ../../source/kdsmart-app-b.rst:413
 msgid "Marks this column as representing a Trait that is scored **only for Sub-Plots**."
 msgstr ""
+"Zaznacza tę kolumnę jako reprezentującą Cechę, która jest oceniana **tylko "
+"dla wykresów podrzędnych**."
 
 #: ../../source/kdsmart-app-b.rst:419
 msgid "Indicates that this column should **not** be imported."
-msgstr ""
+msgstr "Wskazuje, że ta kolumna nie powinna być importowana."
 
 #: ../../source/kdsmart-app-b.rst:422
 msgid "For an example see the following `A Simple Example`_ topic."
-msgstr ""
+msgstr "Na przykład patrz następujący temat `A Simple Example`_."
 
 #: ../../source/kdsmart-app-b.rst:429
 msgid "Sub-Plot Count and Trait Instances"
-msgstr ""
+msgstr "Liczba wykresów podrzędnych i wystąpień cech"
 
 #: ../../source/kdsmart-app-b.rst:431
 msgid "Multiple instances for a Trait can be imported by including the instance number in the heading. For example, importing the second instance of the Trait 'Plant_Height' can be achieved by including a colon :blue:`Plant_Height:2`."
 msgstr ""
+"Wiele wystąpień cechy można zaimportować, uwzględniając numer instancji w "
+"nagłówku. Na przykład, zaimportowanie drugiej instancji cechy „Plant_Height” "
+"można osiągnąć poprzez włączenie kolon:blue: `Plant_Height:2`."
 
 #: ../../source/kdsmart-app-b.rst:433
 msgid "Alternatively using the :blue:`Sub-Plot Count` column instructs KDSmart/KDXplore to create the specified number of Sub-Plots in each plot."
 msgstr ""
+"Alternatywnie za pomocą kolumny:blue: `Sub-Plot Count` nakazuje KDSmart/"
+"KDXplore utworzenie określonej liczby wykresów podrzędnych na każdym "
+"wykresie."
 
 #: ../../source/kdsmart-app-b.rst:435
 msgid "When Sub-Plot Count is present and non-blank, the integer value in this column will cause creation of the given number of Sub-Plots in the Plot."
 msgstr ""
+"Gdy liczba podwykresów jest obecna i nie jest pusta, wartość całkowita w tej "
+"kolumnie spowoduje utworzenie podanej liczby wykresów podrzędnych na "
+"wykresie."
 
 #: ../../source/kdsmart-app-b.rst:437
 msgid "This will apply to all of the columns that have an *Attribute Type* of :blue:`Trait` or :blue:`Trait for Sub-Plot`."
 msgstr ""
+"Dotyczy to wszystkich kolumn, które mają *Typ atrybutu* z:blue: `Cecha` "
+"lub:blue: `Cecha dla wykresu podrzędnego`."
 
 #: ../../source/kdsmart-app-b.rst:439
 msgid "If a column is **NOT** marked as :blue:`Sub-Plot Count`, no Sub-Plots will be created during the import of the data file; in this case, if you wish to add a Sub-Plot to a plot, use the popup menu that appears when you touch the Plot icon: |plot-icon| (during the scoring activity) and choose the Add Sub-Plot option. This presents a list of all the Traits that are defined as :blue:`Trait for Sub-Plot` and one of these may be selected to score for the new *Sub-Plot*."
 msgstr ""
+"Jeśli kolumna jest **NOT** oznaczona jako:blue: `Sub-Plot Count`, podczas "
+"importu pliku danych nie zostaną utworzone żadne wykresy podrzędne; w takim "
+"przypadku, jeśli chcesz dodać podwykres do wykresu, użyj menu podrzędnego, "
+"które pojawia się po dotknięciu ikony Wydrukuj: |plot-icon| (podczas "
+"działania oceniania) i wybierz opcję Dodaj wykres podrzędny. To przedstawia "
+"listę wszystkich cech, które są zdefiniowane jako:blue: `Cecha dla wykresu "
+"podrzędnego` i jedną z nich można wybrać do punktacji dla nowego *Sub-Plot*."
 
 #: ../../source/kdsmart-app-b.rst:445
 msgid "Notes For Importing Subplot Data"
-msgstr ""
+msgstr "Uwagi dotyczące importowania danych wykresu podrzędnego"
 
 #: ../../source/kdsmart-app-b.rst:447
 msgid "The TRAIT FOR SUB-PLOT column heading requires a suffix of :blue:`#` with the Sub-Plot number the value is referring to."
 msgstr ""
+"Nagłówek kolumny TRAIT FOR SUB-PLOT wymaga przyrostka:blue: `#` z numerem "
+"Sub-Plot, do którego odnosi się wartość."
 
 #: ../../source/kdsmart-app-b.rst:449
 msgid "For example, importing a Plant_Height value for Sub-Plot three have a heading :blue:`Plant_Height#3`. To import for all of the Sub-Plots available (Number seen in Sub-Plot count column) use :blue:`#*`. |br| If the trait is a specific instance, the instance number can be imported as you would typically just with the Sub-Plot number appended e.g. :blue:`Plant_Height:2#3`."
 msgstr ""
+"Na przykład importowanie wartości Plant_Height dla Podwydruku trzeciego ma "
+"nagłówek: blue: `Plant_Height #3 `. Aby zaimportować wszystkie dostępne "
+"podziałki podrzędne (Liczba widoczna w kolumnie Liczba wykresów podrzędnych) "
+"użyj:blue: `#*`. |br| Jeśli cecha jest konkretną instancją, numer instancji "
+"można zaimportować tak, jak zwykle po dodaniu numeru Sub-Plot np.:blue: "
+"`Plant_Height:2 #3 `."
 
 #: ../../source/kdsmart-app-b.rst:456
 msgid "Conditions For Importing Subplot Data"
-msgstr ""
+msgstr "Warunki importowania danych wykresu podrzędnego"
 
 #: ../../source/kdsmart-app-b.rst:458
 msgid "The Sub-Plot Count column import will create the provided number of empty Sub-Plots for the specified plots."
 msgstr ""
+"Import kolumny Liczba podzespołów spowoduje utworzenie podanej liczby "
+"pustych wykresów podrzędnych dla określonych wykresów."
 
 #: ../../source/kdsmart-app-b.rst:460
 msgid "Trait for Sub-Plot will create the required number of Sub-Plots for the value ('#Number')."
 msgstr ""
+"Cecha dla wykresu podrzędnego utworzy wymaganą liczbę wykresów podrzędnych "
+"dla wartości ('#Number')."
 
 #: ../../source/kdsmart-app-b.rst:461
 msgid "Trait Sub-Plot numbers ('#Number') cannot be higher than the Sub-Plot Count if both are being imported."
 msgstr ""
+"Liczby wykresów podrzędnych cech ('#Number') nie mogą być wyższe niż Liczba "
+"wykresów podrzędnych, jeśli oba są importowane."
 
 #: ../../source/kdsmart-app-b.rst:462
 msgid "Sub-Plot Count column is required if :blue:`#*` (for all Sub-Plots) is used."
 msgstr ""
+"Kolumna Liczba wykresów podrzędnych jest wymagana, jeśli:blue: `#*` (dla "
+"wszystkich wykresów podrzędnych) jest używany."
 
 #: ../../source/kdsmart-app-b.rst:463
 msgid "There cannot be two identical column names with Trait for Sub-Plot (e.g. Plant_Heigh#1, Plant_Height#1)."
 msgstr ""
+"Nie może być dwóch identycznych nazw kolumn z Cechą dla Podziałki Podrzędnej "
+"(np. Plant_Heigh #1, Plant_Height #1)."
 
 #: ../../source/kdsmart-app-b.rst:464
 msgid "If  :blue:`#*` is used for the same Trait as :blue:`#Number` (e.g. Plant_Height#*, Plant_Height#1) the numbered column (Plant_Height#1) takes priority for the specified Sub-Plot."
 msgstr ""
+"Jeśli: niebieski: `#*` jest używany dla tej samej cechy jak:blue: `#Number` ("
+"np. Plant_Height#*, Plant_Height #1), ponumerowana kolumna (Plant_Height #1) "
+"ma pierwszeństwo dla określonego Poddziałka."
 
 #: ../../source/kdsmart-app-b.rst:470
 msgid "Plot Attribute Headings"
-msgstr ""
+msgstr "Nagłówki atrybutów wydruku"
 
 #: ../../source/kdsmart-app-b.rst:472
 msgid "The items below identify headings that are automatically classified as *Plot Attributes* by KDSmart."
 msgstr ""
+"Poniższe pozycje identyfikują nagłówki, które są automatycznie klasyfikowane "
+"jako *Wydrukuj atrybuty* przez KDSmart."
 
 #: ../../source/kdsmart-app-b.rst:475
 msgid "Treatment"
-msgstr ""
+msgstr "Leczenie"
 
 #: ../../source/kdsmart-app-b.rst:476
 msgid "SelectionHistory, Selection\\_History"
-msgstr ""
+msgstr "SelectionHistoria, Wybór\\ _Historia"
 
 #: ../../source/kdsmart-app-b.rst:477
 msgid "ReplicateNumber, Replicate, Rep, Repeticion, REP\\_NO"
-msgstr ""
+msgstr "ReplicateNumber, Replicate, Rep, Repetition, REP\\ _NO"
 
 #: ../../source/kdsmart-app-b.rst:478
 msgid "GenotypeName, Genotype, GID"
-msgstr ""
+msgstr "GenotypNazwa, Genotyp, GID"
 
 #: ../../source/kdsmart-app-b.rst:479
 msgid "Origin, 0rigin :blue:`(that’s a \"zero\")`"
-msgstr ""
+msgstr "Pochodzenie, 0rigin:blue: `(to jest „zero”)`"
 
 #: ../../source/kdsmart-app-b.rst:480
 msgid "Designation"
-msgstr ""
+msgstr "Oznaczenie"
 
 #: ../../source/kdsmart-app-b.rst:481
 #: ../../source/kdsmart-app-b.rst:484
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: ../../source/kdsmart-app-b.rst:482
 msgid "CID, SID, CROSS, SOURCE, ENTRY\\_NO, SUB\\_BLOCK, PLOT\\_NO"
-msgstr ""
+msgstr "CID, SID, KRZYŻ, ŹRÓDŁO, WPIS\\ _NO, SUB\\ _BLOCK, WYKRES\\ _NO"
 
 #: ../../source/kdsmart-app-b.rst:483
 msgid "PedigreeName, Pedigree, BreedersPedigree"
-msgstr ""
+msgstr "PediGreename, Rodowód, HodowcaSpedigree"
 
 #: ../../source/kdsmart-app-b.rst:486
 msgid "This list will be replaced by the *CSV Import Profile* functionality at a later release. Also the spelling of 'Repeticion' is required as it is within the 'code'."
 msgstr ""
+"Ta lista zostanie zastąpiona przez funkcję*CSV Import Profile* w późniejszej "
+"wersji. Wymagana jest również pisownia „Repeticion”, ponieważ znajduje się "
+"ona w „kodzie”."
 
 #: ../../source/kdsmart-app-b.rst:491
 msgid "Trial Attribute Headings"
-msgstr ""
+msgstr "Nagłówki atrybutów próbnych"
 
 #: ../../source/kdsmart-app-b.rst:493
 msgid "The following are automatically classified as Plot Attributes by KDSmart:"
 msgstr ""
+"Następujące elementy są automatycznie klasyfikowane jako atrybuty wykresu "
+"przez KDSmart:"
 
 #: ../../source/kdsmart-app-b.rst:495
 msgid "SiteName, Site, Location"
-msgstr ""
+msgstr "SiteName, Miejsce, Lokalizacja"
 
 #: ../../source/kdsmart-app-b.rst:496
 msgid "SiteYear, Year"
-msgstr ""
+msgstr "SiteYear, Rok"
 
 #: ../../source/kdsmart-app-b.rst:497
 msgid "TrialType, TrialTypeName"
-msgstr ""
+msgstr "TrialType, TrialTypNazwa"
 
 #: ../../source/kdsmart-app-b.rst:498
 msgid "TrialStartDate, StartDate"
-msgstr ""
+msgstr "Data rozpoczęcia, Data rozpoczęcia, Data rozpoczęcia"
 
 #: ../../source/kdsmart-app-b.rst:503
 msgid "Values in CSV files"
-msgstr ""
+msgstr "Wartości w plikach CSV"
 
 #: ../../source/kdsmart-app-b.rst:505
 msgid "CSV files may contain data in the various data \"columns\"."
-msgstr ""
+msgstr "Pliki CSV mogą zawierać dane w różnych „kolumnach” danych."
 
 #: ../../source/kdsmart-app-b.rst:507
 msgid "For columns marked to be imported as *Traits*, the following rules apply:"
 msgstr ""
+"W przypadku kolumn oznaczonych do importu jako *Cechy* obowiązują "
+"następujące zasady:"
 
 #: ../../source/kdsmart-app-b.rst:509
 msgid "Blank values will be treated as un-scored Traits as will the word :peru:`UNSCORED` (the latter is not required unless you want to make un-scored trait values very obvious in a CSV file)."
 msgstr ""
+"Puste wartości będą traktowane jako cechy niepunktowane, podobnie jak "
+"słowo:peru: `UNSCORED` (to ostatnie nie jest wymagane, chyba że chcesz, aby "
+"wartości cech niepunktowanych były bardzo oczywiste w pliku CSV)."
 
 #: ../../source/kdsmart-app-b.rst:510
 msgid "The word :peru:`MISSING` will be imported as a special token denoting a missing value."
 msgstr ""
+"Słowo:peru: `MISSING` zostanie zaimportowane jako specjalny token "
+"oznaczający brakującą wartość."
 
 #: ../../source/kdsmart-app-b.rst:511
 msgid "The word :peru:`NA` will be imported as a special token denoting \"not-applicable\" or \"not-available\" (whatever you take it to mean)."
 msgstr ""
+"Słowo: peru: `NA` zostanie zaimportowane jako specjalny token oznaczający "
+"„nieodpowiedni” lub „niedostępny” (cokolwiek to rozumiesz)."
 
 #: ../../source/kdsmart-app-b.rst:513
 msgid "All other values will be checked using the **validation rule for the trait**. Any failure to pass the validation check will cause the entire import to fail."
 msgstr ""
+"Wszystkie pozostałe wartości będą sprawdzane za pomocą **reguły walidacji "
+"cech**. Jakiekolwiek nieprzekazanie sprawdzenia walidacji spowoduje "
+"niepowodzenie całego importu."
 
 #: ../../source/kdsmart-app-b.rst:515
 msgid "If you select a column to be used as the *Trial Name*, the value in the first data line may not be the same as any existing *Trial* in the database."
 msgstr ""
+"Jeśli wybierzesz kolumnę, która ma być używana jako *Nazwa próbna*, wartość "
+"w pierwszym wierszu danych może nie być taka sama, jak w przypadku "
+"istniejącej wersji próbnej* w bazie danych."
 
 #: ../../source/kdsmart-app-b.rst:517
 msgid "Similarly, if you have not chosen a column as the *Trial Name*, the name of the file (excluding anything from the last \".\" onwards) will be used to check for a pre-existing trial in the database."
 msgstr ""
+"Podobnie, jeśli nie wybrałeś kolumny jako *Nazwa próbna*, nazwa pliku (z "
+"wyłączeniem czegokolwiek z ostatniego „.”) zostanie użyta do sprawdzenia, "
+"czy w bazie danych istnieje wcześniej istniejąca wersja próbna."
 
 #: ../../source/kdsmart-app-b.rst:519
 msgid "*Trial Name* checks are **not** case sensitive."
-msgstr ""
+msgstr "*Nazwa próbna* w kontrolach nie jest rozróżniana wielkość liter."
 
 #: ../../source/kdsmart-app-b.rst:526
 msgid "A Simple Example"
-msgstr ""
+msgstr "Prosty przykład"
 
 #: ../../source/kdsmart-app-b.rst:529
 msgid "Example File Construction"
-msgstr ""
+msgstr "Przykładowa konstrukcja pliku"
 
 #: ../../source/kdsmart-app-b.rst:531
 msgid "For this simple example (line no.s shown for clarity) the CSV file with three lines consists of:"
 msgstr ""
+"Dla tego prostego przykładu (linia nr s pokazana dla przejrzystości) plik "
+"CSV z trzema liniami składa się z:"
 
 #: ../../source/kdsmart-app-b.rst:544
 msgid "Using the \"After Sub-Plot Count\", described in `Sub-Plot Count and Trait Instances`_, the following definition could be used in KDSmart: |br|"
 msgstr ""
+"Używając „After Sub-Plot Count”, opisanej w `Sub-Plot Count and Trait "
+"Instances`_, w KDSmart można użyć następującej definicji: |br|"
 
 #: ../../source/kdsmart-app-b.rst:546
 msgid "**Note:** In the following table, the top heading row is *NOT* part of the data file."
 msgstr ""
+"**Uwaga: ** W poniższej tabeli górny wiersz nagłówka jest*NOT* część pliku "
+"danych."
 
 #: ../../source/kdsmart-app-b.rst:552
 msgid "Simple Example: Three Row CSV File (Header Row and Two Data Rows)"
 msgstr ""
+"Prosty przykład: trzyrzędowy plik CSV (wiersz nagłówka i dwa wiersze danych)"
 
 #: ../../source/kdsmart-app-b.rst:558
 msgid "**Plating Date**"
-msgstr ""
+msgstr "**Data poszycia**"
 
 #: ../../source/kdsmart-app-b.rst:559
 msgid "**X-Column**"
-msgstr ""
+msgstr "**X-Column**"
 
 #: ../../source/kdsmart-app-b.rst:560
 msgid "**Y-Row**"
-msgstr ""
+msgstr "**Y-Row**"
 
 #: ../../source/kdsmart-app-b.rst:561
 #: ../../source/kdsmart-app-b.rst:562
 msgid "**Trait**"
-msgstr ""
+msgstr "**Cecha**"
 
 #: ../../source/kdsmart-app-b.rst:563
 msgid "Sub-Plot Count"
-msgstr ""
+msgstr "Liczba podwykresów"
 
 #: ../../source/kdsmart-app-b.rst:564
 msgid "Trait for Sub-Plot"
-msgstr ""
+msgstr "Cecha dla poddziałki"
 
 #: ../../source/kdsmart-app-b.rst:565
 msgid "CSV Line 1"
-msgstr ""
+msgstr "CSV Linia 1"
 
 #: ../../source/kdsmart-app-b.rst:566
 msgid "date sown"
-msgstr ""
+msgstr "data zasiania"
 
 #: ../../source/kdsmart-app-b.rst:569
 msgid "MZC"
-msgstr ""
+msgstr "MZC"
 
 #: ../../source/kdsmart-app-b.rst:570
 msgid "MZP"
-msgstr ""
+msgstr "MZP"
 
 #: ../../source/kdsmart-app-b.rst:571
 msgid "#Sub-Plots"
-msgstr ""
+msgstr "#Sub -Wykresy"
 
 #: ../../source/kdsmart-app-b.rst:572
 msgid "LLEN"
-msgstr ""
+msgstr "LLEN"
 
 #: ../../source/kdsmart-app-b.rst:573
 msgid "CSV Line 2"
-msgstr ""
+msgstr "CSV Linia 2"
 
 #: ../../source/kdsmart-app-b.rst:574
 #: ../../source/kdsmart-app-b.rst:582
 msgid "2014-12-15"
-msgstr ""
+msgstr "2014-12-15"
 
 #: ../../source/kdsmart-app-b.rst:575
 msgid "23"
-msgstr ""
+msgstr "23"
 
 #: ../../source/kdsmart-app-b.rst:576
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../source/kdsmart-app-b.rst:579
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../source/kdsmart-app-b.rst:581
 msgid "CSV Line 3"
-msgstr ""
+msgstr "CSV Linia 3"
 
 #: ../../source/kdsmart-app-b.rst:583
 msgid "21"
-msgstr ""
+msgstr "21"
 
 #: ../../source/kdsmart-app-b.rst:584
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../source/kdsmart-app-b.rst:587
 msgid "0"
-msgstr ""
+msgstr "0"
 
 #: ../../source/kdsmart-app-b.rst:593
 msgid "Example Result"
-msgstr ""
+msgstr "Przykładowy wynik"
 
 #: ../../source/kdsmart-app-b.rst:595
 msgid "The result of importing this diminutive Trial will be:"
-msgstr ""
+msgstr "Rezultatem importowania tej drobnej próby będzie:"
 
 #: ../../source/kdsmart-app-b.rst:597
 msgid "Only two plots at positions (23,4) and (21,5);"
-msgstr ""
+msgstr "Tylko dwie działki na pozycjach (23,4) i (21,5);"
 
 #: ../../source/kdsmart-app-b.rst:598
 msgid "Two Traits, MZC and MZP, are being scored for each Plot;"
-msgstr ""
+msgstr "Dwie cechy, MZC i MZP, są oceniane dla każdego wykresu;"
 
 #: ../../source/kdsmart-app-b.rst:599
 msgid "The first Plot (CSV Line 2) has two Sub-Plots for which the trait LLEN (leaf length) will be scored;"
 msgstr ""
+"Pierwszy wykres (linia CSV 2) ma dwa podziałki podrzędne, dla których "
+"zostanie oceniona cecha LLEN (długość liścia);"
 
 #: ../../source/kdsmart-app-b.rst:600
 msgid "The second Plot (CSV Line 3) has no Sub-Plots requiring scoring. |br| However, if while Scoring a Sub-Plot was added to the latter Plot, you will then be asked to score the LLEN Trait for the new Sub-Plot."
 msgstr ""
+"Drugi wykres (CSV Linia 3) nie ma podwykresów wymagających punktacji. |br| "
+"Jeśli jednak podczas Punktowania Pod-Plot został dodany do drugiego wykresu, "
+"zostaniesz poproszony o zdobycie cechy LLEN dla nowego Podwykresu."
 
 #: ../../source/kdsmart-app-b.rst:602
 msgid "Additionally, as no columns in this example were designated as X-Column-Name or Y-Row-Name, the default names of \"Column\" and \"Row\" is used to describe the Plot coordinates. Following import, the Trial Details can be edited in KDSmart and the row/column names changed to your choice e.g. \"Row\" and \"Range\" respectively, if required to make the nomenclature align more closely to your usual vocabulary. Best practice however, is to name them in the CSV file rather than change them in KDSmart."
 msgstr ""
+"Ponadto, ponieważ żadne kolumny w tym przykładzie nie zostały oznaczone jako "
+"X-Column-Name lub Y-Row-Name, domyślne nazwy „Kolumna” i „Wiersz” są używane "
+"do opisania współrzędnych wydruku. Po zaimportowaniu, Szczegóły próbne można "
+"edytować w KDSmart, a nazwy wierszów/kolumn zmienione na wybrany przez "
+"Ciebie, np. „Wiersz” i „Zakres”, jeśli jest to wymagane, aby nomenklatura "
+"była bardziej dopasowana do zwykłego słownictwa. Najlepszą praktyką jest "
+"jednak nazywanie ich w pliku CSV, a nie zmienianie ich w KDSmart."
 
 #: ../../source/kdsmart-app-b.rst:607
 msgid "Spaces, Case Sensitivity and Blank Lines"
-msgstr ""
+msgstr "Przestrzenie, rozczucie wielkości liter i puste linie"
 
 #: ../../source/kdsmart-app-b.rst:609
 msgid "When reading and parsing the headers, KDSmart removes all spaces and performs a case-insensitive comparison to match CSV headings with the automatically recognised built-in headings."
 msgstr ""
+"Podczas odczytu i analizowania nagłówków KDSmart usuwa wszystkie spacje i "
+"przeprowadza porównanie bez uwzględniania wielkości liter, aby dopasować "
+"nagłówki CSV do automatycznie rozpoznawanych wbudowanych nagłówków."
 
 #: ../../source/kdsmart-app-b.rst:611
 msgid "It also skips over any blank lines and takes the first non-blank line as the headings line."
 msgstr ""
+"Pomija również wszelkie puste linie i przyjmuje pierwszą niepustą linię jako "
+"linię nagłówków."
 
 #: ../../source/kdsmart-app-b.rst:618
 msgid "Traits"
-msgstr ""
+msgstr "Cechy"
 
 #: ../../source/kdsmart-app-b.rst:620
 msgid "The following table describes the required and optional Trait headings for a CSV file that contains details of Traits that will be used by *Trials*."
 msgstr ""
+"Poniższa tabela opisuje wymagane i opcjonalne nagłówki cech dla pliku CSV, "
+"który zawiera szczegóły cech, które będą używane przez *Trials*."
 
 #: ../../source/kdsmart-app-b.rst:625
 msgid "Required and Optional Trait CSV File Headings"
-msgstr ""
+msgstr "Wymagane i opcjonalne nagłówki plików CSV cech"
 
 #: ../../source/kdsmart-app-b.rst:631
 #: ../../source/kdsmart-app-b.rst:753
 msgid "**Heading**"
-msgstr ""
+msgstr "**Nagłówki**"
 
 #: ../../source/kdsmart-app-b.rst:632
 #: ../../source/kdsmart-app-b.rst:754
 msgid "**Alternatives**"
-msgstr ""
+msgstr "**Alternatywy**"
 
 #: ../../source/kdsmart-app-b.rst:633
 msgid "**Notes**"
-msgstr ""
+msgstr "**Uwagi**"
 
 #: ../../source/kdsmart-app-b.rst:634
 msgid "**TraitName**"
-msgstr ""
+msgstr "**nazwa**"
 
 #: ../../source/kdsmart-app-b.rst:635
 msgid "Name"
-msgstr ""
+msgstr "Nazwa"
 
 #: ../../source/kdsmart-app-b.rst:636
 msgid "This column heading must be present. All others are optional. |br| The value should be kept short and, if you wish to use the name in KDXplore with CALC *Traits* no spaces are permitted and the name **must** begin with a letter.  |br| We recommend using the underscore ( _ ) character or CamelCase to improve readability. |br| See also the description of the import option regarding `Trait Name Style`_."
 msgstr ""
+"Ten nagłówek kolumny musi być obecny. Wszystkie pozostałe są opcjonalne. |br|"
+" Wartość powinna być krótka, a jeśli chcesz użyć nazwy w KDXplore z CALC "
+"*Cechy* nie są dozwolone spacje, a nazwa **must** zaczyna się od litery. |br|"
+" Zalecamy użycie znaku podkreślenia (_) lub CamelCase, aby poprawić "
+"czytelność. |br| Zobacz także opis opcji importu dotyczącej `Style`Nazwy "
+"Cechy`_."
 
 #: ../../source/kdsmart-app-b.rst:638
 msgid "**TraitAlias** OPT"
-msgstr ""
+msgstr "**TrItalias** OPT"
 
 #: ../../source/kdsmart-app-b.rst:639
 msgid "Alias"
-msgstr ""
+msgstr "Pseudonim"
 
 #: ../../source/kdsmart-app-b.rst:640
 msgid "If provided, should be a shorter form of the *TraitName* to use during scoring."
 msgstr ""
+"Jeśli podano, powinna być krótsza forma*nazwa*cech* do użycia podczas "
+"punktacji."
 
 #: ../../source/kdsmart-app-b.rst:641
 msgid "**TraitLevel** OPT"
-msgstr ""
+msgstr "**Poziom trait** OPT"
 
 #: ../../source/kdsmart-app-b.rst:642
 msgid "Level"
-msgstr ""
+msgstr "Poziom"
 
 #: ../../source/kdsmart-app-b.rst:643
 msgid "Default: Plot. Versions before (KDSmart V3.0.3, KDXplore Beta1.1.4 or Prod 2.1.4) TraitLevel could specify only *Plot* or *Sub-Plot*.  For versions equal to or above, TraitLevel can specify the trait is either for the: *Plot Level* by using \"Plot\" or \"TrialUnit\"; or |br| the *Sub-Plot* level by using \"Sub-Plot\", \"Sub-Plot\", \"Individual\" or \"Plant\"."
 msgstr ""
+"Domyślnie: Wydrukuj. Wersje wcześniejsze (KDSmart V3.0.3, KDXplore Beta1.1.4 "
+"lub Prod 2.1.4) TraitLevel może określać tylko *Plot* lub *Sub-Plot*. W "
+"przypadku wersji równych lub wyższych, TraitLevel może określić cechę dla: *"
+"Poziom wykresu* za pomocą „Wykres” lub „TrialUnit”; lub |br| poziom *Sub-"
+"Plot* za pomocą „Sub-Plot”, „Sub-Plot”, „Individual” lub „Plant”."
 
 #: ../../source/kdsmart-app-b.rst:644
 msgid "**TraitBarcode** OPT"
-msgstr ""
+msgstr "**TraitBarcode** OPT"
 
 #: ../../source/kdsmart-app-b.rst:646
 msgid "Used to identify the Trait when using a barcode scanner for scoring."
 msgstr ""
+"Służy do identyfikacji cechy podczas korzystania ze skanera kodów kreskowych "
+"do punktacji."
 
 #: ../../source/kdsmart-app-b.rst:647
 msgid "**TraitUnit**"
-msgstr ""
+msgstr "**Jednostka zdrajania**"
 
 #: ../../source/kdsmart-app-b.rst:648
 msgid "Unit, UnitName, TraitUnitName"
-msgstr ""
+msgstr "Jednostka, UnitName, TraitUnitName"
 
 #: ../../source/kdsmart-app-b.rst:649
 msgid "You can provide anything you like that will assist you in remembering what to enter while Scoring."
 msgstr ""
+"Możesz podać wszystko, co ci się podoba, co pomoże ci zapamiętać, co "
+"wprowadzić podczas punktacji."
 
 #: ../../source/kdsmart-app-b.rst:650
 msgid "**TraitDescription**"
-msgstr ""
+msgstr "**Opis cechy**"
 
 #: ../../source/kdsmart-app-b.rst:651
 msgid "Description, Desc"
-msgstr ""
+msgstr "Opis, Opis"
 
 #: ../../source/kdsmart-app-b.rst:652
 msgid "A longer description of the Trait."
-msgstr ""
+msgstr "Dłuższy opis cechy."
 
 #: ../../source/kdsmart-app-b.rst:653
 msgid "**TraitDatatype**"
-msgstr ""
+msgstr "**Typ danych**"
 
 #: ../../source/kdsmart-app-b.rst:654
 msgid "Datatype"
-msgstr ""
+msgstr "Typ danych"
 
 #: ../../source/kdsmart-app-b.rst:655
 msgid "One of CATEGORICAL, DATE, ELAPSED_DAYS, INTEGER, DECIMAL or TEXT. See :ref:`Traits` for further details."
 msgstr ""
+"Jeden z KATEGORICZNYCH, DATE, ELAPSED_DAYS, INTEGER, DECIMAL lub TEXT. Patrz:"
+" Ref: `Cechy`, aby uzyskać więcej informacji."
 
 #: ../../source/kdsmart-app-b.rst:656
 msgid "**TraitValidation**"
-msgstr ""
+msgstr "**TraitValidation**"
 
 #: ../../source/kdsmart-app-b.rst:657
 msgid "TraitValRule, Validation, ValidationRule"
-msgstr ""
+msgstr "TraitValRule, Walidacja, WalidationRule"
 
 #: ../../source/kdsmart-app-b.rst:658
 msgid "See :ref:`Traits` for further details."
-msgstr ""
+msgstr "Patrz: Ref: `Cechy`, aby uzyskać więcej informacji."
 
 #: ../../source/kdsmart-app-b.rst:659
 msgid "**DatabaseTraitId**"
-msgstr ""
+msgstr "**Database Taid**"
 
 #: ../../source/kdsmart-app-b.rst:660
 msgid "TraitId"
-msgstr ""
+msgstr "TetritId"
 
 #: ../../source/kdsmart-app-b.rst:661
 msgid "If you provide this column, KDSmart will record the value and export it on request (a reference to the originating database). See Protected Traits below."
 msgstr ""
+"Jeśli podasz tę kolumnę, KDSmart zarejestruje wartość i wyeksportuje ją na "
+"żądanie (odniesienie do pierwotnej bazy danych). Zobacz chronione cechy "
+"poniżej."
 
 #: ../../source/kdsmart-app-b.rst:664
 msgid "A new Trait can be created directly in KDSmart. If you do this and are also uploading or synchronising your data to KDXplore or KDDart you may have to reconcile the differences if there is already a Trait of the same name (compared in a case-insensitive manner)."
 msgstr ""
+"Nowa cecha może być tworzona bezpośrednio w KDSmart. Jeśli to zrobisz i "
+"przesyłasz lub synchronizujesz swoje dane do KDXplore lub KDDart, być może "
+"będziesz musiał pogodzić różnice, jeśli istnieje już cecha o tej samej "
+"nazwie (porównana w sposób nieuwzględniający wielkości liter)."
 
 #: ../../source/kdsmart-app-b.rst:671
 msgid "Overwriting Existing Traits"
-msgstr ""
+msgstr "Nadpisywanie istniejących cech"
 
 #: ../../source/kdsmart-app-b.rst:673
 msgid "Entries for existing Traits can be specified in a CSV file. The Traits are matched by Trait Name (ignoring case) and incoming Traits with the same name as one already in the database will be checked for compatibility:"
 msgstr ""
+"Wpisy dla istniejących cech można określić w pliku CSV. Cechy są "
+"dopasowywane przez Nazwę Cechy (ignorowanie przypadku), a przychodzące cechy "
+"o tej samej nazwie, co już w bazie danych, zostaną sprawdzone pod kątem "
+"zgodności:"
 
 #: ../../source/kdsmart-app-b.rst:678
 msgid "Trait Import Overwriting Behaviours"
-msgstr ""
+msgstr "Zachowania nadpisywania importu cech"
 
 #: ../../source/kdsmart-app-b.rst:684
 msgid "**Trait in Database**"
-msgstr ""
+msgstr "**Cecha w bazie danych**"
 
 #: ../../source/kdsmart-app-b.rst:685
 msgid "**Trait in CSV File**"
-msgstr ""
+msgstr "**Cecha w pliku CSV**"
 
 #: ../../source/kdsmart-app-b.rst:686
 msgid "**Action Taken**"
-msgstr ""
+msgstr "**Akcja**"
 
 #: ../../source/kdsmart-app-b.rst:687
 #: ../../source/kdsmart-app-b.rst:691
 msgid "Data Type is TEXT"
-msgstr ""
+msgstr "Typ danych to TEKST"
 
 #: ../../source/kdsmart-app-b.rst:688
 msgid "Any Data Type"
-msgstr ""
+msgstr "Dowolny typ danych"
 
 #: ../../source/kdsmart-app-b.rst:689
 msgid "The Trait Data Type in the CSV file will replace the data type in the database."
-msgstr ""
+msgstr "Typ danych cech w pliku CSV zastąpi typ danych w bazie danych."
 
 #: ../../source/kdsmart-app-b.rst:690
 #: ../../source/kdsmart-app-b.rst:693
 msgid "Any other data type"
-msgstr ""
+msgstr "Dowolny inny typ danych"
 
 #: ../../source/kdsmart-app-b.rst:692
 msgid "A warning is issued identifying the line and the import continues excluding the line from the CSV file."
 msgstr ""
+"Wydawane jest ostrzeżenie identyfikujące wiersz, a import nadal wyklucza "
+"wiersz z pliku CSV."
 
 #: ../../source/kdsmart-app-b.rst:694
 msgid "Data Type is not TEXT"
-msgstr ""
+msgstr "Typ danych nie jest TEKSTEM"
 
 #: ../../source/kdsmart-app-b.rst:695
 msgid "A warning is issued if the data types are not the same (and the import continues)"
 msgstr ""
+"Ostrzeżenie jest wydawane, jeśli typy danych nie są takie same (a import "
+"jest kontynuowany)"
 
 #: ../../source/kdsmart-app-b.rst:696
 #: ../../source/kdsmart-app-b.rst:697
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 #: ../../source/kdsmart-app-b.rst:698
 msgid "Descriptions are truncated to the current database limit then compared for equality."
 msgstr ""
+"Opisy są obciskane do aktualnego limitu bazy danych, a następnie porównywane "
+"pod kątem równości."
 
 #: ../../source/kdsmart-app-b.rst:700
 msgid "If they are the same (ignoring case), a warning will be issued but the new Trait’s description will replace the current one in the database. Otherwise:"
 msgstr ""
+"Jeśli są takie same (ignorowanie przypadku), zostanie wydane ostrzeżenie, "
+"ale opis nowej cechy zastąpi aktualny opis w bazie danych. W przeciwnym "
+"razie:"
 
 #: ../../source/kdsmart-app-b.rst:703
 msgid "CHOICE: must have the choices or the old choices must be a subset of the new choices"
 msgstr ""
+"WYBÓR: musi mieć wybór lub stare wybory muszą być podzbiorem nowych wyborów"
 
 #: ../../source/kdsmart-app-b.rst:704
 msgid "INTEGER and DECIMAL: the limit \"exclusions\" must be identical, however the new Trait’s limits may be \"wider\" than the current Trait in the database"
 msgstr ""
+"CAŁKOWITA i DZIESIĘTNA: limit „wykluczeń” musi być identyczny, jednak "
+"granice nowej cechy mogą być „szersze” niż obecna Cecha w bazie danych"
 
 #: ../../source/kdsmart-app-b.rst:706
 msgid "If any of incompatibilities above are identified, a warning is issues and the import continues without altering the current Trait in the database."
 msgstr ""
+"Jeśli zostanie zidentyfikowana którakolwiek z powyższych niezgodności, "
+"ostrzeżenie jest problemem, a import jest kontynuowany bez zmiany aktualnej "
+"cechy w bazie danych."
 
 #: ../../source/kdsmart-app-b.rst:713
 msgid "Protected Traits"
-msgstr ""
+msgstr "Cechy chronione"
 
 #: ../../source/kdsmart-app-b.rst:715
 msgid "If a Trait has been imported with a DatabaseTraitId, it is deemed to be \"protected\"."
 msgstr ""
+"Jeśli cecha została zaimportowana z bazą danychTraitid, uznaje się ją za "
+"„chronioną”."
 
 #: ../../source/kdsmart-app-b.rst:717
 msgid "In this case you may only edit the Trait Alias and changes to the validation rule are not permitted except for INTEGER and DECIMAL Traits where you may change the range of acceptable values but only to make the range smaller."
 msgstr ""
+"W takim przypadku możesz edytować tylko alias cechy, a zmiany w regule "
+"walidacji są niedozwolone, z wyjątkiem cech CAŁKOWITYCH i DZIESIĘTNYCH, w "
+"których możesz zmienić zakres dopuszczalnych wartości, ale tylko w celu "
+"zmniejszenia zakresu."
 
 #: ../../source/kdsmart-app-b.rst:719
 msgid "For example, if an INTEGER Trait has been defined to have values from 0 to 100 you may only change the lower limit to be 1 or more and the upper limit to be 99 or less."
 msgstr ""
+"Na przykład, jeśli cecha CAŁKOWITA została zdefiniowana tak, aby miała "
+"wartości od 0 do 100, możesz zmienić tylko dolną granicę na 1 lub więcej, a "
+"górną granicę 99 lub mniejszą."
 
 #: ../../source/kdsmart-app-b.rst:724
 msgid "Calculated Traits"
-msgstr ""
+msgstr "Obliczone cechy"
 
 #: ../../source/kdsmart-app-b.rst:726
 msgid "These have the Trait Data Type of CALC. No measurements are collected by KDSmart for these Traits."
 msgstr ""
+"Mają one typ danych cech CALC. KDSmart nie zbiera żadnych pomiarów dla tych "
+"cech."
 
 #: ../../source/kdsmart-app-b.rst:728
 msgid "The value may only be viewed in KDXplore during data curation. KDXplore is able to calculate Trait values from other Traits via entering a formula (similar to Excel)."
 msgstr ""
+"Wartość ta może być wyświetlana tylko w KDXplore podczas kuracji danych. "
+"KDXplore jest w stanie obliczyć wartości cech z innych cech poprzez "
+"wprowadzenie formuły (podobnej do Excela)."
 
 #: ../../source/kdsmart-app-b.rst:730
 msgid "New Traits cannot be derived from Trait names containing spaces. Recommendation that underscores are used in place of spaces for Trait names, especially if they are intended for use in calculations."
 msgstr ""
+"Nowych cech nie można wyprowadzić z nazw cech zawierających spacje. "
+"Zalecenie, aby podkreślenia były używane zamiast spacji dla nazw cech, "
+"zwłaszcza jeśli są one przeznaczone do wykorzystania w obliczeniach."
 
 #: ../../source/kdsmart-app-b.rst:732
 msgid "See: :ref:`Calculated_or_Derived_Traits`"
-msgstr ""
+msgstr "Patrz: :ref: `Calculated_or_derived_traits`"
 
 #: ../../source/kdsmart-app-b.rst:740
 msgid "Tags"
-msgstr ""
+msgstr "Tagi"
 
 #: ../../source/kdsmart-app-b.rst:742
 msgid "The following details the required and optional headings in a CSV file that contains details of Tags that will be used to annotate Plots and Sub-Plots when Scoring a Trial."
 msgstr ""
+"Poniżej opisano wymagane i opcjonalne nagłówki w pliku CSV, który zawiera "
+"szczegóły znaczników, które będą używane do opisywania wykresów i wykresów "
+"podrzędnych podczas oceniania wersji próbnej."
 
 #: ../../source/kdsmart-app-b.rst:755
 msgid "**Mandatory**"
-msgstr ""
+msgstr "**Obowiązkowe**"
 
 #: ../../source/kdsmart-app-b.rst:757
 msgid "**Label**"
-msgstr ""
+msgstr "**Etykiet**"
 
 #: ../../source/kdsmart-app-b.rst:758
 msgid "TagLabel, Comment"
-msgstr ""
+msgstr "TagLabel, Komentarz"
 
 #: ../../source/kdsmart-app-b.rst:759
 #: ../../source/kdsmart-app-b.rst:763
 msgid "Yes"
-msgstr ""
+msgstr "tak"
 
 #: ../../source/kdsmart-app-b.rst:760
 msgid "Name of the Tag e.g. BD for bird damage"
-msgstr ""
+msgstr "Nazwa znacznika np. BD dla uszkodzeń ptaków"
 
 #: ../../source/kdsmart-app-b.rst:762
 msgid "TagDescription, Desc, CommentDescription"
-msgstr ""
+msgstr "TagiOpis, Desc, KomentarzOpis"
 
 #: ../../source/kdsmart-app-b.rst:764
 msgid "Tag description"
-msgstr ""
+msgstr "Opis tagu"
 
 #: ../../source/kdsmart-app-b.rst:765
 msgid "**DatabaseLabelId**"
-msgstr ""
+msgstr "**TabelaBazy danych**"
 
 #: ../../source/kdsmart-app-b.rst:766
 msgid "LabelId, Id"
-msgstr ""
+msgstr "Etykieta, Identyfikator"
 
 #: ../../source/kdsmart-app-b.rst:767
 msgid "No"
-msgstr ""
+msgstr "Nie"
 
 #: ../../source/kdsmart-app-b.rst:768
 msgid "Useful for cross-reference to the originating database"
-msgstr ""
+msgstr "Przydatne do odsyłania do pierwotnej bazy danych"
 
 #: ../../source/kdsmart-app-b.rst:779
 msgid "Sub-Plot Level Trait Import Examples"
-msgstr ""
+msgstr "Przykłady importu cech poziomu wykresu podrzędnego"
 
 #: ../../source/kdsmart-app-b.rst:781
 msgid "The following six cases illustrate part of the input CSV file and how the Trait will be represented in KDSmart. The last example, case 7, shows what not to do!"
 msgstr ""
+"Poniższe sześć przypadków ilustruje część wejściowego pliku CSV i sposób, w "
+"jaki cecha będzie reprezentowana w KDSmart. Ostatni przykład, przypadek 7, "
+"pokazuje, czego nie robić!"
 
 #: ../../source/kdsmart-app-b.rst:786
 msgid "|l-case1|"
-msgstr ""
+msgstr "|l-case1|"
 
 #: ../../source/kdsmart-app-b.rst:804
 #: ../../source/kdsmart-app-b.rst:804
 msgid "l-case1"
-msgstr ""
+msgstr "l-case1"
 
 #: ../../source/kdsmart-app-b.rst:789
 msgid "|l-case2|"
-msgstr ""
+msgstr "|l-case2|"
 
 #: ../../source/kdsmart-app-b.rst:808
 #: ../../source/kdsmart-app-b.rst:808
 msgid "l-case2"
-msgstr ""
+msgstr "l-case2"
 
 #: ../../source/kdsmart-app-b.rst:792
 msgid "|l-case3|"
-msgstr ""
+msgstr "|l-case3|"
 
 #: ../../source/kdsmart-app-b.rst:811
 #: ../../source/kdsmart-app-b.rst:811
 msgid "l-case3"
-msgstr ""
+msgstr "l-case3"
 
 #: ../../source/kdsmart-app-b.rst:794
 msgid "|l-case4|"
-msgstr ""
+msgstr "|l-case4|"
 
 #: ../../source/kdsmart-app-b.rst:814
 #: ../../source/kdsmart-app-b.rst:814
 msgid "l-case4"
-msgstr ""
+msgstr "l-case4"
 
 #: ../../source/kdsmart-app-b.rst:796
 msgid "|l-case5|"
-msgstr ""
+msgstr "|l-case5|"
 
 #: ../../source/kdsmart-app-b.rst:817
 #: ../../source/kdsmart-app-b.rst:817
 msgid "l-case5"
-msgstr ""
+msgstr "l-case5"
 
 #: ../../source/kdsmart-app-b.rst:798
 msgid "|l-case6|"
-msgstr ""
+msgstr "|l-case6|"
 
 #: ../../source/kdsmart-app-b.rst:820
 #: ../../source/kdsmart-app-b.rst:820
 msgid "l-case6"
-msgstr ""
+msgstr "l-case6"
 
 #: ../../source/kdsmart-app-b.rst:800
 msgid "|l-case7|"
-msgstr ""
+msgstr "|l-case7|"
 
 #: ../../source/kdsmart-app-b.rst:823
 #: ../../source/kdsmart-app-b.rst:823
 msgid "l-case7"
-msgstr ""
+msgstr "l-case7"
 
 #: ../../source/kdsmart-app-b.rst:832
 msgid "Excel Formula for Converting ISO-8601 Timestamp to Excel Date"
 msgstr ""
+"Formuła programu Excel do konwersji znacznika czasu ISO-8601 na datę "
+"programu Excel"
 
 #: ../../source/kdsmart-app-b.rst:838
 msgid "When KDXplore or KDSmart use a timestamp for a scored trait value the timestamp is recorded in |ISO_link|."
 msgstr ""
+"Gdy KDXplore lub KDSmart używają znacznika czasu dla wartości cechy "
+"punktowanej, znacznik czasu jest rejestrowany w |ISO_link|."
 
 #: ../../source/kdsmart-app-b.rst:840
 msgid "Using this format means that you can correctly compare data collected in different time zones."
 msgstr ""
+"Korzystanie z tego formatu oznacza, że możesz poprawnie porównać dane "
+"zebrane w różnych strefach czasowych."
 
 #: ../../source/kdsmart-app-b.rst:843
 msgid "Unfortunately Microsoft Excel does not automatically recognise this format. However, using the formula below, you can easily convert the date/time string in ISO-8601 format into an Excel date/time value and render this in a more useful form by using an appropriate cell format (e.g. yyyy-mm-dd hh:mm:ss)."
 msgstr ""
+"Niestety Microsoft Excel nie rozpoznaje automatycznie tego formatu. Jednak "
+"korzystając z poniższej formuły, możesz łatwo przekonwertować ciąg daty/"
+"godziny w formacie ISO-8601 na wartość daty/godziny programu Excel i "
+"renderować go w bardziej użytecznej formie za pomocą odpowiedniego formatu "
+"komórki (np. rrrrR-mm-dd hh:mm:ss)."
 
 #: ../../source/kdsmart-app-b.rst:845
 msgid "The formula is:"
-msgstr ""
+msgstr "Formuła jest następująca:"
 
 #: ../../source/kdsmart-app-b.rst:854
 msgid "If you wish to know what the formula is doing, the explanation is below. The formula above is split across three lines to facilitate the following explanation."
 msgstr ""
+"Jeśli chcesz wiedzieć, co robi formuła, wyjaśnienie znajduje się poniżej. "
+"Powyższy wzór jest podzielony na trzy linie, aby ułatwić następujące "
+"wyjaśnienie."
 
 #: ../../source/kdsmart-app-b.rst:857
 msgid "Excel's internal date time format is a *real* number where the part before the decimal point is the *number* of days and the portion after the decimal point is the *fraction* of a day."
 msgstr ""
+"Wewnętrzny format daty i godziny programu Excel to * rzeczywista* liczba*, w "
+"której część przed przecinkiem dziesiętnym jest*liczba* dni, a część po "
+"przecinku to *ułamk* dnia."
 
 #: ../../source/kdsmart-app-b.rst:859
 msgid "The first line of the formula extracts the year/month/day portion and converts it into the full days portion of the result"
 msgstr ""
+"Pierwsza linia formuły wyodrębnia porcję roku/miesiąc/dzień i przekształca "
+"ją w pełną część dniową wyniku"
 
 #: ../../source/kdsmart-app-b.rst:861
 msgid "The second part of the formula extracts the hours/minutes/seconds portion and converts it into the day fraction portion."
 msgstr ""
+"Druga część formuły wyodrębnia porcję godzin/minut/sekundy i przekształca ją "
+"w porcję frakcji dziennej."
 
 #: ../../source/kdsmart-app-b.rst:863
 msgid "The third and final part obtains the time zone portion of the ISO-8601 timestamp and converts it into another day fraction part. It checks for the special *Z time zone* that indicates a zero offset. If it is not *Z*, the time zone is in ±HHMM format so the formula extracts the HH portion separate from the MM portion, computes the total as a number of minutes and divides by 1440 (the number of minutes in a day) to arrive at a final day fraction component that is added to the amount determined by the first two parts of the formula. Any leading plus or minus sign is used to correctly perform this computation."
 msgstr ""
+"Trzecia i ostatnia część uzyskuje część strefy czasowej znacznika czasu ISO-"
+"8601 i przekształca ją na inną część ułamkową dnia. Sprawdza specjalną "
+"strefę czasową*Z*, która wskazuje przesunięcie zerowe. Jeśli nie jest *Z*, "
+"strefa czasowa jest w formacie ±HHMM, więc formuła wyodrębnia część HH "
+"oddzieloną od części MM, oblicza sumę jako liczbę minut i dzieli przez 1440 ("
+"liczba minut w ciągu dnia), aby uzyskać składnik ułamka ostatniego dnia, "
+"który jest dodawany do ilości określonej przez pierwsze dwie części wzoru. "
+"Do prawidłowego wykonania tego obliczenia używany jest dowolny wiodący znak "
+"plus lub minus."
