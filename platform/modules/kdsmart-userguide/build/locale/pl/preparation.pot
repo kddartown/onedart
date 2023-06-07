@@ -8,69 +8,73 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-06-07 06:24+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Polish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/scoringpreparation/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/preparation.rst:16
 msgid "image4"
-msgstr ""
+msgstr "image4"
 
 #: ../../source/preparation.rst:19
 msgid "image5"
-msgstr ""
+msgstr "image5"
 
 #: ../../source/preparation.rst:22
 msgid "image6"
-msgstr ""
+msgstr "image6"
 
 #: ../../source/preparation.rst:25
 msgid "image7"
-msgstr ""
+msgstr "image7"
 
 #: ../../source/preparation.rst:28
 #: ../../source/preparation.rst:28
@@ -78,69 +82,69 @@ msgstr ""
 #: ../../source/preparation.rst:28
 #: ../../source/preparation.rst:28
 msgid "edit_btn"
-msgstr ""
+msgstr "edit_btn"
 
 #: ../../source/preparation.rst:31
 #: ../../source/preparation.rst:31
 msgid "menu_btn"
-msgstr ""
+msgstr "menu_btn"
 
 #: ../../source/preparation.rst:34
 #: ../../source/preparation.rst:34
 msgid "trait_mng_btn"
-msgstr ""
+msgstr "trait_mng_btn"
 
 #: ../../source/preparation.rst:37
 #: ../../source/preparation.rst:37
 #: ../../source/preparation.rst:37
 msgid "add_btn"
-msgstr ""
+msgstr "add_btn"
 
 #: ../../source/preparation.rst:40
 #: ../../source/preparation.rst:40
 msgid "order_btn"
-msgstr ""
+msgstr "order_btn"
 
 #: ../../source/preparation.rst:43
 #: ../../source/preparation.rst:43
 msgid "move_up_btn"
-msgstr ""
+msgstr "move_up_btn"
 
 #: ../../source/preparation.rst:46
 #: ../../source/preparation.rst:46
 msgid "move_down_btn"
-msgstr ""
+msgstr "move_down_btn"
 
 #: ../../source/preparation.rst:49
 #: ../../source/preparation.rst:49
 #: ../../source/preparation.rst:49
 msgid "remove_btn"
-msgstr ""
+msgstr "remove_btn"
 
 #: ../../source/preparation.rst:52
 #: ../../source/preparation.rst:52
 msgid "ssm_btn"
-msgstr ""
+msgstr "ssm_btn"
 
 #: ../../source/preparation.rst:55
 #: ../../source/preparation.rst:55
 msgid "psm_btn"
-msgstr ""
+msgstr "psm_btn"
 
 #: ../../source/preparation.rst:58
 #: ../../source/preparation.rst:58
 msgid "fsm_btn"
-msgstr ""
+msgstr "fsm_btn"
 
 #: ../../source/preparation.rst:61
 #: ../../source/preparation.rst:61
 msgid "lock_btn"
-msgstr ""
+msgstr "lock_btn"
 
 #: ../../source/preparation.rst:64
 #: ../../source/preparation.rst:64
 msgid "ppg_btn"
-msgstr ""
+msgstr "ppg_bd"
 
 #: ../../source/preparation.rst:67
 #: ../../source/preparation.rst:67
@@ -150,104 +154,141 @@ msgstr ""
 #: ../../source/preparation.rst:67
 #: ../../source/preparation.rst:67
 msgid "start_btn"
-msgstr ""
+msgstr "start_btn"
 
 #: ../../source/preparation.rst:84
 msgid "Preparing for Scoring"
-msgstr ""
+msgstr "Przygotowanie do punktacji"
 
 #: ../../source/preparation.rst:86
 msgid "Trials that are scored in KDSmart will require some configuration so that users can score their trials in the way that that is best for their workflow. There are plenty of different configuration options in KDSmart so this section is a guide to preparing for scoring."
 msgstr ""
+"Próby, które są oceniane w KDSmart, będą wymagały pewnej konfiguracji, aby "
+"użytkownicy mogli oceniać swoje próby w sposób, który jest najlepszy dla ich "
+"przepływu pracy. Istnieje wiele różnych opcji konfiguracji w KDSmart, więc "
+"ta sekcja jest przewodnikiem po przygotowaniach do punktacji."
 
 #: ../../source/preparation.rst:89
 msgid "Demo vs Production - Where is Your Data Stored?"
-msgstr ""
+msgstr "Demo a produkcja - gdzie przechowywane są Twoje dane?"
 
 #: ../../source/preparation.rst:91
 msgid "KDSmart contains two separate local databases on the device; the **Production Database** for your real work, and the **Demo Database** for experimenting with KDSmart."
 msgstr ""
+"KDSmart zawiera dwie oddzielne lokalne bazy danych na urządzeniu; **"
+"Produkcyjna baza** dla Twojej prawdziwej pracy oraz **Demo Database** do "
+"eksperymentowania z KDSmart."
 
 #: ../../source/preparation.rst:93
 msgid "*KDSmart* helps you identify which database is active in a number of ways:"
 msgstr ""
+"*KDSmart* pomaga zidentyfikować, która baza danych jest aktywna na wiele "
+"sposobów:"
 
 #: ../../source/preparation.rst:95
 msgid "If you see the |image21| **Lockdown Button** at the top of the **Home Screen** then you are using the **Demo Database**."
 msgstr ""
+"Jeśli widzisz |image21| **Przycisk blokady** u góry ekranu głównego**, to "
+"korzystasz z **Demo Database**."
 
 #: ../../source/preparation.rst:557
 #: ../../source/preparation.rst:557
 msgid "image21"
-msgstr ""
+msgstr "image21"
 
 #: ../../source/preparation.rst:96
 msgid "When the **Scoring Configuration Screen** is presented, there is a  *[DEMO db]* label at the bottom."
 msgstr ""
+"Po wyświetleniu ekranu**Scoring Configuration Screen** na dole znajduje się "
+"etykieta* [DEMO db] *."
 
 #: ../../source/preparation.rst:98
 msgid "The |image22| **Lockdown Button** sets KDSmart into **Lockdown mode**. This mode allows you to control the scoring task without enabling users the ability to change settings or trial attributes."
 msgstr ""
+"|image22| **Przycisk blokady** ustawia KDSmart w tryb blokady**. Tryb ten "
+"pozwala kontrolować zadanie punktacji bez umożliwiania użytkownikom zmiany "
+"ustawień lub atrybutów próbnych."
 
 #: ../../source/preparation.rst:560
 #: ../../source/preparation.rst:560
 msgid "image22"
-msgstr ""
+msgstr "image22"
 
 #: ../../source/preparation.rst:100
 msgid "Use this mode when someone else is to perform the scoring and that is **ALL** they are to do."
 msgstr ""
+"Użyj tego trybu, gdy ktoś inny ma wykonać punktację i to jest**WSZYSTKO**, "
+"co ma zrobić."
 
 #: ../../source/preparation.rst:102
 msgid "To exit *Lockdown* mode, a four-digit passcode is required. When the **Production Database** is active, **Lockdown Mode** is enabled from the |image23| **Settings Screen**."
 msgstr ""
+"Aby wyjść z tryb*Lockdown*, wymagany jest czterocyfrowy kod dostępu. Gdy "
+"aktywna jest **Produkcyjna baza danych**, **Tryb blokady** jest włączony z "
+"|image23| **Ekran Ustawienia**."
 
 #: ../../source/preparation.rst:563
 #: ../../source/preparation.rst:563
 #: ../../source/preparation.rst:563
 #: ../../source/preparation.rst:563
 msgid "image23"
-msgstr ""
+msgstr "image23"
 
 #: ../../source/preparation.rst:108
 msgid "Demo vs Production Local Database"
-msgstr ""
+msgstr "Demo a produkcja lokalna baza danych"
 
 #: ../../source/preparation.rst:113
 msgid "**Demo**"
-msgstr ""
+msgstr "**Dema**"
 
 #: ../../source/preparation.rst:114
 msgid "Pre-installed demonstration data provided with KDSmart to allow users data to experiment and test KDSmart functionality before working with *real* data."
 msgstr ""
+"Wstępnie zainstalowane dane demonstracyjne dostarczane z KDSmart, aby "
+"umożliwić użytkownikom eksperymentowanie i testowanie funkcji KDSmart przed "
+"rozpoczęciem pracy z danymi rzeczywistymi."
 
 #: ../../source/preparation.rst:115
 msgid "The **Demo Database** can be reset at any time from the **Settings Screen**; use the |image23| **Settings Button** on the **Home Screen** or **Main Menu** to display the *Settings* and choose the **Reset Demo Database Checkbox**."
 msgstr ""
+"**Demo Database** można zresetować w dowolnym momencie z poziomu ekranu "
+"Ustawienia**; użyj |image23| **Przycisk Ustawienia** na ** Ekranie głównym** "
+"lub **Menu główne**, aby wyświetlić *Ustawienia* i wybierz pole wyboru **"
+"Reset Demo Databas**."
 
 #: ../../source/preparation.rst:116
 msgid "On return from the **Settings Screen**, KDSmart changes to the **Demo Database** and reinitialises the demo data."
 msgstr ""
+"Po powrocie z ekranu **Ustawienia**, KDSmart zmienia się na **Demo Database**"
+" i ponownie inicjalizuje dane demonstracyjne."
 
 #: ../../source/preparation.rst:117
 msgid "**Production**"
-msgstr ""
+msgstr "**Produkcja**"
 
 #: ../../source/preparation.rst:118
 msgid "The local KDSmart database to store your real *Production* work."
 msgstr ""
+"Lokalna baza danych KDSmart do przechowywania prawdziwej pracy*Produkcji*."
 
 #: ../../source/preparation.rst:119
 msgid "KDSmart installs with an empty **Production Database**."
-msgstr ""
+msgstr "KDSmart instaluje się z pustą bazą danych produkcyjnych**."
 
 #: ../../source/preparation.rst:120
 msgid "**Lockdown Mode** can be used to prevent data loss - particularly when scoring is not performed by the breeder."
 msgstr ""
+"**Tryb blokady** może być stosowany w celu zapobiegania utracie danych - "
+"szczególnie, gdy hodowca nie wykonuje punktacji."
 
 #: ../../source/preparation.rst:123
 msgid "To change the database, select the |image23| **Settings Button** on the **Home Screen** or **Main Menu** to display the **Settings Screen**. Select the *Active Database* option then choose the *Production* or *Demo* radio buttons."
 msgstr ""
+"Aby zmienić bazę danych, wybierz |image23| **Ustawienia** na **Ekran główny**"
+" lub **Menu główne**, aby wyświetlić ekran ustawień **. Wybierz opcję *"
+"Aktywna baza danych*, a następnie wybierz przyciski radiowe *Produkcja* lub "
+"*Demo*."
 
 #: ../../source/preparation.rst:125
 #: ../../source/preparation.rst:213
@@ -264,27 +305,37 @@ msgstr ""
 #: ../../source/preparation.rst:447
 #: ../../source/preparation.rst:479
 msgid "|br|"
-msgstr ""
+msgstr "|pl|"
 
 #: ../../source/preparation.rst:132
 msgid "Trial Details"
-msgstr ""
+msgstr "Szczegóły próbne"
 
 #: ../../source/preparation.rst:134
 msgid "Trial details are the attributes of each trial such as trial layout, organism type, and traits. The **Trial Details Screen** can be accessed in two ways:"
 msgstr ""
+"Szczegóły próby to atrybuty każdej próby, takie jak układ próby, typ "
+"organizmu i cechy. ** Ekran szczegółów próbnych** można uzyskać na dwa "
+"sposoby:"
 
 #: ../../source/preparation.rst:136
 msgid "Selecting a trial (with a short press) from the **Trials Screen**; and"
 msgstr ""
+"Wybór wersji próbnej (za pomocą krótkiego naciśnięcia) z ekranu **Próbny**; "
+"oraz"
 
 #: ../../source/preparation.rst:137
 msgid "Swiping left/right on the **Home Screen** until the desired trial is found and then Selecting the **Trial Details Button**."
 msgstr ""
+"Przesuwając palcem w lewo/w prawo na ** Ekranie głównym**, aż zostanie "
+"znaleziona żądana wersja próbna, a następnie wybranie przycisku ** Szczegóły "
+"próbne**."
 
 #: ../../source/preparation.rst:148
 msgid "When viewing trial details, those trial attributes that can be edited will have an adjacent |br| |edit_btn| **Edit Button**."
 msgstr ""
+"Podczas przeglądania szczegółów wersji próbnej te atrybuty próbne, które "
+"można edytować, będą miały sąsiedni |br| |edit_btn| **Przycisk Edytuj**."
 
 #: ../../source/preparation.rst:151
 #: ../../source/preparation.rst:261
@@ -292,7 +343,7 @@ msgstr ""
 #: ../../source/preparation.rst:382
 #: ../../source/preparation.rst:428
 msgid "|center-start|"
-msgstr ""
+msgstr "|centrum-start|"
 
 #: ../../source/preparation.rst:159
 #: ../../source/preparation.rst:269
@@ -300,539 +351,631 @@ msgstr ""
 #: ../../source/preparation.rst:390
 #: ../../source/preparation.rst:436
 msgid "|center-end|"
-msgstr ""
+msgstr "|centralny końc|"
 
 #: ../../source/preparation.rst:168
 #: ../../source/preparation.rst:168
 msgid "Trial Details Screen"
-msgstr ""
+msgstr "Ekran szczegółów wersji próbnej"
 
 #: ../../source/preparation.rst:171
 msgid "The table below provides information on each trial attribute: |br|"
 msgstr ""
+"Poniższa tabela zawiera informacje na temat każdego atrybutu próbnego: |br|"
 
 #: ../../source/preparation.rst:181
 #: ../../source/preparation.rst:206
 msgid "Trial Attributes"
-msgstr ""
+msgstr "Atrybuty próbne"
 
 #: ../../source/preparation.rst:186
 msgid "**Trial Attribute**"
-msgstr ""
+msgstr "**Atrybut próbny**"
 
 #: ../../source/preparation.rst:187
 msgid "**Description**"
-msgstr ""
+msgstr "**Opis**"
 
 #: ../../source/preparation.rst:188
 msgid "Trial Name"
-msgstr ""
+msgstr "Nazwa Próbna"
 
 #: ../../source/preparation.rst:189
 msgid "What the trial will be named in KDXplore or KDSmart."
-msgstr ""
+msgstr "Jak zostanie nazwana próba w KDXplore lub KDSmart."
 
 #: ../../source/preparation.rst:190
 msgid "Abbreviation"
-msgstr ""
+msgstr "Skrót"
 
 #: ../../source/preparation.rst:191
 msgid "An abbreviated trial name for display purposes."
-msgstr ""
+msgstr "Skrócona nazwa próbna do celów wyświetlania."
 
 #: ../../source/preparation.rst:192
 msgid "Planting Date"
-msgstr ""
+msgstr "Data sadzenia"
 
 #: ../../source/preparation.rst:193
 msgid "The date that planting occurred for the trial. Planting date must be set before scoring can commence as the *Elapsed Days* trait data type will not work unless it has been set."
 msgstr ""
+"Data sadzenia na potrzeby procesu. Przed rozpoczęciem punktacji należy "
+"ustawić datę sadzenia, ponieważ typ danych cechy*Upłynęły dni* nie będzie "
+"działać, chyba że został ustawiony."
 
 #: ../../source/preparation.rst:194
 msgid "Plot & X/Y Axis Names"
-msgstr ""
+msgstr "Nazwy wykresu i osi X/Y"
 
 #: ../../source/preparation.rst:195
 msgid "Determines the trial element names that are to appear on scoring screens. |br| These will be names for Plot and X/Y axes, depending upon what was imported."
 msgstr ""
+"Określa nazwy elementów próbnych, które mają być wyświetlane na ekranach "
+"punktacji. |br| Będą to nazwy osi wykresu i X/Y, w zależności od tego, co "
+"zostało zaimportowane."
 
 #: ../../source/preparation.rst:196
 msgid "Plot Identification"
-msgstr ""
+msgstr "Identyfikacja działek"
 
 #: ../../source/preparation.rst:197
 msgid "How plots are identified e.g. Block/Block Column/Block Row."
-msgstr ""
+msgstr "Jak wykresy są identyfikowane, np. Blok/Blok Kolumna/Wiersz bloku."
 
 #: ../../source/preparation.rst:198
 msgid "Trial Layout"
-msgstr ""
+msgstr "Układ próbny"
 
 #: ../../source/preparation.rst:199
 msgid "At a minimum, there will be an option for choosing the plot origin (starting plot for scoring). Depending on the trial, there may be more options such as block plot origin."
 msgstr ""
+"Co najmniej będzie możliwość wyboru pochodzenia działki (wykres początkowy "
+"do punktacji). W zależności od próby może istnieć więcej opcji, takich jak "
+"początek wykresu blokowego."
 
 #: ../../source/preparation.rst:200
 msgid "Organism Type"
-msgstr ""
+msgstr "Rodzaj organizmu"
 
 #: ../../source/preparation.rst:201
 msgid "Provides a choice of the symbol to represent the organism on screen."
-msgstr ""
+msgstr "Zapewnia wybór symbolu reprezentujący organizm na ekranie."
 
 #: ../../source/preparation.rst:202
 msgid "Note"
-msgstr ""
+msgstr "Uwaga"
 
 #: ../../source/preparation.rst:203
 msgid "A text note for the trial."
-msgstr ""
+msgstr "Notatka tekstowa na rozprawę."
 
 #: ../../source/preparation.rst:204
 msgid "Traits"
-msgstr ""
+msgstr "Cechy"
 
 #: ../../source/preparation.rst:205
 msgid "Trials may have many traits, however, it is not necessary or desirable for them all to be visible when scoring and traits can be made visible or hidden as required. Select the **Edit Button** to change traits that are used. |br| The blue highlighted panel, near the bottom of the **Scoring Configuration Screen** lists the trait instances available in the trial showing: |br| |important| Traits currently selected for scoring; |br| |not_important| Not selected or hidden; and |br| |half-important| Trait instance(s) selected."
 msgstr ""
+"Próby mogą mieć wiele cech, jednak nie jest konieczne ani pożądane, aby "
+"wszystkie były widoczne, gdy punktacja i cechy mogą być widoczne lub ukryte "
+"w razie potrzeby. Wybierz przycisk **Edycja**, aby zmienić używane cechy. "
+"|br| Podświetlony na niebiesko panel znajdujący się u dołu ekranu "
+"konfiguracji punktacji** wyświetla instancje cech dostępne w próbie, "
+"pokazując: |br| |ważne| Cechy aktualnie wybrane do punktacji; |br| "
+"|not_important| Niewybrane lub ukryte; i |br| |na wpół ważne| Wybrane "
+"instancje cechy."
 
 #: ../../source/preparation.rst:530
 #: ../../source/preparation.rst:530
 #: ../../source/preparation.rst:530
 msgid "important"
-msgstr ""
+msgstr "ważne"
 
 #: ../../source/preparation.rst:536
 #: ../../source/preparation.rst:536
 #: ../../source/preparation.rst:536
 msgid "not_important"
-msgstr ""
+msgstr "nieważne"
 
 #: ../../source/preparation.rst:533
 #: ../../source/preparation.rst:533
 #: ../../source/preparation.rst:533
 msgid "half-important"
-msgstr ""
+msgstr "na wpół ważne"
 
 #: ../../source/preparation.rst:207
 #: ../../source/preparation.rst:209
 #: ../../source/preparation.rst:211
 msgid "Non-editable from import"
-msgstr ""
+msgstr "Nieedytowalny z importu"
 
 #: ../../source/preparation.rst:208
 msgid "Plot Types"
-msgstr ""
+msgstr "Typy wykresów"
 
 #: ../../source/preparation.rst:210
 msgid "Plot Attributes"
-msgstr ""
+msgstr "Atrybuty wykresu"
 
 #: ../../source/preparation.rst:220
 msgid "Collection Parameters"
-msgstr ""
+msgstr "Parametry kolekcji"
 
 #: ../../source/preparation.rst:222
 msgid "Most of the important collection parameters (scoring options) can be found on the **Scoring Configuration Screen**. Swipe left and right between the tabs to view all of the options. The tables below outline the function or options available in each tab and the sections provide more in-depth information."
 msgstr ""
+"Większość ważnych parametrów zbierania (opcje punktacji) można znaleźć na **"
+"Scoring Configuration Screen**. Przesuń palcem w lewo i w prawo między "
+"kartami, aby wyświetlić wszystkie opcje. Poniższe tabele przedstawiają "
+"funkcję lub opcje dostępne na każdej karcie, a sekcje zawierają bardziej "
+"szczegółowe informacje."
 
 #: ../../source/preparation.rst:225
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 #: ../../source/preparation.rst:229
 msgid "Options Tab Actions"
-msgstr ""
+msgstr "Akcje na karcie Opcje"
 
 #: ../../source/preparation.rst:233
 #: ../../source/preparation.rst:298
 #: ../../source/preparation.rst:372
 #: ../../source/preparation.rst:418
 msgid "**Options**"
-msgstr ""
+msgstr "**Opcje**"
 
 #: ../../source/preparation.rst:234
 #: ../../source/preparation.rst:299
 #: ../../source/preparation.rst:373
 #: ../../source/preparation.rst:419
 msgid "**Example Image**"
-msgstr ""
+msgstr "**Przykładowy obraz**"
 
 #: ../../source/preparation.rst:235
 msgid "**Collection Order**:"
-msgstr ""
+msgstr "**Zamawianie odbioru**:"
 
 #: ../../source/preparation.rst:237
 msgid "Which corner of the field to begin. The four quadrants separated by the grey bars identify the corner of the field where to begin walking."
 msgstr ""
+"Który róg pola zacząć. Cztery ćwiartki oddzielone szarymi słupkami "
+"identyfikują róg pola, od którego należy zacząć chodzić."
 
 #: ../../source/preparation.rst:238
 msgid "The direction of travel (horizontal or vertical)."
-msgstr ""
+msgstr "Kierunek jazdy (poziomy lub pionowy)."
 
 #: ../../source/preparation.rst:239
 msgid "Whether you will be using a serpentine path or not; e.g. if you are not actually walking but are scoring plants in a tray in a greenhouse."
 msgstr ""
+"Niezależnie od tego, czy będziesz korzystać z wężowej ścieżki, czy nie; np. "
+"jeśli tak naprawdę nie chodzisz, ale zdobywasz rośliny na tacy w szklarni."
 
 #: ../../source/preparation.rst:241
 msgid "**Scoring View**:"
-msgstr ""
+msgstr "**Punktacja widoku**:"
 
 #: ../../source/preparation.rst:243
 msgid "Scoring views change the way that you score data. There is more information about these modes in the |Scoring|"
 msgstr ""
+"Widoki punktacji zmieniają sposób, w jaki oceniasz dane. Więcej informacji "
+"na temat tych trybów znajduje się w |Punktacja|"
 
 #: ../../source/preparation.rst:245
 msgid "|ssm_btn| - **Sheet Scoring Mode** is a traditional spreadsheet view with added features;"
 msgstr ""
+"|ssm_btn| - **Tryb punktacji arkuszów** to tradycyjny widok arkusza "
+"kalkulacyjnego z dodatkowymi funkcjami;"
 
 #: ../../source/preparation.rst:246
 msgid "|psm_btn| - **Path Scoring Mode** is the best choice for most users and allows for easy navigation between plots; and"
 msgstr ""
+"|psm_btn| - **Tryb punktacji ścieżki** jest najlepszym wyborem dla "
+"większości użytkowników i pozwala na łatwą nawigację między wykresami; i"
 
 #: ../../source/preparation.rst:247
 msgid "|fsm_btn| - **Field Scoring Mode** which represents the field from a top-down perspective."
 msgstr ""
+"|fsm_btn| - **Tryb punktacji pola**, który reprezentuje pole z perspektywy "
+"odgórnej."
 
 #: ../../source/preparation.rst:249
 msgid "|ppg_btn| **Plots per Group**:"
-msgstr ""
+msgstr "|ppg_btn| **Wykresy według grupy**:"
 
 #: ../../source/preparation.rst:251
 msgid "How many plots to score at one time e.g. scoring each plot to your left and right whilst walking along the field would be two plots."
 msgstr ""
+"Ile działek należy zdobyć jednocześnie, np. punktowanie każdej działki w "
+"lewo i prawo podczas spaceru po boisku, to dwie działki."
 
 #: ../../source/preparation.rst:253
 msgid "|lock_btn| **Lock Scored Traits**:"
-msgstr ""
+msgstr "|lock_btn| **Zablokuj cechy zdobyte**:"
 
 #: ../../source/preparation.rst:255
 msgid "Select the **Lock Scored Trait Checkbox** to prevent accidentally overwriting traits that have already been scored. Measurements can still be changed but there will be a warning message."
 msgstr ""
+"Zaznacz pole wyboru **Zablokuj zdobytą cechę, aby zapobiec przypadkowemu "
+"nadpisaniu cech, które zostały już zdobyte. Pomiary nadal można zmienić, ale "
+"pojawi się komunikat ostrzegawczy."
 
 #: ../../source/preparation.rst:278
 #: ../../source/preparation.rst:278
 msgid "Options Tab"
-msgstr ""
+msgstr "Karta Opcje"
 
 #: ../../source/preparation.rst:290
 msgid "Trait/Instance"
-msgstr ""
+msgstr "Cecha/instancja"
 
 #: ../../source/preparation.rst:294
 msgid "Trait/Instance Tab Actions"
-msgstr ""
+msgstr "Akcje na karcie Cechy/Wystąpienie"
 
 #: ../../source/preparation.rst:300
 msgid "**Selecting/Deselecting Traits**:"
-msgstr ""
+msgstr "**Wybieranie/odznaczanie cechów**:"
 
 #: ../../source/preparation.rst:302
 msgid "**Star Icons** can select or deselect a trait or trait instance for scoring (sets the trait as active or inactive). Setting a trait/instance as inactive does not remove the trait from the trial but removes it from the **Scoring Screen** to prevent unnecessary scrolling."
 msgstr ""
+"**Ikony gwiazd** mogą wybrać lub odznaczyć cechę lub instancję cechy do "
+"punktacji (ustawia cechę jako aktywną lub nieaktywną). Ustawienie ceszy/"
+"instancji jako nieaktywnej nie usuwa cechy z próby, ale usuwa ją z ekranu "
+"**Punktacji**, aby zapobiec niepotrzebnemu przewijaniu."
 
 #: ../../source/preparation.rst:304
 msgid "|important| - Selected;"
-msgstr ""
+msgstr "|ważne| - Wybrane;"
 
 #: ../../source/preparation.rst:305
 msgid "|half-important| - Partially selected (at least one but not all trait instances are selected); and"
 msgstr ""
+"|pół ważne| - Częściowo wybrane (co najmniej jedno, ale nie wszystkie "
+"instancje cech są wybrane); oraz"
 
 #: ../../source/preparation.rst:306
 msgid "|not_important| - Not selected."
-msgstr ""
+msgstr "|not_important| - Nie wybrano."
 
 #: ../../source/preparation.rst:308
 msgid "|menu_btn| **Menu Button**:"
-msgstr ""
+msgstr "|menu_btn| **Przycisk Menu:"
 
 #: ../../source/preparation.rst:310
 msgid "The **Menu Button** provides options for adding traits or changing the trait scoring order."
 msgstr ""
+"Przycisk **Menu zapewnia opcje dodawania cech lub zmiany kolejności "
+"punktacji cech."
 
 #: ../../source/preparation.rst:312
 msgid "|add_btn| - The **Add Traits Button** enables you to select any of your saved traits to add to the trial; and"
 msgstr ""
+"|add_btn| - Przycisk **Dodaj Cechy** umożliwia wybranie dowolnej z "
+"zapisanych cech do dodania do próby; oraz"
 
 #: ../../source/preparation.rst:313
 msgid "|order_btn| - The **Trait Order Button** option allows you to choose a trait scoring order."
 msgstr ""
+"|order_btn| - Opcja **Przycisk Kolejności Cechy** pozwala wybrać kolejność "
+"punktacji cech."
 
 #: ../../source/preparation.rst:336
 #: ../../source/preparation.rst:336
 msgid "Trait/Instance Tab"
-msgstr ""
+msgstr "Karta Cecha/instancja"
 
 #: ../../source/preparation.rst:339
 msgid "|trait_mng_btn| **Manage Trait Button**:"
-msgstr ""
+msgstr "|trait_mng_btn| **Przycisk Zarządzaj Cechą**:"
 
 #: ../../source/preparation.rst:341
 msgid "Enabled management of traits that are to be scored."
-msgstr ""
+msgstr "Umożliwiono zarządzanie cechami, które mają być punktowane."
 
 #: ../../source/preparation.rst:343
 msgid "|add_btn| - Add a trait to the trial with the **Add Trait Button**;"
-msgstr ""
+msgstr "|add_btn| - Dodaj cechę do próby za pomocą przycisku **Dodaj cechę;"
 
 #: ../../source/preparation.rst:344
 msgid "|move_up_btn| - The **Move Up Button** allows you to move the selected trait up in the scoring order;"
 msgstr ""
+"|move_up_btn| - Przycisk **Przenieś w górę** pozwala przesunąć wybraną cechę "
+"w górę w kolejności punktacji;"
 
 #: ../../source/preparation.rst:345
 msgid "|move_down_btn| - The **Move Down Button** allows you to move the selected trait down in the scoring order;"
 msgstr ""
+"|move_down_btn| - Przycisk **Przesuń w dół** pozwala przesunąć wybraną cechę "
+"w dół w kolejności punktacji;"
 
 #: ../../source/preparation.rst:346
 msgid "|edit_btn| - Add a trait description with the **Edit Description Button**; and"
-msgstr ""
+msgstr "|edit_btn| - Dodaj opis cechy za pomocą przycisku **Edytuj opis**; i"
 
 #: ../../source/preparation.rst:347
 msgid "|remove_btn| - Remove a trait from the trial with the **Remove Button**."
-msgstr ""
+msgstr "|remove_btn| - Usuń cechę z próby za pomocą przycisku **Usuń."
 
 #: ../../source/preparation.rst:348
 #: ../../source/preparation.rst:355
 msgid "See above image"
-msgstr ""
+msgstr "Zobacz powyższy obrazek"
 
 #: ../../source/preparation.rst:349
 msgid "|edit_btn| **Edit Trait Instance Button** (the edit icon next to a trait instance):"
 msgstr ""
+"|edit_btn| **Przycisk Edytuj instancję cechy** (ikona edycji obok instancji "
+"cechy):"
 
 #: ../../source/preparation.rst:351
 msgid "Options for editing or removing trait instances."
-msgstr ""
+msgstr "Opcje edycji lub usuwania wystąpień cech."
 
 #: ../../source/preparation.rst:353
 msgid "|edit_btn| - Add a trait instance description with the **Edit Description Button**; and"
 msgstr ""
+"|edit_btn| - Dodaj opis instancji cechy za pomocą przycisku **Edytuj opis**; "
+"i"
 
 #: ../../source/preparation.rst:354
 msgid "|remove_btn| - Remove a trait instance from the trial with the **Remove Button**."
-msgstr ""
+msgstr "|remove_btn| - Usuń instancję cechy z próby za pomocą przycisku **Usuń."
 
 #: ../../source/preparation.rst:364
 msgid "Choose Tag Bundle"
-msgstr ""
+msgstr "Wybierz pakiet znaczników"
 
 #: ../../source/preparation.rst:368
 msgid "Choosing a Tag Bundle"
-msgstr ""
+msgstr "Wybór pakietu tagów"
 
 #: ../../source/preparation.rst:374
 msgid "**Choose a Tag Bundle**:"
-msgstr ""
+msgstr "**Wybierz pakiet tagów**:"
 
 #: ../../source/preparation.rst:376
 msgid "Any listed tag bundle can be added with the checkboxes. More tag bundles can be imported or created in the **Tags Screen**."
 msgstr ""
+"Każdy wymieniony pakiet tagów można dodać za pomocą pól wyboru. Więcej "
+"pakietów tagów można importować lub tworzyć na ekranie **Tags Screen**."
 
 #: ../../source/preparation.rst:399
 #: ../../source/preparation.rst:399
 msgid "Choose a Tag Bundle"
-msgstr ""
+msgstr "Wybierz pakiet tagów"
 
 #: ../../source/preparation.rst:410
 #: ../../source/preparation.rst:445
 #: ../../source/preparation.rst:445
 msgid "Select Blocks"
-msgstr ""
+msgstr "Wybierz bloki"
 
 #: ../../source/preparation.rst:414
 #: ../../source/preparation.rst:461
 msgid "Selecting Blocks"
-msgstr ""
+msgstr "Wybieranie bloków"
 
 #: ../../source/preparation.rst:420
 msgid "**Select Blocks**:"
-msgstr ""
+msgstr "**Wybierz bloki**:"
 
 #: ../../source/preparation.rst:422
 msgid "Any block trial will have all blocks listed and selectable with the checkboxes. At least one must be chosen. This option will only be available for block trials."
 msgstr ""
+"Każda wersja próbna bloku będzie miała wszystkie bloki wymienione i "
+"wybierane za pomocą pól wyboru. Co najmniej jeden musi zostać wybrany. Ta "
+"opcja będzie dostępna tylko dla prób blokowych."
 
 #: ../../source/preparation.rst:454
 msgid "Start Scoring"
-msgstr ""
+msgstr "Rozpocznij punktację"
 
 #: ../../source/preparation.rst:456
 msgid "Scoring can be started in a variety of ways in KDSmart as outlined in the table below:"
 msgstr ""
+"Punktację można rozpocząć na różne sposoby w KDSmart, jak przedstawiono w "
+"poniższej tabeli:"
 
 #: ../../source/preparation.rst:466
 msgid "**Method**"
-msgstr ""
+msgstr "**Metoda**"
 
 #: ../../source/preparation.rst:467
 msgid "**Action**"
-msgstr ""
+msgstr "**Akcja**"
 
 #: ../../source/preparation.rst:468
 msgid "Quick-start from the **Home Screen**"
-msgstr ""
+msgstr "Szybki start z ** Ekran główny**"
 
 #: ../../source/preparation.rst:469
 msgid "Swipe left and right between the displayed trials until you find the trial that you want to score. Select the |start_btn| **Start Button** to immediately start scoring. If you have scored this trial before then this will resume scoring from where you were before. If this is a new trial you will be taken to the **Scoring Configuration Screen** where you need to confirm collection parameters, then select the |start_btn| **Start Button** to begin."
 msgstr ""
+"Przesuń palcem w lewo i w prawo między wyświetlanymi próbami, aż znajdziesz "
+"próbę, którą chcesz zdobyć. Wybierz |start_btn| **Przycisk Start**, aby "
+"natychmiast rozpocząć punktację. Jeśli wcześniej zdobyłeś tę próbę, wznowi "
+"to punktację z miejsca, w którym byłeś wcześniej. Jeśli jest to nowa wersja "
+"próbna, zostaniesz przeniesiony do **Scoring Configuration Screen**, gdzie "
+"musisz potwierdzić parametry kolekcji, a następnie wybierz |start_btn| **"
+"Przycisk Start**, aby rozpocząć."
 
 #: ../../source/preparation.rst:470
 msgid "Trial Details from the **Home Screen**"
-msgstr ""
+msgstr "Szczegóły wersji próbnej z ** Ekranu główny**"
 
 #: ../../source/preparation.rst:471
 msgid "Swipe left and right between the displayed trials until you find the trial that you want to score. Select the **Trial Details Button** and change any of the details if you wish then select the |start_btn| **Start Button**. If you have scored this trial before then this will resume scoring from where you were before. If this is a new trial you will be taken to the **Scoring Configuration Screen** where you need to confirm collection parameters, then select the |start_btn| **Start Button** again to begin."
 msgstr ""
+"Przesuń palcem w lewo i w prawo między wyświetlanymi próbami, aż znajdziesz "
+"próbę, którą chcesz zdobyć. Wybierz przycisk **Szczegóły próbne** i zmień "
+"dowolne szczegóły, jeśli chcesz, a następnie wybierz |start_btn| **Przycisk "
+"Start**. Jeśli wcześniej zdobyłeś tę próbę, wznowi to punktację z miejsca, w "
+"którym byłeś wcześniej. Jeśli jest to nowa wersja próbna, zostaniesz "
+"przeniesiony do **Scoring Configuration Screen**, gdzie musisz potwierdzić "
+"parametry zbierania, a następnie ponownie wybierz |start_btn| **Przycisk "
+"Start**, aby rozpocząć."
 
 #: ../../source/preparation.rst:472
 msgid "Quick-start from the **Trials Screen**"
-msgstr ""
+msgstr "Szybki start z ekranu**Próby**"
 
 #: ../../source/preparation.rst:473
 msgid "If there is currently a trial selected, select the |start_btn| **Start Button** to be taken to the **Scoring Configuration Screen** where you can choose collection parameters and then select the **Start Scoring Button** to begin scoring."
 msgstr ""
+"Jeśli aktualnie wybrano wersję próbną, wybierz |start_btn| **Przycisk Start**"
+", który ma zostać przeniesiony do ekranu konfiguracji punktacji**, gdzie "
+"możesz wybrać parametry kolekcji, a następnie wybierz przycisk **Rozpocznij "
+"punktację**, aby rozpocząć punktację."
 
 #: ../../source/preparation.rst:474
 msgid "Trial Details from the **Trials Screen**"
-msgstr ""
+msgstr "Szczegóły wersji próbnej z ekranu**Trials Screen**"
 
 #: ../../source/preparation.rst:475
 msgid "Select a trial to immediately display the **Trial Details Screen**. Select the |start_btn| **Start Button** to be taken to the **Scoring Configuration Screen** where you can choose collection parameters and then select the **Start Scoring Button** to begin scoring."
 msgstr ""
+"Wybierz wersję próbną, aby natychmiast wyświetlić ekran** Szczegóły próbny**"
+". Wybierz |start_btn| **Przycisk Start**, który ma zostać przeniesiony do "
+"ekranu konfiguracji punktacji**, gdzie możesz wybrać parametry kolekcji, a "
+"następnie wybierz przycisk **Rozpocznij punktację**, aby rozpocząć punktację."
 
 #: ../../source/preparation.rst:477
 msgid "Once all configuration options have been set, scoring can begin. See the |Scoring| for more information."
 msgstr ""
+"Po ustawieniu wszystkich opcji konfiguracji można rozpocząć punktację. "
+"Zobacz |Punktacja| po więcej informacji."
 
 #: ../../source/preparation.rst:486
 msgid "plotloc"
-msgstr ""
+msgstr "Plotloc"
 
 #: ../../source/preparation.rst:489
 msgid "accept-btn"
-msgstr ""
+msgstr "accept-btn"
 
 #: ../../source/preparation.rst:493
 msgid "search"
-msgstr ""
+msgstr "wyszukiwanie"
 
 #: ../../source/preparation.rst:496
 msgid "action_upload"
-msgstr ""
+msgstr "akcja_wgrywania"
 
 #: ../../source/preparation.rst:499
 msgid "action_download"
-msgstr ""
+msgstr "action_download"
 
 #: ../../source/preparation.rst:502
 msgid "plus-action"
-msgstr ""
+msgstr "plus-akcja"
 
 #: ../../source/preparation.rst:505
 msgid "find-plots-tag"
-msgstr ""
+msgstr "tag-find-plots-tag"
 
 #: ../../source/preparation.rst:508
 msgid "edit-action"
-msgstr ""
+msgstr "edycja-akcja"
 
 #: ../../source/preparation.rst:511
 msgid "new-action"
-msgstr ""
+msgstr "nowa akcja"
 
 #: ../../source/preparation.rst:515
 msgid "black5"
-msgstr ""
+msgstr "czarny5"
 
 #: ../../source/preparation.rst:517
 msgid "black3"
-msgstr ""
+msgstr "czarny3"
 
 #: ../../source/preparation.rst:519
 msgid "black2"
-msgstr ""
+msgstr "czarny2"
 
 #: ../../source/preparation.rst:521
 msgid "arrows"
-msgstr ""
+msgstr "strzały"
 
 #: ../../source/preparation.rst:524
 msgid "image8"
-msgstr ""
+msgstr "image8"
 
 #: ../../source/preparation.rst:527
 msgid "image9"
-msgstr ""
+msgstr "image9"
 
 #: ../../source/preparation.rst:539
 msgid "image12"
-msgstr ""
+msgstr "image12"
 
 #: ../../source/preparation.rst:542
 msgid "image13"
-msgstr ""
+msgstr "image13"
 
 #: ../../source/preparation.rst:545
 msgid "image17"
-msgstr ""
+msgstr "image17"
 
 #: ../../source/preparation.rst:548
 msgid "image18"
-msgstr ""
+msgstr "image18"
 
 #: ../../source/preparation.rst:551
 msgid "image19"
-msgstr ""
+msgstr "image19"
 
 #: ../../source/preparation.rst:554
 msgid "image20"
-msgstr ""
+msgstr "image20"
 
 #: ../../source/preparation.rst:566
 msgid "image26"
-msgstr ""
+msgstr "image26"
 
 #: ../../source/preparation.rst:569
 msgid "new_label_btn"
-msgstr ""
+msgstr "new_label_btn"
 
 #: ../../source/preparation.rst:572
 msgid "image28"
-msgstr ""
+msgstr "image28"
 
 #: ../../source/preparation.rst:575
 msgid "image29"
-msgstr ""
+msgstr "image29"
 
 #: ../../source/preparation.rst:578
 msgid "image30"
-msgstr ""
+msgstr "image30"
 
 #: ../../source/preparation.rst:581
 msgid "image31"
-msgstr ""
+msgstr "image31"
 
 #: ../../source/preparation.rst:584
 msgid "image32"
-msgstr ""
+msgstr "image32"
 
 #: ../../source/preparation.rst:587
 msgid "image33"
-msgstr ""
+msgstr "image33"
 
 #: ../../source/preparation.rst:590
 msgid "image34"
-msgstr ""
+msgstr "image34"
 
 #: ../../source/preparation.rst:593
 msgid "image35"
-msgstr ""
+msgstr "image35"
 
 #: ../../source/preparation.rst:596
 msgid "image36"
-msgstr ""
+msgstr "image36"
 
 #: ../../source/preparation.rst:599
 msgid "image37"
-msgstr ""
+msgstr "image37"
