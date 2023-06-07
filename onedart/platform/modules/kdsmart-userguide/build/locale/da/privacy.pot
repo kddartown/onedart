@@ -8,137 +8,174 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-06-07 06:55+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Danish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/privacy-policy/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/privacy.rst:13
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Fortrolighedspolitik"
 
 #: ../../source/privacy.rst:18
 msgid "What information is collected?"
-msgstr ""
+msgstr "Hvilke oplysninger indsamles?"
 
 #: ../../source/privacy.rst:20
 msgid "KDSmart can potentially collect:"
-msgstr ""
+msgstr "KDSmart kan potentielt indsamle:"
 
 #: ../../source/privacy.rst:22
 msgid "The location of your device;"
-msgstr ""
+msgstr "Placeringen af din enhed"
 
 #: ../../source/privacy.rst:23
 msgid "Pictures or audio that you take to record more information about your scoring activity; and"
 msgstr ""
+"Billeder eller lyd, som du tager for at optage flere oplysninger om din "
+"scoringsaktivitet; og"
 
 #: ../../source/privacy.rst:24
 msgid "The device identifier to help you separate the source of data when performing data curation from multiple devices."
 msgstr ""
+"Enhedsidentifikatoren hjælper dig med at adskille datakilden, når du udfører "
+"datakulering fra flere enheder."
 
 #: ../../source/privacy.rst:26
 #: ../../source/privacy.rst:33
 #: ../../source/privacy.rst:46
 #: ../../source/privacy.rst:61
 msgid "|br|"
-msgstr ""
+msgstr "|br|"
 
 #: ../../source/privacy.rst:29
 msgid "Is it used by Diversity Arrays Technology?"
-msgstr ""
+msgstr "Bruges det af Diversity Arrays Technology?"
 
 #: ../../source/privacy.rst:31
 msgid "The information that KDSmart collects is not used by Diversity Arrays Technology except if and when you decide to upload the data you have scored to a database that is, by formal agreement, managed and located on Diversity Arrays Technology servers."
 msgstr ""
+"De oplysninger, som KDSmart indsamler, bruges ikke af Diversity Arrays "
+"Technology, undtagen hvis og når du beslutter dig for at uploade de data, du "
+"har scoret til en database, der efter formel aftale er administreret og "
+"placeret på Diversity Arrays Technology-servere."
 
 #: ../../source/privacy.rst:36
 msgid "When is the information collected?"
-msgstr ""
+msgstr "Hvornår indsamles oplysningerne?"
 
 #: ../../source/privacy.rst:38
 msgid "KDSmart will only capture Location information if you have decided to turn on that facility. In this case, each value scored for a trait is recorded along with the date-time stamp and the Location."
 msgstr ""
+"KDSmart fanger kun placeringsoplysninger, hvis du har besluttet at aktivere "
+"denne facilitet. I dette tilfælde, hver værdi, der er scoret for et træk, "
+"registreres sammen med dato-tidsstemplet og placeringen."
 
 #: ../../source/privacy.rst:40
 msgid "Audio and pictorial information is only captured when you, the user, decide to make use of that functionality. The media data is saved in relation to the plot (or sub-plot) item and will only be exported, uploaded or transferred as and when you request that to happen and to the destination you decide."
 msgstr ""
+"Lyd- og billedoplysninger fanges kun, når du, brugeren, beslutter at gøre "
+"brug af denne funktionalitet. Mediedataene gemmes i forhold til plottet ("
+"eller delplottet) elementet og vil kun blive eksporteret, uploadet eller "
+"overført, når du anmoder om, at det sker, og til den destination, du "
+"beslutter dig for."
 
 #: ../../source/privacy.rst:42
 msgid "The device identifier is available to you to identify the device used to capture the phenotypic data when you export it. However, this is only used to initialise the data item and you are able to change that to whatever value you decide if you do not wish to make public the device identifier."
 msgstr ""
+"Enhedsidentifikatoren er tilgængelig for dig til at identificere den enhed, "
+"der bruges til at registrere de fænotypiske data, når du eksporterer dem. "
+"Dette bruges dog kun til at initialisere dataelementet, og du er i stand til "
+"at ændre det til den værdi, du beslutter, hvis du ikke ønsker at "
+"offentliggøre enhedsidentifikatoren."
 
 #: ../../source/privacy.rst:44
 msgid "When KDSmart connects to KDXchange, the device identifier is used to ensure that devices are uniquely identified but this information is not permanently recorded by the KDXchange server."
 msgstr ""
+"Når KDSmart opretter forbindelse til KDXchange, bruges enhedsidentifikatoren "
+"til at sikre, at enhederne identificeres entydigt, men denne information "
+"registreres ikke permanent af KDXchange-serveren."
 
 #: ../../source/privacy.rst:49
 msgid "When/where is the information shared?"
-msgstr ""
+msgstr "Hvornår/hvor deles oplysningerne?"
 
 #: ../../source/privacy.rst:51
 msgid "The data collected is shared only to a location that you decide and only when you decide to perform this operation."
 msgstr ""
+"De indsamlede data deles kun til en placering, som du beslutter dig for, og "
+"kun når du beslutter dig for at udføre denne handling."
 
 #: ../../source/privacy.rst:53
 msgid "Share destinations are either:"
-msgstr ""
+msgstr "Del destinationer er enten:"
 
 #: ../../source/privacy.rst:55
 msgid "a CSV, ZIP or KDX file on your tablet;"
-msgstr ""
+msgstr "en CSV-, ZIP- eller KDX-fil på din tablet;"
 
 #: ../../source/privacy.rst:56
 msgid "a KDXchange server (running on a desktop or laptop system); or"
 msgstr ""
+"en KDXchange-server (kører på et stationært eller bærbart system); eller"
 
 #: ../../source/privacy.rst:57
 msgid "a KDDart server, when enabled and only to the server destination that you choose."
 msgstr ""
+"en KDDart-server, når den er aktiveret og kun til den serverdestination, du "
+"vælger."
 
 #: ../../source/privacy.rst:59
 msgid "KDSmart provides a Lockdown facility to further protect the integrity and privacy of your data. However, if you choose to use a data sharing application, your data is subject to the data security and privacy provisions of that application."
 msgstr ""
+"KDSmart tilbyder en Lockdown-facilitet til yderligere at beskytte "
+"integriteten og privatlivets fred for dine data. Imidlertid, hvis du vælger "
+"at bruge et datadeling program, dine data er underlagt bestemmelserne om "
+"datasikkerhed og beskyttelse af personlige oplysninger i den pågældende "
+"applikation."
