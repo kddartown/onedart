@@ -8,118 +8,123 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-06-07 06:25+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Danish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/tipstroubleshooting/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/imagerefs.txt:5
 #: ../../source/imagerefs.txt:5
 #: ../../source/imagerefs.txt:5
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/kdsmart-tips.rst:29
 msgid "Tips & Troubleshooting"
-msgstr ""
+msgstr "Tips & Fejlfinding"
 
 #: ../../source/kdsmart-tips.rst:33
 #: ../../source/kdsmart-tips.rst:33
 msgid "back-btn"
-msgstr ""
+msgstr "tilbage-btn"
 
 #: ../../source/kdsmart-tips.rst:36
 #: ../../source/kdsmart-tips.rst:36
 msgid "blue-bars"
-msgstr ""
+msgstr "blå-barer"
 
 #: ../../source/kdsmart-tips.rst:39
 #: ../../source/kdsmart-tips.rst:39
 msgid "back-btn2"
-msgstr ""
+msgstr "tilbage-btn2"
 
 #: ../../source/kdsmart-tips.rst:42
 #: ../../source/kdsmart-tips.rst:42
 msgid "back-btn3"
-msgstr ""
+msgstr "tilbage-btn3"
 
 #: ../../source/kdsmart-tips.rst:45
 #: ../../source/kdsmart-tips.rst:45
 msgid "back-area"
-msgstr ""
+msgstr "back-område"
 
 #: ../../source/kdsmart-tips.rst:48
 #: ../../source/kdsmart-tips.rst:48
 msgid "rotate-btn"
-msgstr ""
+msgstr "rotere-BTN"
 
 #: ../../source/kdsmart-tips.rst:51
 msgid "accept-btn2"
-msgstr ""
+msgstr "acceptere-btn2"
 
 #: ../../source/kdsmart-tips.rst:55
 #: ../../source/kdsmart-tips.rst:55
 msgid "cancel-btn2"
-msgstr ""
+msgstr "annuller-btn2"
 
 #: ../../source/kdsmart-tips.rst:60
 #: ../../source/kdsmart-tips.rst:60
 msgid "expand"
-msgstr ""
+msgstr "udvide"
 
 #: ../../source/kdsmart-tips.rst:64
 #: ../../source/kdsmart-tips.rst:64
 msgid "contract"
-msgstr ""
+msgstr "kontrakt"
 
 #: ../../source/kdsmart-tips.rst:71
 msgid "This page contains a few general usage tips for KDSmart."
-msgstr ""
+msgstr "Denne side indeholder et par generelle brugstips til KDSmart."
 
 #: ../../source/kdsmart-tips.rst:73
 msgid "Select any heading to expand/display  |expand| or  contract |contract| the section."
 msgstr ""
+"Vælg en overskrift for at udvide/vise |udvid| eller kontrakt |kontrakt| "
+"sektionen."
 
 #: ../../source/kdsmart-tips.rst:75
 #: ../../source/kdsmart-tips.rst:151
@@ -139,23 +144,26 @@ msgstr ""
 #: ../../source/kdsmart-tips.rst:594
 #: ../../source/kdsmart-tips.rst:838
 msgid "|br|"
-msgstr ""
+msgstr "|br|"
 
 #: ../../source/kdsmart-tips.rst:79
 msgid "Tips"
-msgstr ""
+msgstr "Tips"
 
 #: ../../source/kdsmart-tips.rst:85
 msgid "Determining The Android Version"
-msgstr ""
+msgstr "Bestemmelse af Android-versionen"
 
 #: ../../source/kdsmart-tips.rst:87
 msgid "For support purposes, you may be asked to provide the version number of Android you are using. This is a simple check to perform on your phone or tablet by performing the following:"
 msgstr ""
+"Til supportformål kan du blive bedt om at angive det versionsnummer på "
+"Android, du bruger. Dette er en simpel kontrol, der skal udføres på din "
+"telefon eller tablet ved at udføre følgende:"
 
 #: ../../source/kdsmart-tips.rst:93
 msgid "Determining Android Version"
-msgstr ""
+msgstr "Bestemmelse af Android-version"
 
 #: ../../source/kdsmart-tips.rst:98
 #: ../../source/kdsmart-tips.rst:332
@@ -163,7 +171,7 @@ msgstr ""
 #: ../../source/kdsmart-tips.rst:548
 #: ../../source/kdsmart-tips.rst:775
 msgid "**Step**"
-msgstr ""
+msgstr "**Trin**"
 
 #: ../../source/kdsmart-tips.rst:99
 #: ../../source/kdsmart-tips.rst:333
@@ -171,40 +179,42 @@ msgstr ""
 #: ../../source/kdsmart-tips.rst:549
 #: ../../source/kdsmart-tips.rst:776
 msgid "**Action**"
-msgstr ""
+msgstr "**Handling**"
 
 #: ../../source/kdsmart-tips.rst:100
 #: ../../source/kdsmart-tips.rst:777
 msgid "**1.**"
-msgstr ""
+msgstr "**1. **"
 
 #: ../../source/kdsmart-tips.rst:101
 msgid "From the phone's **Home Screen** (not in KDSmart) select |settings| **Settings**."
 msgstr ""
+"Fra telefonens **Startskærm** (ikke i KDSmart) vælg |indstillinger| "
+"**Indstillinger**."
 
 #: ../../source/kdsmart-tips.rst:372
 #: ../../source/kdsmart-tips.rst:372
 #: ../../source/kdsmart-tips.rst:372
 msgid "settings"
-msgstr ""
+msgstr "indstillinger"
 
 #: ../../source/kdsmart-tips.rst:102
 #: ../../source/kdsmart-tips.rst:800
 msgid "**2.**"
-msgstr ""
+msgstr "**2. **"
 
 #: ../../source/kdsmart-tips.rst:103
 msgid "Scroll down to the bottom and select either **About Phone** or **About Device**."
-msgstr ""
+msgstr "Rul ned til bunden, og vælg enten **Om telefon** eller **Om enhed**."
 
 #: ../../source/kdsmart-tips.rst:104
 #: ../../source/kdsmart-tips.rst:823
 msgid "**3.**"
-msgstr ""
+msgstr "**3. **"
 
 #: ../../source/kdsmart-tips.rst:105
 msgid "Earlier versions the **Android Version** will appear in this list."
-msgstr ""
+msgstr "Tidligere versioner **Android Version** vises på denne liste."
 
 #: ../../source/kdsmart-tips.rst:109
 #: ../../source/kdsmart-tips.rst:132
@@ -219,13 +229,13 @@ msgstr ""
 #: ../../source/kdsmart-tips.rst:805
 #: ../../source/kdsmart-tips.rst:844
 msgid "|center-start|"
-msgstr ""
+msgstr "|center-start|"
 
 #: ../../source/kdsmart-tips.rst:107
 #: ../../source/kdsmart-tips.rst:125
 #: ../../source/kdsmart-tips.rst:125
 msgid "About Phone (Select to zoom)"
-msgstr ""
+msgstr "Om telefon (Vælg for at zoome)"
 
 #: ../../source/kdsmart-tips.rst:117
 #: ../../source/kdsmart-tips.rst:140
@@ -240,773 +250,928 @@ msgstr ""
 #: ../../source/kdsmart-tips.rst:813
 #: ../../source/kdsmart-tips.rst:852
 msgid "|center-end|"
-msgstr ""
+msgstr "|center-slut|"
 
 #: ../../source/kdsmart-tips.rst:127
 msgid "**4.**"
-msgstr ""
+msgstr "**4. **"
 
 #: ../../source/kdsmart-tips.rst:128
 msgid "Later versions select the **Software Info** item and **Android Version** should appear at the top."
 msgstr ""
+"Senere versioner vælger elementet **Software Info**, og **Android Version** "
+"skal vises øverst."
 
 #: ../../source/kdsmart-tips.rst:130
 #: ../../source/kdsmart-tips.rst:148
 #: ../../source/kdsmart-tips.rst:148
 msgid "Android Version (Select to zoom)"
-msgstr ""
+msgstr "Android-version (Vælg for at zoome)"
 
 #: ../../source/kdsmart-tips.rst:156
 msgid "Continue Scoring The Previous Trial"
-msgstr ""
+msgstr "Fortsæt med at score den forrige prøveperiode"
 
 #: ../../source/kdsmart-tips.rst:158
 #: ../../source/kdsmart-tips.rst:158
 msgid "image0"
-msgstr ""
+msgstr "image0"
 
 #: ../../source/kdsmart-tips.rst:162
 msgid "The name of the trial being scored is displayed on the KDSmart **Home Screen**. Just touch the |image0| **Start Scoring Button** or the trial name to continue from where you were previously scoring. KDSmart remembers the position or plot when you last exited the scoring activity for the trial (see the next section) and will present that plot to you."
 msgstr ""
+"Navnet på den prøveperiode, der scores, vises på KDSmart **Startskærmen**. "
+"Bare tryk på |image0| **Start scoringsknappen** eller prøvenavnet for at "
+"fortsætte fra det sted, hvor du tidligere scorede. KDSmart husker positionen "
+"eller plottet, da du sidst forlod scoringsaktiviteten for forsøget (se næste "
+"afsnit) og vil præsentere dette plot for dig."
 
 #: ../../source/kdsmart-tips.rst:170
 msgid "Quick Stop for a Break"
-msgstr ""
+msgstr "Hurtigt stop for en pause"
 
 #: ../../source/kdsmart-tips.rst:172
 #: ../../source/kdsmart-tips.rst:172
 msgid "image1"
-msgstr ""
+msgstr "billede1"
 
 #: ../../source/kdsmart-tips.rst:175
 #: ../../source/kdsmart-tips.rst:175
 msgid "image2"
-msgstr ""
+msgstr "billede2"
 
 #: ../../source/kdsmart-tips.rst:178
 #: ../../source/kdsmart-tips.rst:178
 msgid "image3"
-msgstr ""
+msgstr "billede3"
 
 #: ../../source/kdsmart-tips.rst:189
 msgid "**1.** If in **Auto-advance Mode**, exit using the **Home Button** in the top left corner: |br| |image1|"
 msgstr ""
+"**1.** Hvis du er i **Auto-Advance Mode**, skal du afslutte ved hjælp af "
+"**Hjem-knappen** i øverste venstre hjørne: |br| |image1|"
 
 #: ../../source/kdsmart-tips.rst:190
 msgid "**2.** In the **Scoring Screen**, exit using the **Home Button** in the top left corner: |br| |image2|"
 msgstr ""
+"**2.** I **Scoringsskærmen** skal du afslutte ved hjælp af **Hjem-knappen** "
+"i øverste venstre hjørne: |br| |image2|"
 
 #: ../../source/kdsmart-tips.rst:191
 msgid "**3.** Confirm the exit by selecting the **Confirm Button** in the popup: |br| |br| |image3|"
 msgstr ""
+"**3.** Bekræft exit ved at vælge **Bekræft knappen** i popup: |br| |br| "
+"|image3|"
 
 #: ../../source/kdsmart-tips.rst:205
 msgid "Android Permissions"
-msgstr ""
+msgstr "Android-tilladelser"
 
 #: ../../source/kdsmart-tips.rst:207
 msgid "Android has introduced more stringent application security which affects KDSmart and any other Android application. Permission is required at the initial application installation, and may be requested again following installing any application updates."
 msgstr ""
+"Android har introduceret strengere applikationssikkerhed, der påvirker "
+"KDSmart og enhver anden Android-applikation. Tilladelse er påkrævet ved den "
+"første applikationsinstallation, og kan anmodes om igen efter installation "
+"af applikationsopdateringer."
 
 #: ../../source/kdsmart-tips.rst:209
 msgid "Without allowing permissions an application will not work, or be unable to use all its functionality."
 msgstr ""
+"Uden at tillade tilladelser et program vil ikke fungere, eller være ude af "
+"stand til at bruge al dens funktionalitet."
 
 #: ../../source/kdsmart-tips.rst:211
 msgid "Upon initial KDSmart installation, a message similar to the following example will be displayed. Selecting **Allow** will enable KDSmart to work."
 msgstr ""
+"Ved den første installation af KDSmart vises en meddelelse svarende til "
+"følgende eksempel. Hvis du vælger **Tillade**, får KDSmart mulighed for at "
+"arbejde."
 
 #: ../../source/kdsmart-tips.rst:216
 #: ../../source/kdsmart-tips.rst:234
 #: ../../source/kdsmart-tips.rst:234
 msgid "Android Permission Request (Select to zoom)"
-msgstr ""
+msgstr "Android Tilladelsesanmodning (Vælg for at zoome)"
 
 #: ../../source/kdsmart-tips.rst:238
 msgid "If *Deny* is selected, KDSmart will display an advisory message (appearing in background of above image) with a |cancel-btn2| **Cancel Button** and an|accept-btn2| **Accept Button**. Selecting:"
 msgstr ""
+"Hvis *Deny* er valgt, vil KDSmart vise en rådgivende meddelelse (vises i "
+"baggrunden af ovenstående billede) med en |cancel-btn2| **Annuller-knap** og "
+"en|accept-btn2| **Acceptér knap**. Vælge:"
 
 #: ../../source/kdsmart-tips.rst:240
 msgid "**Cancel** will stop KDSmart; and"
-msgstr ""
+msgstr "**Annuller** stopper KDSmart; og"
 
 #: ../../source/kdsmart-tips.rst:241
 msgid "**Accept** will cause Android to redisplay the approval request message again."
 msgstr ""
+"**Accept** vil få Android til at vise meddelelsen om godkendelsesanmodning "
+"igen."
 
 #: ../../source/kdsmart-tips.rst:243
 msgid "Selecting *Don't ask again*, if it is displayed, and *Deny* will require a visit to Android settings to restart the request process. See `Restoring/Changing Permissions`_ below for instructions."
 msgstr ""
+"Hvis du vælger *Spørg ikke igen*, hvis det vises, og *Afvis* kræver et besøg "
+"i Android-indstillingerne for at genstarte anmodningsprocessen. Se `"
+"Gendannelse/Ændring af tilladelser`_ nedenfor for instruktioner."
 
 #: ../../source/kdsmart-tips.rst:245
 msgid "The next example shows the permission request following an update to KDSmart, which must be accepted before the application will open."
 msgstr ""
+"Det næste eksempel viser tilladelsesanmodningen efter en opdatering til "
+"KDSmart, som skal accepteres, før programmet åbnes."
 
 #: ../../source/kdsmart-tips.rst:250
 #: ../../source/kdsmart-tips.rst:268
 #: ../../source/kdsmart-tips.rst:268
 msgid "Android Access Permissions Request (Select to zoom)"
-msgstr ""
+msgstr "Anmodning om Android-adgangstilladelser (Vælg for at zoome)"
 
 #: ../../source/kdsmart-tips.rst:276
 msgid "Why Must I Grant Access?"
-msgstr ""
+msgstr "Hvorfor skal jeg give adgang?"
 
 #: ../../source/kdsmart-tips.rst:278
 msgid "Applications, including KDSmart, need to access the storage/memory on the device be able to:"
 msgstr ""
+"Programmer, herunder KDSmart, skal have adgang til lagring/hukommelse på "
+"enheden være i stand til at:"
 
 #: ../../source/kdsmart-tips.rst:280
 msgid "Load your trial/nursery data;"
-msgstr ""
+msgstr "Indlæs dine forsøg/børnehave data;"
 
 #: ../../source/kdsmart-tips.rst:281
 msgid "To add to or make changes to that data; and"
-msgstr ""
+msgstr "For at føje til eller foretage ændringer af disse data; og"
 
 #: ../../source/kdsmart-tips.rst:282
 msgid "To save your data."
-msgstr ""
+msgstr "For at gemme dine data."
 
 #: ../../source/kdsmart-tips.rst:284
 msgid "Quite simply, without allowing any permission, KDSmart **Will Not Work**."
-msgstr ""
+msgstr "Ganske enkelt, uden at tillade nogen tilladelse, KDSmart** vil ikke**."
 
 #: ../../source/kdsmart-tips.rst:286
 msgid "Other features KDSmart can use on the device, such as the camera, microphone, etc. are also affected. The following table shows KDSmart permission requirements for the application or specific features to work:"
 msgstr ""
+"Andre funktioner KDSmart kan bruge på enheden, såsom kamera, mikrofon osv. "
+"Er også påvirket. Følgende tabel viser KDSmart-tilladelseskrav for "
+"programmet eller specifikke funktioner til at fungere:"
 
 #: ../../source/kdsmart-tips.rst:291
 msgid "KDSmart Permission Requirements"
-msgstr ""
+msgstr "KDSmart tilladelseskrav"
 
 #: ../../source/kdsmart-tips.rst:297
 msgid "**Permission** |br| **Required**"
-msgstr ""
+msgstr "**Tilladelse** |br| **Påkrævet**"
 
 #: ../../source/kdsmart-tips.rst:298
 #: ../../source/kdsmart-tips.rst:479
 #: ../../source/kdsmart-tips.rst:636
 #: ../../source/kdsmart-tips.rst:669
 msgid "**Description**"
-msgstr ""
+msgstr "**Beskrivelse**"
 
 #: ../../source/kdsmart-tips.rst:299
 msgid "**Camera**"
-msgstr ""
+msgstr "**Kamera**"
 
 #: ../../source/kdsmart-tips.rst:300
 msgid "Required if the camera is to be used by KDSmart."
-msgstr ""
+msgstr "Kræves hvis kameraet skal bruges af KDSmart."
 
 #: ../../source/kdsmart-tips.rst:301
 msgid "**Location**"
-msgstr ""
+msgstr "**Beliggenhed**"
 
 #: ../../source/kdsmart-tips.rst:302
 msgid "Required if the location option has been enabled."
-msgstr ""
+msgstr "Påkrævet, hvis placeringsindstillingen er aktiveret."
 
 #: ../../source/kdsmart-tips.rst:303
 msgid "**Microphone**"
-msgstr ""
+msgstr "**Mikrofon**"
 
 #: ../../source/kdsmart-tips.rst:304
 msgid "Required to record any audio notes using the microphone in KDSmart."
-msgstr ""
+msgstr "Kræves for at optage lydnoter ved hjælp af mikrofonen i KDSmart."
 
 #: ../../source/kdsmart-tips.rst:305
 msgid "**Storage**"
-msgstr ""
+msgstr "**Opbevaring**"
 
 #: ../../source/kdsmart-tips.rst:306
 msgid "**KDSmart will not work** without being given storage permission. This is required to store *any data* on the device e.g. sample data, trial import or export, traits, tags, etc."
 msgstr ""
+"**KDSmart fungerer ikke** uden at have fået tilladelse til lagring. Dette er "
+"nødvendigt for at lagre *alle data* på enheden, f.eks. prøvedata, "
+"prøveimport eller eksport, træk, tags osv."
 
 #: ../../source/kdsmart-tips.rst:308
 msgid "**Bluetooth**"
-msgstr ""
+msgstr "**Bluetooth**"
 
 #: ../../source/kdsmart-tips.rst:309
 msgid "Required if Bluetooth barcode scanners or scales are to be used."
-msgstr ""
+msgstr "Kræves, hvis Bluetooth-stregkodescannere eller -vægte skal bruges."
 
 #: ../../source/kdsmart-tips.rst:320
 msgid "Restoring/Changing Permissions"
-msgstr ""
+msgstr "Gendannelse/ændring af tilladelser"
 
 #: ../../source/kdsmart-tips.rst:322
 msgid "At some stage you may have denied KDSmart access, e.g. to the camera, or *Never ask again* has been selected. These settings can be changed by using the following procedure."
 msgstr ""
+"På et tidspunkt har du måske nægtet KDSmart adgang, f.eks. til kameraet, "
+"eller *Spørg aldrig igen* er blevet valgt. Disse indstillinger kan ændres "
+"ved hjælp af følgende procedure."
 
 #: ../../source/kdsmart-tips.rst:327
 msgid "Procedure to change KDSmart Permissions"
-msgstr ""
+msgstr "Fremgangsmåde til ændring af KDSmart-tilladelser"
 
 #: ../../source/kdsmart-tips.rst:334
 #: ../../source/kdsmart-tips.rst:428
 #: ../../source/kdsmart-tips.rst:550
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../source/kdsmart-tips.rst:335
 msgid "On the Android device, select the system **Settings Button** |settings|"
 msgstr ""
+"På Android-enheden skal du vælge systemet**Indstillinger** |indstillinger|"
 
 #: ../../source/kdsmart-tips.rst:336
 #: ../../source/kdsmart-tips.rst:430
 #: ../../source/kdsmart-tips.rst:552
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../source/kdsmart-tips.rst:337
 msgid "Select **Applications**"
-msgstr ""
+msgstr "Vælg **Programmer**"
 
 #: ../../source/kdsmart-tips.rst:338
 #: ../../source/kdsmart-tips.rst:554
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #: ../../source/kdsmart-tips.rst:339
 msgid "Select **KDSmart**"
-msgstr ""
+msgstr "Vælg **KDSmart**"
 
 #: ../../source/kdsmart-tips.rst:340
 #: ../../source/kdsmart-tips.rst:556
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../source/kdsmart-tips.rst:341
 msgid "Select **Permissions**"
-msgstr ""
+msgstr "Vælg **Tilladelser**"
 
 #: ../../source/kdsmart-tips.rst:342
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../source/kdsmart-tips.rst:343
 msgid "Enable the required permission. |br| **Remember Storage is mandatory** to use KDSmart and the other settings are needed if that functionality is required. |br|"
 msgstr ""
+"Aktivér den nødvendige tilladelse. |br| **Husk Opbevaring er obligatorisk** "
+"for at bruge KDSmart og de andre indstillinger er nødvendige, hvis denne "
+"funktionalitet er påkrævet. |br|"
 
 #: ../../source/kdsmart-tips.rst:347
 #: ../../source/kdsmart-tips.rst:365
 #: ../../source/kdsmart-tips.rst:365
 msgid "Permission Settings (Select to zoom)"
-msgstr ""
+msgstr "Tilladelsesindstillinger (vælg for at zoome)"
 
 #: ../../source/kdsmart-tips.rst:369
 msgid "**Note:** Selecting **More** or the highlighted menu button illustrated at (1) displays **All permissions**. These additional settings will also affect KDSmart behaviours for certain features."
 msgstr ""
+"**Bemærk: ** Valg af **Mere** eller den fremhævede menuknap illustreret ved "
+"(1) viser **Alle tilladelser**. Disse yderligere indstillinger vil også "
+"påvirke KDSmart adfærd for visse funktioner."
 
 #: ../../source/kdsmart-tips.rst:380
 msgid "Database Integrity Check"
-msgstr ""
+msgstr "Database Integritet Check"
 
 #: ../../source/kdsmart-tips.rst:383
 msgid "This database check and repair is mainly relevant in a situation where the following error occurs:"
 msgstr ""
+"Denne databasekontrol og -reparation er hovedsageligt relevant i en "
+"situation, hvor følgende fejl opstår:"
 
 #: ../../source/kdsmart-tips.rst:405
 #: ../../source/kdsmart-tips.rst:405
 msgid "Example Error Requiring DB Integrity Check/Repair"
-msgstr ""
+msgstr "Eksempel Fejl, der kræver DB Integrity Check/Reparation"
 
 #: ../../source/kdsmart-tips.rst:409
 msgid "This function checks the KDSmart database for the existence of duplicate samples for a trait instance, plot, sub-plot in each trial and removes the sample *if the Trait Value is null*."
 msgstr ""
+"Denne funktion kontrollerer KDSmart-databasen for eksistensen af "
+"duplikatprøver for en egenskabsinstans, plot, delplot i hvert forsøg og "
+"fjerner prøven *hvis egenskabsværdien er nul*."
 
 #: ../../source/kdsmart-tips.rst:411
 msgid "If any duplicate samples are found containing a value, the following error message will appear: |br| *\"Duplicate Samples with a value  Please contact Diversity Arrays and send them your Database\"* |br| will be displayed and the check/repair processing will stop."
 msgstr ""
+"Hvis der findes dubletter, der indeholder en værdi, vises følgende "
+"fejlmeddelelse: |br| *\"Duplicate Prøver med en værdi Kontakt Diversity "
+"Arrays og send dem din database\"* |br| vises, og kontrol/"
+"reparationsbehandlingen stopper."
 
 #: ../../source/kdsmart-tips.rst:415
 msgid "Should repair display this message and is unable to proceed, please export the database and report the issue separately attaching the database in the email, or use an alternative file transfer method if the file is too large for email. |br| The option to export the database is located just above the **Database Integrity Check Button**."
 msgstr ""
+"Skulle reparation vise denne meddelelse og kan ikke fortsætte, skal du "
+"eksportere databasen og rapportere problemet separat vedhæfte databasen i e-"
+"mailen, eller brug en alternativ filoverførselsmetode, hvis filen er for "
+"stor til e-mail. |br| Muligheden for at eksportere databasen er placeret "
+"lige over knappen **Database Integrity Check**."
 
 #: ../../source/kdsmart-tips.rst:421
 msgid "Steps to execute the Database Integrity Check"
-msgstr ""
+msgstr "Trin til udførelse af databaseintegritetskontrol"
 
 #: ../../source/kdsmart-tips.rst:429
 msgid "At the **Home Screen** or menu by selecting the |kds_devices| **Manage Devices Button**."
 msgstr ""
+"På **Startskærmen** eller menuen ved at vælge |kds_devices| **Administrer "
+"enheder**."
 
 #: ../../source/kdsmart-tips.rst:726
 #: ../../source/kdsmart-tips.rst:726
 #: ../../source/kdsmart-tips.rst:726
 msgid "kds_devices"
-msgstr ""
+msgstr "kds_devices"
 
 #: ../../source/kdsmart-tips.rst:431
 msgid "Within the **Database Tab**, select **Database Integrity Check**"
-msgstr ""
+msgstr "I fanen **Database** skal du vælge **Database Integrity Check**"
 
 #: ../../source/kdsmart-tips.rst:452
 #: ../../source/kdsmart-tips.rst:452
 msgid "Database Integrity Check/Repair"
-msgstr ""
+msgstr "Database Integrity Check/Reparation"
 
 #: ../../source/kdsmart-tips.rst:456
 msgid "Depending upon the size of trials within the KDSmart database, this check could take more than 10-15 minutes. The check can be cancelled, however, any errors present may not be repaired."
 msgstr ""
+"Afhængig af størrelsen af forsøg i KDSmart-databasen, kan denne kontrol tage "
+"mere end 10-15 minutter. Kontrollen kan annulleres, men eventuelle fejl, der "
+"er til stede, kan ikke repareres."
 
 #: ../../source/kdsmart-tips.rst:466
 msgid "Navigation Within KDSmart"
-msgstr ""
+msgstr "Navigation inden for KDSmart"
 
 #: ../../source/kdsmart-tips.rst:468
 msgid "Standard Android application navigation is used in KDSmart. The table below outlines some of the UI elements related to navigation."
 msgstr ""
+"Standard Android applikationsnavigation bruges i KDSmart. Tabellen nedenfor "
+"skitserer nogle af UI-elementerne relateret til navigation."
 
 #: ../../source/kdsmart-tips.rst:478
 #: ../../source/kdsmart-tips.rst:667
 msgid "**Button**"
-msgstr ""
+msgstr "**Knap**"
 
 #: ../../source/kdsmart-tips.rst:480
 msgid "|back-btn| or |back-btn3| or |back-btn2|"
-msgstr ""
+msgstr "|back-btn| eller |back-btn3| eller |back-btn2|"
 
 #: ../../source/kdsmart-tips.rst:481
 msgid "**Back Buttons** to return to the previous screen."
-msgstr ""
+msgstr "**Tilbage-knapper** for at vende tilbage til det forrige skærmbillede."
 
 #: ../../source/kdsmart-tips.rst:482
 msgid "|back-area|"
-msgstr ""
+msgstr "|back-område|"
 
 #: ../../source/kdsmart-tips.rst:483
 msgid "Selecting the **Back** area (highlighted) surrounds the top left corner containing the logo and trial name or similar region on one of the edit screens (e.g. edit trait, tag etc.)."
 msgstr ""
+"Valg af området **Tilbage** (fremhævet) omgiver det øverste venstre hjørne, "
+"der indeholder logoet og prøvenavnet eller lignende område på en af "
+"redigeringsskærmbillederne (f.eks. rediger træk, tag osv.)."
 
 #: ../../source/kdsmart-tips.rst:484
 msgid "|blue-bars|"
-msgstr ""
+msgstr "|blå-bars|"
 
 #: ../../source/kdsmart-tips.rst:485
 msgid "**Side Menu** |br| Screens with three blue menu bars have a slide out a menu at the top left as illustrated. Select the menu bars to display or hide the menu."
 msgstr ""
+"**Sidemenu** |br| Skærme med tre blå menulinjer har et dias ud en menu "
+"øverst til venstre som illustreret. Vælg menulinjerne for at vise eller "
+"skjule menuen."
 
 #: ../../source/kdsmart-tips.rst:506
 #: ../../source/kdsmart-tips.rst:506
 msgid "Slide Out Menu (select to zoom)"
-msgstr ""
+msgstr "Dias Out Menu (vælg for at zoome)"
 
 #: ../../source/kdsmart-tips.rst:518
 msgid "Screen Orientation/Rotation"
-msgstr ""
+msgstr "Skærmorientering/rotation"
 
 #: ../../source/kdsmart-tips.rst:520
 msgid "Android is able to lock or prevent the screen from rotating |rotate-btn| for all apps on the device. KDSmart behaves in accordance with this Android device setting."
 msgstr ""
+"Android er i stand til at låse eller forhindre skærmen i at rotere |rotere-"
+"btn| for alle apps på enheden. KDSmart opfører sig i overensstemmelse med "
+"denne Android-enhedsindstilling."
 
 #: ../../source/kdsmart-tips.rst:531
 msgid "**If Android Screen Rotation Is ...**"
-msgstr ""
+msgstr "** Hvis Android Screen Rotation er... **"
 
 #: ../../source/kdsmart-tips.rst:532
 msgid "**Then KDSmart will ...**"
-msgstr ""
+msgstr "** Så KDSmart vil... **"
 
 #: ../../source/kdsmart-tips.rst:533
 msgid "**Enabled**"
-msgstr ""
+msgstr "** Aktiveret**"
 
 #: ../../source/kdsmart-tips.rst:534
 msgid "Respond to changes in the screen orientation."
-msgstr ""
+msgstr "Reager på ændringer i skærmretningen."
 
 #: ../../source/kdsmart-tips.rst:535
 msgid "**Disabled**"
-msgstr ""
+msgstr "**Deaktiveret**"
 
 #: ../../source/kdsmart-tips.rst:536
 msgid "Not detect or respond to changes in the screen orientation."
-msgstr ""
+msgstr "Ikke registrere eller reagere på ændringer i skærmretningen."
 
 #: ../../source/kdsmart-tips.rst:539
 msgid "Automatic rotation is intentionally disabled within the **Scoring Screen** to prevent undesirable screen changes. Various movements of the user and device in the field, such as bending down to inspect a sub-plot would cause frequent and unnecessary screen changes."
 msgstr ""
+"Automatisk rotation deaktiveres med vilje i **Scoringsskærmen** for at "
+"forhindre uønskede skærmændringer. Forskellige bevægelser af brugeren og "
+"enheden i marken, såsom bøjning ned for at inspicere en delplot ville "
+"medføre hyppige og unødvendige skærmændringer."
 
 #: ../../source/kdsmart-tips.rst:543
 msgid "Steps to rotate the scoring screen (Landscape to Portrait, Portrait to Landscape)"
 msgstr ""
+"Skridt til at rotere scoreskærmen (liggende til stående, stående til "
+"liggende)"
 
 #: ../../source/kdsmart-tips.rst:551
 msgid "Ensure *Android Screen Rotation* is enabled."
-msgstr ""
+msgstr "Sørg for, at * Android-skærmrotation* er aktiveret."
 
 #: ../../source/kdsmart-tips.rst:553
 msgid "In KDSmart, exit from the scoring screen to another screen."
-msgstr ""
+msgstr "I KDSmart skal du afslutte scoreskærmen til en anden skærm."
 
 #: ../../source/kdsmart-tips.rst:555
 msgid "Turn the device to the required position (portrait or landscape)."
-msgstr ""
+msgstr "Drej enheden til den ønskede position (stående eller liggende)."
 
 #: ../../source/kdsmart-tips.rst:557
 msgid "Return to the **Scoring Screen** which should now display with the desired orientation."
 msgstr ""
+"Gå tilbage til **Scoringsskærmen**, som nu skal vises med den ønskede "
+"retning."
 
 #: ../../source/kdsmart-tips.rst:564
 msgid "Lists and Select Mode for Multiple Selection"
-msgstr ""
+msgstr "Lister og Vælg tilstand for flere markeringer"
 
 #: ../../source/kdsmart-tips.rst:566
 #: ../../source/kdsmart-tips.rst:566
 msgid "action-menu"
-msgstr ""
+msgstr "action-menu"
 
 #: ../../source/kdsmart-tips.rst:569
 msgid "This is a generic tip for KDSmart trials, traits and tag selection lists. The example shown is the trial list."
 msgstr ""
+"Dette er et generisk tip til KDSmart-forsøg, træk og tagudvælgelseslister. "
+"Det viste eksempel er forsøgslisten."
 
 #: ../../source/kdsmart-tips.rst:592
 #: ../../source/kdsmart-tips.rst:592
 msgid "Multiple Selection Example (Select to zoom)"
-msgstr ""
+msgstr "Eksempel på flere markeringer (Vælg for at zoome)"
 
 #: ../../source/kdsmart-tips.rst:597
 msgid "When a list of items is displayed, as the trial list in the left-hand image |circle1| above, a *long press* on any Trial item will invoke **Select Mode**."
 msgstr ""
+"Når en liste over elementer vises, som prøvelisten i det venstre billede "
+"|cirkel1| ovenfor, påberåber sig et *langt tryk* på et vilkårligt "
+"prøveelement **Vælg tilstand**."
 
 #: ../../source/kdsmart-tips.rst:599
 msgid "Once in **Select Mode**, multiple items may be selected, by touching them as illustrated in the right hand |circle2| image above where three trials have been selected. The number of items selected is indicated at the top right, in this example **Selected:3** appears."
 msgstr ""
+"En gang i **Vælg tilstand**, kan der vælges flere elementer ved at berøre "
+"dem som illustreret i højre hånd |cirkel2| billedet ovenfor, hvor tre forsøg "
+"er valgt. Antallet af valgte elementer er angivet øverst til højre, i dette "
+"eksempel vises **Valgt:3**."
 
 #: ../../source/kdsmart-tips.rst:601
 msgid "Selecting the |action-menu| **Action Button** in the **Action Bar** (not shown), will perform the chosen action for the selected item(s)."
 msgstr ""
+"Hvis du vælger |handlingsmenu| **Handlingsknappen** i **Handlingslinjen** ("
+"vises ikke), udføres den valgte handling for de (t) valgte element (r)."
 
 #: ../../source/kdsmart-tips.rst:604
 msgid "Please be take care when using the delete function which will remove the selected trials. Backup your data regularly to prevent any loss as delete is final."
 msgstr ""
+"Vær forsigtig, når du bruger sletningsfunktionen, som fjerner de valgte "
+"forsøg. Sikkerhedskopier dine data regelmæssigt for at forhindre tab, da "
+"sletning er endelig."
 
 #: ../../source/kdsmart-tips.rst:621
 msgid "What Data Transfer Method is Best?"
-msgstr ""
+msgstr "Hvad dataoverførsel metode er bedst?"
 
 #: ../../source/kdsmart-tips.rst:623
 msgid "This is dependent upon several factors influenced by your organisation's implementation of  KDDart platform components either fully, partially or not at all. For example, if KDSmart is being used 'standalone' without any other KDDart software, CSV files are required to load your data."
 msgstr ""
+"Dette afhænger af flere faktorer, der påvirkes af din organisations "
+"implementering af KDDart platformskomponenter enten helt, delvist eller slet "
+"ikke. Hvis KDSmart f.eks. bruges 'standalone' uden nogen anden KDDart-"
+"software, kræves CSV-filer for at indlæse dine data."
 
 #: ../../source/kdsmart-tips.rst:625
 msgid "The following table outlines"
-msgstr ""
+msgstr "Følgende tabel skitserer"
 
 #: ../../source/kdsmart-tips.rst:635
 msgid "**Best When ...**"
-msgstr ""
+msgstr "** Bedste når... **"
 
 #: ../../source/kdsmart-tips.rst:637
 msgid "**KDSmart is to be used on its own**"
-msgstr ""
+msgstr "**KDSmart skal bruges alene**"
 
 #: ../../source/kdsmart-tips.rst:638
 msgid "Using KDSmart *standalone*, without any other KDDart software, means CSV files must be used to import and export all your trial, traits and tag data."
 msgstr ""
+"Brug af KDSmart *standalone*, uden nogen anden KDDart-software, betyder, at "
+"CSV-filer skal bruges til at importere og eksportere alle dine "
+"prøveversioner, træk og tagdata."
 
 #: ../../source/kdsmart-tips.rst:640
 msgid "Also useful if you want to try KDSmart with some of your trial data just to see how it works in the field."
 msgstr ""
+"Også nyttigt, hvis du vil prøve KDSmart med nogle af dine prøvedata bare for "
+"at se, hvordan det fungerer i marken."
 
 #: ../../source/kdsmart-tips.rst:641
 msgid "**Several KDSmart devices used to score the same trial and KDXplore is being used**"
 msgstr ""
+"**Flere KDSmart-enheder, der bruges til at score det samme forsøg, og "
+"KDXplore bruges**"
 
 #: ../../source/kdsmart-tips.rst:642
 msgid "Using KDXplore with KDSmart when a direct connection can be established for data transfer, or if a connection is not possible either CSV or KDX files can be used."
 msgstr ""
+"Brug af KDXplore med KDSmart når der kan etableres en direkte forbindelse "
+"til dataoverførsel, eller hvis en forbindelse ikke er mulig, kan enten CSV- "
+"eller KDX-filer bruges."
 
 #: ../../source/kdsmart-tips.rst:643
 msgid "**Your Trials are stored in KDDart's data layer and a direct connection is available**"
 msgstr ""
+"**Dine forsøg gemmes i KDDart's datalag, og der er en direkte forbindelse "
+"tilgængelig**"
 
 #: ../../source/kdsmart-tips.rst:644
 msgid "This functionality is returning to KDSmart to directly connect with the KDDart database layer for trial selection and download or upload."
 msgstr ""
+"Denne funktionalitet vender tilbage til KDSmart for direkte at oprette "
+"forbindelse til KDDart-databaselaget til prøvevalg og download eller upload."
 
 #: ../../source/kdsmart-tips.rst:655
 msgid "Symbols and Buttons"
-msgstr ""
+msgstr "Symboler og knapper"
 
 #: ../../source/kdsmart-tips.rst:657
 msgid "The button symbols used in KDSmart are shown in the following table:"
-msgstr ""
+msgstr "Knapsymbolerne som bruges i KDSmart vises i følgende tabel:"
 
 #: ../../source/kdsmart-tips.rst:668
 msgid "**Term**"
-msgstr ""
+msgstr "** Term**"
 
 #: ../../source/kdsmart-tips.rst:670
 msgid "|kds_trials|"
-msgstr ""
+msgstr "|kds_trials|"
 
 #: ../../source/kdsmart-tips.rst:738
 #: ../../source/kdsmart-tips.rst:738
 msgid "kds_trials"
-msgstr ""
+msgstr "kds_trials"
 
 #: ../../source/kdsmart-tips.rst:671
 msgid "**Trials**"
-msgstr ""
+msgstr "**Trials**"
 
 #: ../../source/kdsmart-tips.rst:672
 msgid "Trials or nurseries refer to the experiments or research being conducted. |br| Select *Trials* on the **Home Screen** to display the list of trials that have been loaded into KDSmart. |br| *Demonstration Trials* are preloaded for familiarisation of KDSmart and training."
 msgstr ""
+"Forsøg eller planteskoler henvise til eksperimenter eller forskning, der "
+"udføres. |br| Vælg *Trials* på **Startskærmen** for at vise listen over "
+"forsøg, der er indlæst i KDSmart. |br| *Demonstrationsforsøg* er "
+"forudindlæst til kendskab til KDSmart og træning."
 
 #: ../../source/kdsmart-tips.rst:673
 msgid "|kds_tags|"
-msgstr ""
+msgstr "|kds_tags|"
 
 #: ../../source/kdsmart-tips.rst:723
 #: ../../source/kdsmart-tips.rst:723
 msgid "kds_tags"
-msgstr ""
+msgstr "kds_tags"
 
 #: ../../source/kdsmart-tips.rst:674
 msgid "**Tags**"
-msgstr ""
+msgstr "**Mærker**"
 
 #: ../../source/kdsmart-tips.rst:675
 msgid "Manage the tags used in the trials."
-msgstr ""
+msgstr "Administrer de tags, der bruges i forsøgene."
 
 #: ../../source/kdsmart-tips.rst:676
 msgid "|kds_traits|"
-msgstr ""
+msgstr "|kds_traits|"
 
 #: ../../source/kdsmart-tips.rst:729
 #: ../../source/kdsmart-tips.rst:729
 msgid "kds_traits"
-msgstr ""
+msgstr "kds_traits"
 
 #: ../../source/kdsmart-tips.rst:677
 msgid "**Traits**"
-msgstr ""
+msgstr "**Træk**"
 
 #: ../../source/kdsmart-tips.rst:678
 msgid "Manage the traits used in the trials."
-msgstr ""
+msgstr "Administrer de træk, der bruges i forsøgene."
 
 #: ../../source/kdsmart-tips.rst:679
 msgid "|kds_devices|"
-msgstr ""
+msgstr "|kds_devices|"
 
 #: ../../source/kdsmart-tips.rst:680
 msgid "**Devices**"
-msgstr ""
+msgstr "**Enheder**"
 
 #: ../../source/kdsmart-tips.rst:681
 msgid "Manage devices (scanners, scales, etc.), Bluetooth, and database."
-msgstr ""
+msgstr "Administrer enheder (scannere, skalaer osv.), Bluetooth og database."
 
 #: ../../source/kdsmart-tips.rst:682
 msgid "|kds_settings|"
-msgstr ""
+msgstr "|kds_settings|"
 
 #: ../../source/kdsmart-tips.rst:732
 #: ../../source/kdsmart-tips.rst:732
 msgid "kds_settings"
-msgstr ""
+msgstr "kds_indstillinger"
 
 #: ../../source/kdsmart-tips.rst:683
 msgid "**Settings**"
-msgstr ""
+msgstr "**Indstillinger**"
 
 #: ../../source/kdsmart-tips.rst:684
 msgid "Manage the device settings and those that apply to all trials."
-msgstr ""
+msgstr "Administrer enhedens indstillinger og dem, der gælder for alle forsøg."
 
 #: ../../source/kdsmart-tips.rst:685
 msgid "|kds_info|"
-msgstr ""
+msgstr "|kds_info|"
 
 #: ../../source/kdsmart-tips.rst:735
 #: ../../source/kdsmart-tips.rst:735
 msgid "kds_info"
-msgstr ""
+msgstr "kds_info"
 
 #: ../../source/kdsmart-tips.rst:686
 msgid "**Information**"
-msgstr ""
+msgstr "**Information**"
 
 #: ../../source/kdsmart-tips.rst:687
 msgid "Contextual help for KDSmart, information about KDSmart, and licensing."
-msgstr ""
+msgstr "Kontekstuel hjælp til KDSmart, information om KDSmart og licensering."
 
 #: ../../source/kdsmart-tips.rst:688
 msgid "|run-btn|"
-msgstr ""
+msgstr "|run-btn|"
 
 #: ../../source/kdsmart-tips.rst:714
 #: ../../source/kdsmart-tips.rst:714
 msgid "run-btn"
-msgstr ""
+msgstr "run-btn"
 
 #: ../../source/kdsmart-tips.rst:689
 msgid "**Start**"
-msgstr ""
+msgstr "**Start**"
 
 #: ../../source/kdsmart-tips.rst:690
 msgid "Start or Run button."
-msgstr ""
+msgstr "Start eller Kør knap."
 
 #: ../../source/kdsmart-tips.rst:691
 msgid "|kds-DemoRun|"
-msgstr ""
+msgstr "|KDS-Demorun|"
 
 #: ../../source/kdsmart-tips.rst:717
 #: ../../source/kdsmart-tips.rst:717
 msgid "kds-DemoRun"
-msgstr ""
+msgstr "KDS-Demorun"
 
 #: ../../source/kdsmart-tips.rst:692
 msgid "**Run (Demo DB)**"
-msgstr ""
+msgstr "**Kør (Demo DB) **"
 
 #: ../../source/kdsmart-tips.rst:693
 msgid "Start the active trial. A white border indicates the current setting is for a *Demonstration* database trial (*Demo DB*)."
 msgstr ""
+"Start den aktive prøveperiode. En hvid ramme angiver, at den aktuelle "
+"indstilling er for en *Demonstration*-databaseprøveversion (*Demo DB*)."
 
 #: ../../source/kdsmart-tips.rst:694
 msgid "|kds-ProdRun|"
-msgstr ""
+msgstr "|KDS-Prodrun|"
 
 #: ../../source/kdsmart-tips.rst:720
 #: ../../source/kdsmart-tips.rst:720
 msgid "kds-ProdRun"
-msgstr ""
+msgstr "KDS-Prodrun"
 
 #: ../../source/kdsmart-tips.rst:695
 msgid "**Run (Production DB)**"
-msgstr ""
+msgstr "**Kør (Produktion DB) **"
 
 #: ../../source/kdsmart-tips.rst:696
 msgid "Start the active trial. A yellow border indicates the current setting is for a *Production* database trial (sometimes referred to as *Prod DB*)."
 msgstr ""
+"Start den aktive prøveperiode. En gul kant angiver, at den aktuelle "
+"indstilling er for en *Produktion*-databaseprøveversion (undertiden benævnt*"
+"Prod DB*)."
 
 #: ../../source/kdsmart-tips.rst:697
 msgid "|btn_advance|"
-msgstr ""
+msgstr "|btn_avance|"
 
 #: ../../source/kdsmart-tips.rst:744
 #: ../../source/kdsmart-tips.rst:744
 msgid "btn_advance"
-msgstr ""
+msgstr "btn_advance"
 
 #: ../../source/kdsmart-tips.rst:698
 msgid "**Advance**"
-msgstr ""
+msgstr "**Fremskrid**"
 
 #: ../../source/kdsmart-tips.rst:699
 msgid "Step forward and advance to the next plot."
-msgstr ""
+msgstr "Gå frem og gå videre til næste plot."
 
 #: ../../source/kdsmart-tips.rst:700
 msgid "|btn_retreat|"
-msgstr ""
+msgstr "|btn_retreat|"
 
 #: ../../source/kdsmart-tips.rst:747
 #: ../../source/kdsmart-tips.rst:747
 msgid "btn_retreat"
-msgstr ""
+msgstr "btn_retreat"
 
 #: ../../source/kdsmart-tips.rst:701
 msgid "**Retreat**"
-msgstr ""
+msgstr "** Retreat"
 
 #: ../../source/kdsmart-tips.rst:702
 msgid "Step backward and retreat to the previous plot."
-msgstr ""
+msgstr "Gå baglæns og trække sig tilbage til det forrige plot."
 
 #: ../../source/kdsmart-tips.rst:703
 msgid "|kds_plots|"
-msgstr ""
+msgstr "|kds_plots|"
 
 #: ../../source/kdsmart-tips.rst:741
 #: ../../source/kdsmart-tips.rst:741
 msgid "kds_plots"
-msgstr ""
+msgstr "kds_plots"
 
 #: ../../source/kdsmart-tips.rst:704
 msgid "**Plot**"
-msgstr ""
+msgstr "** Plot**"
 
 #: ../../source/kdsmart-tips.rst:705
 msgid "Either a plot ID or a column and row pair that uniquely identifies an area (i.e. plot) within a trial. Within a trial, each combination or column/row must be unique."
 msgstr ""
+"Enten et plot-id eller et kolonne- og rækkepar, der entydigt identificerer "
+"et område (dvs. plot) i en prøveversion. Inden for et forsøg skal hver "
+"kombination eller kolonne/række være unik."
 
 #: ../../source/kdsmart-tips.rst:706
 msgid "|organism-types|"
-msgstr ""
+msgstr "|organisme-typer|"
 
 #: ../../source/kdsmart-tips.rst:711
 #: ../../source/kdsmart-tips.rst:711
 msgid "organism-types"
-msgstr ""
+msgstr "organisme-typer"
 
 #: ../../source/kdsmart-tips.rst:707
 msgid "**Organism Types**"
-msgstr ""
+msgstr "** Organismetyper**"
 
 #: ../../source/kdsmart-tips.rst:708
 msgid "Within settings, the type of organism being measured can be specified. This appears in the **Scoring Screen**. |br| Each setting has a different image representation for the organism type."
 msgstr ""
+"Inden for indstillinger, den type organisme, der måles, kan specificeres. "
+"Dette vises i **Scoringsskærmen**. |br| Hver indstilling har en anden "
+"billedrepræsentation for organismetypen."
 
 #: ../../source/kdsmart-tips.rst:750
 msgid "KDSnew010"
-msgstr ""
+msgstr "KDSNew010"
 
 #: ../../source/kdsmart-tips.rst:758
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Fejlfinding"
 
 #: ../../source/kdsmart-tips.rst:763
 msgid "Block Trial Issues"
-msgstr ""
+msgstr "Bloker Trial Problemer"
 
 #: ../../source/kdsmart-tips.rst:765
 msgid "The 3.0.28 update has resolved some database issues with block trials. However, some users may find that after updating KDSmart, their block trials do not work anymore. This is due to the trials not being compatible with the new database version. The following instructions outline a quick fix for this issue:"
 msgstr ""
+"3.0.28-opdateringen har løst nogle databaseproblemer med blokforsøg. Nogle "
+"brugere kan dog opleve, at efter opdatering af KDSmart fungerer deres "
+"blokforsøg ikke længere. Dette skyldes, at forsøgene ikke er kompatible med "
+"den nye databaseversion. Følgende instruktioner skitserer en hurtig løsning "
+"på dette problem:"
 
 #: ../../source/kdsmart-tips.rst:770
 #: ../../source/kdsmart-tips.rst:821
 #: ../../source/kdsmart-tips.rst:821
 msgid "Fixing Block Trials"
-msgstr ""
+msgstr "Fastsættelse Block Trials"
 
 #: ../../source/kdsmart-tips.rst:778
 msgid "Navigate to the **Devices Screen**. The image below shows how to get there from the **Home Screen**. Select the **Devices Button** at |circle1|."
 msgstr ""
+"Naviger til skærmbilledet **Enheder**. Billedet nedenfor viser, hvordan man "
+"kommer dertil fra **Startskærmen**. Vælg **Enheder** på |cirkel1|."
 
 #: ../../source/kdsmart-tips.rst:798
 #: ../../source/kdsmart-tips.rst:798
 msgid "Devices Screen"
-msgstr ""
+msgstr "Skærm Enheder"
 
 #: ../../source/kdsmart-tips.rst:801
 msgid "A **Fix Block Trials Button** has been added and can be seen in the below image at |circle1|."
 msgstr ""
+"EN** Fix Block Trials-knap** er tilføjet og kan ses i nedenstående billede "
+"på |cirkel1|."
 
 #: ../../source/kdsmart-tips.rst:824
 msgid "A list of block trials will be displayed. Select the trial that you want to fix and it should be converted to be compatible with the newest version of KDSmart."
 msgstr ""
+"En liste over blokforsøg vises. Vælg den prøveversion, du vil rette, og den "
+"skal konverteres til at være kompatibel med den nyeste version af KDSmart."
 
 #: ../../source/kdsmart-tips.rst:834
 msgid "Plot Attribute Alias Issues"
-msgstr ""
+msgstr "Problemer med plottattribut Alias"
 
 #: ../../source/kdsmart-tips.rst:836
 msgid "The 3.0.28 update to KDSmart has involved a change in the way that block trials are handled. Some users may experience issues with the plot attribute alias of a block trial if they try to import a block trial to KDSmart 3.0.28 if it was exported from an earlier version of KDSmart."
 msgstr ""
+"3.0.28-opdateringen til KDSmart har medført en ændring i måden hvorpå "
+"blokforsøg håndteres. Nogle brugere kan opleve problemer med plotattributten "
+"alias for en blokprøve, hvis de forsøger at importere en blokprøveversion "
+"til KDSmart 3.0.28 hvis den blev eksporteret fra en tidligere version af "
+"KDSmart."
 
 #: ../../source/kdsmart-tips.rst:840
 msgid "If you have this issue, KDSmart will present options for setting the correct plot attribute alias which can be seen in the below image. Choose the field that should match up with the plot attribute alias and the file will be converted for you."
 msgstr ""
+"Hvis du har dette problem, vil KDSmart præsentere indstillinger for at "
+"indstille det korrekte plotattribut-alias, som kan ses i nedenstående "
+"billede. Vælg det felt, der skal matche plotattribut-aliaset, og filen "
+"konverteres til dig."
 
 #: ../../source/kdsmart-tips.rst:860
 #: ../../source/kdsmart-tips.rst:860
 msgid "Fixing Plot Attribute Alias"
-msgstr ""
+msgstr "Fastsættelse af plot-attribut Alias"
