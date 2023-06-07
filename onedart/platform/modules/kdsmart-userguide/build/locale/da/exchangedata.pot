@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-06-07 06:24+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Danish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/data-transfer/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/imagerefs.txt:5
 #: ../../source/imagerefs.txt:5
@@ -36,7 +39,7 @@ msgstr ""
 #: ../../source/imagerefs.txt:5
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 #: ../../source/imagerefs.txt:9
@@ -55,7 +58,7 @@ msgstr ""
 #: ../../source/imagerefs.txt:9
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 #: ../../source/imagerefs.txt:13
@@ -65,70 +68,90 @@ msgstr ""
 #: ../../source/imagerefs.txt:13
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 #: ../../source/imagerefs.txt:17
 #: ../../source/imagerefs.txt:17
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/exchangedata.rst:23
 msgid "Data Transfer"
-msgstr ""
+msgstr "Dataoverførsel"
 
 #: ../../source/exchangedata-include.txt:30
 msgid "This is a common help topic for both KDXplore and KDSmart."
-msgstr ""
+msgstr "Dette er et almindeligt hjælpeemne for både KDXplore og KDSmart."
 
 #: ../../source/exchangedata-include.txt:40
 msgid "Introduction"
-msgstr ""
+msgstr "Introduktion"
 
 #: ../../source/exchangedata-include.txt:42
 msgid "There are several methods of moving data in to and out of KDSmart which can be found on the  *Data - Import, Export, Backup* page at: http://www.kddart.org/help/kdsmart/html/data-import-export-backup.html#data-import-export-backup"
 msgstr ""
+"Der er flere metoder til at flytte data ind og ud af KDSmart, som kan findes "
+"på siden *Data - Import, Export, Backup* på: http://www.kddart.org/help/"
+"kdsmart/html/data-import-export-backup.html#data-import-export-backup"
 
 #: ../../source/exchangedata-include.txt:44
 msgid "This topic focuses on using KDXplore with KDSmart, which provides more time saving and productivity benefits for the user. Previously, inbuilt software called KDXchange was used to transfer data between KDXplore and KDSmart. Both applications have recently been updated to include integration with Google Drive which requires much less effort in setup. Whilst an internet connection is required, both devices do not need to be on the same Wi-Fi network. Google Drive is now the recommended method, however, there may still be a need to use KDXchange so both methods are outlined here. |br| The following sections outline the steps required for exchanging data between KDSmart and KDXplore:"
 msgstr ""
+"Dette emne fokuserer på at bruge KDXplore sammen med KDSmart, hvilket giver "
+"mere tidsbesparelse og produktivitetsfordele for brugeren. Tidligere blev "
+"indbygget software kaldet KDXchange brugt til at overføre data mellem "
+"KDXplore og KDSmart. Begge applikationer er for nylig blevet opdateret til "
+"at omfatte integration med Google Drev, hvilket kræver meget mindre indsats "
+"i opsætningen. Mens der kræves en internetforbindelse, begge enheder behøver "
+"ikke at være på det samme Wi-Fi-netværk. Google Drev er nu den anbefalede "
+"metode, men der kan stadig være behov for at bruge KDXchange, så begge "
+"metoder er beskrevet her. |br| De følgende afsnit beskriver de trin, der "
+"kræves for at udveksle data mellem KDSmart og KDXplore:"
 
 #: ../../source/exchangedata-include.txt:47
 msgid "Setup - Connecting KDXplore to KDSmart Devices; and"
-msgstr ""
+msgstr "Opsætning - Tilslutning af KDXplore til KDSmart-enheder; og"
 
 #: ../../source/exchangedata-include.txt:48
 msgid "Transfer - Moving data (Trials, Traits and Tags) between KDSmart and KDXplore."
 msgstr ""
+"Overførsel - Flytning af data (forsøg, træk og tags) mellem KDSmart og "
+"KDXplore."
 
 #: ../../source/exchangedata-include.txt:50
 msgid "For more information on why you would need to transfer data, see the *KDSmart Home Page* at http://www.kddart.org/help/kdsmart/html/index.html See the *KDXplore Home Page* at http://www.kddart.org/help/kdxplore/html/index.html to learn about how you can use KDXplore for data management and curation."
 msgstr ""
+"For mere information om hvorfor du skal overføre data, se *KDSmart "
+"Hjemmeside* på http://www.kddart.org/help/kdsmart/html/index.html Se *"
+"KDXplore Startside* på http://www.kddart.org/help/kdxplore/html/index.html "
+"for at få mere at vide om, hvordan du kan bruge KDXplore til datastyring og "
+"kurering."
 
 #: ../../source/exchangedata-include.txt:54
 #: ../../source/exchangedata-include.txt:70
@@ -154,75 +177,102 @@ msgstr ""
 #: ../../source/exchangedata-include.txt:978
 #: ../../source/exchangedata-include.txt:1000
 msgid "|br|"
-msgstr ""
+msgstr "|br|"
 
 #: ../../source/exchangedata-include.txt:57
 msgid "Data Transfer - Google Drive Method"
-msgstr ""
+msgstr "Dataoverførsel - Google Drev-metode"
 
 #: ../../source/exchangedata-include.txt:59
 msgid "Google Drive is a quick and easy way of exchanging data between devices and requires little setup time. The example provided will take you from exporting a Scoring Set from KDXplore to Google Drive, importing it into KDSmart, exporting the Scored Data file to Google Drive, and then importing that file into KDXplore for curation."
 msgstr ""
+"Google Drev er en hurtig og nem måde at udveksle data mellem enheder og "
+"kræver lidt opsætningstid. Eksemplet vil tage dig fra at eksportere et "
+"scoresæt fra KDXplore til Google Drev, importere det til KDSmart, eksportere "
+"den scorede datafilen til Google Drev og derefter importere filen til "
+"KDXplore til kurering."
 
 #: ../../source/exchangedata-include.txt:61
 msgid "The process of exchanging data will be described in the following steps:"
-msgstr ""
+msgstr "Processen med udveksling af data vil blive beskrevet i følgende trin:"
 
 #: ../../source/exchangedata-include.txt:63
 msgid "Connect to the Internet"
-msgstr ""
+msgstr "Opret forbindelse til internettet"
 
 #: ../../source/exchangedata-include.txt:64
 msgid "Google Drive Setup"
-msgstr ""
+msgstr "Opsætning af Google Drev"
 
 #: ../../source/exchangedata-include.txt:65
 msgid "Transferring Files from KDXplore to Google Drive"
-msgstr ""
+msgstr "Overførsel af filer fra KDXplore til Google Drev"
 
 #: ../../source/exchangedata-include.txt:66
 msgid "Transferring Files into KDSmart from Google Drive"
-msgstr ""
+msgstr "Overførsel af filer til KDSmart fra Google Drev"
 
 #: ../../source/exchangedata-include.txt:67
 msgid "Transferring Files from KDSmart to Google Drive"
-msgstr ""
+msgstr "Overførsel af filer fra KDSmart til Google Drev"
 
 #: ../../source/exchangedata-include.txt:68
 msgid "Transferring Files into KDXplore from Google Drive"
-msgstr ""
+msgstr "Overførsel af filer til KDXplore fra Google Drev"
 
 #: ../../source/exchangedata-include.txt:73
 msgid "Step 1 - Connect to the Internet"
-msgstr ""
+msgstr "Trin 1 - Opret forbindelse til internettet"
 
 #: ../../source/exchangedata-include.txt:75
 msgid "Google Drive transfers will only work when devices are connected to the internet but they do not have to be connected at the same time. For example, a user on KDXplore may export a Scoring Set to Google Drive which is uploaded to their personal folder, turn off their computer, and then go out into the field and import that Scoring Set into to KDSmart. For users who do not have mobile data on their KDSmart device or are in an area that does not have signal, it will still be necessary to connect to WiFi."
 msgstr ""
+"Google Drive-overførsler fungerer kun, når enheder er forbundet til "
+"internettet, men de behøver ikke at være tilsluttet på samme tid. For "
+"eksempel kan en bruger på KDXplore eksportere et scoringssæt til Google "
+"Drev, som uploades til deres personlige mappe, slukke for computeren og "
+"derefter gå ud i feltet og importere det Scoringssæt til KDSmart. For "
+"brugere, der ikke har mobildata på deres KDSmart-enhed eller befinder sig i "
+"et område, der ikke har signal, er det stadig nødvendigt at oprette "
+"forbindelse til WiFi."
 
 #: ../../source/exchangedata-include.txt:77
 msgid "For further information on setting up WiFi please see the :ref:`Using WiFi` section below."
 msgstr ""
+"For yderligere information om opsætning af WiFi se afsnittet: ref: `Brug af "
+"WiFi` nedenfor."
 
 #: ../../source/exchangedata-include.txt:82
 msgid "Step 2 - Google Drive Setup"
-msgstr ""
+msgstr "Trin 2 - Google Drev-opsætning"
 
 #: ../../source/exchangedata-include.txt:84
 msgid "As well as having an internet connection, you will need to have a Google account which gives you access to Google Drive. A free account will provide 15gb of space which is more than enough for using with KDXplore and KDSmart. To sign up or access *Google Drive* see the following page: https://www.google.com/drive/."
 msgstr ""
+"Ud over at have en internetforbindelse skal du have en Google-konto, der "
+"giver dig adgang til Google Drev. En gratis konto giver 15 gb plads, hvilket "
+"er mere end nok til at bruge med KDXplore og KDSmart. For at tilmelde dig "
+"eller få adgang til *Google Drev* se følgende side: https://www.google.com/"
+"drive/."
 
 #: ../../source/exchangedata-include.txt:86
 msgid "This link will be usable on KDXplore, Android devices should have a Google Drive application that would usually be already installed by default but can also be found in the Google Play Store."
 msgstr ""
+"Dette link kan bruges på KDXplore, Android-enheder skal have et Google Drive-"
+"program, der normalt allerede er installeret som standard, men kan også "
+"findes i Google Play Butik."
 
 #: ../../source/exchangedata-include.txt:91
 msgid "Step 3 - Transferring Files from KDXplore to Google Drive"
-msgstr ""
+msgstr "Trin 3 - Overførsel af filer fra KDXplore til Google Drev"
 
 #: ../../source/exchangedata-include.txt:94
 msgid "Once a Trial, Trait or Tag has been created, it needs to be transferred to a KDSmart device for use in the field. The following instructions demonstrate how to transfer Trials (or other data) from KDXplore to Google Drive so that they can be used in KDSmart."
 msgstr ""
+"Når en Trial, Trait eller Tag er oprettet, skal det overføres til en KDSmart-"
+"enhed til brug i feltet. Følgende instruktioner viser, hvordan du overfører "
+"forsøg (eller andre data) fra KDXplore til Google Drev, så de kan bruges i "
+"KDSmart."
 
 #: ../../source/exchangedata-include.txt:101
 #: ../../source/exchangedata-include.txt:143
@@ -251,13 +301,13 @@ msgstr ""
 #: ../../source/exchangedata-include.txt:952
 #: ../../source/exchangedata-include.txt:982
 msgid "|center-start|"
-msgstr ""
+msgstr "|center-start|"
 
 #: ../../source/exchangedata-include.txt:99
 #: ../../source/exchangedata-include.txt:117
 #: ../../source/exchangedata-include.txt:117
 msgid "Exporting a Scoring Set"
-msgstr ""
+msgstr "Eksport af et scoringssæt"
 
 #: ../../source/exchangedata-include.txt:109
 #: ../../source/exchangedata-include.txt:151
@@ -286,11 +336,11 @@ msgstr ""
 #: ../../source/exchangedata-include.txt:960
 #: ../../source/exchangedata-include.txt:990
 msgid "|center-end|"
-msgstr ""
+msgstr "|center-slut|"
 
 #: ../../source/exchangedata-include.txt:123
 msgid "Transferring a Trial from KDX to Google Drive"
-msgstr ""
+msgstr "Overførsel af en prøveversion fra KDX til Google Drev"
 
 #: ../../source/exchangedata-include.txt:128
 #: ../../source/exchangedata-include.txt:205
@@ -301,7 +351,7 @@ msgstr ""
 #: ../../source/exchangedata-include.txt:876
 #: ../../source/exchangedata-include.txt:927
 msgid "**Step**"
-msgstr ""
+msgstr "**Trin**"
 
 #: ../../source/exchangedata-include.txt:129
 #: ../../source/exchangedata-include.txt:206
@@ -312,7 +362,7 @@ msgstr ""
 #: ../../source/exchangedata-include.txt:877
 #: ../../source/exchangedata-include.txt:928
 msgid "**Action**"
-msgstr ""
+msgstr "**Handling**"
 
 #: ../../source/exchangedata-include.txt:130
 #: ../../source/exchangedata-include.txt:207
@@ -321,11 +371,13 @@ msgstr ""
 #: ../../source/exchangedata-include.txt:878
 #: ../../source/exchangedata-include.txt:929
 msgid "**1.**"
-msgstr ""
+msgstr "**1. **"
 
 #: ../../source/exchangedata-include.txt:131
 msgid "Ensure that Google Drive is opened in an internet browser and have KDXplore open to prepare for the transfer."
 msgstr ""
+"Sørg for, at Google Drev åbnes i en internetbrowser og har KDXplore åben for "
+"at forberede overførslen."
 
 #: ../../source/exchangedata-include.txt:132
 #: ../../source/exchangedata-include.txt:209
@@ -334,11 +386,13 @@ msgstr ""
 #: ../../source/exchangedata-include.txt:880
 #: ../../source/exchangedata-include.txt:931
 msgid "**2.**"
-msgstr ""
+msgstr "**2. **"
 
 #: ../../source/exchangedata-include.txt:133
 msgid "Choose a Scoring Set such as the one at |circle1| and then select the **Export** button at |circle2|."
 msgstr ""
+"Vælg et scoringssæt som det på |cirkel1| og vælg derefter knappen **Eksport**"
+" på |cirkel2|."
 
 #: ../../source/exchangedata-include.txt:134
 #: ../../source/exchangedata-include.txt:211
@@ -347,255 +401,334 @@ msgstr ""
 #: ../../source/exchangedata-include.txt:882
 #: ../../source/exchangedata-include.txt:933
 msgid "**3.**"
-msgstr ""
+msgstr "**3. **"
 
 #: ../../source/exchangedata-include.txt:135
 msgid "The **Export** window displays (as at |circle3|) which provides export options. Select the *Browse* button to choose a location on the computer to save the Scoring Set to. Ensure that the radio button for *KDX* file is selected so that it is ready to be used in KDSmart."
 msgstr ""
+"Vinduet **Eksport** vises (som på |circle3|), som giver "
+"eksportindstillinger. Vælg knappen *Gennemse* for at vælge en placering på "
+"computeren, som scoringssættet skal gemmes på. Sørg for at alternativknappen "
+"for filen *KDX* er valgt, så den er klar til brug i KDSmart."
 
 #: ../../source/exchangedata-include.txt:136
 #: ../../source/exchangedata-include.txt:235
 #: ../../source/exchangedata-include.txt:357
 #: ../../source/exchangedata-include.txt:476
 msgid "**4.**"
-msgstr ""
+msgstr "**4. **"
 
 #: ../../source/exchangedata-include.txt:137
 msgid "Select either the *Export* or the *Export & Close* options within the **Export** window and the KDX file will be exported to your chosen location. A dialogue opens and asks whether you want to open the containing directory - do this if you want to transfer the file to Google Drive immediately."
 msgstr ""
+"Vælg enten indstillingerne *Eksport* eller *Eksporter og luk* i vinduet "
+"**Eksport**, og KDX-filen eksporteres til det valgte sted. En dialog åbnes "
+"og spørger, om du vil åbne den indeholdende mappe - gør dette, hvis du vil "
+"overføre filen til Google Drev med det samme."
 
 #: ../../source/exchangedata-include.txt:138
 #: ../../source/exchangedata-include.txt:381
 #: ../../source/exchangedata-include.txt:478
 msgid "**5.**"
-msgstr ""
+msgstr "**5. **"
 
 #: ../../source/exchangedata-include.txt:139
 msgid "*Click+drag* the file into the web browser with Google Drive opened and drop it to complete the upload. The file should now appear in Google Drive and there is a message which confirms that the upload has been completed."
 msgstr ""
+"*Klik på+træk* filen ind i webbrowseren med Google Drev åbnet og slip den "
+"for at fuldføre upload. Filen skal nu vises i Google Drev, og der er en "
+"meddelelse, der bekræfter, at uploaden er afsluttet."
 
 #: ../../source/exchangedata-include.txt:141
 #: ../../source/exchangedata-include.txt:159
 #: ../../source/exchangedata-include.txt:159
 msgid "Uploading Files to Google Drive"
-msgstr ""
+msgstr "Overførsel af filer til Google Drev"
 
 #: ../../source/exchangedata-include.txt:167
 msgid "Step 4 - Transferring Files into KDSmart from Google Drive"
-msgstr ""
+msgstr "Trin 4 - Overførsel af filer til KDSmart fra Google Drev"
 
 #: ../../source/exchangedata-include.txt:169
 msgid "Files that are uploaded to Google Drive from KDXplore need to be imported into KDSmart. The following steps will demonstrate how to open Google Drive on your device and choose files to be imported into KDSmart."
 msgstr ""
+"Filer, der uploades til Google Drev fra KDXplore, skal importeres til "
+"KDSmart. Følgende trin viser, hvordan du åbner Google Drev på din enhed og "
+"vælger filer, der skal importeres til KDSmart."
 
 #: ../../source/exchangedata-include.txt:192
 #: ../../source/exchangedata-include.txt:192
 msgid "Importing a Trial 1/3"
-msgstr ""
+msgstr "Import af en prøveversion 1/3"
 
 #: ../../source/exchangedata-include.txt:199
 msgid "Importing a Trial"
-msgstr ""
+msgstr "Import af en prøveversion"
 
 #: ../../source/exchangedata-include.txt:208
 msgid "Navigate to the Trials screen and select the **Import** button at |circle1|."
-msgstr ""
+msgstr "Naviger til skærmen Forsøg, og vælg knappen **Import** på |cirkel1|."
 
 #: ../../source/exchangedata-include.txt:210
 msgid "Select an import option - for this tutorial choose the **File KDX** option at |circle2|. This opens Google Drive."
 msgstr ""
+"Vælg en importindstilling - for denne tutorial skal du vælge indstillingen **"
+"Fil KDX** på |circle2|. Dette åbner Google Drev."
 
 #: ../../source/exchangedata-include.txt:212
 msgid "Select the KDX file to be imported such as the one at |circle2| in the below image. Then select the *Open* button at |circle2| and the import will begin."
 msgstr ""
+"Vælg den KDX-fil, der skal importeres, f.eks. den på |circle2| i "
+"nedenstående billede. Vælg derefter knappen *Åbn* på |circle2| og importen "
+"begynder."
 
 #: ../../source/exchangedata-include.txt:233
 #: ../../source/exchangedata-include.txt:233
 msgid "Importing a Trial 2/3"
-msgstr ""
+msgstr "Import af en prøveversion 2/3"
 
 #: ../../source/exchangedata-include.txt:236
 msgid "A successful import results in the following screen. The attachment message indicates that there are no attachments to the Trial."
 msgstr ""
+"En vellykket import resulterer i følgende skærmbillede. "
+"Vedhæftningsmeddelelsen angiver, at der ikke er nogen vedhæftede filer til "
+"prøveversionen."
 
 #: ../../source/exchangedata-include.txt:257
 #: ../../source/exchangedata-include.txt:257
 msgid "Importing a Trial 3/3"
-msgstr ""
+msgstr "Import af en prøve 3/3"
 
 #: ../../source/exchangedata-include.txt:265
 msgid "Step 5 - Transferring Files from KDSmart to Google Drive"
-msgstr ""
+msgstr "Trin 5 - Overførsel af filer fra KDSmart til Google Drev"
 
 #: ../../source/exchangedata-include.txt:268
 msgid "Once data is collected by scoring with KDSmart, the data needs to be transferred to KDXplore for curation. Step 5 will demonstrate how to transfer scored data for KDXplore using Google Drive."
 msgstr ""
+"Når data er indsamlet ved at score med KDSmart, skal dataene overføres til "
+"KDXplore til kurering. Trin 5 viser, hvordan du overfører scorede data til "
+"KDXplore ved hjælp af Google Drev."
 
 #: ../../source/exchangedata-include.txt:293
 #: ../../source/exchangedata-include.txt:293
 msgid "Transferring a Trial 1/5"
-msgstr ""
+msgstr "Overførsel af en prøveperiode 1/5"
 
 #: ../../source/exchangedata-include.txt:300
 msgid "Transferring a Trial"
-msgstr ""
+msgstr "Overførsel af en prøveperiode"
 
 #: ../../source/exchangedata-include.txt:308
 msgid "On the **Trials** screen in the above image, ensure that the Scored Trial that you want to transfer is selected and then choose the **Options** button at |circle1| and then the *Share* option at |circle2|."
 msgstr ""
+"På skærmbilledet **Trials** i ovenstående billede skal du sikre dig, at den "
+"scorede prøveversion, du vil overføre, er valgt, og vælg derefter knappen "
+"**Indstillinger** på |cirkel1| og dernæst indstillingen *Del* på |cirkel2|."
 
 #: ../../source/exchangedata-include.txt:310
 msgid "The **Choose Export Option** window is then displayed as seen in the image below. Select the *Full Data for KDXplore* option at |circle1|."
 msgstr ""
+"Vinduet **Vælg Eksporter indstilling** vises derefter som det ses på "
+"billedet nedenfor. Vælg indstillingen *Fulddata for KDXplore* på |circle1|."
 
 #: ../../source/exchangedata-include.txt:331
 #: ../../source/exchangedata-include.txt:331
 msgid "Transferring a Trial 2/5"
-msgstr ""
+msgstr "Overførsel af en prøve 2/5"
 
 #: ../../source/exchangedata-include.txt:334
 msgid "You will be presented with options for sharing the KDX file. Select the **Save to Drive** option at |circle1| in the below image."
 msgstr ""
+"Du vil blive præsenteret for muligheder for deling af KDX-filen. Vælg "
+"indstillingen **Gem på drev** på |cirkel1| i nedenstående billede."
 
 #: ../../source/exchangedata-include.txt:355
 #: ../../source/exchangedata-include.txt:355
 msgid "Transferring a Trial 3/5"
-msgstr ""
+msgstr "Overførsel af en prøveperiode 3/5"
 
 #: ../../source/exchangedata-include.txt:358
 msgid "Choose the **Save to Drive** to display options for saving the file as seen in the below image. Select the **Save** option at |circle1| when you are ready to save the file to Google Drive."
 msgstr ""
+"Vælg**Gem på drev** for at vise muligheder for at gemme filen som vist på "
+"nedenstående billede. Vælg indstillingen **Gem** på |circle1| når du er klar "
+"til at gemme filen på Google Drev."
 
 #: ../../source/exchangedata-include.txt:379
 #: ../../source/exchangedata-include.txt:379
 msgid "Transferring a Trial 4/5"
-msgstr ""
+msgstr "Overførsel af en prøve 4/5"
 
 #: ../../source/exchangedata-include.txt:382
 msgid "Once the file has been saved, confirmation notifications are displayed on the device as seen in the below image. This indicates that the Scored Trials are now stored in Google Drive."
 msgstr ""
+"Når filen er blevet gemt, vises bekræftelsesmeddelelser på enheden, som det "
+"ses i nedenstående billede. Dette indikerer, at de scorede forsøg nu er gemt "
+"i Google Drev."
 
 #: ../../source/exchangedata-include.txt:403
 #: ../../source/exchangedata-include.txt:403
 msgid "Transferring a Trial 5/5"
-msgstr ""
+msgstr "Overførsel af en prøveperiode 5/5"
 
 #: ../../source/exchangedata-include.txt:410
 msgid "Step 6 - Transferring Files into KDXplore from Google Drive"
-msgstr ""
+msgstr "Trin 6 - Overførsel af filer til KDXplore fra Google Drev"
 
 #: ../../source/exchangedata-include.txt:412
 msgid "The final step is to load the Scored Trial from Google Drive into KDXplore. This allows the user to curate and analysing the scored data."
 msgstr ""
+"Det sidste trin er at indlæse den scorede prøveversion fra Google Drev til "
+"KDXplore. Dette giver brugeren mulighed for at kuratere og analysere de "
+"scorede data."
 
 #: ../../source/exchangedata-include.txt:416
 #: ../../source/exchangedata-include.txt:434
 #: ../../source/exchangedata-include.txt:434
 msgid "Downloading a Trial from Google Drive"
-msgstr ""
+msgstr "Download af en prøveversion fra Google Drev"
 
 #: ../../source/exchangedata-include.txt:442
 msgid "Loading a Trial from Google Drive"
-msgstr ""
+msgstr "Indlæsning af en prøveversion fra Google Drev"
 
 #: ../../source/exchangedata-include.txt:450
 msgid "Ensure that Google Drive is opened. If it is not, then there is a Google Drive button in KDXplore which opens it in a browser. This button is located at |circle1| in the above image."
 msgstr ""
+"Sørg for, at Google Drev åbnes. Hvis det ikke er tilfældet, så er der en "
+"Google Drev-knap i KDXplore, som åbner den i en browser. Denne knap er "
+"placeret på |circle1| i ovenstående billede."
 
 #: ../../source/exchangedata-include.txt:452
 msgid "Choose any file such as the one located at |circle2|. *Right-click* this file and then choose the *Download* option. This downloads the file to the default location for your browser (e.g. The Downloads folder)."
 msgstr ""
+"Vælg en fil som den, der findes på |cirkel2|. *Højreklik* denne fil, og vælg "
+"derefter indstillingen *Download*. Dette downloader filen til "
+"standardplaceringen for din browser (f.eks. Downloads-mappen)."
 
 #: ../../source/exchangedata-include.txt:454
 msgid "*Click+drag* the downloaded file (such as the one |circle1| in the below image) to the **Trials** panel in KDXplore. This displays the **Load Trial Data** window at |circle3|. The **Download** button can also be selected to display the **Load Trial Data** window."
 msgstr ""
+"*Klik på+træk* den downloadede fil (f.eks. den |cirkel1| i nedenstående "
+"billede) til panelet **Trials** i KDXplore. Dette viser vinduet **Indlæs "
+"prøvedata** på |cirkel3|. Knappen **Download** kan også vælges for at vise "
+"vinduet **Indlæs prøvedata**."
 
 #: ../../source/exchangedata-include.txt:456
 #: ../../source/exchangedata-include.txt:474
 #: ../../source/exchangedata-include.txt:474
 msgid "Loading Trial Data"
-msgstr ""
+msgstr "Indlæser prøvedata"
 
 #: ../../source/exchangedata-include.txt:477
 msgid "Select/highlight the file you want to import, select a *Source* device, and then enter the *Name of the Device User*."
 msgstr ""
+"Vælg/fremhæv den fil, du vil importere, vælg en*Kilde* enhed, og indtast "
+"derefter*Navnet på enhedsbrugeren*."
 
 #: ../../source/exchangedata-include.txt:479
 msgid "Select the **Import** button at |circle4| to complete the import."
-msgstr ""
+msgstr "Vælg knappen **Import** på |circle4| for at fuldføre importen."
 
 #: ../../source/exchangedata-include.txt:481
 #: ../../source/exchangedata-include.txt:499
 #: ../../source/exchangedata-include.txt:499
 msgid "Import Trial Data"
-msgstr ""
+msgstr "Importér prøvedata"
 
 #: ../../source/exchangedata-include.txt:504
 msgid "Data Transfer - KDXchange Method"
-msgstr ""
+msgstr "Dataoverførsel - KDXchange-metoden"
 
 #: ../../source/exchangedata-include.txt:506
 msgid "Whilst the Google Drive method is now the recommended method for exchanging data between KDXplore and KDSmart, KDXchange is still provided as a backup method for exchanging data."
 msgstr ""
+"Mens Google Drev-metoden nu er den anbefalede metode til udveksling af data "
+"mellem KDXplore og KDSmart, er KDXchange stadig tilvejebragt som en backup-"
+"metode til udveksling af data."
 
 #: ../../source/exchangedata-include.txt:511
 msgid "Setup - Connecting KDXplore to KDSmart Devices"
-msgstr ""
+msgstr "Opsætning - Tilslutning af KDXplore til KDSmart-enheder"
 
 #: ../../source/exchangedata-include.txt:513
 msgid "Connecting Devices has three steps."
-msgstr ""
+msgstr "Tilslutning af enheder har tre trin."
 
 #: ../../source/exchangedata-include.txt:521
 msgid "Step 1 - Using WiFi"
-msgstr ""
+msgstr "Trin 1 - Brug af WiFi"
 
 #: ../../source/exchangedata-include.txt:523
 msgid "KDXplore and KDSmart devices connect and synchronise data using a WiFi network."
 msgstr ""
+"KDXplore- og KDSmart-enheder forbinder og synkroniserer data ved hjælp af et "
+"WiFi-netværk."
 
 #: ../../source/exchangedata-include.txt:525
 msgid "The KDSmart device(s) and the KDXplore laptop/PC **must** be connected and visible to each other on the **same network** (i.e. same wifi connection). This is a networking requirement and not a limitation of KDSmart/KDXchange."
 msgstr ""
+"KDSmart-enheden (-erne) og KDXplore laptop/PC **skal** være forbundet og "
+"synlige for hinanden på det samme netværk** (dvs. samme wifi-forbindelse). "
+"Dette er et netværkskrav og ikke en begrænsning af KDSmart/KDXchange."
 
 #: ../../source/exchangedata-include.txt:527
 msgid "Depending on the network configuration, there may be times when your PC/Laptop is connected to a wired network (not on WiFi) yet will be able to connect to KDSmart devices on WiFi."
 msgstr ""
+"Afhængigt af netværkskonfigurationen kan der være tidspunkter, hvor din pc/"
+"laptop er tilsluttet et kablet netværk (ikke på WiFi), men alligevel vil "
+"være i stand til at oprette forbindelse til KDSmart-enheder på WiFi."
 
 #: ../../source/exchangedata-include.txt:529
 msgid "Many organisational IT policies lock computer settings preventing the setup or activation of your own WiFi Hotspot without needing Administrator user access on the computer. |br| **Before** travelling to ‘the field’ we suggest you prepare, test and become familiarised with this means of connecting devices. Seek support in your organisation if needed."
 msgstr ""
+"Mange organisatoriske IT-politikker låser computerindstillinger, der "
+"forhindrer opsætning eller aktivering af dit eget WiFi-hotspot uden at "
+"behøve administratorbrugeradgang på computeren. |br| **Før** rejser "
+"til\"marken“ foreslår vi, at du forbereder, tester og bliver fortrolig med "
+"denne metode til tilslutning af enheder. Søg support i din organisation, "
+"hvis det er nødvendigt."
 
 #: ../../source/exchangedata-include.txt:551
 #: ../../source/exchangedata-include.txt:551
 msgid "KDSmart - WiFi Connection Warning Example"
-msgstr ""
+msgstr "KDSmart - WiFi-forbindelse Advarsel Eksempel"
 
 #: ../../source/exchangedata-include.txt:555
 msgid "If the message above is displayed try the **Connect Anyway** button, however, this may result in mixed success. Only a couple of tries is needed!"
 msgstr ""
+"Hvis meddelelsen ovenfor vises, skal du prøve knappen **Tilslut alligevel**, "
+"men dette kan resultere i blandet succes. Kun et par forsøg er nødvendige!"
 
 #: ../../source/exchangedata-include.txt:560
 msgid "In the Field - Your Own WiFi Hotspot"
-msgstr ""
+msgstr "I marken - dit eget WiFi-hotspot"
 
 #: ../../source/exchangedata-include.txt:562
 msgid "When a WiFi network is unavailable at your location, a portable WiFi hotspot can be created on your Laptop (if it has that capability). The connection can then be shared with your other KDSmart devices using KDXchange (see the above tip)."
 msgstr ""
+"Når et WiFi-netværk ikke er tilgængeligt på din placering, kan der oprettes "
+"et bærbart WiFi-hotspot på din bærbare computer (hvis det har denne "
+"kapacitet). Forbindelsen kan derefter deles med dine andre KDSmart-enheder "
+"ved hjælp af KDXchange (se ovenstående tip)."
 
 #: ../../source/exchangedata-include.txt:568
 msgid "The KDXchange Window"
-msgstr ""
+msgstr "Vinduet KDXchange"
 
 #: ../../source/exchangedata-include.txt:570
 msgid "The KDXchange window can be found by opening KDXplore on a PC and then opening the **Trial Manager** module by selecting the |trial_manager_btn| icon. Once the module is open, select the **KDXchange Server** |picture3| icon."
 msgstr ""
+"Vinduet KDXchange kan findes ved at åbne KDXplore på en PC og derefter åbne "
+"modulet **Trial Manager** ved at vælge ikonet |trial_manager_btn|. Når "
+"modulet er åbent, skal du vælge ikonet **KDXChange Server** |picture3|."
 
 #: ../../source/exchangedata-include.txt:612
 #: ../../source/exchangedata-include.txt:612
 #: ../../source/exchangedata-include.txt:612
 msgid "trial_manager_btn"
-msgstr ""
+msgstr "trial_manager_dk"
 
 #: ../../source/exchangedata-include.txt:1009
 #: ../../source/exchangedata-include.txt:1009
@@ -603,152 +736,209 @@ msgstr ""
 #: ../../source/exchangedata-include.txt:1009
 #: ../../source/exchangedata-include.txt:1009
 msgid "picture3"
-msgstr ""
+msgstr "billede3"
 
 #: ../../source/exchangedata-include.txt:573
 msgid "The following image displays a section of the KDXchange screen highlighted to show the following areas:"
 msgstr ""
+"Følgende billede viser et afsnit af KDXchange-skærmen fremhævet for at vise "
+"følgende områder:"
 
 #: ../../source/exchangedata-include.txt:575
 msgid "|circle1| **Connection** panel is where the options to connect devices are located. This includes the IP Address where the KDXchange server will be created."
 msgstr ""
+"|cirkel1| **Forbindelse** panel er, hvor mulighederne for at forbinde "
+"enheder er placeret. Dette inkluderer IP-adressen hvor KDXchange-serveren "
+"vil blive oprettet."
 
 #: ../../source/exchangedata-include.txt:576
 msgid "|circle2| **KDXplore** panel links KDXplore from the user's computer. This means that the list of Trials, Traits, and Tags that are on the user's version of KDXplore are displayed. The user will need to choose between either the Trials, Traits or Tags to be selected."
 msgstr ""
+"|circle2| **KDXplore** panel forbinder KDXplore fra brugerens computer. Det "
+"betyder, at listen over forsøg, træk og tags, der findes i brugerens version "
+"af KDXplore, vises. Brugeren skal vælge mellem enten Trials, Egenskaber "
+"eller Tags, der skal vælges."
 
 #: ../../source/exchangedata-include.txt:577
 msgid "|circle3| **KDSmart Devices** is a list of all the KDSmart devices that are connected to KDXchange or are available for connection. The image demonstrates that a device named 'Galaxy S8+' from the user named 'Tester' is currently connected."
 msgstr ""
+"|circle3| **KDSmart Devices** er en liste over alle KDSmart-enheder, der er "
+"forbundet til KDXchange eller er tilgængelige for tilslutning. Billedet "
+"viser, at en enhed med navnet 'Galaxy S8 +' fra brugeren ved navn 'Tester' i "
+"øjeblikket er tilsluttet."
 
 #: ../../source/exchangedata-include.txt:578
 msgid "|circle4| **Device** is a panel which displays data from the currently connected KDSmart device."
 msgstr ""
+"|circle4| **Device** er et panel som viser data fra den aktuelt forbundne "
+"KDSmart-enhed."
 
 #: ../../source/exchangedata-include.txt:599
 #: ../../source/exchangedata-include.txt:599
 msgid "KDXchange Main Window"
-msgstr ""
+msgstr "Hovedvinduet i KDXchange"
 
 #: ../../source/exchangedata-include.txt:603
 msgid "KDXchange server software in KDXplore and KDSmart enables them to communicate and needs to be kept running on the pc/laptop until any synchronisation tasks between the devices has completed. Also, the devices should be kept in close proximity whilst connected. Once tasks have completed the KDXchange server can be stopped."
 msgstr ""
+"KDxChange-serversoftwaren i KDXplore og KDSmart gør det muligt for dem at "
+"kommunikere og skal holdes kørende på pc'en/laptop indtil nogen "
+"synkroniseringsopgaver mellem enhederne er fuldført. Enhederne skal også "
+"holdes i umiddelbar nærhed, mens de er tilsluttet. Når opgaverne er "
+"fuldført, kan KDXchange-serveren stoppes."
 
 #: ../../source/exchangedata-include.txt:610
 msgid "Step 2 - Prepare KDXplore/KDXchange"
-msgstr ""
+msgstr "Trin 2 - Forbered KDXplore/KDXchange"
 
 #: ../../source/exchangedata-include.txt:615
 msgid "Step 2 involves preparing KDXplore on the laptop/pc to communicate with KDSmart devices. The following steps must be performed on the laptop/pc:"
 msgstr ""
+"Trin 2 indebærer at forberede KDXplore på den bærbare computer/pc til at "
+"kommunikere med KDSmart-enheder. Følgende trin skal udføres på den bærbare "
+"computer/pc:"
 
 #: ../../source/exchangedata-include.txt:636
 #: ../../source/exchangedata-include.txt:636
 msgid "Confirm Network/IP Address and Port number"
-msgstr ""
+msgstr "Bekræft netværk/IP-adresse og portnummer"
 
 #: ../../source/exchangedata-include.txt:641
 msgid "Step 2 - Starting the KDXchange server in KDXplore"
-msgstr ""
+msgstr "Trin 2 - Start af KDXchange-serveren i KDXplore"
 
 #: ../../source/exchangedata-include.txt:648
 msgid "**2.1** (KDX)"
-msgstr ""
+msgstr "**2.1** (KDX)"
 
 #: ../../source/exchangedata-include.txt:649
 msgid "On the Laptop/PC start KDXplore and select the **Trial Manager** |trial_manager_btn| icon."
 msgstr ""
+"Start KDXplore på den bærbare pc/pc, og vælg ikonet **Trial Manager** "
+"|trial_manager_btn|."
 
 #: ../../source/exchangedata-include.txt:650
 msgid "**2.2** (KDX)"
-msgstr ""
+msgstr "**2.2** (KDX)"
 
 #: ../../source/exchangedata-include.txt:651
 msgid "Select the **KDXchange Server** |picture3| icon at top of the Trial Manager window to open KDXchange."
 msgstr ""
+"Vælg ikonet **KDXChange Server** |picture3| øverst i prøvestyringsvinduet "
+"for at åbne KDXchange."
 
 #: ../../source/exchangedata-include.txt:652
 msgid "**2.3** (KDX)"
-msgstr ""
+msgstr "**2.3** (KDX)"
 
 #: ../../source/exchangedata-include.txt:653
 msgid "Select the **Start** button ( or Shift Start to enter address and/or port number) which is located at |circle1| on the above image."
 msgstr ""
+"Vælg knappen **Start** (eller Skift Start for at indtaste adresse og/eller "
+"portnummer), som er placeret på |circle1| på ovenstående billede."
 
 #: ../../source/exchangedata-include.txt:654
 msgid "**2.4** (KDX)"
-msgstr ""
+msgstr "**2.4** (KDX)"
 
 #: ../../source/exchangedata-include.txt:655
 msgid "The Network/IP Address and the Port number need to be confirmed. |BR| The selected Network/IP Address in this example is different to that of another computer. The IP address of the computer running KDXplore (suggested by default), is usually fine but can changed if required.  |BR| Select the **OK** button in the window at |circle2| to confirm this IP Address. |BR| The Port Number usually should be left at the default setting, however, if it is changed, both KDSmart and KDXplore **must** have the same port number. Once **OK** has been selected, the window will disappear and the program will start *listening* for devices which means that it is scanning for available devices on the Wi-Fi network."
 msgstr ""
+"Netværk/IP-adressen og portnummeret skal bekræftes. |BR| Den valgte netværk/"
+"IP-adresse i dette eksempel er forskellig fra den på en anden computer. IP-"
+"adressen på den computer, der kører KDXplore (foreslået som standard), er "
+"normalt fin, men kan ændres om nødvendigt. |BR| Vælg knappen **OK** i "
+"vinduet på |circle2| for at bekræfte denne IP-adresse. |BR| Portnummeret "
+"skal normalt stå ved standardindstillingen, men hvis det ændres, skal både "
+"KDSmart og KDXplore **** have det samme portnummer. Når **OK** er valgt, "
+"forsvinder vinduet, og programmet starter* lytte* for enheder, hvilket "
+"betyder, at det scanner efter tilgængelige enheder på Wi-Fi-netværket."
 
 #: ../../source/exchangedata-include.txt:657
 msgid "**2.5** (KDX)"
-msgstr ""
+msgstr "**2.5** (KDX)"
 
 #: ../../source/exchangedata-include.txt:658
 msgid "Once KDXplore is *listening* for devices, there will be a message displaying the IP address and port number at |circle1| in the following image. By selecting the **Stop** button at |circle2|, the user can stop KDXplore listening for devices. |BR| |BR|"
 msgstr ""
+"Når KDXplore *lytter* for enheder, vil der være en meddelelse, der viser IP-"
+"adressen og portnummeret på |circle1| i det følgende billede. Ved at vælge "
+"knappen **Stop** på |circle2|, kan brugeren stoppe KDXplore med at lytte "
+"efter enheder. |BR| |BR|"
 
 #: ../../source/exchangedata-include.txt:678
 #: ../../source/exchangedata-include.txt:678
 msgid "KDXchange connection to KDSmart devices"
-msgstr ""
+msgstr "KDXSkift forbindelse til KDSmart-enheder"
 
 #: ../../source/exchangedata-include.txt:683
 msgid "Step 3 - Preparing KDSmart Devices For Upload/Download"
-msgstr ""
+msgstr "Trin 3 - Klargøring af KDSmart-enheder til upload/download"
 
 #: ../../source/exchangedata-include.txt:685
 msgid "Step 3 involves connecting one or more KDSmart devices via WiFi with KDXplore on the laptop/pc. These 'connection' steps are common to both **Upload** to KDXplore or **Download** from KDXplore and for Trials, Traits or Tags."
 msgstr ""
+"Trin 3 indebærer tilslutning af en eller flere KDSmart-enheder via WiFi med "
+"KDXplore på den bærbare computer/pc. Disse „forbindelsestrin“ er fælles for "
+"både ** Upload** til KDXplore eller**Download** fra KDXplore og for forsøg, "
+"træk eller tags."
 
 #: ../../source/exchangedata-include.txt:691
 msgid "Step 3 - Connecting KDSmart devices to KDXplore's KDXchange server"
-msgstr ""
+msgstr "Trin 3 - Tilslutning af KDSmart-enheder til KDXplore s KDXchange-server"
 
 #: ../../source/exchangedata-include.txt:699
 msgid "**3.1** (KDX)"
-msgstr ""
+msgstr "**3.1** (KDX)"
 
 #: ../../source/exchangedata-include.txt:700
 msgid "Ensure that the KDXchange server is *listening* for any KDSmart device(s) from the previous *Part 2* steps (as demonstrated above)."
 msgstr ""
+"Sørg for, at KDXchange-serveren *lytter* for enhver KDSmart-enhed (er) fra "
+"de foregående trin * Del 2* (som vist ovenfor)."
 
 #: ../../source/exchangedata-include.txt:701
 msgid "**3.2** (KDS)"
-msgstr ""
+msgstr "**3.2** (KDS)"
 
 #: ../../source/exchangedata-include.txt:702
 msgid "From the home screen on each KDSmart device, select the appropriate Trials, Traits or Tags panel then select the **Connect** button as seen in |circle1| then choose the KDXplore icon at |circle2|.   |BR| |BR|"
 msgstr ""
+"Fra startskærmen på hver KDSmart-enhed, vælg det relevante Trials, Traits "
+"eller Tags panel og vælg derefter knappen **Forbind** som vist i |circle1| "
+"og vælg derefter KDXplore ikonet på |circle2|. |BR| |BR|"
 
 #: ../../source/exchangedata-include.txt:722
 #: ../../source/exchangedata-include.txt:722
 msgid "Starting a Connection"
-msgstr ""
+msgstr "Start af en forbindelse"
 
 #: ../../source/exchangedata-include.txt:724
 msgid "**3.3** (KDS)"
-msgstr ""
+msgstr "**3.3** (KDS)"
 
 #: ../../source/exchangedata-include.txt:725
 msgid "A dialogue box asking whether to continue will appear. Choose the *tick* at |circle1| to continue. |BR| |BR|"
 msgstr ""
+"En dialogboks, der spørger, om du vil fortsætte, vises. Vælg*krydset* på "
+"|cirkel1| for at fortsætte. |BR| |BR|"
 
 #: ../../source/exchangedata-include.txt:746
 #: ../../source/exchangedata-include.txt:746
 msgid "Accept a Connection"
-msgstr ""
+msgstr "Accepter en forbindelse"
 
 #: ../../source/exchangedata-include.txt:749
 msgid "**3.4** (KDX)"
-msgstr ""
+msgstr "**3.4** (KDX)"
 
 #: ../../source/exchangedata-include.txt:750
 msgid "Return to KDXplore on the PC/Laptop and at |circle1|, the KDSmart device should appear as *Pending* which means it is ready to connect. To connect the device, select the **Allow** button shown at |circle2|. |BR| |BR|"
 msgstr ""
+"Vend tilbage til KDXplore på pc'en/laptop og på |circle1|, KDSmart-enheden "
+"skal fremstå som * Afventer* hvilket betyder, at den er klar til at oprette "
+"forbindelse. For at tilslutte enheden skal du vælge knappen **Tillade** vist "
+"på |circle2|. |BR| |BR|"
 
 #: ../../source/exchangedata-include.txt:0
 #: ../../source/exchangedata-include.txt:770
@@ -757,138 +947,193 @@ msgstr ""
 #: ../../source/exchangedata-include.txt:818
 #: ../../source/exchangedata-include.txt:818
 msgid "Allowing KDSmart devices"
-msgstr ""
+msgstr "Tillader KDSmart-enheder"
 
 #: ../../source/exchangedata-include.txt:772
 msgid "If multiple KDSmart devices were to be connected and the same process was performed on them, the **Device** panel at |circle1| would also list those devices."
 msgstr ""
+"Hvis flere KDSmart-enheder skulle tilsluttes, og den samme proces blev "
+"udført på dem, ville **Enhed** -panelet på |circle1| også liste disse "
+"enheder."
 
 #: ../../source/exchangedata-include.txt:773
 msgid "**3.5** (KDX)"
-msgstr ""
+msgstr "**3.5** (KDX)"
 
 #: ../../source/exchangedata-include.txt:774
 msgid "A dialogue box then opens which asks for information about the device as seen in the following image:  |BR| |BR|"
 msgstr ""
+"Derefter åbnes der en dialogboks, der beder om oplysninger om enheden, som "
+"det ses på følgende billede: |BR| |BR|"
 
 #: ../../source/exchangedata-include.txt:796
 msgid "Enter the name of the user in |circle1| and then select the **OK** at |circle2|."
 msgstr ""
+"Indtast navnet på brugeren i |circle1| og vælg derefter**OK** på |circle2|."
 
 #: ../../source/exchangedata-include.txt:797
 msgid "**3.6** (KDX)"
-msgstr ""
+msgstr "**3.6** (KDX)"
 
 #: ../../source/exchangedata-include.txt:798
 msgid "Once user information has been entered, the device connection is complete. KDXplore should look like the following image:  |BR| |BR|"
 msgstr ""
+"Når brugeroplysninger er indtastet, er enhedens forbindelse fuldført. "
+"KDXplore skal ligne følgende billede: |BR| |BR|"
 
 #: ../../source/exchangedata-include.txt:820
 msgid "The **Device** panel displays the device as *Accepted* and the data from both the connected computer and KDSmart device will appear in panels |circle2| and |circle3|."
 msgstr ""
+"Panelet **Enhed** viser enheden som *Accepteret*, og dataene fra både den "
+"tilsluttede computer og KDSmart-enheden vises i paneler |circle2| og "
+"|circle3|."
 
 #: ../../source/exchangedata-include.txt:828
 msgid "Transfer - Moving data (Trials, Traits and Tags) between KDSmart and KDXplore"
 msgstr ""
+"Overførsel - Flytning af data (forsøg, træk og tags) mellem KDSmart og "
+"KDXplore"
 
 #: ../../source/exchangedata-include.txt:830
 msgid "Transferring KDSmart data to/from KDXplore requires KDXplore and the KDSmart device(s) to be connected and waiting to transfer files."
 msgstr ""
+"Overførsel af KDSmart-data til/fra KDXplore kræver, at KDXplore og KDSmart-"
+"enheden (-erne) forbindes og venter på at overføre filer."
 
 #: ../../source/exchangedata-include.txt:833
 msgid "The steps in the previous section, `Setup - Connecting KDXplore to KDSmart Devices`_ **must** be performed first before proceeding here."
 msgstr ""
+"Trinene i det foregående afsnit, `Opsætning - Tilslutning af KDXplore til "
+"KDSmart Devices`_ **skal** udføres først før du fortsætter her."
 
 #: ../../source/exchangedata-include.txt:837
 msgid "Battery - Power Saving"
-msgstr ""
+msgstr "Batteri - Strømbesparelse"
 
 #: ../../source/exchangedata-include.txt:839
 msgid "When a WiFi connection between KDSmart device(s) and KDXplore is established the power saving options on the device(s) may be overridden and the devices could remain **on**. |BR| If needing to conserve battery power on the phone/tablet/laptop, it may be advisable to stop the connection once data transfers have been completed."
 msgstr ""
+"Når der etableres en WiFi-forbindelse mellem KDSmart-enhed (er) og KDXplore, "
+"kan strømbesparelsesindstillingerne på enheden/enhederne blive tilsidesat, "
+"og enhederne kan forblive **on**. |BR| Hvis der er behov for at spare på "
+"batteriet på telefonen/tablet/laptop, kan det være tilrådeligt at stoppe "
+"forbindelsen, når dataoverførslen er afsluttet."
 
 #: ../../source/exchangedata-include.txt:842
 msgid "From KDXplore to KDSmart"
-msgstr ""
+msgstr "Fra KDXplore til KDSmart"
 
 #: ../../source/exchangedata-include.txt:844
 msgid "The following image and table show the steps required to perform a KDXplore to KDSmart File transfer."
 msgstr ""
+"Følgende billede og tabel viser de trin, der kræves for at udføre en "
+"KDXplore til KDSmart Filoverførsel."
 
 #: ../../source/exchangedata-include.txt:865
 #: ../../source/exchangedata-include.txt:865
 msgid "Transfer Steps - KDXplore to KDSmart"
-msgstr ""
+msgstr "Overfør trin - KDXplore til KDSmart"
 
 #: ../../source/exchangedata-include.txt:871
 msgid "Transferring data from KDXplore to KDSmart"
-msgstr ""
+msgstr "Overførsel af data fra KDXplore til KDSmart"
 
 #: ../../source/exchangedata-include.txt:879
 #: ../../source/exchangedata-include.txt:930
 msgid "Select an item e.g. the Trial named 'wheat-with-data' that is shown at |circle1| in the above image."
 msgstr ""
+"Vælg et emne, f.eks. prøveversionen med navnet 'hvede-med-data', der vises "
+"på |circle1| i ovenstående billede."
 
 #: ../../source/exchangedata-include.txt:881
 msgid "Once the item is highlighted, select the **KDXchange Server** |picture3| icon at |circle2| to start the transfer of data. Another method of choosing files to transfer is to *click+drag* an item such as a Trial to the KDSmart device. This method of transfer can work for single files, or for bundles of Trials, Traits, or Tags."
 msgstr ""
+"Når elementet er fremhævet, skal du vælge **KDXChange Server** |picture3| "
+"ikon på |circle2| for at starte overførslen af data. En anden metode til at "
+"vælge filer, der skal overføres, er at *klik+træk* et element såsom en "
+"prøveversion til KDSmart-enheden. Denne metode til overførsel kan fungere "
+"for enkeltfiler, eller for bundter af forsøg, træk, eller tags."
 
 #: ../../source/exchangedata-include.txt:883
 msgid "The **Dataset Upload** window opens and files that have been selected will appear in it. The purpose of this window is to confirm the upload of datasets. Select the checkbox as seen at |circle3| and then select the **OK** button at |circle4| to finalise the upload."
 msgstr ""
+"Vinduet **Datasæt Upload** åbnes, og filer, der er valgt, vises i det. "
+"Formålet med dette vindue er at bekræfte upload af datasæt. Markér "
+"afkrydsningsfeltet som vist på |circle3| og vælg derefter**OK** knappen på "
+"|circle4| for at afslutte overførslen."
 
 #: ../../source/exchangedata-include.txt:891
 msgid "From KDSmart to KDXplore"
-msgstr ""
+msgstr "Fra KDSmart til KDXplore"
 
 #: ../../source/exchangedata-include.txt:893
 msgid "The steps outlined in the following image and table describe how to transfer Trials, Traits, or Tags from KDSmart to KDXplore when they are connected using KDXchange."
 msgstr ""
+"De trin, der er skitseret i følgende billede og tabel, beskriver hvordan man "
+"overfører forsøg, træk eller tags fra KDSmart til KDXplore når de forbindes "
+"med KDXchange."
 
 #: ../../source/exchangedata-include.txt:916
 #: ../../source/exchangedata-include.txt:916
 msgid "Transfer Steps - KDSmart to KDXplore"
-msgstr ""
+msgstr "Overfør trin - KDSmart til KDXplore"
 
 #: ../../source/exchangedata-include.txt:922
 msgid "Transferring data from KDSmart to KDXplore"
-msgstr ""
+msgstr "Overførsel af data fra KDSmart til KDXplore"
 
 #: ../../source/exchangedata-include.txt:932
 msgid "Once the item is highlighted, select the **KDXchange Server** |picture3| icon at |circle2| to start the transfer of data. As with the KDXplore to KDSmart transfer, files can be transferred by *click+drag*."
 msgstr ""
+"Når elementet er fremhævet, skal du vælge **KDXChange Server** |picture3| "
+"ikon på |circle2| for at starte overførslen af data. Som med overførslen "
+"KDXplore til KDSmart, kan filer overføres med *klik+træk*."
 
 #: ../../source/exchangedata-include.txt:934
 msgid "A **Confirmation** window should appear. Select the **Collect** button at |circle3| which will confirm the transfer and the Trial is then be copied into KDXplore."
 msgstr ""
+"Et **Bekræftelse** vindue skal vises. Vælg **Collect** knappen på |circle3| "
+"som vil bekræfte overførslen og prøveversionen kopieres derefter til "
+"KDXplore."
 
 #: ../../source/exchangedata-include.txt:943
 msgid "Finished - Disconnecting Devices"
-msgstr ""
+msgstr "Færdig - Afbrydelse af enheder"
 
 #: ../../source/exchangedata-include.txt:946
 msgid "When a KDSmart device is connected any touches to the KDSmart window, accidental or otherwise, may cause the following warning to display:"
 msgstr ""
+"Når en KDSmart-enhed er tilsluttet, kan enhver berøring til KDSmart-vinduet, "
+"utilsigtet eller på anden måde, medføre, at følgende advarsel vises:"
 
 #: ../../source/exchangedata-include.txt:968
 #: ../../source/exchangedata-include.txt:968
 #: ../../source/exchangedata-include.txt:998
 #: ../../source/exchangedata-include.txt:998
 msgid "Disconnection Warning"
-msgstr ""
+msgstr "Advarsel om afbrydelse"
 
 #: ../../source/exchangedata-include.txt:972
 msgid "If disconnection is unintended, select the **X** button to dismiss the message and continue, otherwise, select the tick to confirm."
 msgstr ""
+"Hvis afbrydelsen er utilsigtet, skal du vælge knappen **X** for at afvise "
+"meddelelsen og fortsætte, ellers skal du markere afkrydsningsfeltet for at "
+"bekræfte."
 
 #: ../../source/exchangedata-include.txt:975
 msgid "Disconnection can also be achieved using the **Stop** button adjacent to the Run button in the below image. Either method will return KDSmart to normal operation and close the connection."
 msgstr ""
+"Afbrydelse kan også opnås ved hjælp af knappen **Stop** ved siden af knappen "
+"Kør i nedenstående billede. Begge metoder vil returnere KDSmart til normal "
+"drift og lukke forbindelsen."
 
 #: ../../source/exchangedata-include.txt:1003
 msgid "After disconnection of KDSmart device(s) the KDXchange server will still be running on the PC/Laptop. Whilst this is still running reconnection of a device can be quickly achieved."
 msgstr ""
+"Efter afbrydelse af KDSmart-enhed (er) kører KDXchange-serveren stadig på pc'"
+"en/den bærbare computer. Mens dette stadig kører, kan gentilslutning af en "
+"enhed hurtigt opnås."
 
 #: ../../source/exchangedata-include.txt:1004
 msgid "The KDXchange server can be stopped when data transfers is finished."
-msgstr ""
+msgstr "KDXchange-serveren kan stoppes, når dataoverførslen er afsluttet."
