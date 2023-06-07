@@ -1,0 +1,554 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.0.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-17 14:30+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/imagerefs.txt:5
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/tags.rst:13
+#: ../../source/tags.rst:13
+#: ../../source/tags.rst:13
+msgid "assign_tag_btn"
+msgstr ""
+
+#: ../../source/tags.rst:16
+#: ../../source/tags.rst:16
+msgid "add_tag_btn"
+msgstr ""
+
+#: ../../source/tags.rst:19
+#: ../../source/tags.rst:19
+msgid "edit_btn"
+msgstr ""
+
+#: ../../source/tags.rst:22
+#: ../../source/tags.rst:22
+#: ../../source/tags.rst:22
+msgid "menu_btn"
+msgstr ""
+
+#: ../../source/tags.rst:25
+#: ../../source/tags.rst:25
+msgid "delete_btn"
+msgstr ""
+
+#: ../../source/tags.rst:28
+#: ../../source/tags.rst:28
+msgid "tag_btn"
+msgstr ""
+
+#: ../../source/tags.rst:45
+msgid "Tags"
+msgstr ""
+
+#: ../../source/tags.rst:48
+msgid "KDSmart scoring includes the use of tags for plots and sub-plots. This section provides more information on tags including how to create and use them."
+msgstr ""
+
+#: ../../source/tags.rst:50
+#: ../../source/tags.rst:80
+#: ../../source/tags.rst:103
+#: ../../source/tags.rst:130
+#: ../../source/tags.rst:143
+#: ../../source/tags.rst:166
+#: ../../source/tags.rst:168
+#: ../../source/tags.rst:258
+#: ../../source/tags.rst:347
+#: ../../source/tags.rst:395
+#: ../../source/tags.rst:507
+#: ../../source/tags.rst:577
+msgid "|br|"
+msgstr ""
+
+#: ../../source/tags.rst:53
+msgid "What is a Tag?"
+msgstr ""
+
+#: ../../source/tags.rst:54
+msgid "Tags are short, text descriptions that are used to represent information about a plot or sub-plot (a cell) in a trial e.g. 'BD' which can mean 'bird damage'. They provide a quick method of applying predefined classifications or annotations to plots or sub-plots. They essentially work like reusable notes. such as."
+msgstr ""
+
+#: ../../source/tags.rst:56
+msgid "Tags have the following characteristics:"
+msgstr ""
+
+#: ../../source/tags.rst:58
+msgid "User definable;"
+msgstr ""
+
+#: ../../source/tags.rst:59
+msgid "Consist of a short name and optional long description;"
+msgstr ""
+
+#: ../../source/tags.rst:60
+msgid "New tags can be created in the field;"
+msgstr ""
+
+#: ../../source/tags.rst:61
+msgid "Can be imported from a CSV file; and"
+msgstr ""
+
+#: ../../source/tags.rst:62
+msgid "Are exportable to CSV file."
+msgstr ""
+
+#: ../../source/tags.rst:64
+msgid "The main benefits of tags are that they:"
+msgstr ""
+
+#: ../../source/tags.rst:66
+msgid "Are simple to use - selectable from a list makes them quick and easy to assign;"
+msgstr ""
+
+#: ../../source/tags.rst:67
+msgid "User or project definable;"
+msgstr ""
+
+#: ../../source/tags.rst:68
+msgid "Provide consistent annotation, avoiding problems with spelling or language; and"
+msgstr ""
+
+#: ../../source/tags.rst:69
+msgid "Deployable across multiple users, devices and locations."
+msgstr ""
+
+#: ../../source/tags.rst:71
+msgid "This means that the:"
+msgstr ""
+
+#: ../../source/tags.rst:73
+msgid "Users spend less time writing and repeating notes in the field; and"
+msgstr ""
+
+#: ../../source/tags.rst:74
+msgid "Data curators have more consistent, uniform recordings from multiple locations by different field workers."
+msgstr ""
+
+#: ../../source/tags.rst:77
+msgid "When tags have been assigned to a plot or sub-plot they will appear as shown in the following image, which shows part of the **Scoring Screen** with two tags assigned at |circle1| which is above the trait column. Tags are assigned or reassigned using the |assign_tag_btn| **Assign Tag Button** at |circle2|."
+msgstr ""
+
+#: ../../source/tags.rst:84
+#: ../../source/tags.rst:107
+#: ../../source/tags.rst:147
+#: ../../source/tags.rst:191
+#: ../../source/tags.rst:215
+#: ../../source/tags.rst:239
+#: ../../source/tags.rst:282
+#: ../../source/tags.rst:305
+#: ../../source/tags.rst:328
+#: ../../source/tags.rst:368
+#: ../../source/tags.rst:417
+#: ../../source/tags.rst:442
+#: ../../source/tags.rst:465
+#: ../../source/tags.rst:488
+#: ../../source/tags.rst:529
+#: ../../source/tags.rst:554
+msgid "|center-start|"
+msgstr ""
+
+#: ../../source/tags.rst:92
+#: ../../source/tags.rst:128
+#: ../../source/tags.rst:155
+#: ../../source/tags.rst:199
+#: ../../source/tags.rst:223
+#: ../../source/tags.rst:247
+#: ../../source/tags.rst:290
+#: ../../source/tags.rst:313
+#: ../../source/tags.rst:336
+#: ../../source/tags.rst:376
+#: ../../source/tags.rst:425
+#: ../../source/tags.rst:450
+#: ../../source/tags.rst:473
+#: ../../source/tags.rst:496
+#: ../../source/tags.rst:537
+#: ../../source/tags.rst:562
+msgid "|center-end|"
+msgstr ""
+
+#: ../../source/tags.rst:101
+#: ../../source/tags.rst:101
+msgid "Example of Two Applied Tags on the Scoring Screen"
+msgstr ""
+
+#: ../../source/tags.rst:105
+msgid "A few tag examples are shown in the following table:"
+msgstr ""
+
+#: ../../source/tags.rst:111
+msgid "Example Tags"
+msgstr ""
+
+#: ../../source/tags.rst:117
+msgid "**Tag (Short Name)**"
+msgstr ""
+
+#: ../../source/tags.rst:118
+msgid "**Long Description**"
+msgstr ""
+
+#: ../../source/tags.rst:119
+msgid "BD"
+msgstr ""
+
+#: ../../source/tags.rst:120
+msgid "Bird Damage"
+msgstr ""
+
+#: ../../source/tags.rst:121
+msgid "LDG+"
+msgstr ""
+
+#: ../../source/tags.rst:122
+msgid "General Lodging in plots-mild"
+msgstr ""
+
+#: ../../source/tags.rst:123
+msgid "LDG++"
+msgstr ""
+
+#: ../../source/tags.rst:124
+msgid "General Lodging in plots-moderate"
+msgstr ""
+
+#: ../../source/tags.rst:125
+msgid "WET"
+msgstr ""
+
+#: ../../source/tags.rst:126
+msgid "Waterlogging"
+msgstr ""
+
+#: ../../source/tags.rst:133
+msgid "Tag Management"
+msgstr ""
+
+#: ../../source/tags.rst:135
+msgid "Tags are managed from the **Tags Screen** which can be accessed by selecting the |tag_btn| **Tags Button** on the **Home Screen** or through the **Menu**. The following actions can be performed at the **Tags Screen**:"
+msgstr ""
+
+#: ../../source/tags.rst:137
+msgid "Add a new tag;"
+msgstr ""
+
+#: ../../source/tags.rst:138
+msgid "Edit a tag description;"
+msgstr ""
+
+#: ../../source/tags.rst:139
+msgid "Delete selected tag(s) (Note: Assigned/in use Tags cannot be deleted);"
+msgstr ""
+
+#: ../../source/tags.rst:140
+msgid "Import tags from a CSV file; and"
+msgstr ""
+
+#: ../../source/tags.rst:141
+msgid "Export selected tags to a CSV file."
+msgstr ""
+
+#: ../../source/tags.rst:164
+#: ../../source/tags.rst:164
+msgid "Tags Screen"
+msgstr ""
+
+#: ../../source/tags.rst:171
+#: ../../source/tags.rst:177
+msgid "Adding Tags"
+msgstr ""
+
+#: ../../source/tags.rst:172
+msgid "Tags can either be created in KDSmart or imported. Follow the instructions below to create a new tag."
+msgstr ""
+
+#: ../../source/tags.rst:182
+#: ../../source/tags.rst:273
+#: ../../source/tags.rst:361
+#: ../../source/tags.rst:410
+#: ../../source/tags.rst:522
+msgid "**Step**"
+msgstr ""
+
+#: ../../source/tags.rst:183
+#: ../../source/tags.rst:274
+#: ../../source/tags.rst:362
+#: ../../source/tags.rst:411
+#: ../../source/tags.rst:523
+msgid "**Action**"
+msgstr ""
+
+#: ../../source/tags.rst:184
+#: ../../source/tags.rst:275
+#: ../../source/tags.rst:363
+#: ../../source/tags.rst:412
+#: ../../source/tags.rst:524
+msgid "**1.**"
+msgstr ""
+
+#: ../../source/tags.rst:185
+msgid "Open the **Tags Screen** and select the |add_tag_btn| **Add Tag Button**."
+msgstr ""
+
+#: ../../source/tags.rst:186
+#: ../../source/tags.rst:277
+#: ../../source/tags.rst:386
+#: ../../source/tags.rst:435
+#: ../../source/tags.rst:547
+msgid "**2.**"
+msgstr ""
+
+#: ../../source/tags.rst:187
+msgid "Enter a *Label* (tag name) such as 'HD' in the image below. Select the *Use* option to check if the name for the tag is free and confirm it."
+msgstr ""
+
+#: ../../source/tags.rst:208
+#: ../../source/tags.rst:208
+msgid "Choosing a Tag Name"
+msgstr ""
+
+#: ../../source/tags.rst:210
+#: ../../source/tags.rst:300
+#: ../../source/tags.rst:388
+#: ../../source/tags.rst:437
+#: ../../source/tags.rst:549
+msgid "**3.**"
+msgstr ""
+
+#: ../../source/tags.rst:211
+msgid "A description can be added once the tag name has been confirmed. Enter the description into the text field and then select the **Confirm Button** (the tick) to confirm the name and description of the tag."
+msgstr ""
+
+#: ../../source/tags.rst:232
+#: ../../source/tags.rst:232
+msgid "Tag Description"
+msgstr ""
+
+#: ../../source/tags.rst:234
+#: ../../source/tags.rst:323
+#: ../../source/tags.rst:390
+#: ../../source/tags.rst:460
+#: ../../source/tags.rst:572
+msgid "**4.**"
+msgstr ""
+
+#: ../../source/tags.rst:235
+msgid "A dialogue box will open and you will need to choose to cancel, edit, or confirm your new tag details."
+msgstr ""
+
+#: ../../source/tags.rst:256
+#: ../../source/tags.rst:256
+#: ../../source/tags.rst:345
+#: ../../source/tags.rst:345
+msgid "Saving a Tag"
+msgstr ""
+
+#: ../../source/tags.rst:261
+#: ../../source/tags.rst:268
+msgid "Editing Tags"
+msgstr ""
+
+#: ../../source/tags.rst:263
+msgid "Tags can be edited once they have been created. The instructions below outline how to edit a tag."
+msgstr ""
+
+#: ../../source/tags.rst:276
+msgid "Open the **Tags Screen** and select a tag that you would like to edit."
+msgstr ""
+
+#: ../../source/tags.rst:278
+msgid "Select the |edit_btn| **Edit Button** as in the image below. This will present a screen like the **Add Tag Screen**"
+msgstr ""
+
+#: ../../source/tags.rst:299
+#: ../../source/tags.rst:299
+msgid "Editing a Tag"
+msgstr ""
+
+#: ../../source/tags.rst:301
+msgid "Edit the tag name and/or tag description and select the **Confirm Button**."
+msgstr ""
+
+#: ../../source/tags.rst:322
+#: ../../source/tags.rst:322
+msgid "Confirming an Edited Tag"
+msgstr ""
+
+#: ../../source/tags.rst:324
+msgid "A dialogue box will open and you will need to choose to cancel, edit, or confirm the edited tag details."
+msgstr ""
+
+#: ../../source/tags.rst:350
+#: ../../source/tags.rst:356
+msgid "Deleting Tags"
+msgstr ""
+
+#: ../../source/tags.rst:351
+msgid "Tags can be deleted by either multi-selecting tags and deleting them or just deleting a single tag. Once a tag is deleted it is not possible to undo the action so it is best to keep tags in a CSV file."
+msgstr ""
+
+#: ../../source/tags.rst:364
+msgid "Select the tags that you want to delete by *long-pressing* it. *Short-pressing* any additional tags will allow you to multi-select multiple tags for deletion."
+msgstr ""
+
+#: ../../source/tags.rst:385
+#: ../../source/tags.rst:385
+msgid "Multi-selecting Tags"
+msgstr ""
+
+#: ../../source/tags.rst:387
+#: ../../source/tags.rst:436
+msgid "Select the |menu_btn| **Menu Button** to view additional options."
+msgstr ""
+
+#: ../../source/tags.rst:389
+msgid "Select the *Delete Tags* option from the menu items."
+msgstr ""
+
+#: ../../source/tags.rst:391
+msgid "A message will be displayed that will list any tags that cannot be deleted because they are currently being used in a trial. Select the |delete_btn| **Delete Button** to delete any tags that are not being used in a trial."
+msgstr ""
+
+#: ../../source/tags.rst:398
+msgid "Tag Bundles"
+msgstr ""
+
+#: ../../source/tags.rst:400
+msgid "Tags can be grouped into bundles to assist with management. Tag bundles can be created in KDSmart and imported/exported from other devices as well. There will always be a bundle that is automatically created called *All Tags* See the instructions below for how to create a new tag bundle in KDSmart."
+msgstr ""
+
+#: ../../source/tags.rst:405
+msgid "Creating a Tag Bundle and Adding to Tag Bundles"
+msgstr ""
+
+#: ../../source/tags.rst:413
+msgid "Select the tags that you want to create a bundle with by *long-pressing* a tag and then *short-pressing* any additional tags. This will allows you to multi-select multiple tags."
+msgstr ""
+
+#: ../../source/tags.rst:434
+#: ../../source/tags.rst:434
+msgid "Selecting Tags for a Bundle"
+msgstr ""
+
+#: ../../source/tags.rst:438
+msgid "Select the *Add Bundle* option from the menu items. This will take you to the **Add Tag Bundle Screen** which lists the selected tags and bundles that have already been created."
+msgstr ""
+
+#: ../../source/tags.rst:459
+#: ../../source/tags.rst:459
+msgid "Add Tag Bundle Screen"
+msgstr ""
+
+#: ../../source/tags.rst:461
+msgid "Enter a bundle name and then select the **Create/Add Button** to create a new bundle."
+msgstr ""
+
+#: ../../source/tags.rst:482
+#: ../../source/tags.rst:482
+msgid "Creating a New Bundle"
+msgstr ""
+
+#: ../../source/tags.rst:483
+msgid "**5.**"
+msgstr ""
+
+#: ../../source/tags.rst:484
+msgid "You can also select a current bundle which will display a new **Add Button**. Select that button to add the selected tags to an existing bundle."
+msgstr ""
+
+#: ../../source/tags.rst:505
+#: ../../source/tags.rst:505
+msgid "Adding Tags to an Existing Bundle"
+msgstr ""
+
+#: ../../source/tags.rst:510
+#: ../../source/tags.rst:517
+#: ../../source/tags.rst:571
+#: ../../source/tags.rst:571
+msgid "Assigning Tags"
+msgstr ""
+
+#: ../../source/tags.rst:512
+msgid "Along with scoring traits, assigning tags is a part of the scoring process. One or more tags may be assigned to a plot (or sub-plot) or reassigned if required. To assign a tag, follow these steps:"
+msgstr ""
+
+#: ../../source/tags.rst:525
+msgid "Locate a plot or sub-plot to tag in the **Scoring Screen**."
+msgstr ""
+
+#: ../../source/tags.rst:546
+#: ../../source/tags.rst:546
+msgid "Tags on the Scoring Screen"
+msgstr ""
+
+#: ../../source/tags.rst:548
+msgid "Select the |assign_tag_btn| **Assign Tag Button**."
+msgstr ""
+
+#: ../../source/tags.rst:550
+msgid "Select one or more tags to assign them to a plot."
+msgstr ""
+
+#: ../../source/tags.rst:573
+msgid "Select the **Confirm Button** (tick) to save changes and return to the **Scoring Screen**. This displays the tag short name above the traits for the selected plot."
+msgstr ""
+
+#: ../../source/tags.rst:575
+msgid "Assigning tags is often an integral part of scoring. For more information about scoring see the |scoring| page."
+msgstr ""
+
+#: ../../source/tags.rst:579
+msgid "Information on importing and exporting data such as tags can be found in the |importexport| page."
+msgstr ""
