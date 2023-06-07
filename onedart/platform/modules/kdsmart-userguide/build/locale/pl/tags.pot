@@ -8,95 +8,102 @@ msgstr ""
 "Project-Id-Version: KDSmart Documentation 3.0.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-17 14:30+1000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-06-07 04:06+0000\n"
+"Last-Translator: Weblate Admin <zaynetomlins@diversityarrays.com>\n"
+"Language-Team: Polish <http://translate.diversityarrays.cloud/projects/"
+"kdsmart-userguide/tags/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.16.4\n"
 
 #: ../../source/imagerefs.txt:5
 #: ../../source/imagerefs.txt:5
 msgid "\"1\""
-msgstr ""
+msgstr "„1\""
 
 #: ../../source/imagerefs.txt:9
 #: ../../source/imagerefs.txt:9
 msgid "\"2\""
-msgstr ""
+msgstr "„2\""
 
 #: ../../source/imagerefs.txt:13
 msgid "\"3\""
-msgstr ""
+msgstr "„3\""
 
 #: ../../source/imagerefs.txt:17
 msgid "\"4\""
-msgstr ""
+msgstr "„4\""
 
 #: ../../source/imagerefs.txt:21
 msgid "\"5\""
-msgstr ""
+msgstr "„5\""
 
 #: ../../source/imagerefs.txt:25
 msgid "\"6\""
-msgstr ""
+msgstr "„6\""
 
 #: ../../source/imagerefs.txt:29
 msgid "\"7\""
-msgstr ""
+msgstr "„7\""
 
 #: ../../source/imagerefs.txt:33
 msgid "\"8\""
-msgstr ""
+msgstr "„8\""
 
 #: ../../source/imagerefs.txt:37
 msgid "\"9\""
-msgstr ""
+msgstr "„9\""
 
 #: ../../source/imagerefs.txt:41
 msgid "\"10\""
-msgstr ""
+msgstr "„10\""
 
 #: ../../source/tags.rst:13
 #: ../../source/tags.rst:13
 #: ../../source/tags.rst:13
 msgid "assign_tag_btn"
-msgstr ""
+msgstr "assign_tag_btn"
 
 #: ../../source/tags.rst:16
 #: ../../source/tags.rst:16
 msgid "add_tag_btn"
-msgstr ""
+msgstr "add_tag_btn"
 
 #: ../../source/tags.rst:19
 #: ../../source/tags.rst:19
 msgid "edit_btn"
-msgstr ""
+msgstr "edit_btn"
 
 #: ../../source/tags.rst:22
 #: ../../source/tags.rst:22
 #: ../../source/tags.rst:22
 msgid "menu_btn"
-msgstr ""
+msgstr "menu_btn"
 
 #: ../../source/tags.rst:25
 #: ../../source/tags.rst:25
 msgid "delete_btn"
-msgstr ""
+msgstr "delete_btn"
 
 #: ../../source/tags.rst:28
 #: ../../source/tags.rst:28
 msgid "tag_btn"
-msgstr ""
+msgstr "tag_btn"
 
 #: ../../source/tags.rst:45
 msgid "Tags"
-msgstr ""
+msgstr "Tagi"
 
 #: ../../source/tags.rst:48
 msgid "KDSmart scoring includes the use of tags for plots and sub-plots. This section provides more information on tags including how to create and use them."
 msgstr ""
+"Punktacja KDSmart obejmuje użycie tagów na wykresach i podziałkach "
+"podrzędnych. Ta sekcja zawiera więcej informacji na temat tagów, w tym "
+"sposobu ich tworzenia i używania."
 
 #: ../../source/tags.rst:50
 #: ../../source/tags.rst:80
@@ -111,75 +118,92 @@ msgstr ""
 #: ../../source/tags.rst:507
 #: ../../source/tags.rst:577
 msgid "|br|"
-msgstr ""
+msgstr "|pl|"
 
 #: ../../source/tags.rst:53
 msgid "What is a Tag?"
-msgstr ""
+msgstr "Co to jest tag?"
 
 #: ../../source/tags.rst:54
 msgid "Tags are short, text descriptions that are used to represent information about a plot or sub-plot (a cell) in a trial e.g. 'BD' which can mean 'bird damage'. They provide a quick method of applying predefined classifications or annotations to plots or sub-plots. They essentially work like reusable notes. such as."
 msgstr ""
+"Tagi to krótkie opisy tekstowe, które są używane do przedstawienia "
+"informacji o wykresie lub podwykresie (komórce) w próbie, np. „BD”, co może "
+"oznaczać „uszkodzenie ptaków”. Zapewniają szybką metodę stosowania "
+"predefiniowanych klasyfikacji lub adnotacji do wykresów lub podwykresów. "
+"Zasadniczo działają jak notatki wielokrotnego użytku. jak na przykład."
 
 #: ../../source/tags.rst:56
 msgid "Tags have the following characteristics:"
-msgstr ""
+msgstr "Tagi mają następujące cechy:"
 
 #: ../../source/tags.rst:58
 msgid "User definable;"
-msgstr ""
+msgstr "Definiowalny przez użytkownika;"
 
 #: ../../source/tags.rst:59
 msgid "Consist of a short name and optional long description;"
-msgstr ""
+msgstr "Składa się z krótkiej nazwy i opcjonalnego długiego opisu;"
 
 #: ../../source/tags.rst:60
 msgid "New tags can be created in the field;"
-msgstr ""
+msgstr "Nowe tagi mogą być tworzone w polu;"
 
 #: ../../source/tags.rst:61
 msgid "Can be imported from a CSV file; and"
-msgstr ""
+msgstr "Może być importowany z pliku CSV; oraz"
 
 #: ../../source/tags.rst:62
 msgid "Are exportable to CSV file."
-msgstr ""
+msgstr "Są eksportowalne do pliku CSV."
 
 #: ../../source/tags.rst:64
 msgid "The main benefits of tags are that they:"
-msgstr ""
+msgstr "Głównymi zaletami tagów są to, że:"
 
 #: ../../source/tags.rst:66
 msgid "Are simple to use - selectable from a list makes them quick and easy to assign;"
 msgstr ""
+"Są proste w użyciu - wybierane z listy sprawia, że są szybkie i łatwe do "
+"przypisania;"
 
 #: ../../source/tags.rst:67
 msgid "User or project definable;"
-msgstr ""
+msgstr "definiowalny przez użytkownika lub projekt;"
 
 #: ../../source/tags.rst:68
 msgid "Provide consistent annotation, avoiding problems with spelling or language; and"
 msgstr ""
+"Zapewnienie spójnej adnotacji, unikając problemów z pisownią lub językiem; "
+"oraz"
 
 #: ../../source/tags.rst:69
 msgid "Deployable across multiple users, devices and locations."
-msgstr ""
+msgstr "Możliwość wdrożenia u wielu użytkowników, urządzeń i lokalizacji."
 
 #: ../../source/tags.rst:71
 msgid "This means that the:"
-msgstr ""
+msgstr "Oznacza to, że:"
 
 #: ../../source/tags.rst:73
 msgid "Users spend less time writing and repeating notes in the field; and"
 msgstr ""
+"Użytkownicy spędzają mniej czasu na pisaniu i powtarzaniu notatek w terenie;"
 
 #: ../../source/tags.rst:74
 msgid "Data curators have more consistent, uniform recordings from multiple locations by different field workers."
 msgstr ""
+"Kuratorzy danych mają bardziej spójne, jednolite nagrania z wielu "
+"lokalizacji przez różnych pracowników terenowych."
 
 #: ../../source/tags.rst:77
 msgid "When tags have been assigned to a plot or sub-plot they will appear as shown in the following image, which shows part of the **Scoring Screen** with two tags assigned at |circle1| which is above the trait column. Tags are assigned or reassigned using the |assign_tag_btn| **Assign Tag Button** at |circle2|."
 msgstr ""
+"Gdy tagi zostaną przypisane do wykresu lub podwykresu, pojawią się one tak, "
+"jak pokazano na poniższym obrazku, który pokazuje część ekranu oceniania** z "
+"dwoma znacznikami przypisanymi do |circle1| który znajduje się nad kolumną "
+"cechy. Tagi są przypisywane lub ponownie przypisywane za pomocą "
+"|assign_tag_btn| **Przypisz znacznik** w |circle2|."
 
 #: ../../source/tags.rst:84
 #: ../../source/tags.rst:107
@@ -198,7 +222,7 @@ msgstr ""
 #: ../../source/tags.rst:529
 #: ../../source/tags.rst:554
 msgid "|center-start|"
-msgstr ""
+msgstr "|centrum-start|"
 
 #: ../../source/tags.rst:92
 #: ../../source/tags.rst:128
@@ -217,102 +241,109 @@ msgstr ""
 #: ../../source/tags.rst:537
 #: ../../source/tags.rst:562
 msgid "|center-end|"
-msgstr ""
+msgstr "|centralny końc|"
 
 #: ../../source/tags.rst:101
 #: ../../source/tags.rst:101
 msgid "Example of Two Applied Tags on the Scoring Screen"
-msgstr ""
+msgstr "Przykład dwóch zastosowanych tagów na ekranie punktacji"
 
 #: ../../source/tags.rst:105
 msgid "A few tag examples are shown in the following table:"
-msgstr ""
+msgstr "Kilka przykładów tagów przedstawiono w poniższej tabeli:"
 
 #: ../../source/tags.rst:111
 msgid "Example Tags"
-msgstr ""
+msgstr "Przykładowe tagi"
 
 #: ../../source/tags.rst:117
 msgid "**Tag (Short Name)**"
-msgstr ""
+msgstr "**Tag (Krótka nazwa) **"
 
 #: ../../source/tags.rst:118
 msgid "**Long Description**"
-msgstr ""
+msgstr "**Długi opis**"
 
 #: ../../source/tags.rst:119
 msgid "BD"
-msgstr ""
+msgstr "BD"
 
 #: ../../source/tags.rst:120
 msgid "Bird Damage"
-msgstr ""
+msgstr "Uszkodzenia przez ptaki"
 
 #: ../../source/tags.rst:121
 msgid "LDG+"
-msgstr ""
+msgstr "LDG+"
 
 #: ../../source/tags.rst:122
 msgid "General Lodging in plots-mild"
-msgstr ""
+msgstr "Ogólne kwatery na działkach łagodnych"
 
 #: ../../source/tags.rst:123
 msgid "LDG++"
-msgstr ""
+msgstr "LDG++"
 
 #: ../../source/tags.rst:124
 msgid "General Lodging in plots-moderate"
-msgstr ""
+msgstr "Ogólne kwatery na działkach - umiarkowane"
 
 #: ../../source/tags.rst:125
 msgid "WET"
-msgstr ""
+msgstr "MOKRE"
 
 #: ../../source/tags.rst:126
 msgid "Waterlogging"
-msgstr ""
+msgstr "Nąkanie wodą"
 
 #: ../../source/tags.rst:133
 msgid "Tag Management"
-msgstr ""
+msgstr "Zarządzanie tagami"
 
 #: ../../source/tags.rst:135
 msgid "Tags are managed from the **Tags Screen** which can be accessed by selecting the |tag_btn| **Tags Button** on the **Home Screen** or through the **Menu**. The following actions can be performed at the **Tags Screen**:"
 msgstr ""
+"Etykiety są zarządzane z poziomu ekranu tagów**, do którego można uzyskać "
+"dostęp, wybierając |tag_btn| **Przycisk Tagi** na ** Ekranie główne** lub "
+"poprzez **Menu**. Na Ekranie tagów można wykonać następujące czynności:"
 
 #: ../../source/tags.rst:137
 msgid "Add a new tag;"
-msgstr ""
+msgstr "Dodaj nowy tag;"
 
 #: ../../source/tags.rst:138
 msgid "Edit a tag description;"
-msgstr ""
+msgstr "Edytuj opis znacznika;"
 
 #: ../../source/tags.rst:139
 msgid "Delete selected tag(s) (Note: Assigned/in use Tags cannot be deleted);"
 msgstr ""
+"Usuń zaznaczone znaczniki (Uwaga: Przypisane/używane znaczniki nie mogą "
+"zostać usunięte);"
 
 #: ../../source/tags.rst:140
 msgid "Import tags from a CSV file; and"
-msgstr ""
+msgstr "Importowanie znaczników z pliku CSV; oraz"
 
 #: ../../source/tags.rst:141
 msgid "Export selected tags to a CSV file."
-msgstr ""
+msgstr "Eksportuj wybrane tagi do pliku CSV."
 
 #: ../../source/tags.rst:164
 #: ../../source/tags.rst:164
 msgid "Tags Screen"
-msgstr ""
+msgstr "Tagi Ekran"
 
 #: ../../source/tags.rst:171
 #: ../../source/tags.rst:177
 msgid "Adding Tags"
-msgstr ""
+msgstr "Dodawanie tagów"
 
 #: ../../source/tags.rst:172
 msgid "Tags can either be created in KDSmart or imported. Follow the instructions below to create a new tag."
 msgstr ""
+"Tagi mogą być tworzone w KDSmart lub importowane. Postępuj zgodnie z "
+"poniższymi instrukcjami, aby utworzyć nowy tag."
 
 #: ../../source/tags.rst:182
 #: ../../source/tags.rst:273
@@ -320,7 +351,7 @@ msgstr ""
 #: ../../source/tags.rst:410
 #: ../../source/tags.rst:522
 msgid "**Step**"
-msgstr ""
+msgstr "**Krok**"
 
 #: ../../source/tags.rst:183
 #: ../../source/tags.rst:274
@@ -328,7 +359,7 @@ msgstr ""
 #: ../../source/tags.rst:411
 #: ../../source/tags.rst:523
 msgid "**Action**"
-msgstr ""
+msgstr "**Akcja**"
 
 #: ../../source/tags.rst:184
 #: ../../source/tags.rst:275
@@ -336,11 +367,11 @@ msgstr ""
 #: ../../source/tags.rst:412
 #: ../../source/tags.rst:524
 msgid "**1.**"
-msgstr ""
+msgstr "**1. **"
 
 #: ../../source/tags.rst:185
 msgid "Open the **Tags Screen** and select the |add_tag_btn| **Add Tag Button**."
-msgstr ""
+msgstr "Otwórz ekran **Tagi** i wybierz |add_tag_btn| **Add Tag Button**."
 
 #: ../../source/tags.rst:186
 #: ../../source/tags.rst:277
@@ -348,16 +379,19 @@ msgstr ""
 #: ../../source/tags.rst:435
 #: ../../source/tags.rst:547
 msgid "**2.**"
-msgstr ""
+msgstr "**2. **"
 
 #: ../../source/tags.rst:187
 msgid "Enter a *Label* (tag name) such as 'HD' in the image below. Select the *Use* option to check if the name for the tag is free and confirm it."
 msgstr ""
+"Wprowadź *Etykieta* (nazwę tagu), taką jak „HD” na poniższym obrazku. "
+"Wybierz opcję*Użyj*, aby sprawdzić, czy nazwa znacznika jest wolna i "
+"potwierdzić ją."
 
 #: ../../source/tags.rst:208
 #: ../../source/tags.rst:208
 msgid "Choosing a Tag Name"
-msgstr ""
+msgstr "Wybór nazwy znacznika"
 
 #: ../../source/tags.rst:210
 #: ../../source/tags.rst:300
@@ -365,16 +399,19 @@ msgstr ""
 #: ../../source/tags.rst:437
 #: ../../source/tags.rst:549
 msgid "**3.**"
-msgstr ""
+msgstr "**3. **"
 
 #: ../../source/tags.rst:211
 msgid "A description can be added once the tag name has been confirmed. Enter the description into the text field and then select the **Confirm Button** (the tick) to confirm the name and description of the tag."
 msgstr ""
+"Opis można dodać po potwierdzeniu nazwy tagu. Wprowadź opis w polu "
+"tekstowym, a następnie wybierz przycisk **Potwierdź** (zaznaczenie), aby "
+"potwierdzić nazwę i opis znacznika."
 
 #: ../../source/tags.rst:232
 #: ../../source/tags.rst:232
 msgid "Tag Description"
-msgstr ""
+msgstr "Opis znacznika"
 
 #: ../../source/tags.rst:234
 #: ../../source/tags.rst:323
@@ -382,173 +419,219 @@ msgstr ""
 #: ../../source/tags.rst:460
 #: ../../source/tags.rst:572
 msgid "**4.**"
-msgstr ""
+msgstr "**4. **"
 
 #: ../../source/tags.rst:235
 msgid "A dialogue box will open and you will need to choose to cancel, edit, or confirm your new tag details."
 msgstr ""
+"Otworzy się okno dialogowe, w którym musisz anulować, edytować lub "
+"potwierdzić szczegóły nowego tagu."
 
 #: ../../source/tags.rst:256
 #: ../../source/tags.rst:256
 #: ../../source/tags.rst:345
 #: ../../source/tags.rst:345
 msgid "Saving a Tag"
-msgstr ""
+msgstr "Zapisywanie znacznika"
 
 #: ../../source/tags.rst:261
 #: ../../source/tags.rst:268
 msgid "Editing Tags"
-msgstr ""
+msgstr "Edycja znaczników"
 
 #: ../../source/tags.rst:263
 msgid "Tags can be edited once they have been created. The instructions below outline how to edit a tag."
 msgstr ""
+"Znaczniki można edytować po ich utworzeniu. Poniższe instrukcje "
+"przedstawiają sposób edycji znacznika."
 
 #: ../../source/tags.rst:276
 msgid "Open the **Tags Screen** and select a tag that you would like to edit."
-msgstr ""
+msgstr "Otwórz ekran **Tagi** i wybierz znacznik, który chcesz edytować."
 
 #: ../../source/tags.rst:278
 msgid "Select the |edit_btn| **Edit Button** as in the image below. This will present a screen like the **Add Tag Screen**"
 msgstr ""
+"Wybierz |edit_btn| **Przycisk Edytuj** jak na poniższym obrazku. Spowoduje "
+"to wyświetlenie ekranu takiego jak **Dodaj ekran znacznika**"
 
 #: ../../source/tags.rst:299
 #: ../../source/tags.rst:299
 msgid "Editing a Tag"
-msgstr ""
+msgstr "Edytowanie znacznika"
 
 #: ../../source/tags.rst:301
 msgid "Edit the tag name and/or tag description and select the **Confirm Button**."
 msgstr ""
+"Edytuj nazwę znacznika i/lub opis znacznika i wybierz przycisk **Potwierdź**."
 
 #: ../../source/tags.rst:322
 #: ../../source/tags.rst:322
 msgid "Confirming an Edited Tag"
-msgstr ""
+msgstr "Potwierdzanie edytowanego znacznika"
 
 #: ../../source/tags.rst:324
 msgid "A dialogue box will open and you will need to choose to cancel, edit, or confirm the edited tag details."
 msgstr ""
+"Otworzy się okno dialogowe, w którym musisz anulować, edytować lub "
+"potwierdzić edytowane szczegóły tagu."
 
 #: ../../source/tags.rst:350
 #: ../../source/tags.rst:356
 msgid "Deleting Tags"
-msgstr ""
+msgstr "Usuwanie znaczników"
 
 #: ../../source/tags.rst:351
 msgid "Tags can be deleted by either multi-selecting tags and deleting them or just deleting a single tag. Once a tag is deleted it is not possible to undo the action so it is best to keep tags in a CSV file."
 msgstr ""
+"Znaczniki można usunąć poprzez wielokrotne wybieranie znaczników i usuwanie "
+"ich lub po prostu usuwanie pojedynczego znacznika. Po usunięciu znacznika "
+"nie jest możliwe cofnięcie akcji, dlatego najlepiej jest zachować tagi w "
+"pliku CSV."
 
 #: ../../source/tags.rst:364
 msgid "Select the tags that you want to delete by *long-pressing* it. *Short-pressing* any additional tags will allow you to multi-select multiple tags for deletion."
 msgstr ""
+"Wybierz tagi, które chcesz usunąć, naciskając długo. *Krótkie naciśnięcie* "
+"dowolne dodatkowe tagi umożliwiają wielokrotne wybieranie wielu tagów do "
+"usunięcia."
 
 #: ../../source/tags.rst:385
 #: ../../source/tags.rst:385
 msgid "Multi-selecting Tags"
-msgstr ""
+msgstr "Znaczniki wielokrotnego wyboru"
 
 #: ../../source/tags.rst:387
 #: ../../source/tags.rst:436
 msgid "Select the |menu_btn| **Menu Button** to view additional options."
-msgstr ""
+msgstr "Wybierz |menu_btn| **Przycisk Menu, aby wyświetlić dodatkowe opcje."
 
 #: ../../source/tags.rst:389
 msgid "Select the *Delete Tags* option from the menu items."
-msgstr ""
+msgstr "Wybierz opcję *Usuń tagi* z pozycji menu."
 
 #: ../../source/tags.rst:391
 msgid "A message will be displayed that will list any tags that cannot be deleted because they are currently being used in a trial. Select the |delete_btn| **Delete Button** to delete any tags that are not being used in a trial."
 msgstr ""
+"Zostanie wyświetlony komunikat zawierający listę wszystkich tagów, których "
+"nie można usunąć, ponieważ są one obecnie używane w wersji próbnej. Wybierz "
+"|delete_btn| **Delete Button**, aby usunąć wszystkie tagi, które nie są "
+"używane w wersji próbnej."
 
 #: ../../source/tags.rst:398
 msgid "Tag Bundles"
-msgstr ""
+msgstr "Pakiety tagów"
 
 #: ../../source/tags.rst:400
 msgid "Tags can be grouped into bundles to assist with management. Tag bundles can be created in KDSmart and imported/exported from other devices as well. There will always be a bundle that is automatically created called *All Tags* See the instructions below for how to create a new tag bundle in KDSmart."
 msgstr ""
+"Tagi można pogrupować w pakiety, aby pomóc w zarządzaniu. Pakiety tagów mogą "
+"być tworzone w KDSmart i importowane/eksportowane również z innych urządzeń. "
+"Zawsze będzie pakiet, który jest automatycznie tworzony o nazwie*Wszystkie "
+"tagi* Zobacz poniższe instrukcje, aby dowiedzieć się, jak utworzyć nowy "
+"pakiet tagów w KDSmart."
 
 #: ../../source/tags.rst:405
 msgid "Creating a Tag Bundle and Adding to Tag Bundles"
-msgstr ""
+msgstr "Tworzenie pakietu etykiet i dodawanie do pakietów tagów"
 
 #: ../../source/tags.rst:413
 msgid "Select the tags that you want to create a bundle with by *long-pressing* a tag and then *short-pressing* any additional tags. This will allows you to multi-select multiple tags."
 msgstr ""
+"Wybierz tagi, z którymi chcesz utworzyć pakiet, przez * długie naciśnięcie* "
+"znacznik, a następnie *krótkie naciśnięcie* dowolne dodatkowe znaczniki. "
+"Umożliwi to wielokrotne wybieranie wielu tagów."
 
 #: ../../source/tags.rst:434
 #: ../../source/tags.rst:434
 msgid "Selecting Tags for a Bundle"
-msgstr ""
+msgstr "Wybieranie tagów dla pakietu"
 
 #: ../../source/tags.rst:438
 msgid "Select the *Add Bundle* option from the menu items. This will take you to the **Add Tag Bundle Screen** which lists the selected tags and bundles that have already been created."
 msgstr ""
+"Wybierz opcję *Dodaj pakiet* z pozycji menu. Spowoduje to przejście do "
+"ekranu**Dodaj pakiet tagów**, który zawiera listę wybranych tagów i "
+"pakietów, które zostały już utworzone."
 
 #: ../../source/tags.rst:459
 #: ../../source/tags.rst:459
 msgid "Add Tag Bundle Screen"
-msgstr ""
+msgstr "Dodaj ekran pakietu tagów"
 
 #: ../../source/tags.rst:461
 msgid "Enter a bundle name and then select the **Create/Add Button** to create a new bundle."
 msgstr ""
+"Wprowadź nazwę pakietu, a następnie wybierz przycisk **Utwórz/Dodaj**, aby "
+"utworzyć nowy pakiet."
 
 #: ../../source/tags.rst:482
 #: ../../source/tags.rst:482
 msgid "Creating a New Bundle"
-msgstr ""
+msgstr "Tworzenie nowego pakietu"
 
 #: ../../source/tags.rst:483
 msgid "**5.**"
-msgstr ""
+msgstr "**5. **"
 
 #: ../../source/tags.rst:484
 msgid "You can also select a current bundle which will display a new **Add Button**. Select that button to add the selected tags to an existing bundle."
 msgstr ""
+"Możesz także wybrać bieżący pakiet, który wyświetli nowy przycisk dodania**. "
+"Wybierz ten przycisk, aby dodać wybrane znaczniki do istniejącego pakietu."
 
 #: ../../source/tags.rst:505
 #: ../../source/tags.rst:505
 msgid "Adding Tags to an Existing Bundle"
-msgstr ""
+msgstr "Dodawanie znaczników do istniejącego pakietu"
 
 #: ../../source/tags.rst:510
 #: ../../source/tags.rst:517
 #: ../../source/tags.rst:571
 #: ../../source/tags.rst:571
 msgid "Assigning Tags"
-msgstr ""
+msgstr "Przypisywanie znaczników"
 
 #: ../../source/tags.rst:512
 msgid "Along with scoring traits, assigning tags is a part of the scoring process. One or more tags may be assigned to a plot (or sub-plot) or reassigned if required. To assign a tag, follow these steps:"
 msgstr ""
+"Wraz z cechami punktacji, przypisywanie tagów jest częścią procesu "
+"punktacji. Jeden lub więcej znaczników można przypisać do wykresu (lub "
+"podwykresu) lub ponownie przypisać, jeśli jest to wymagane. Aby przypisać "
+"znacznik, wykonaj następujące kroki:"
 
 #: ../../source/tags.rst:525
 msgid "Locate a plot or sub-plot to tag in the **Scoring Screen**."
-msgstr ""
+msgstr "Znajdź wykres lub podwykres do oznaczenia w **Ekran punktowy**."
 
 #: ../../source/tags.rst:546
 #: ../../source/tags.rst:546
 msgid "Tags on the Scoring Screen"
-msgstr ""
+msgstr "Tagi na ekranie punktacji"
 
 #: ../../source/tags.rst:548
 msgid "Select the |assign_tag_btn| **Assign Tag Button**."
-msgstr ""
+msgstr "Wybierz |assign_tag_btn| **Przypisz znacznik** Przycisk tagu**."
 
 #: ../../source/tags.rst:550
 msgid "Select one or more tags to assign them to a plot."
-msgstr ""
+msgstr "Wybierz jeden lub więcej znaczników, aby przypisać je do wydruku."
 
 #: ../../source/tags.rst:573
 msgid "Select the **Confirm Button** (tick) to save changes and return to the **Scoring Screen**. This displays the tag short name above the traits for the selected plot."
 msgstr ""
+"Wybierz przycisk **Potwierdza** (zaznacz), aby zapisać zmiany i powrócić do "
+"ekranu**Punktów**. Spowoduje to wyświetlenie krótkiej nazwy znacznika nad "
+"cechami wybranego wykresu."
 
 #: ../../source/tags.rst:575
 msgid "Assigning tags is often an integral part of scoring. For more information about scoring see the |scoring| page."
 msgstr ""
+"Przypisywanie tagów jest często integralną częścią punktacji. Więcej "
+"informacji na temat punktacji można znaleźć na stronie |scoring|."
 
 #: ../../source/tags.rst:579
 msgid "Information on importing and exporting data such as tags can be found in the |importexport| page."
 msgstr ""
+"Informacje o importowaniu i eksportowaniu danych, takich jak tagi, można "
+"znaleźć na stronie |importexport|."
