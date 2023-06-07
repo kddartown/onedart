@@ -1,0 +1,838 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2019, Diversity Arrays Technology P/L
+# This file is distributed under the same license as the KDSmart Documentation package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: KDSmart Documentation 3.0.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-17 14:30+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../source/imagerefs.txt:5
+msgid "\"1\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:9
+msgid "\"2\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:13
+msgid "\"3\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:17
+msgid "\"4\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:21
+msgid "\"5\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:25
+msgid "\"6\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:29
+msgid "\"7\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:33
+msgid "\"8\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:37
+msgid "\"9\""
+msgstr ""
+
+#: ../../source/imagerefs.txt:41
+msgid "\"10\""
+msgstr ""
+
+#: ../../source/preparation.rst:16
+msgid "image4"
+msgstr ""
+
+#: ../../source/preparation.rst:19
+msgid "image5"
+msgstr ""
+
+#: ../../source/preparation.rst:22
+msgid "image6"
+msgstr ""
+
+#: ../../source/preparation.rst:25
+msgid "image7"
+msgstr ""
+
+#: ../../source/preparation.rst:28
+#: ../../source/preparation.rst:28
+#: ../../source/preparation.rst:28
+#: ../../source/preparation.rst:28
+#: ../../source/preparation.rst:28
+msgid "edit_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:31
+#: ../../source/preparation.rst:31
+msgid "menu_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:34
+#: ../../source/preparation.rst:34
+msgid "trait_mng_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:37
+#: ../../source/preparation.rst:37
+#: ../../source/preparation.rst:37
+msgid "add_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:40
+#: ../../source/preparation.rst:40
+msgid "order_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:43
+#: ../../source/preparation.rst:43
+msgid "move_up_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:46
+#: ../../source/preparation.rst:46
+msgid "move_down_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:49
+#: ../../source/preparation.rst:49
+#: ../../source/preparation.rst:49
+msgid "remove_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:52
+#: ../../source/preparation.rst:52
+msgid "ssm_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:55
+#: ../../source/preparation.rst:55
+msgid "psm_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:58
+#: ../../source/preparation.rst:58
+msgid "fsm_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:61
+#: ../../source/preparation.rst:61
+msgid "lock_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:64
+#: ../../source/preparation.rst:64
+msgid "ppg_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:67
+#: ../../source/preparation.rst:67
+#: ../../source/preparation.rst:67
+#: ../../source/preparation.rst:67
+#: ../../source/preparation.rst:67
+#: ../../source/preparation.rst:67
+#: ../../source/preparation.rst:67
+msgid "start_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:84
+msgid "Preparing for Scoring"
+msgstr ""
+
+#: ../../source/preparation.rst:86
+msgid "Trials that are scored in KDSmart will require some configuration so that users can score their trials in the way that that is best for their workflow. There are plenty of different configuration options in KDSmart so this section is a guide to preparing for scoring."
+msgstr ""
+
+#: ../../source/preparation.rst:89
+msgid "Demo vs Production - Where is Your Data Stored?"
+msgstr ""
+
+#: ../../source/preparation.rst:91
+msgid "KDSmart contains two separate local databases on the device; the **Production Database** for your real work, and the **Demo Database** for experimenting with KDSmart."
+msgstr ""
+
+#: ../../source/preparation.rst:93
+msgid "*KDSmart* helps you identify which database is active in a number of ways:"
+msgstr ""
+
+#: ../../source/preparation.rst:95
+msgid "If you see the |image21| **Lockdown Button** at the top of the **Home Screen** then you are using the **Demo Database**."
+msgstr ""
+
+#: ../../source/preparation.rst:557
+#: ../../source/preparation.rst:557
+msgid "image21"
+msgstr ""
+
+#: ../../source/preparation.rst:96
+msgid "When the **Scoring Configuration Screen** is presented, there is a  *[DEMO db]* label at the bottom."
+msgstr ""
+
+#: ../../source/preparation.rst:98
+msgid "The |image22| **Lockdown Button** sets KDSmart into **Lockdown mode**. This mode allows you to control the scoring task without enabling users the ability to change settings or trial attributes."
+msgstr ""
+
+#: ../../source/preparation.rst:560
+#: ../../source/preparation.rst:560
+msgid "image22"
+msgstr ""
+
+#: ../../source/preparation.rst:100
+msgid "Use this mode when someone else is to perform the scoring and that is **ALL** they are to do."
+msgstr ""
+
+#: ../../source/preparation.rst:102
+msgid "To exit *Lockdown* mode, a four-digit passcode is required. When the **Production Database** is active, **Lockdown Mode** is enabled from the |image23| **Settings Screen**."
+msgstr ""
+
+#: ../../source/preparation.rst:563
+#: ../../source/preparation.rst:563
+#: ../../source/preparation.rst:563
+#: ../../source/preparation.rst:563
+msgid "image23"
+msgstr ""
+
+#: ../../source/preparation.rst:108
+msgid "Demo vs Production Local Database"
+msgstr ""
+
+#: ../../source/preparation.rst:113
+msgid "**Demo**"
+msgstr ""
+
+#: ../../source/preparation.rst:114
+msgid "Pre-installed demonstration data provided with KDSmart to allow users data to experiment and test KDSmart functionality before working with *real* data."
+msgstr ""
+
+#: ../../source/preparation.rst:115
+msgid "The **Demo Database** can be reset at any time from the **Settings Screen**; use the |image23| **Settings Button** on the **Home Screen** or **Main Menu** to display the *Settings* and choose the **Reset Demo Database Checkbox**."
+msgstr ""
+
+#: ../../source/preparation.rst:116
+msgid "On return from the **Settings Screen**, KDSmart changes to the **Demo Database** and reinitialises the demo data."
+msgstr ""
+
+#: ../../source/preparation.rst:117
+msgid "**Production**"
+msgstr ""
+
+#: ../../source/preparation.rst:118
+msgid "The local KDSmart database to store your real *Production* work."
+msgstr ""
+
+#: ../../source/preparation.rst:119
+msgid "KDSmart installs with an empty **Production Database**."
+msgstr ""
+
+#: ../../source/preparation.rst:120
+msgid "**Lockdown Mode** can be used to prevent data loss - particularly when scoring is not performed by the breeder."
+msgstr ""
+
+#: ../../source/preparation.rst:123
+msgid "To change the database, select the |image23| **Settings Button** on the **Home Screen** or **Main Menu** to display the **Settings Screen**. Select the *Active Database* option then choose the *Production* or *Demo* radio buttons."
+msgstr ""
+
+#: ../../source/preparation.rst:125
+#: ../../source/preparation.rst:213
+#: ../../source/preparation.rst:257
+#: ../../source/preparation.rst:280
+#: ../../source/preparation.rst:283
+#: ../../source/preparation.rst:315
+#: ../../source/preparation.rst:338
+#: ../../source/preparation.rst:357
+#: ../../source/preparation.rst:378
+#: ../../source/preparation.rst:401
+#: ../../source/preparation.rst:403
+#: ../../source/preparation.rst:424
+#: ../../source/preparation.rst:447
+#: ../../source/preparation.rst:479
+msgid "|br|"
+msgstr ""
+
+#: ../../source/preparation.rst:132
+msgid "Trial Details"
+msgstr ""
+
+#: ../../source/preparation.rst:134
+msgid "Trial details are the attributes of each trial such as trial layout, organism type, and traits. The **Trial Details Screen** can be accessed in two ways:"
+msgstr ""
+
+#: ../../source/preparation.rst:136
+msgid "Selecting a trial (with a short press) from the **Trials Screen**; and"
+msgstr ""
+
+#: ../../source/preparation.rst:137
+msgid "Swiping left/right on the **Home Screen** until the desired trial is found and then Selecting the **Trial Details Button**."
+msgstr ""
+
+#: ../../source/preparation.rst:148
+msgid "When viewing trial details, those trial attributes that can be edited will have an adjacent |br| |edit_btn| **Edit Button**."
+msgstr ""
+
+#: ../../source/preparation.rst:151
+#: ../../source/preparation.rst:261
+#: ../../source/preparation.rst:319
+#: ../../source/preparation.rst:382
+#: ../../source/preparation.rst:428
+msgid "|center-start|"
+msgstr ""
+
+#: ../../source/preparation.rst:159
+#: ../../source/preparation.rst:269
+#: ../../source/preparation.rst:327
+#: ../../source/preparation.rst:390
+#: ../../source/preparation.rst:436
+msgid "|center-end|"
+msgstr ""
+
+#: ../../source/preparation.rst:168
+#: ../../source/preparation.rst:168
+msgid "Trial Details Screen"
+msgstr ""
+
+#: ../../source/preparation.rst:171
+msgid "The table below provides information on each trial attribute: |br|"
+msgstr ""
+
+#: ../../source/preparation.rst:181
+#: ../../source/preparation.rst:206
+msgid "Trial Attributes"
+msgstr ""
+
+#: ../../source/preparation.rst:186
+msgid "**Trial Attribute**"
+msgstr ""
+
+#: ../../source/preparation.rst:187
+msgid "**Description**"
+msgstr ""
+
+#: ../../source/preparation.rst:188
+msgid "Trial Name"
+msgstr ""
+
+#: ../../source/preparation.rst:189
+msgid "What the trial will be named in KDXplore or KDSmart."
+msgstr ""
+
+#: ../../source/preparation.rst:190
+msgid "Abbreviation"
+msgstr ""
+
+#: ../../source/preparation.rst:191
+msgid "An abbreviated trial name for display purposes."
+msgstr ""
+
+#: ../../source/preparation.rst:192
+msgid "Planting Date"
+msgstr ""
+
+#: ../../source/preparation.rst:193
+msgid "The date that planting occurred for the trial. Planting date must be set before scoring can commence as the *Elapsed Days* trait data type will not work unless it has been set."
+msgstr ""
+
+#: ../../source/preparation.rst:194
+msgid "Plot & X/Y Axis Names"
+msgstr ""
+
+#: ../../source/preparation.rst:195
+msgid "Determines the trial element names that are to appear on scoring screens. |br| These will be names for Plot and X/Y axes, depending upon what was imported."
+msgstr ""
+
+#: ../../source/preparation.rst:196
+msgid "Plot Identification"
+msgstr ""
+
+#: ../../source/preparation.rst:197
+msgid "How plots are identified e.g. Block/Block Column/Block Row."
+msgstr ""
+
+#: ../../source/preparation.rst:198
+msgid "Trial Layout"
+msgstr ""
+
+#: ../../source/preparation.rst:199
+msgid "At a minimum, there will be an option for choosing the plot origin (starting plot for scoring). Depending on the trial, there may be more options such as block plot origin."
+msgstr ""
+
+#: ../../source/preparation.rst:200
+msgid "Organism Type"
+msgstr ""
+
+#: ../../source/preparation.rst:201
+msgid "Provides a choice of the symbol to represent the organism on screen."
+msgstr ""
+
+#: ../../source/preparation.rst:202
+msgid "Note"
+msgstr ""
+
+#: ../../source/preparation.rst:203
+msgid "A text note for the trial."
+msgstr ""
+
+#: ../../source/preparation.rst:204
+msgid "Traits"
+msgstr ""
+
+#: ../../source/preparation.rst:205
+msgid "Trials may have many traits, however, it is not necessary or desirable for them all to be visible when scoring and traits can be made visible or hidden as required. Select the **Edit Button** to change traits that are used. |br| The blue highlighted panel, near the bottom of the **Scoring Configuration Screen** lists the trait instances available in the trial showing: |br| |important| Traits currently selected for scoring; |br| |not_important| Not selected or hidden; and |br| |half-important| Trait instance(s) selected."
+msgstr ""
+
+#: ../../source/preparation.rst:530
+#: ../../source/preparation.rst:530
+#: ../../source/preparation.rst:530
+msgid "important"
+msgstr ""
+
+#: ../../source/preparation.rst:536
+#: ../../source/preparation.rst:536
+#: ../../source/preparation.rst:536
+msgid "not_important"
+msgstr ""
+
+#: ../../source/preparation.rst:533
+#: ../../source/preparation.rst:533
+#: ../../source/preparation.rst:533
+msgid "half-important"
+msgstr ""
+
+#: ../../source/preparation.rst:207
+#: ../../source/preparation.rst:209
+#: ../../source/preparation.rst:211
+msgid "Non-editable from import"
+msgstr ""
+
+#: ../../source/preparation.rst:208
+msgid "Plot Types"
+msgstr ""
+
+#: ../../source/preparation.rst:210
+msgid "Plot Attributes"
+msgstr ""
+
+#: ../../source/preparation.rst:220
+msgid "Collection Parameters"
+msgstr ""
+
+#: ../../source/preparation.rst:222
+msgid "Most of the important collection parameters (scoring options) can be found on the **Scoring Configuration Screen**. Swipe left and right between the tabs to view all of the options. The tables below outline the function or options available in each tab and the sections provide more in-depth information."
+msgstr ""
+
+#: ../../source/preparation.rst:225
+msgid "Options"
+msgstr ""
+
+#: ../../source/preparation.rst:229
+msgid "Options Tab Actions"
+msgstr ""
+
+#: ../../source/preparation.rst:233
+#: ../../source/preparation.rst:298
+#: ../../source/preparation.rst:372
+#: ../../source/preparation.rst:418
+msgid "**Options**"
+msgstr ""
+
+#: ../../source/preparation.rst:234
+#: ../../source/preparation.rst:299
+#: ../../source/preparation.rst:373
+#: ../../source/preparation.rst:419
+msgid "**Example Image**"
+msgstr ""
+
+#: ../../source/preparation.rst:235
+msgid "**Collection Order**:"
+msgstr ""
+
+#: ../../source/preparation.rst:237
+msgid "Which corner of the field to begin. The four quadrants separated by the grey bars identify the corner of the field where to begin walking."
+msgstr ""
+
+#: ../../source/preparation.rst:238
+msgid "The direction of travel (horizontal or vertical)."
+msgstr ""
+
+#: ../../source/preparation.rst:239
+msgid "Whether you will be using a serpentine path or not; e.g. if you are not actually walking but are scoring plants in a tray in a greenhouse."
+msgstr ""
+
+#: ../../source/preparation.rst:241
+msgid "**Scoring View**:"
+msgstr ""
+
+#: ../../source/preparation.rst:243
+msgid "Scoring views change the way that you score data. There is more information about these modes in the |Scoring|"
+msgstr ""
+
+#: ../../source/preparation.rst:245
+msgid "|ssm_btn| - **Sheet Scoring Mode** is a traditional spreadsheet view with added features;"
+msgstr ""
+
+#: ../../source/preparation.rst:246
+msgid "|psm_btn| - **Path Scoring Mode** is the best choice for most users and allows for easy navigation between plots; and"
+msgstr ""
+
+#: ../../source/preparation.rst:247
+msgid "|fsm_btn| - **Field Scoring Mode** which represents the field from a top-down perspective."
+msgstr ""
+
+#: ../../source/preparation.rst:249
+msgid "|ppg_btn| **Plots per Group**:"
+msgstr ""
+
+#: ../../source/preparation.rst:251
+msgid "How many plots to score at one time e.g. scoring each plot to your left and right whilst walking along the field would be two plots."
+msgstr ""
+
+#: ../../source/preparation.rst:253
+msgid "|lock_btn| **Lock Scored Traits**:"
+msgstr ""
+
+#: ../../source/preparation.rst:255
+msgid "Select the **Lock Scored Trait Checkbox** to prevent accidentally overwriting traits that have already been scored. Measurements can still be changed but there will be a warning message."
+msgstr ""
+
+#: ../../source/preparation.rst:278
+#: ../../source/preparation.rst:278
+msgid "Options Tab"
+msgstr ""
+
+#: ../../source/preparation.rst:290
+msgid "Trait/Instance"
+msgstr ""
+
+#: ../../source/preparation.rst:294
+msgid "Trait/Instance Tab Actions"
+msgstr ""
+
+#: ../../source/preparation.rst:300
+msgid "**Selecting/Deselecting Traits**:"
+msgstr ""
+
+#: ../../source/preparation.rst:302
+msgid "**Star Icons** can select or deselect a trait or trait instance for scoring (sets the trait as active or inactive). Setting a trait/instance as inactive does not remove the trait from the trial but removes it from the **Scoring Screen** to prevent unnecessary scrolling."
+msgstr ""
+
+#: ../../source/preparation.rst:304
+msgid "|important| - Selected;"
+msgstr ""
+
+#: ../../source/preparation.rst:305
+msgid "|half-important| - Partially selected (at least one but not all trait instances are selected); and"
+msgstr ""
+
+#: ../../source/preparation.rst:306
+msgid "|not_important| - Not selected."
+msgstr ""
+
+#: ../../source/preparation.rst:308
+msgid "|menu_btn| **Menu Button**:"
+msgstr ""
+
+#: ../../source/preparation.rst:310
+msgid "The **Menu Button** provides options for adding traits or changing the trait scoring order."
+msgstr ""
+
+#: ../../source/preparation.rst:312
+msgid "|add_btn| - The **Add Traits Button** enables you to select any of your saved traits to add to the trial; and"
+msgstr ""
+
+#: ../../source/preparation.rst:313
+msgid "|order_btn| - The **Trait Order Button** option allows you to choose a trait scoring order."
+msgstr ""
+
+#: ../../source/preparation.rst:336
+#: ../../source/preparation.rst:336
+msgid "Trait/Instance Tab"
+msgstr ""
+
+#: ../../source/preparation.rst:339
+msgid "|trait_mng_btn| **Manage Trait Button**:"
+msgstr ""
+
+#: ../../source/preparation.rst:341
+msgid "Enabled management of traits that are to be scored."
+msgstr ""
+
+#: ../../source/preparation.rst:343
+msgid "|add_btn| - Add a trait to the trial with the **Add Trait Button**;"
+msgstr ""
+
+#: ../../source/preparation.rst:344
+msgid "|move_up_btn| - The **Move Up Button** allows you to move the selected trait up in the scoring order;"
+msgstr ""
+
+#: ../../source/preparation.rst:345
+msgid "|move_down_btn| - The **Move Down Button** allows you to move the selected trait down in the scoring order;"
+msgstr ""
+
+#: ../../source/preparation.rst:346
+msgid "|edit_btn| - Add a trait description with the **Edit Description Button**; and"
+msgstr ""
+
+#: ../../source/preparation.rst:347
+msgid "|remove_btn| - Remove a trait from the trial with the **Remove Button**."
+msgstr ""
+
+#: ../../source/preparation.rst:348
+#: ../../source/preparation.rst:355
+msgid "See above image"
+msgstr ""
+
+#: ../../source/preparation.rst:349
+msgid "|edit_btn| **Edit Trait Instance Button** (the edit icon next to a trait instance):"
+msgstr ""
+
+#: ../../source/preparation.rst:351
+msgid "Options for editing or removing trait instances."
+msgstr ""
+
+#: ../../source/preparation.rst:353
+msgid "|edit_btn| - Add a trait instance description with the **Edit Description Button**; and"
+msgstr ""
+
+#: ../../source/preparation.rst:354
+msgid "|remove_btn| - Remove a trait instance from the trial with the **Remove Button**."
+msgstr ""
+
+#: ../../source/preparation.rst:364
+msgid "Choose Tag Bundle"
+msgstr ""
+
+#: ../../source/preparation.rst:368
+msgid "Choosing a Tag Bundle"
+msgstr ""
+
+#: ../../source/preparation.rst:374
+msgid "**Choose a Tag Bundle**:"
+msgstr ""
+
+#: ../../source/preparation.rst:376
+msgid "Any listed tag bundle can be added with the checkboxes. More tag bundles can be imported or created in the **Tags Screen**."
+msgstr ""
+
+#: ../../source/preparation.rst:399
+#: ../../source/preparation.rst:399
+msgid "Choose a Tag Bundle"
+msgstr ""
+
+#: ../../source/preparation.rst:410
+#: ../../source/preparation.rst:445
+#: ../../source/preparation.rst:445
+msgid "Select Blocks"
+msgstr ""
+
+#: ../../source/preparation.rst:414
+#: ../../source/preparation.rst:461
+msgid "Selecting Blocks"
+msgstr ""
+
+#: ../../source/preparation.rst:420
+msgid "**Select Blocks**:"
+msgstr ""
+
+#: ../../source/preparation.rst:422
+msgid "Any block trial will have all blocks listed and selectable with the checkboxes. At least one must be chosen. This option will only be available for block trials."
+msgstr ""
+
+#: ../../source/preparation.rst:454
+msgid "Start Scoring"
+msgstr ""
+
+#: ../../source/preparation.rst:456
+msgid "Scoring can be started in a variety of ways in KDSmart as outlined in the table below:"
+msgstr ""
+
+#: ../../source/preparation.rst:466
+msgid "**Method**"
+msgstr ""
+
+#: ../../source/preparation.rst:467
+msgid "**Action**"
+msgstr ""
+
+#: ../../source/preparation.rst:468
+msgid "Quick-start from the **Home Screen**"
+msgstr ""
+
+#: ../../source/preparation.rst:469
+msgid "Swipe left and right between the displayed trials until you find the trial that you want to score. Select the |start_btn| **Start Button** to immediately start scoring. If you have scored this trial before then this will resume scoring from where you were before. If this is a new trial you will be taken to the **Scoring Configuration Screen** where you need to confirm collection parameters, then select the |start_btn| **Start Button** to begin."
+msgstr ""
+
+#: ../../source/preparation.rst:470
+msgid "Trial Details from the **Home Screen**"
+msgstr ""
+
+#: ../../source/preparation.rst:471
+msgid "Swipe left and right between the displayed trials until you find the trial that you want to score. Select the **Trial Details Button** and change any of the details if you wish then select the |start_btn| **Start Button**. If you have scored this trial before then this will resume scoring from where you were before. If this is a new trial you will be taken to the **Scoring Configuration Screen** where you need to confirm collection parameters, then select the |start_btn| **Start Button** again to begin."
+msgstr ""
+
+#: ../../source/preparation.rst:472
+msgid "Quick-start from the **Trials Screen**"
+msgstr ""
+
+#: ../../source/preparation.rst:473
+msgid "If there is currently a trial selected, select the |start_btn| **Start Button** to be taken to the **Scoring Configuration Screen** where you can choose collection parameters and then select the **Start Scoring Button** to begin scoring."
+msgstr ""
+
+#: ../../source/preparation.rst:474
+msgid "Trial Details from the **Trials Screen**"
+msgstr ""
+
+#: ../../source/preparation.rst:475
+msgid "Select a trial to immediately display the **Trial Details Screen**. Select the |start_btn| **Start Button** to be taken to the **Scoring Configuration Screen** where you can choose collection parameters and then select the **Start Scoring Button** to begin scoring."
+msgstr ""
+
+#: ../../source/preparation.rst:477
+msgid "Once all configuration options have been set, scoring can begin. See the |Scoring| for more information."
+msgstr ""
+
+#: ../../source/preparation.rst:486
+msgid "plotloc"
+msgstr ""
+
+#: ../../source/preparation.rst:489
+msgid "accept-btn"
+msgstr ""
+
+#: ../../source/preparation.rst:493
+msgid "search"
+msgstr ""
+
+#: ../../source/preparation.rst:496
+msgid "action_upload"
+msgstr ""
+
+#: ../../source/preparation.rst:499
+msgid "action_download"
+msgstr ""
+
+#: ../../source/preparation.rst:502
+msgid "plus-action"
+msgstr ""
+
+#: ../../source/preparation.rst:505
+msgid "find-plots-tag"
+msgstr ""
+
+#: ../../source/preparation.rst:508
+msgid "edit-action"
+msgstr ""
+
+#: ../../source/preparation.rst:511
+msgid "new-action"
+msgstr ""
+
+#: ../../source/preparation.rst:515
+msgid "black5"
+msgstr ""
+
+#: ../../source/preparation.rst:517
+msgid "black3"
+msgstr ""
+
+#: ../../source/preparation.rst:519
+msgid "black2"
+msgstr ""
+
+#: ../../source/preparation.rst:521
+msgid "arrows"
+msgstr ""
+
+#: ../../source/preparation.rst:524
+msgid "image8"
+msgstr ""
+
+#: ../../source/preparation.rst:527
+msgid "image9"
+msgstr ""
+
+#: ../../source/preparation.rst:539
+msgid "image12"
+msgstr ""
+
+#: ../../source/preparation.rst:542
+msgid "image13"
+msgstr ""
+
+#: ../../source/preparation.rst:545
+msgid "image17"
+msgstr ""
+
+#: ../../source/preparation.rst:548
+msgid "image18"
+msgstr ""
+
+#: ../../source/preparation.rst:551
+msgid "image19"
+msgstr ""
+
+#: ../../source/preparation.rst:554
+msgid "image20"
+msgstr ""
+
+#: ../../source/preparation.rst:566
+msgid "image26"
+msgstr ""
+
+#: ../../source/preparation.rst:569
+msgid "new_label_btn"
+msgstr ""
+
+#: ../../source/preparation.rst:572
+msgid "image28"
+msgstr ""
+
+#: ../../source/preparation.rst:575
+msgid "image29"
+msgstr ""
+
+#: ../../source/preparation.rst:578
+msgid "image30"
+msgstr ""
+
+#: ../../source/preparation.rst:581
+msgid "image31"
+msgstr ""
+
+#: ../../source/preparation.rst:584
+msgid "image32"
+msgstr ""
+
+#: ../../source/preparation.rst:587
+msgid "image33"
+msgstr ""
+
+#: ../../source/preparation.rst:590
+msgid "image34"
+msgstr ""
+
+#: ../../source/preparation.rst:593
+msgid "image35"
+msgstr ""
+
+#: ../../source/preparation.rst:596
+msgid "image36"
+msgstr ""
+
+#: ../../source/preparation.rst:599
+msgid "image37"
+msgstr ""
