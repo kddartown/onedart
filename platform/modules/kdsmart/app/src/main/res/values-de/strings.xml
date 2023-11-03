@@ -2,7 +2,7 @@
 <resources>
     <string name="prompt_action_lock_scored_traits">Geschossene Eigenschaften sperren</string>
     <string name="msg_btn_set_values">Werte festlegen</string>
-    <string name="title_app_name">KD Smart</string>
+    <string name="title_app_name">KDSmart</string>
     <string name="msg_app_the_smart_way_to_score">Die clevere Art zu punkten</string>
     <string name="title_action_take_snapshot">Momentaufnahme</string>
     <string name="title_action_field_view">Feldansicht</string>
