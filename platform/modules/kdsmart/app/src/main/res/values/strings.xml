@@ -2036,6 +2036,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_sample_data_exists_for_trait">Sample data exists for this Trait Instance, can not remove</string>
 
     <string name="msg_fix_block_trials">Update Block Trials</string>
+    <string name="msg_import_your_old_database">Import your database</string>
     <string name="msg_retry_scoring_block_trial">Retry scoring block trial</string>
     <string name="msg_fixing_block_trials">Fixing block trials</string>
     <string name="prompt_choose_blocks_in_trial">Select Blocks</string>
@@ -2757,7 +2758,6 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_export_trial_fmt_6">Export Trial</string>
     <string name="msg_not_a_directory_fmt_2">Not a Directory: </string>
     <string name="errMsg_unexpected_error">Unexpected Error</string>
-    <string name="msg_string_not_found_for">String not found for </string>
     <string name="msg_deactivated">Deactivated</string>
     <string name="msg_all_checked">(all checked)</string>
     <string name="msg_checked"> checked)</string>
@@ -2802,15 +2802,75 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_unable_to_get_trial">Unable to get Trial#</string>
     <string name="msg_please_submit_a_problem_report">Please Submit a Problem Report</string>
     <string name="errMsg_error_fmt_6">Error: </string>
+    <string name="warning_moving_old_data">Proceed with caution! \n\nYou are about to copy data from old database file, to %1$s database. \n\nAll your current data will be lost.</string>
+    <string name="restore_old_data">Restore old data</string>
+    <string name="title_error_importing">Importing error</string>
+    <string name="title_success_importing">Importing successful</string>
+    <string name="msg_could_not_import_data">We could not move data from old database file.\nFor %1$s database we need a file name %2$s to successfully import</string>
+    <string name="msg_import_data">Importing old database file was successful.</string>
+    <string name="title_migration">We\'d like to inform you that the Google Storage policy has been updated to change the way that Play Store apps store data on devices. These changes mean that you will need to migrate your KDSmart data to a new location on your device.</string>
+    <string name="warning_migration_text"> Warning: Starting KDSmart v3.3.0 Do not delete KDSmart from your device or you will lose your data!</string>
+    <string name="locate_database_file"><![CDATA[<b>1.</b> Locate the database file on your device.\n\n- If your want to migrate your Demo database, it will be located at KDSmart > Demo_Databse > DemoDb.sqlite\n- If your want to migrate your Production database, it will be located at KDSmart > Prod_Database > KDSDB.sqlite]]></string>
+    <string name="update_kdsmart_to_latest_version"><![CDATA[<b>2.</b> Update KDSmart to the latest version if you have not done so already. The newest update includes an Import feature.\nTo ensure you are on the newest version, check the version number on the top of the Home screen says <b>3.3.0</b>]]></string>
+    <string name="ensure_correct_database"><![CDATA[<b>3.</b> Open KDSmart and ensure that you are on the correct active database. - If you are importing a Demo database, then this is the default and you won\'t need to do anything. - If you are importing a Production database, then go to the <b>Settings</b> and select the <b>Active Database option</b> to choose the Production database.]]></string>
+    <string name="go_to_manage_devices"><![CDATA[<b>4.</b> Next go to the <b>Manage Devices screen</b>.]]></string>
+    <string name="import_database_button_text"><![CDATA[<b>5.</b> Select the <b>Database tab</b> and then the <b>Import Your Database button</b>.]]></string>
+    <string name="locate_database_file_as_point_1"><![CDATA[<b>6.</b> Locate the database file on your device (like in Step 1) and select it to import the database. You should see a message saying \'Import Successful\'.]]></string>
+    <string name="import_error_message"><![CDATA[<b>7.</b> If you see an import error, please make sure you select the correct database file and are on the correct active database. Try again and if you have any further issues, please do not hesitate to contact us at <b>kdsmart@diversityarrays.com</b>]]></string>
+    <string name="data_migration">Data Migration</string>
+    <string name="title_image_info">Migration Image</string>
+    <string name="migration_steps"><![CDATA[<b> Migration Steps:</b>]]></string>
+    <string name="migration_link"><![CDATA[A video on the migration process can be found here: <a href=\'https://youtu.be/KGaRiKsqlWg\'>Migration Video</a>]]></string>
 
-
-
-
-
-
-
-
-
-
+    <!--  XML File Strings -->
+    <string name="msg_all_bundles">All Bundles</string>
+    <string name="msg_attribute_or_trait">Attribute or Trait</string>
+    <string name="msg_block_layout">Block Layout</string>
+    <string name="msg_cancel">Cancel</string>
+    <string name="msg_choices">Choices</string>
+    <string name="msg_clear">Clear</string>
+    <string name="msg_column">Column</string>
+    <string name="msg_column_heading">Column Heading</string>
+    <string name="msg_dates_in_iso_format">Dates in ISO-8601 format</string>
+    <string name="msg_description">Description</string>
+    <string name="msg_details_of_traits_to_be_deleted">Details of traits to be deleted</string>
+    <string name="msg_details_of_traits_to_be_retained">Details of traits to be retained</string>
+    <string name="msg_device_and_operator">Device and Operator</string>
+    <string name="msg_elapsed_days">Elapsed Days</string>
+    <string name="msg_entities_selected">Entities Selected</string>
+    <string name="msg_exit_scoring">Exit Scoring</string>
+    <string name="msg_export_options">Export Options:</string>
+    <string name="msg_export_to">Export To:</string>
+    <string name="msg_include_source_database_id">Include Source Database Id</string>
+    <string name="msg_kdsx_server">Kds2x Server</string>
+    <string name="msg_kdxchange_servers">KDXchange Servers</string>
+    <string name="msg_limit">Limit:</string>
+    <string name="msg_max">Max</string>
+    <string name="msg_min">Min</string>
+    <string name="msg_more_options">More Options</string>
+    <string name="msg_n_instances">n instances</string>
+    <string name="msg_no_active_trial">-No Active Trial-</string>
+    <string name="msg_no_values">no values</string>
+    <string name="msg_plot_attributes">Plot Attributes</string>
+    <string name="msg_progress_messages">progress messages</string>
+    <string name="msg_protected_trait">(protected Trait)</string>
+    <string name="msg_rangerow">Range/Row</string>
+    <string name="msg_row">Row</string>
+    <string name="msg_save">Save</string>
+    <string name="msg_save_button">Save Button</string>
+    <string name="msg_section">Section</string>
+    <string name="msg_select_values">Select Values</string>
+    <string name="msg_start_export">Start Export</string>
+    <string name="msg_subtitle">Sub-title</string>
+    <string name="msg_tags">Tags</string>
+    <string name="msg_trait_level">Trait Level</string>
+    <string name="msg_trait_name">Trait Name</string>
+    <string name="msg_traits">Traits</string>
+    <string name="msg_traits_selected">Traits Selected</string>
+    <string name="msg_traitvalidationrule">trait-validation-rule</string>
+    <string name="msg_trial_name">Trial Name</string>
+    <string name="msg_trials_to_export">Trials to export</string>
+    <string name="msg_use_plotid">Use PlotId</string>
+    <string name="msg_value">-value-</string>
 
 </resources>
