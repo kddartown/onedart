@@ -94,7 +94,7 @@
     <string name="title_add_trait_bundles">Eigenschaftspaket hinzufügen</string>
     <string name="title_activity_quick_tag_details">Tag-Detail</string>
     <string name="title_tab_help">Hilfe</string>
-    <string name="title_tab_kdsmart">KD Smart</string>
+    <string name="title_tab_kdsmart">KDSmart</string>
     <string name="title_tab_licences">Lizenzen</string>
     <string name="title_prefix_current_folder">Aktuell</string>
     <string name="title_import_tags">Schlagworte importieren</string>
@@ -265,7 +265,7 @@
     <string name="ctx_help_remove_traits_from_bundle">&lt;p&gt; Die Eigenschaften, die für die Entfernung aus dem Merkmalspaket ausgewählt wurden, sind auf diesem Bildschirm aufgeführt und das Entfernen muss bestätigt werden. &lt;/p&gt; &lt;p&gt; Wählen Sie &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp; aus, um zu bestätigen, dass das/die Merkmal (en) aus dem Paket entfernt werden. &lt;/p&gt; &lt;p&gt; Wählen Sie &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp;, um das Entfernen der Merkmal/en aus dem Paket abzubrechen. &lt;/p&gt; &lt;p&gt; Bitte beachte, dass das Entfernen einer Eigenschaft aus einem Paket die Eigenschaft nicht vom Gerät löscht. &lt;/p&gt;</string>
     <plurals name="msg_n_tags_imported">
         <item quantity="one">Ein Tag wurde importiert</item>
-        <item quantity="other">%d -Tags wurden importiert</item>
+        <item quantity="other">%d Tags importiert</item>
     </plurals>
     <string name="msg_btn_export">Exportieren</string>
     <string name="msg_btn_stop">Stopp</string>
@@ -1115,31 +1115,31 @@
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
         <item quantity="one">%d Eigenschaftsinstanz aktiv</item>
-        <item quantity="other">%d Eigenschaftsinstanzen aktiv</item>
+        <item quantity="other">%d Eigenschaftsinstanz aktiv</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
-        <item quantity="one">%d -Testversion zum Löschen ausgewählt</item>
-        <item quantity="other">%d Studien wurden zum Löschen ausgewählt</item>
+        <item quantity="one">%d Testversion zum Löschen ausgewählt</item>
+        <item quantity="other">%d Testversion zum Löschen ausgewählt</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
-        <item quantity="one">%d Merkmal wird gelöscht</item>
-        <item quantity="other">%d Eigenschaften werden gelöscht</item>
+        <item quantity="one">%d Eigenschaft wird gelöscht</item>
+        <item quantity="other">%d Eigenschaft wird gelöscht</item>
     </plurals>
     <plurals name="msg_export_n_traits">
         <item quantity="one">%d Merkmal für den Export ausgewählt</item>
-        <item quantity="other">%d Eigenschaften, die für den Export ausgewählt wurden</item>
+        <item quantity="other">%d Merkmal für den Export ausgewählt</item>
     </plurals>
     <plurals name="msg_export_n_trials">
-        <item quantity="one">%d -Testversion für den Export ausgewählt</item>
-        <item quantity="other">%d Studien für den Export ausgewählt</item>
+        <item quantity="one">%d Testversion für Export ausgewählt</item>
+        <item quantity="other">%d Testversion für Export ausgewählt</item>
     </plurals>
     <plurals name="msg_export_n_tags">
-        <item quantity="one">%d Tag Für den Export ausgewählt</item>
-        <item quantity="other">%d Tags Für den Export ausgewählt</item>
+        <item quantity="one">%d -Tag für Export ausgewählt</item>
+        <item quantity="other">%d -Tag für Export ausgewählt</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
         <item quantity="one">%1$d %2$s Messung</item>
-        <item quantity="other">%1$d %2$s Messungen</item>
+        <item quantity="other">%1$d %2$s Messung</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
         <item quantity="one">%d Neue Eigenschaften hinzugefügt</item>
@@ -1155,15 +1155,15 @@
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string /title_activity_delete_trial</item>
-        <item quantity="other">\@string /title_activity_delete_trials</item>
+        <item quantity="other">\@string /title_activity_delete_trial</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string /ctx_title_delete_tag</item>
-        <item quantity="other">\@string /ctx_title_delete_tags</item>
+        <item quantity="other">\@string /ctx_title_delete_tag</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string /title_activity_delete_trait</item>
-        <item quantity="other">\@string /title_activity_delete_traits</item>
+        <item quantity="other">\@string /title_activity_delete_trait</item>
     </plurals>
     <string name="title_counting_plots">Zählen %1$s…</string>
     <string name="msg_confirm_are_you_sure_you_want_to_save">Bist du sicher, dass du speichern willst\?</string>
@@ -1666,6 +1666,84 @@
     <string name="msg_not_available_for_lockdown_mode">Nicht verfügbar für den Lockdown-Modus</string>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
         <item quantity="one">%2$d %1$s Probenmessung</item>
-        <item quantity="other">%2$d %1$s Probenmessungen</item>
+        <item quantity="other">%2$d %1$s Probenmessung</item>
     </plurals>
+    <string name="msg_import_your_old_database">Importiere deine Datenbank</string>
+    <string name="warning_moving_old_data">Gehen Sie vorsichtig vor!
+\n
+\nSie sind dabei, Daten aus der alten Datenbankdatei in die %1$s Datenbank zu kopieren.
+\n
+\nAlle Ihre aktuellen Daten werden verloren gehen.</string>
+    <string name="msg_trial_name">Name der Studie</string>
+    <string name="msg_trials_to_export">Testversionen für den Export</string>
+    <string name="msg_use_plotid">Verwenden Sie PlotID</string>
+    <string name="msg_could_not_import_data">Wir konnten keine Daten aus der alten Datenbankdatei verschieben.
+\nFür die %1$s -Datenbank benötigen wir einen Dateinamen %2$s, um erfolgreich importieren zu können</string>
+    <string name="msg_import_data">Das Importieren der alten Datenbankdatei war erfolgreich.</string>
+    <string name="title_migration">Wir möchten Sie darüber informieren, dass die Google-Speicherrichtlinie aktualisiert wurde, um die Art und Weise zu ändern, wie Play Store-Apps Daten auf Geräten speichern. Diese Änderungen bedeuten, dass Sie Ihre KDSmart-Daten an einen neuen Ort auf Ihrem Gerät migrieren müssen.</string>
+    <string name="warning_migration_text">Warnung: KDSmart v3.3.0 starten Löschen Sie KDSmart nicht von Ihrem Gerät, sonst verlieren Sie Ihre Daten!</string>
+    <string name="locate_database_file">[X0X1]. &lt;/b&gt; Suchen Sie die Datenbankdatei auf Ihrem Gerät.
+\n
+\n- Wenn Sie Ihre Demo-Datenbank migrieren möchten, befindet sie sich unter KDSmart &gt; Demo_Databse &gt; DemoDb.sqlite
+\n- Wenn Sie Ihre Produktionsdatenbank migrieren möchten, finden Sie sie unter KDSmart &gt; Prod_Database &gt; kdsDB.SQLite</string>
+    <string name="update_kdsmart_to_latest_version"><b> 2. </b> Aktualisieren Sie KDSmart auf die neueste Version, falls Sie dies noch nicht getan haben. Das neueste Update enthält eine Importfunktion.
+\nUm sicherzustellen, dass Sie die neueste Version verwenden, überprüfen Sie, ob in der Versionsnummer oben auf dem Startbildschirm <b> 3.3.0 </b> steht</string>
+    <string name="ensure_correct_database"><b> 3. </b> Öffnen Sie KDSmart und stellen Sie sicher, dass Sie sich in der richtigen aktiven Datenbank befinden. - Wenn Sie eine Demo-Datenbank importieren, ist dies die Standardeinstellung und Sie müssen nichts tun. - Wenn Sie eine Produktionsdatenbank importieren, gehen Sie zu den <b> Einstellungen </b> und wählen Sie die <b> Option Aktive Datenbank </b>, um die Produktionsdatenbank auszuwählen.</string>
+    <string name="go_to_manage_devices"><b> 4. </b> Gehen Sie als Nächstes zum Bildschirm <b> Geräte verwalten </b>.</string>
+    <string name="import_database_button_text"><b> 5. </b> Wählen Sie die <b> Datenbank-Registerkarte </b> und dann die Schaltfläche <b> Datenbank importieren </b>.</string>
+    <string name="locate_database_file_as_point_1"><b> 6. </b> Suchen Sie die Datenbankdatei auf Ihrem Gerät (wie in Schritt 1) und wählen Sie sie aus, um die Datenbank zu importieren. Sie sollten eine Meldung mit der Aufschrift „Import erfolgreich“ sehen.</string>
+    <string name="import_error_message"><b> 7. </b> Wenn Sie einen Importfehler sehen, stellen Sie sicher, dass Sie die richtige Datenbankdatei auswählen und sich in der richtigen aktiven Datenbank befinden. Versuchen Sie es erneut. Wenn Sie weitere Probleme haben, zögern Sie bitte nicht, uns unter <b> kdsmart@diversityarrays.com </b> zu kontaktieren</string>
+    <string name="data_migration">Datenmigration</string>
+    <string name="title_image_info">Migrationsimage</string>
+    <string name="migration_steps"><b> Migrationsschritte: </b></string>
+    <string name="migration_link">Ein Video zum Migrationsprozess finden Sie hier: <a href="https://youtu.be/KGaRiKsqlWg"> Migrationsvideo </a></string>
+    <string name="msg_all_bundles">Alle Bündel</string>
+    <string name="msg_attribute_or_trait">Attribut oder Merkmal</string>
+    <string name="msg_block_layout">Block-Layout</string>
+    <string name="msg_cancel">Stornieren</string>
+    <string name="msg_choices">Wahlmöglichkeiten</string>
+    <string name="msg_clear">Klar</string>
+    <string name="msg_column">Kolumne</string>
+    <string name="msg_column_heading">Spaltenüberschrift</string>
+    <string name="msg_dates_in_iso_format">Daten im ISO-8601-Format</string>
+    <string name="msg_description">Beschreibung</string>
+    <string name="msg_details_of_traits_to_be_deleted">Angaben zu den Merkmalen, die gelöscht werden sollen</string>
+    <string name="msg_details_of_traits_to_be_retained">Angaben zu den Merkmalen, die beibehalten werden sollen</string>
+    <string name="msg_device_and_operator">Gerät und Bediener</string>
+    <string name="msg_elapsed_days">Verstrichene Tage</string>
+    <string name="msg_entities_selected">Ausgewählte Entitäten</string>
+    <string name="msg_exit_scoring">Punktewertung beenden</string>
+    <string name="msg_export_options">Exportoptionen:</string>
+    <string name="msg_export_to">Exportieren nach</string>
+    <string name="msg_include_source_database_id">Quelldatenbank-ID einschließen</string>
+    <string name="msg_kdsx_server">KDS2x-Server</string>
+    <string name="msg_kdxchange_servers">KDXChange Server</string>
+    <string name="msg_limit">Limit:</string>
+    <string name="msg_max">Max</string>
+    <string name="msg_min">Min.</string>
+    <string name="msg_more_options">Mehr Optionen</string>
+    <string name="msg_n_instances">n Instanzen</string>
+    <string name="msg_no_active_trial">Keine aktive Testversion</string>
+    <string name="msg_no_values">keine Werte</string>
+    <string name="msg_plot_attributes">Plotattribute</string>
+    <string name="msg_progress_messages">Fortschrittsmeldungen</string>
+    <string name="msg_protected_trait">(geschütztes Merkmal)</string>
+    <string name="msg_rangerow">Bereich/Reihe</string>
+    <string name="msg_row">Reihe</string>
+    <string name="msg_save">Speichern</string>
+    <string name="msg_save_button">Schaltfläche „Speichern“</string>
+    <string name="msg_section">Sektion</string>
+    <string name="msg_select_values">Werte wählen</string>
+    <string name="msg_start_export">Export starten</string>
+    <string name="msg_subtitle">Untertitelung</string>
+    <string name="msg_tags">Schlagworte</string>
+    <string name="msg_trait_level">Eigenschaftsstufe</string>
+    <string name="msg_trait_name">Name des Merkmals</string>
+    <string name="msg_traits">Eigenschaften</string>
+    <string name="msg_traits_selected">Ausgewählte Eigenschaften</string>
+    <string name="msg_traitvalidationrule">Regel zur Überprüfung von Merkmalen</string>
+    <string name="msg_value">-Wert-</string>
+    <string name="restore_old_data">Alte Daten wiederherstellen</string>
+    <string name="title_error_importing">Fehler beim Importieren</string>
+    <string name="title_success_importing">Import erfolgreich</string>
 </resources>
