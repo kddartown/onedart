@@ -313,33 +313,33 @@
     <string name="prompt_autoscoring_options_selected_traits">Rasgos seleccionados</string>
     <plurals name="msg_n_tags_imported">
         <item quantity="one">Una etiqueta importada</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d etiquetas importadas</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
         <item quantity="one">Un rasgo importado</item>
         <item quantity="many"></item>
-        <item quantity="other">%d rasgos importados</item>
+        <item quantity="other">Caracteres %d importados</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
         <item quantity="one">Un rasgo actualizado</item>
         <item quantity="many"></item>
-        <item quantity="other">%d características actualizadas</item>
+        <item quantity="other">Caracteres de %d actualizados</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
         <item quantity="one">%d Instancia de rasgo activa</item>
         <item quantity="many"></item>
-        <item quantity="other">%d Instancias de características activas</item>
+        <item quantity="other">%d Instancia de rasgo activa</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
         <item quantity="one">%d prueba seleccionada para su eliminación</item>
         <item quantity="many"></item>
-        <item quantity="other">%d ensayos seleccionados para su eliminación</item>
+        <item quantity="other">%d prueba seleccionada para su eliminación</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
         <item quantity="one">%d Se eliminará el rasgo</item>
         <item quantity="many"></item>
-        <item quantity="other">%d Se eliminarán los rasgos</item>
+        <item quantity="other">%d Se eliminará el rasgo</item>
     </plurals>
     <string name="title_export_all_traits">Exportar todos los rasgos</string>
     <string name="title_please_confirm_tag_export">Confirme la exportación de etiquetas</string>
@@ -347,18 +347,18 @@
     <plurals name="msg_export_n_traits">
         <item quantity="one">%d rasgo seleccionado para la exportación</item>
         <item quantity="many"></item>
-        <item quantity="other">Características %d seleccionadas para la exportación</item>
+        <item quantity="other">%d rasgo seleccionado para la exportación</item>
     </plurals>
     <plurals name="msg_export_n_trials">
         <item quantity="one">%d prueba seleccionada para exportación</item>
         <item quantity="many"></item>
-        <item quantity="other">%d ensayos seleccionados para la exportación</item>
+        <item quantity="other">%d prueba seleccionada para exportación</item>
     </plurals>
     <string name="title_export_all_tags">Exportar todas las etiquetas</string>
     <plurals name="msg_export_n_tags">
         <item quantity="one">%d tag Seleccionado para exportación</item>
         <item quantity="many"></item>
-        <item quantity="other">%d etiquetas Seleccionadas para exportación</item>
+        <item quantity="other">%d tag Seleccionado para exportación</item>
     </plurals>
     <string name="title_activity_scoring_setup">Configurar</string>
     <string name="title_section_scoring_options">Opciones</string>
@@ -515,22 +515,22 @@
     <string name="msg_import_trial_sample_counts_colon">Recuentos de medición de muestras:</string>
     <plurals name="msg_imported_n_plots">
         <item quantity="one">%2$d %1$s importado</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s importado</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
         <item quantity="one">%2$d %1$s Medición de muestras</item>
         <item quantity="many"></item>
-        <item quantity="other">%2$d %1$s Mediciones de muestra</item>
+        <item quantity="other">%2$d %1$s Medición de muestras</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
         <item quantity="one">%1$d %2$s Medición</item>
         <item quantity="many"></item>
-        <item quantity="other">%1$d %2$s Mediciones</item>
+        <item quantity="other">%1$d %2$s Medición</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
         <item quantity="one">Se agregaron %d Nuevos rasgos</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">Se agregaron %d Nuevos rasgos</item>
     </plurals>
     <string name="title_activity_export_trial">Prueba de exportación</string>
@@ -1211,28 +1211,28 @@
     <string name="title_fetching_trials">Fetching ensayos de Kddart</string>
     <plurals name="title_sub_plots">
         <item quantity="one">%2$s</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_plots">
         <item quantity="one">%2$s</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string /title_activity_delete_trial</item>
         <item quantity="many"></item>
-        <item quantity="other">\@string /title_activity_delete_trials</item>
+        <item quantity="other">\@string /title_activity_delete_trial</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string /ctx_title_delete_tag</item>
         <item quantity="many"></item>
-        <item quantity="other">\@string /ctx_title_delete_tags</item>
+        <item quantity="other">\@string /ctx_title_delete_tag</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string /title_actividad_delete_trait</item>
         <item quantity="many"></item>
-        <item quantity="other">\@string /title_activity_delete_traits</item>
+        <item quantity="other">\@string /title_actividad_delete_trait</item>
     </plurals>
     <string name="msg_checkbox_text">Texto de casilla de verificación</string>
     <string name="msg_other_text">Otro texto</string>
@@ -1686,4 +1686,82 @@
     <string name="msg_add">Agregar</string>
     <string name="msg_removed">"
 \nEliminado"</string>
+    <string name="msg_choices">Opciones</string>
+    <string name="msg_clear">Claro</string>
+    <string name="msg_column_heading">Encabezado de columna</string>
+    <string name="msg_dates_in_iso_format">Fechas en formato ISO-8601</string>
+    <string name="msg_description">Descripción</string>
+    <string name="msg_import_your_old_database">Importar su base de datos</string>
+    <string name="warning_moving_old_data">¡Proceda con precaución!
+\n
+\nEstá a punto de copiar datos del archivo de base de datos antiguo, a la base de datos %1$s.
+\n
+\nTodos sus datos actuales se perderán.</string>
+    <string name="restore_old_data">Restaurar datos antiguos</string>
+    <string name="title_error_importing">Error de importación</string>
+    <string name="title_success_importing">Importación exitosa</string>
+    <string name="msg_could_not_import_data">No pudimos mover datos del archivo de base de datos antiguo.
+\nPara la base de datos %1$s necesitamos un nombre de archivo %2$s para importar correctamente</string>
+    <string name="msg_import_data">La importación del archivo de base de datos antiguo se realizó correctamente.</string>
+    <string name="title_migration">Nos gustaría informarle que la política de almacenamiento de Google se ha actualizado para cambiar la forma en que las aplicaciones de Play Store almacenan datos en los dispositivos. Estos cambios significan que tendrá que migrar sus datos de KDSmart a una nueva ubicación en su dispositivo.</string>
+    <string name="warning_migration_text">Advertencia: Iniciando KDSmart v3.3.0 ¡No elimine KDSmart de su dispositivo o perderá sus datos!</string>
+    <string name="locate_database_file"><b> 1. </b> Localice el archivo de base de datos en su dispositivo.
+\n
+\n- Si desea migrar su base de datos Demo, se ubicará en KDSmart &gt; Demo_Databse &gt; Demodb.sqlite
+\n- Si desea migrar su base de datos de producción, se ubicará en KDSmart &gt; Prod_Database &gt; KDSDB.SQLite</string>
+    <string name="update_kdsmart_to_latest_version"><b> 2. </b> Actualice KDSmart a la última versión si aún no lo ha hecho. La actualización más reciente incluye una función de importación.
+\nPara asegurarse de que está en la versión más reciente, verifique el número de versión en la parte superior de la pantalla de inicio que dice <b> 3.3.0 </b></string>
+    <string name="ensure_correct_database"><b> 3. </b> Abra KDSmart y asegúrese de que está en la base de datos activa correcta. - Si va a importar una base de datos de demostración, esta es la opción predeterminada y no necesitará hacer nada. - Si va a importar una base de datos de producción, vaya a <b> Configuración </b> y seleccione la opción <b> Base de datos activa </b> para elegir la base de datos de producción.</string>
+    <string name="go_to_manage_devices"><b> 4. </b> A continuación, vaya a la pantalla <b> Administrar dispositivos </b>.</string>
+    <string name="import_database_button_text"><b> 5. </b> Seleccione la ficha Base de datos <b> </b> y, a continuación, el botón <b> Importar su base de datos </b>.</string>
+    <string name="locate_database_file_as_point_1"><b> 6. </b> Localice el archivo de base de datos en su dispositivo (como en el Paso 1) y selecciónelo para importar la base de datos. Debería ver un mensaje que dice “Importar con éxito”.</string>
+    <string name="import_error_message"><b> 7. </b> Si ve un error de importación, asegúrese de seleccionar el archivo de base de datos correcto y que está en la base de datos activa correcta. Inténtelo de nuevo y si tiene más problemas, no dude en ponerse en contacto con nosotros en <b> kdsmart@diversityarrays.com </b></string>
+    <string name="data_migration">Migración de Datos</string>
+    <string name="title_image_info">Imagen de migración</string>
+    <string name="migration_steps"><b> Pasos de migración: </b></string>
+    <string name="migration_link">Puede encontrar un video sobre el proceso de migración aquí: <a href="https://youtu.be/KGaRiKsqlWg"> Video de migración </a></string>
+    <string name="msg_all_bundles">Todos los paquetes</string>
+    <string name="msg_details_of_traits_to_be_deleted">Detalles de los rasgos que se van a eliminar</string>
+    <string name="msg_details_of_traits_to_be_retained">Detalles de los rasgos que deben conservarse</string>
+    <string name="msg_device_and_operator">Dispositivo y Operador</string>
+    <string name="msg_elapsed_days">Días transcurridos</string>
+    <string name="msg_entities_selected">Entidades Seleccionadas</string>
+    <string name="msg_exit_scoring">Puntuación de salida</string>
+    <string name="msg_export_options">Opciones de exportación:</string>
+    <string name="msg_export_to">Exportar a</string>
+    <string name="msg_include_source_database_id">Incluir ID de base de datos de origen</string>
+    <string name="msg_kdsx_server">Servidor KDS2x</string>
+    <string name="msg_kdxchange_servers">Servidores KDXchange</string>
+    <string name="msg_limit">Límite:</string>
+    <string name="msg_max">Max</string>
+    <string name="msg_min">Min</string>
+    <string name="msg_more_options">Más opciones</string>
+    <string name="msg_n_instances">n instancias</string>
+    <string name="msg_no_active_trial">Sin Prueba Activa</string>
+    <string name="msg_no_values">sin valores</string>
+    <string name="msg_plot_attributes">Atributos de trazado</string>
+    <string name="msg_progress_messages">mensajes de progreso</string>
+    <string name="msg_protected_trait">(rasgo protegido)</string>
+    <string name="msg_rangerow">Range/Fila</string>
+    <string name="msg_row">Fila</string>
+    <string name="msg_save">Guardar</string>
+    <string name="msg_save_button">Botón Guardar</string>
+    <string name="msg_section">Sección</string>
+    <string name="msg_select_values">Seleccionar valores</string>
+    <string name="msg_start_export">Iniciar exportación</string>
+    <string name="msg_subtitle">Subtítulo</string>
+    <string name="msg_tags">Etiquetas</string>
+    <string name="msg_trait_level">Nivel de rasgo</string>
+    <string name="msg_trait_name">Nombre de rasgo</string>
+    <string name="msg_traits">Rasgos</string>
+    <string name="msg_traits_selected">Rasgos seleccionados</string>
+    <string name="msg_traitvalidationrule">regla de validación de rasgos</string>
+    <string name="msg_trial_name">Nombre del Juicio</string>
+    <string name="msg_trials_to_export">Ensayos para exportar</string>
+    <string name="msg_use_plotid">Usar PlotID</string>
+    <string name="msg_value">-valor-</string>
+    <string name="msg_attribute_or_trait">Atributo o rasgo</string>
+    <string name="msg_block_layout">Diseño de Bloque</string>
+    <string name="msg_cancel">Cancelar</string>
+    <string name="msg_column">Columna</string>
 </resources>
