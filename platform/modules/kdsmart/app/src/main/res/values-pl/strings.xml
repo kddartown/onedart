@@ -33,9 +33,9 @@
     <string name="msg_btn_use_folder">Użyj bieżącego folderu</string>
     <string name="hdg_plots_per_group">%1$s na grupę</string>
     <string name="hdg_visit_order">Zamówienie odbioru</string>
-    <string name="hdg_organism_type">Typ organizmu</string>
+    <string name="hdg_organism_type">Rodzaj organizmu</string>
     <string name="prompt_btn_start_scoring">Rozpocznij punktację</string>
-    <string name="hdg_trial_name">Nazwa wersji próbnej</string>
+    <string name="hdg_trial_name">Nazwa Próbna</string>
     <string name="hdg_current_plot">Prąd %1$s</string>
     <string name="hdg_trial_planting_date">Data sadzenia</string>
     <string name="hdg_trial_plot_column_row_names">%1$s i nazwy osi X/Y</string>
@@ -43,7 +43,7 @@
     <string name="hdg_trial_note">Uwaga</string>
     <string name="hdg_trait_name_style">Styl nazwy cechy</string>
     <string name="hdg_trial_traits">Cechy</string>
-    <string name="hdg_trial_details">Szczegóły wersji próbnej</string>
+    <string name="hdg_trial_details">Szczegóły próbne</string>
     <string name="hdg_trial_progress">Postęp próbny</string>
     <string name="msg_html_trait_name_style_no_instances">Brak instancji</string>
     <string name="msg_html_trait_name_style_2underscores_digits">Cecha &lt;font color=0x00ddff&gt;__123&lt;/font&gt;</string>
@@ -95,7 +95,7 @@
     <string name="title_activity_find_server">Znajdź serwer</string>
     <string name="title_activity_manage_traits">Cechy</string>
     <string name="title_activity_trials">Próby</string>
-    <string name="title_activity_trial_details">Szczegóły wersji próbnej</string>
+    <string name="title_activity_trial_details">Szczegóły próbne</string>
     <string name="title_activity_trial_scoring">Punktacja</string>
     <string name="title_activity_trait_instance">Wystąpienia cech</string>
     <string name="title_activity_scan_barcode">Skanuj kod kreskowy za pomocą aparatu</string>
@@ -250,7 +250,7 @@
     <string name="hdg_trait_details_datatype">Typ danych</string>
     <string name="hdg_trait_details_description">Opis</string>
     <string name="hdg_trait_details_trait_name">Nazwa cechy</string>
-    <string name="hdg_trait_details_trait_alias">Alias</string>
+    <string name="hdg_trait_details_trait_alias">Pseudonim</string>
     <string name="hdg_trial_group">Pakiet próbny</string>
     <string name="hdg_traits_selected">Wybrane cechy</string>
     <string name="hdg_tags_selected">Wybrane znaczniki</string>
@@ -297,7 +297,7 @@
     <string name="prompt_autoscoring_options_unscored_traits">Cechy nieocenione</string>
     <string name="prompt_autoscoring_options_selected_traits">Wybrane cechy</string>
     <plurals name="msg_n_tags_imported">
-        <item quantity="one">Jeden tag zaimportowany</item>
+        <item quantity="one">Jeden znacznik importowany</item>
         <item quantity="few"></item>
         <item quantity="many">%d znaczniki importowane</item>
         <item quantity="other">%d znaczniki importowane</item>
@@ -305,32 +305,32 @@
     <plurals name="msg_n_traits_imported">
         <item quantity="one">Jedna cecha importowana</item>
         <item quantity="few"></item>
-        <item quantity="many">%d cechy importowane</item>
-        <item quantity="other">%d cechy importowane</item>
+        <item quantity="many">Importowane cechy %d</item>
+        <item quantity="other">Importowane cechy %d</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
-        <item quantity="one">Zaktualizowano jedną cechę</item>
+        <item quantity="one">Jedna cecha zaktualizowana</item>
         <item quantity="few"></item>
-        <item quantity="many">%d cechy zaktualizowane</item>
-        <item quantity="other">%d cechy zaktualizowane</item>
+        <item quantity="many">Zaktualizowano cechy %d</item>
+        <item quantity="other">Zaktualizowano cechy %d</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
-        <item quantity="one">%d Aktywna instancja cechy</item>
+        <item quantity="one">%d Instancja cecha aktywna</item>
         <item quantity="few"></item>
-        <item quantity="many">%d Aktywne instancje cech</item>
-        <item quantity="other">%d Aktywne instancje cech</item>
+        <item quantity="many">%d Aktywna instancja cechy</item>
+        <item quantity="other">%d Aktywna instancja cechy</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
         <item quantity="one">%d wersja próbna wybrana do usunięcia</item>
         <item quantity="few"></item>
-        <item quantity="many">Próby %d wybrane do usunięcia</item>
-        <item quantity="other">Próby %d wybrane do usunięcia</item>
+        <item quantity="many">%d wersja próbna wybrana do usunięcia</item>
+        <item quantity="other">%d wersja próbna wybrana do usunięcia</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
-        <item quantity="one">%d Cecha Zostanie Usunięta</item>
+        <item quantity="one">%d Cecha zostanie usunięta</item>
         <item quantity="few"></item>
-        <item quantity="many">%d Cechy zostaną usunięte</item>
-        <item quantity="other">%d Cechy zostaną usunięte</item>
+        <item quantity="many">%d Cecha Zostanie Usunięta</item>
+        <item quantity="other">%d Cecha Zostanie Usunięta</item>
     </plurals>
     <string name="title_export_all_traits">Eksportuj wszystkie cechy</string>
     <string name="title_please_confirm_tag_export">Potwierdź eksport tagu</string>
@@ -338,21 +338,21 @@
     <plurals name="msg_export_n_traits">
         <item quantity="one">%d cecha wybrana do eksportu</item>
         <item quantity="few"></item>
-        <item quantity="many">%d cechy wybrane do eksportu</item>
-        <item quantity="other">%d cechy wybrane do eksportu</item>
+        <item quantity="many">%d cecha wybrana do eksportu</item>
+        <item quantity="other">%d cecha wybrana do eksportu</item>
     </plurals>
     <plurals name="msg_export_n_trials">
         <item quantity="one">%d wersja próbna wybrana do eksportu</item>
         <item quantity="few"></item>
-        <item quantity="many">%d próby wybrane do eksportu</item>
-        <item quantity="other">%d próby wybrane do eksportu</item>
+        <item quantity="many">%d wersja próbna wybrana do eksportu</item>
+        <item quantity="other">%d wersja próbna wybrana do eksportu</item>
     </plurals>
     <string name="title_export_all_tags">Eksportuj wszystkie tagi</string>
     <plurals name="msg_export_n_tags">
-        <item quantity="one">%d tag Wybrany do eksportu</item>
+        <item quantity="one">%d tag wybrany do eksportu</item>
         <item quantity="few"></item>
-        <item quantity="many">%d znaczniki wybrane do eksportu</item>
-        <item quantity="other">%d znaczniki wybrane do eksportu</item>
+        <item quantity="many">%d tag Wybrany do eksportu</item>
+        <item quantity="other">%d tag Wybrany do eksportu</item>
     </plurals>
     <string name="title_activity_scoring_setup">Konfiguracja</string>
     <string name="title_section_scoring_options">Opcje</string>
@@ -374,7 +374,7 @@
     <string name="hdg_tag_label">Etykieta znacznika</string>
     <string name="hdg_trait_validation_type">Typ walidacji cech</string>
     <string name="hdg_edit_trait_trait_name">Nazwa cechy</string>
-    <string name="hdg_edit_trait_alias">Alias</string>
+    <string name="hdg_edit_trait_alias">Pseudonim</string>
     <string name="hdg_edit_trait_description">Opis</string>
     <string name="hdg_edit_trait_unit">Jednostka</string>
     <string name="hdg_edit_trait_datatype">Typ danych</string>
@@ -389,13 +389,13 @@
     <string name="ctx_help_manage_trial" formatted="false">&lt;p&gt; Ekran próbny &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; wyświetla wszystkie wersje próbne, które są aktualnie załadowane do KDSmart. &lt;/p&gt; &lt;p&gt; Ostrzeżenie: &amp;nbsp; &lt;strong&gt; Tryb demonstracyjny &lt;/strong&gt; &amp;nbsp; powinien &amp;nbsp; &lt;strong&gt; NIE &lt;/strong&gt; &amp;nbsp; być używany do prawdziwych prób. Jest to &amp;nbsp; &lt;strong&gt; TYLKO &lt;/strong&gt; &amp;nbsp; przeznaczony do celów demonstracyjnych i szkoleniowych. Wszystkie dane w &amp;nbsp; &lt;strong&gt; Tryb demonstracyjny &lt;/strong&gt; &amp;nbsp; mogą zostać utracone przy dowolnej aktualizacji wersji lub wybierając opcję &amp;nbsp; &lt;em&gt; Resetowanie danych demonstracyjnych &lt;/em&gt; &amp;nbsp; w &amp;nbsp; &lt;strong&gt; Ustawienia &lt;/strong&gt; &amp;nbsp; który przywraca dane demonstracyjne. &amp;nbsp; &lt;strong&gt; Tryb demonstracyjny &lt;/strong&gt; &amp;nbsp; jest wskazywany przez &amp;nbsp; &lt;strong&gt; DEMO DB &lt;/strong&gt; pojawiające się na ekranie głównym &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Aby wyświetlić szczegóły dotyczące wersji próbnej, wybierz wersję próbną za pomocą krótkiego naciśnięcia &amp;nbsp; &lt;em&gt; &lt;/em&gt;. To przeniesie Cię do ekranu szczegółów wersji próbnej &amp;nbsp; &amp;nbsp; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Jeśli wersja próbna jest podświetlona, możesz wykonać na nim następujące czynności wraz z ogólnymi czynnościami w menu &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Rozpocznij punktację &lt;/strong&gt; &amp;nbsp; - Otwiera punktację &lt;/strong&gt; &amp;nbsp; - Otwiera punktację &lt;p&gt; X1071X] &lt;strong&gt; Ekran konfiguracji &lt;/strong&gt; &amp;nbsp; dla każdej podświetlonej próby; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Import Trial &lt;/strong&gt; &amp;nbsp; - Opcje importowania wersji próbnych z urządzenia lub z KDXplore za pomocą KDXChange; &lt;/li&gt; &lt;/li&gt; &lt;/li&gt; &lt;/li&gt; &lt;/li&gt; 83X] &lt;strong&gt; Udostępnij &lt;/strong&gt; &amp;nbsp; - Opcje udostępniania dla wyróżnionej wersji próbnej z dostępem do pamięci masowej Androida Framework obejmujący pocztę e-mail, Bluetooth lub dowolną usługę udostępniania plików zainstalowaną na urządzeniu; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Eksportuj do &lt;/strong&gt; &amp;nbsp; - Opcje eksportu dowolnej podświetlonej wersji próbnej eksportowania plików do urządzenia; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Clone Trial &lt;/strong&gt; &amp;nbsp; &amp;nbsp;] - Tworzy klon dowolnej podświetlonej próby, która zawiera te same dane i cechy; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Usuń &lt;/strong&gt; &amp;nbsp; - Usuwa podświetloną wersję próbną; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Sortuj... &lt;/strong&gt; &amp;nbsp; - Opcje dla sortowanie prób; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Grupowanie &lt;/strong&gt; &amp;nbsp; - Opcje dla grupy prób; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Losowe dane demonstracyjne &lt;/strong&gt; &amp;nbsp; - Narzędzie do stosowania losowych danych demonstracyjnych do próby zawierającej załączniki (tylko w &amp;nbsp; &lt;strong&gt; Tryb demonstracyjny &lt;/strong&gt;); &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Próbki wyników &lt;/strong&gt; &amp;nbsp; - Generuje przykładowe dane z prawdopodobieństwem uzyskania próbki w zakresie od 10% -100%; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Dodaj załączniki &lt;/strong&gt; &amp;nbsp; - Generuje załączniki i tagi; &lt;/li&gt; &lt;li&gt; &lt;li&gt; &lt;li&gt; &lt;li&gt; &amp;nbsp; 2342X] Wyczyść wszystkie dane &lt;/strong&gt; &amp;nbsp; - Czyści wszystkie przykładowe dane dla wybranej wersji demonstracyjnej; &lt;/li&gt; &lt;/ul&gt; [X 2444X] &lt;li&gt; &lt;strong&gt; Dodaj wersję próbną &lt;/strong&gt; &amp;nbsp; - Opcje tworzenia nowej wersji próbnej; i &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Pomoc &lt;/strong&gt; &amp;nbsp; - Otwiera tę stronę pomocy. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Użyj &amp;nbsp; &lt;em&gt; długie naciśnięcie &lt;/em&gt; &amp;nbsp; na jednej lub kilku próbach, aby wybrać je do dalszych działań. Pamiętaj, że jednocześnie można wybrać więcej niż jedną wersję próbną. Dodatkowe działania, które może wyświetlić wybór, to: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Zaznacz/Odznacz wszystko &lt;/strong&gt; &amp;nbsp; - Wybiera lub odznacza wszystkie próby; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Udostępnij &lt;/strong&gt; &amp;nbsp; Opcje udostępniania podświetlonych wersji próbnych z systemem Android Storage Access Framework, w tym poczta e-mail, Bluetooth lub dowolna usługa udostępniania plików zainstalowana na urządzeniu; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Eksportuj do &lt;/strong&gt; &amp;nbsp; - Opcje eksportu dowolnej podświetlonej cechy eksportowania plików do urządzenia; &lt;/li&gt; &lt;li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; [X] Dodaj %2$s &lt;/strong&gt; &amp;nbsp; - Dodaj %2$s do każdego [X 3269X] w każdym procesie. Należy pamiętać, że jest to wybór numeru %2$s, który każdy %1$s będzie miał i nie doda wybranej kwoty do aktualnie istniejącej %1$s. Na przykład, jeśli każdy %1$s w wersji próbnej ma już jeden %2$s, ale chcesz dodać jeszcze jeden, wybierz „2”, a nie „1”; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Dodaj pakiet cech &lt;/strong&gt; &amp;nbsp; - Dodaj pakiet cech do wersji próbnej; i [X36X]] &lt;li&gt; &lt;strong&gt; Dodaj pakiet &lt;/strong&gt; &amp;nbsp; - Utwórz nowy pakiet próbny z 2 lub więcej wybranymi próbami. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="ctx_help_scoring_setup">&lt;p&gt;&lt;strong&gt;Karta Opcje&lt;/strong&gt; na &lt;strong&gt;ekranie konfiguracji punktacji&lt;/strong&gt; zawiera ogólne opcje oceniania wybranej wersji próbnej. Opcje te zostaną zapisane na następny raz, jeśli wersja próbna zostanie otwarta z szybkim uruchomieniem z &lt;strong&gt;ekranu głównego&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;a name=Collection-Order&gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;Kolejność odbioru&lt;/h5&gt; &lt;p&gt;&lt;em&gt;Kolejność odbioru&lt;/em&gt; to kolejność, którą będziesz przenosić z jednego %1$s do drugiego i jest wybierana przez wybranie jednego z 16 przycisków opcji, które zapewniają opcje. Jest to istotne tylko w &lt;strong&gt;trybie punktacji ścieżki&lt;/strong&gt;. Kolejność odbioru składa się z trzech kwestii:&lt;/p&gt; &lt;p&gt;1. Pochodzenie - róg pola, w którym można rozpocząć zdobywanie punktów. To zależy od tego, który narożnik jest wybrany np. lewy dolny;&lt;br /&gt; 2. Kierunek - jaki kierunek zostanie podjęty od początku, np. od lewej do prawej od lewego dolnego początku; i&lt;br /&gt; 3. Ścieżka - Wybierz serpentynową lub prostą ścieżkę.&lt;/p&gt; &lt;p&gt;Domyślną opcją kolejności odbioru jest serpentyn, od lewej do prawej od lewej dolnej. Domyślne ustawienia można zmienić w &lt;strong&gt;Ustawieniach&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;a name=Scoring-View&gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;Punktacja Widok&lt;/h5&gt; &lt;p&gt;Widoki punktacji zmieniają sposób, w jaki zdobywasz dane.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tryb punktacji arkusza kalkulacyjnego&lt;/strong&gt; to tradycyjny widok arkusza kalkulacyjnego z dodatkowymi funkcjami;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tryb punktacji ścieżki&lt;/strong&gt; jest najlepszym wyborem dla większości użytkowników i umożliwia łatwą nawigację między %1$s; a&lt;/li&gt; &lt;li&gt;&lt;strong&gt;trybem punktacji pola&lt;/strong&gt;, który reprezentuje pole z perspektywy odgórnej.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Domyślny tryb punktacji można również ustawić w &lt;strong&gt;Ustawieniach&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Widok pola&lt;/strong&gt; jest również dostępny w &lt;strong&gt;trybie punktacji arkusza kalkulacyjnego i trybie&lt;/strong&gt; &lt;strong&gt;punktacji ścieżki&lt;/strong&gt;, ale nie jest to główna metoda nawigacji i punktacji. &lt;strong&gt;Tryb punktacji w terenie&lt;/strong&gt; zawiera również arkusz kalkulacyjny, taki jak w &lt;strong&gt;trybie punktacji arkusza kalkulacyjnego&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;a name= %1$s -Per-Group&gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;%1$s Na grupę&lt;/h5&gt; &lt;p&gt;Ile %1$s do zdobycia punktów w tym samym czasie, np. Zdobycie każdego %1$s w lewo i w prawo podczas spaceru wzdłuż pola, to dwa %1$s.&lt;/p&gt; &lt;p&gt;&lt;a name=Lock-Scored-Traits&gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;Zablokuj cechy punktowane&lt;/h5&gt; &lt;p&gt;Wybierz &lt;strong&gt;pole wyboru Zablokuj zdobyte cechy&lt;/strong&gt;, aby zapobiec przypadkowemu nadpisaniu cech, które zostały już zdobyte. Pomiary można nadal zmieniać, ale pojawi się komunikat ostrzegawczy.&lt;/p&gt; &lt;p&gt;&lt;a name=High-Outside-Visibility&gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;Wysoka widoczność zewnętrzna&lt;/h5&gt; &lt;p&gt;Określi, czy punktacja jest wykonywana w trybie ciemnym czy jasnym. Zaznacz pole wyboru, aby upewnić się, że punktacja jest w trybie wysokiej widoczności (światło) lub odznacz ją, aby uzyskać wynik w trybie ciemnym.&lt;/p&gt;</string>
     <string name="ctx_help_manage_traits">&lt;p&gt; Ekran próbny &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; wyświetla wszystkie wersje próbne, które są aktualnie załadowane do KDSmart. &lt;/p&gt; &lt;p&gt; Aby wyświetlić szczegóły cechy, wybierz cechę za pomocą krótkiego naciśnięcia. To przeniesie Cię do ekranu szczegółów cechy &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Jeśli cecha jest podświetlona, możesz wykonać następujące czynności wraz z ogólnymi czynnościami w menu &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Edytuj cechę &lt;/strong&gt; &amp;nbsp; - Otwiera to &amp;nbsp; &lt;strong&gt; Ekran edycji cech &lt;/strong&gt; &amp;nbsp; dla każdej podświetlonej cechy; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Dodaj cechę &lt;/strong&gt; &amp;nbsp; - Otwiera &amp;nbsp; &lt;strong&gt; Dodaj ekran cechy &lt;/strong&gt; &amp;nbsp; &lt;/li&gt; &lt;li&gt; &lt;li&gt; &lt;strong&gt; Importuj z &lt;/strong&gt; &amp;nbsp; - Opcje importowania cech z urządzenia lub z KDXplore za pomocą KDXChange; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Udostępnij &lt;/strong&gt; &amp;nbsp; - Opcje udostępniania wyróżnionej cechy za pomocą systemu Android Storage Access Framework, w tym poczty e-mail, Bluetooth lub dowolnej usługi udostępniania plików zainstalowanej na urządzeniu; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Eksportuj do &lt;/strong&gt; &amp;nbsp; - Opcje eksportu dowolnej podświetlonej cechy do eksportowania plików do urządzenia; [X110X] 7X] &lt;li&gt; &lt;strong&gt; Usuń &lt;/strong&gt; &amp;nbsp; - Opcje usuwania wyróżnionej cechy lub usunięcia jej z pakietu cech; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Kursywa dla chronionego &lt;/strong&gt; &amp;nbsp; - Zaznacz pole wyboru, aby upewnić się, że tekst chronionych cech jest kursywą ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Rozmiar tekstu klawiatury numerycznej &lt;/strong&gt; &amp;nbsp; - Opcje rozmiaru tekstu klawiatury w &amp;nbsp; &lt;strong&gt; Ekran punktacji &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Skaner włączony &lt;/strong&gt;] &amp;nbsp; - Otwiera okno &amp;nbsp; &lt;strong&gt; sparowanych urządzeń &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Odśwież listę &lt;/strong&gt; &amp;nbsp; - Odświeża listę cech; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Bluetooth On/Off &lt;/strong&gt; &amp;nbsp; - Włącza lub wyłącza urządzenie Bluetooth; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Sortuj... &lt;/strong&gt; &amp;nbsp; - Opcje sortowania cech; i &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Pomoc &lt;/strong&gt; &amp;nbsp; - Otwiera to strona pomocy. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Użyj długiego naciśnięcia jednej lub kilku cech, aby wybrać je do dalszych działań. Zauważ, że jednocześnie można wybrać więcej niż jedną cechę. Dodatkowe działania, które może wyświetlić wybór, to: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Zaznacz/Odznacz wszystko &lt;/strong&gt; &amp;nbsp; - Wybiera lub odznacza wszystkie cechy; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Udostępnij &lt;/strong&gt; &lt;/strong&gt; [X22202X]] - Opcje udostępniania wyróżnionej cechy w systemie Android Storage Access Framework, w tym poczta e-mail, Bluetooth lub dowolna usługa udostępniania plików zainstalowana na urządzeniu; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Eksportuj do &lt;/strong&gt; &amp;nbsp; - Opcje eksportu dowolnej podświetlonej cechy eksportowania plików do urządzenia; &lt;/li&gt; &lt;li&gt; [X2596X] [X2596X] [X2596X] [X2525X] 00X] Utwórz pakiet cech &lt;/strong&gt; &amp;nbsp; - Otwiera &amp;nbsp; [X 2559X] Dodaj ekran zestawu cech &lt;/strong&gt; &amp;nbsp;, gdzie możesz tworzyć nowe zestawy cech i dodawać wybrane cechy do istniejących; oraz &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Usuń &lt;/strong&gt; &amp;nbsp; - Opcje usuwania wyróżnionego cechy lub usunięcia jej z pakietu cech. &lt;/li&gt; &lt;/ul&gt;</string>
-    <string name="ctx_title_trial_detail">Szczegóły wersji próbnej</string>
+    <string name="ctx_title_trial_detail">Szczegóły próbne</string>
     <string name="ctx_help_trial_detail">&lt;div id=change-14900 class=journal has-notes&gt; &lt;div id=note-7&gt; &lt;div id=journal-14900-notes class=wiki&gt; &lt;p&gt;Ten ekran zawiera informacje o wybranej wersji próbnej. Przesuń palcem w lewo i w prawo, aby wybrać różne wersje próbne na urządzeniu. Wiele z tych samych opcji na &lt;strong&gt;ekranie próbnym&lt;/strong&gt;, w tym udostępnianie i usuwanie, jest nadal dostępnych, w tym udostępnianie i usuwanie wersji próbnej (więcej informacji można znaleźć w pomocy &lt;strong&gt;ekranu próbnego&lt;/strong&gt;).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Przycisk Edytuj&lt;/strong&gt; pozwoli na edycję lub dodanie dowolnych szczegółów wersji próbnej. Wszystkie szczegóły są wymienione poniżej:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Nazwa wersji próbnej&lt;/strong&gt; - Nazwa wybranej wersji próbnej. Tego nie można edytować.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Skrót&lt;/strong&gt; - Skrócona nazwa procesu.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Data sadzenia&lt;/strong&gt; - Data posadzenia okazów.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s &amp; Nazwy osi X/Y - Zmień nazwy&lt;/strong&gt; osi X/Y i nazwy %1$s. Są one domyślnie ustawione na &lt;em&gt;%1$s&lt;/em&gt;, &lt;em&gt;%4$s&lt;/em&gt; i &lt;em&gt;Zakres&lt;/em&gt;, ale mogą być dowolne.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Identyfikacja&lt;/strong&gt; - %1$s opcje identyfikacji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Układ próbny&lt;/strong&gt; — udostępnia opcje ustawiania układu próbnego. Opcje te będą zależeć od rodzaju układu próbnego, jak opisano poniżej: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;%1$s X/Y Trial Layout&lt;/strong&gt; - próba, w której %1$s są oznaczone współrzędnymi x/y (np. %1$s 3,2), która ma następującą opcję: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Pochodzenie&lt;/strong&gt; - Ustawia gdzie zacząć i kierunek, w którym należy zdobyć punkty.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Id Trial Layout&lt;/strong&gt; - Wersja próbna, w której %1$s są oznaczone unikalnymi identyfikatorami (np. %1$s 12), które mają następujące opcje: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Origin&lt;/strong&gt; - Ustawia od czego zacząć i kierunek, w którym należy zdobyć punkty.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Traversal&lt;/strong&gt; - Wzór przechodzenia w ramach każdej próby, np. &lt;em&gt;serpentyn&lt;/em&gt; lub w &lt;em&gt;jedną stronę&lt;/em&gt; (przejście dla próby można wybrać w &lt;strong&gt;Konfiguracji punktacji&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Długość biegu&lt;/strong&gt; - Wskazuje liczbę %1$s występującą przed zmianą identyfikatora początku przechodzenia&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s - początkowy identyfikator&lt;/strong&gt; %1$s.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Block Trial Layout&lt;/strong&gt; - Wersja próbna zawierająca bloki, które są podzbiory sąsiednich %1$s w ramach próby: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Układ bloku&lt;/strong&gt; - Ustawia, gdzie zacząć i kierunek, w którym należy zdobyć punkty w każdym bloku.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Traversal&lt;/strong&gt; - Wzór przechodzenia w obrębie każdego bloku, np. &lt;em&gt;serpentyna&lt;/em&gt; lub w &lt;em&gt;jedną stronę&lt;/em&gt; (przejście dla próby można wybrać w &lt;strong&gt;Konfiguracji punktacji&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Długość biegu&lt;/strong&gt; — wskazuje liczbę %1$s wewnątrz bloku występującą przed zmianą przechodzenia.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Identyfikator bloku pochodzenia&lt;/strong&gt; - początkowy identyfikator bloku.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Początek w bloku&lt;/strong&gt; - Wskazuje początek %1$s we wszystkich blokach.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Typ organizmu&lt;/strong&gt; - domyślnie ustawiony na &lt;em&gt;ogólny&lt;/em&gt;, ale można go zmienić na &lt;em&gt;roślinę&lt;/em&gt;, &lt;em&gt;kukurydzę&lt;/em&gt;, &lt;em&gt;pszenicę&lt;/em&gt; lub &lt;em&gt;DNA&lt;/em&gt;. Te opcje spowodują zmianę ikony używanej dla %2$s (próbki) w wersji próbnej.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Uwaga&lt;/strong&gt; - Dodaj notatkę do wersji próbnej.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cechy&lt;/strong&gt; — wymienia cechy w badaniu i wskazuje, ile wystąpień cech jest dostępnych dla każdej cechy (więcej informacji znajduje się poniżej).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Atrybuty próbne&lt;/strong&gt; - Atrybuty, które mają zastosowanie do całego okresu próbnego.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Typy&lt;/strong&gt; - typy %1$s, które są w wersji próbnej.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Atrybuty&lt;/strong&gt; - Atrybuty mające zastosowanie do %1$s.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Opcja Cechy&lt;/strong&gt; otworzy &lt;strong&gt;ekran wystąpień cech&lt;/strong&gt;. Zawiera listę cech w próbie i wskazuje, ile instancji cech jest dostępnych dla każdej cechy. Pełna gwiazda wskazuje, że cecha zostanie oceniona, pusta gwiazda wskazuje, że cecha zostanie ukryta podczas zdobywania punktów, a w połowie wypełniona gwiazda pokazuje, że istnieje wiele instancji dla cechy, ale przynajmniej jeden z nich zostanie ukryty. Jest to pomocne przy wyborze tylko tych cech, które należy oceniać. Dostępne są następujące opcje ogólne:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Wybierz Nie /Zaznacz wszystko&lt;/strong&gt; - Odznacza lub wybiera wszystkie cechy.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Dodaj cechy&lt;/strong&gt; - dodaje cechy do prób (można to znaleźć, wybierając &lt;strong&gt;przycisk Menu&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Zmień kolejność&lt;/strong&gt; - wybierz kolejność, w której zostaną ocenione cechy (można to znaleźć po wybraniu &lt;strong&gt;przycisku Menu&lt;/strong&gt;).&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Więcej opcji wystąpienia cech dla poszczególnych kabin cech można znaleźć, wybierając &lt;strong&gt;przycisk Instancja cechy&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Dodaj wystąpienie&lt;/strong&gt; - tworzy wystąpienia dla wybranej cechy. Wybierz tę opcję ponownie, aby utworzyć inną instancję.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Przesuń w górę&lt;/strong&gt; - przesuwa cechę w górę w kolejności punktacji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Przesuń w dół&lt;/strong&gt; - przesuwa cechę w dół w kolejności punktacji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Edytuj opis&lt;/strong&gt; - Edytuj opis instancji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Usuń cechę&lt;/strong&gt; - usuwa cechę z wersji próbnej.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div id=change-14911 class=journal has-details&gt;&lt;/div&gt;</string>
     <string name="ctx_help_trial_context">Użyj akcji &lt;i&gt;Eksportuj do,&lt;/i&gt; aby wyeksportować pojedynczą &lt;i&gt;wersję próbną&lt;/i&gt;. &lt;p&gt;Użyj akcji &lt;i&gt;Usuń&lt;/i&gt;, aby usunąć wybrane &lt;i&gt;wersje próbne&lt;/i&gt; z bazy danych. &lt;p&gt;Anuluj, używając zaznaczenia po lewej stronie &lt;i&gt;paska akcji&lt;/i&gt;. &lt;br/&gt;&lt;br/&gt;Zachowaj ostrożność podczas usuwania prób. Jako środek ostrożności upewnij się, że eksport próbny zakończył się pomyślnie, najpierw przeglądając i sprawdzając zawartość wersji próbnej CSV lub przeglądając dane próbne w KDXplore przed usunięciem z KDSmart.</string>
     <string name="ctx_title_manage_tags">Zarządzaj tagami</string>
     <string name="ctx_help_trait_details">&lt;p&gt; Ten ekran zawiera informacje o wybranej cechy. Przesuń palcem w lewo i w prawo, aby wybrać różne cechy urządzenia. Opcje menu z ekranu cech są nadal dostępne, w tym udostępnianie i usuwanie wersji próbnej (więcej informacji można znaleźć w pomocy na ekranie cech). Następujące pola są wymienione dla szczegółów wybranej cechy: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Nazwa cechy &lt;/strong&gt; &amp;nbsp; - Nazwa cechy; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Alias &lt;/strong&gt; &amp;nbsp; - Alias &amp;nbsp; - Alias lub shoras nazwa cechy; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; %1$s/%2$s Przycisk poziomu &lt;/strong&gt; &amp;nbsp; - Ikona po prawej stronie nazwy, która wskazuje, czy cecha znajduje się na poziomie %1$s czy %2$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Opis &lt;/strong&gt; &amp;nbsp; - Pole tekstowe do opisu cechy; &lt;/li&gt; &lt;li&gt; Jednostka cechy** - Jednostka mierzona np. centymetry ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Typ danych &lt;/strong&gt; &amp;nbsp; - Jeden z dostępnych typów danych, którymi są: &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Tekst &lt;/strong&gt; &amp;nbsp; - tekst alfanumeryczny. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Kategoryczny &lt;/strong&gt; &amp;nbsp; - Kategorie takie jak kolory mogą być tworzone. Można również wybrać opcję &amp;nbsp; &lt;em&gt; &lt;em&gt; &lt;/em&gt; &amp;nbsp;, która umożliwia dołączenie wartości tekstowej zamiast kategorii. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Data &lt;/strong&gt; &amp;nbsp; np. 10/08/2019 &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt;, które upłynęły dni &lt;/strong&gt; &amp;nbsp; - Wartość dla dni przed lub po dacie sadzenia próby. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Liczba całkowita &lt;/strong&gt; &amp;nbsp; np. 4 &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; np. 4.4 &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/li&gt; &lt;li&gt; &lt;li&gt; 56X] Test Validation Button &lt;/strong&gt; &amp;nbsp; - Zapewni test dla reguły walidacji, która została ustawiona dla cechy. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="ctx_help_simple_scoring">&lt;p&gt;&lt;strong&gt;Widok arkusza kalkulacyjnego&lt;/strong&gt; to prosta wersja arkusza kalkulacyjnego dostępna w &lt;strong&gt;trybie punktacji arkusza kalkulacyjnego&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Widok arkusza kalkulacyjnego&lt;/strong&gt; to prosty widok w stylu arkusza, podobny do dokumentu CSV lub Excel. Ten widok przedstawia wszystkie cechy %1$s i %2$s w arkuszu kalkulacyjnym, a wybranie komórki pozwoli na wprowadzenie danych. Ma ograniczone funkcje nawigacyjne %1$s i może być wolniejszy w zdobywaniu punktów, ale wielu użytkowników uważa widok za znajomy i łatwy w użyciu. Różni się od &lt;strong&gt;trybu punktacji arkusza kalkulacyjnego&lt;/strong&gt; tym, że ma bardziej ograniczone opcje, jest używany w połączeniu z &lt;strong&gt;trybem punktacji w terenie&lt;/strong&gt;. %1$s dostępne w &lt;strong&gt;widoku arkusza kalkulacyjnego&lt;/strong&gt; to %1$s wybrane w &lt;strong&gt;trybie punktacji pola&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;a name=Scoring&gt;&lt;/a&gt;&lt;/p&gt;&lt;h5&gt;Punktacja&lt;/h5&gt; &lt;p&gt;Aby zdobyć cechę poziomu %1$s lub %2$s, wybierz wartość cechy, aby otworzyć &lt;strong&gt;ekran pomiaru cechy&lt;/strong&gt;. Dane, które należy wprowadzić, będą zależeć od typu danych cechy, np. liczba całkowita, kategoria, dziesiętny itp. Przesuń między &lt;strong&gt;zakładką Cecha&lt;/strong&gt; a &lt;strong&gt;%1$s Info Tab&lt;/strong&gt;, aby zobaczyć więcej informacji o bieżącym %1$s. Następujące przyciski są dostępne do oceny cech:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Przycisk Anuluj&lt;/strong&gt; - Anuluje punktację wybranej cechy. Anulowanie spowoduje powrót użytkownika do&lt;/li&gt; &lt;strong&gt;ekranu punktacji&lt;/strong&gt;; &lt;li&gt;&lt;strong&gt;Przycisk Usuń wartość&lt;/strong&gt; - Usuwa bieżącą wartość i zwraca użytkownika do &lt;strong&gt;ekranu punktacji&lt;/strong&gt;;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Przycisk Brakująca wartość&lt;/strong&gt; - Stosuje wartość &lt;em&gt;Brak&lt;/em&gt; do instancji cechy. Można tego użyć, jeśli brakuje rzeczywistej wartości;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Przycisk Nie dotyczy&lt;/strong&gt; - Stosuje wartość &lt;em&gt;Nie dotyczy&lt;/em&gt; instancji cechy. Można tego użyć, gdy cecha nie musi być oceniana dla wybranego %1$s lub %2$s;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Przycisk Akceptuj wartość&lt;/strong&gt; - akceptuje i stosuje wprowadzoną wartość, na przykład potwierdzającą cechę dziesiętną; i &lt;strong&gt;przycisk daty&lt;/strong&gt; - otwiera &lt;em&gt;selektor dat&lt;/em&gt;, aby można było&lt;/li&gt; &lt;li&gt;wybrać datę (dostępne tylko dla cech, które upłynęły dni).&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;&lt;a name= %1$s %2$s &gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;%1$s/%2$s&lt;/h5&gt; &lt;p&gt;Wraz z wymienionymi cechami, każdy %1$s i %2$s będzie miał &lt;strong&gt;przycisk %1$s/%2$s&lt;/strong&gt;. Następujące opcje są dostępne dla&lt;/p&gt; &lt;strong&gt;przycisku %1$s&lt;/strong&gt;: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Dodaj %2$s&lt;/strong&gt; - Dodaje pojedynczy %2$s do %1$s (%2$s można dodać zbiorczo na &lt;strong&gt;ekranie prób&lt;/strong&gt;); &lt;strong&gt;Edytuj notatkę&lt;/strong&gt; - Otwiera okno, w&lt;/li&gt; &lt;li&gt;którym można zapisać notatki na %1$s; i Dezaktywuj %1$s&lt;/li&gt; &lt;li&gt;&lt;strong&gt;- Dezaktywuje %1$s&lt;/strong&gt; - Dezaktywuje [X2828X] 72X] do punktacji.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Przycisk %2$s&lt;/strong&gt; zawiera następujące opcje:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Edytuj notatkę&lt;/strong&gt; - Otwiera okno, w którym można zapisywać notatki na %1$s; i&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Dezaktywuj %2$s&lt;/strong&gt; - Dezaktywuje %2$s dla punktacji.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Znaczniki przypisane do każdego %1$s lub %2$s będą widoczne pod numerem %1$s lub %2$s jako przycisk, który po naciśnięciu otworzy okno wyświetlające informacje na etykiecie. Więcej znaczników można przypisać do %1$s i %2$s, wybierając odpowiedni &lt;strong&gt;przycisk znacznika&lt;/strong&gt;. Spowoduje to otwarcie &lt;strong&gt;okna znaczników&lt;/strong&gt;, w którym można zastosować wszystkie dostępne tagi, zaznaczając pole wyboru, a następnie &lt;strong&gt;przycisk Potwierdź&lt;/strong&gt;. Wybierz &lt;strong&gt;przycisk Dodaj&lt;/strong&gt;, aby otworzyć okno, w którym można utworzyć nowy znacznik.&lt;/p&gt; &lt;p&gt;Załączniki dla każdego %1$s i %2$s można również dodać, wybierając &lt;strong&gt;przycisk załącznika&lt;/strong&gt;, aby otworzyć &lt;strong&gt;ekran załączników&lt;/strong&gt;. Zarówno załączniki audio, jak i graficzne mogą być pobierane, przeglądane i usuwane, jeśli to konieczne.&lt;/p&gt; &lt;p&gt;&lt;a name=Menu&gt;&lt;/a&gt;&lt;/p&gt;&lt;h5&gt;Menu&lt;/h5&gt; &lt;p&gt;Dostępne są następujące opcje menu umożliwiające skonfigurowanie punktacji w &lt;strong&gt;widoku arkusza kalkulacyjnego&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Dostosuj szerokość kolumny&lt;/strong&gt; - Otwiera suwak umożliwiający dostosowanie szerokości kolumn;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Rozmiar tekstu&lt;/strong&gt; - Zapewnia opcje rozmiaru tekstu dla cech w pierwszym rzędzie arkusza kalkulacyjnego; oraz&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Pokaż/ukryj wszystko %2$s&lt;/strong&gt; - Rozwiń/odejmuje %1$s, aby pokazać/ukryć %2$s.&lt;/li&gt;&lt;/ul&gt;</string>
-    <string name="ctx_title_add_tag">Dodawanie znaczników</string>
+    <string name="ctx_title_add_tag">Dodawanie tagów</string>
     <string name="ctx_help_add_tag">&lt;p&gt; Ekran Utwórz znacznik umożliwia użytkownikom tworzenie nowego tagu w KDSmart. Do tworzenia znacznika dostępne są następujące opcje: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Etykieta &lt;/strong&gt; &amp;nbsp; - Etykieta/nazwa znacznika. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Opis &lt;/strong&gt; &amp;nbsp; - Opis tagu. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Po wybraniu wszystkich opcji wybierz &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp;, aby utworzyć znacznik lub &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp;, aby anulować tworzenie znacznika. &lt;/p&gt;</string>
     <string name="ctx_title_trait_edit">Edycja cech</string>
     <string name="ctx_title_trait_add">Dodawanie cech</string>
@@ -425,7 +425,7 @@
     <string name="msg_range_check_value_invalid_number">Nieprawidłowy numer</string>
     <string name="title_notification_direction_change">Zmieniono sekcję spaceru</string>
     <string name="title_import_as_trial_planting_date">Data próbnego sadzenia</string>
-    <string name="title_import_as_trial_name">Nazwa wersji próbnej</string>
+    <string name="title_import_as_trial_name">Nazwa Próbna</string>
     <string name="title_import_as_trial_acronym">Alias próbny</string>
     <string name="title_import_as_trial_x_column_name">Trial %3$s Nazwa</string>
     <string name="title_import_as_trial_cell_name">Trial %3$s Nazwa</string>
@@ -492,25 +492,25 @@
     <string name="msg_import_trial_sample_counts_colon">Liczy się pomiar próbki:</string>
     <plurals name="msg_imported_n_plots">
         <item quantity="one">%2$d %1$s importowane</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%2$d %1$s importowane</item>
         <item quantity="other">%2$d %1$s importowane</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
         <item quantity="one">%2$d %1$s Pomiar próbki</item>
         <item quantity="few"></item>
-        <item quantity="many">%2$d %1$s Pomiary próbek</item>
-        <item quantity="other">%2$d %1$s Pomiary próbek</item>
+        <item quantity="many">%2$d %1$s Pomiar próbki</item>
+        <item quantity="other">%2$d %1$s Pomiar próbki</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
         <item quantity="one">%1$d %2$s Pomiar</item>
         <item quantity="few"></item>
-        <item quantity="many">%1$d %2$s Pomiary</item>
-        <item quantity="other">%1$d %2$s Pomiary</item>
+        <item quantity="many">%1$d %2$s Pomiar</item>
+        <item quantity="other">%1$d %2$s Pomiar</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
         <item quantity="one">Dodano %d Nowe Cechy</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">Dodano %d Nowe Cechy</item>
         <item quantity="other">Dodano %d Nowe Cechy</item>
     </plurals>
@@ -540,7 +540,7 @@
     <string name="pref_orgtype_default_value" translatable="false">RODZAJOWY</string>
     <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
-    <string name="pref_title_organism_type">Typ organizmu</string>
+    <string name="pref_title_organism_type">Rodzaj organizmu</string>
     <string name="pref_desc_organism_type">Wybierz typ organizmu</string>
     <string name="msg_organism_type_generic">Ogólny</string>
     <string name="msg_organism_type_plant">Roślina</string>
@@ -698,7 +698,7 @@
     <string name="msg_l1chk_invalid_date">Nieprawidłowa data</string>
     <string name="msg_l1chk_invalid_integer">Nieprawidłowa liczba całkowita</string>
     <string name="msg_valrule_expression_no_limit">-bez limitu-</string>
-    <string name="title_help_prefix_privacy_policy">Polityka Prywatności</string>
+    <string name="title_help_prefix_privacy_policy">Polityka prywatności</string>
     <string name="title_help_prefix_online_documents">Dokumenty online:</string>
     <string name="msg_help_choose_item_for_details">Wybierz element poniżej, aby uzyskać szczegółowe informacje</string>
     <string name="msg_help_no_details_available">Brak dostępnych szczegółów</string>
@@ -977,7 +977,7 @@
     <string name="msg_retry_scoring_block_trial">Ponów próbę blokowania punktacji</string>
     <string name="msg_fixing_block_trials">Naprawianie prób blokowych</string>
     <string name="prompt_choose_blocks_in_trial">Wybierz bloki</string>
-    <string name="prompt_choose_tag_bundle">Wybierz pakiet tagów</string>
+    <string name="prompt_choose_tag_bundle">Wybierz pakiet znaczników</string>
     <string name="msg_number_of_plots"># z %1$s</string>
     <string name="msg_block_number">Blok #</string>
     <string name="msg_use_for_scoring">Blok punktów\?</string>
@@ -1126,7 +1126,7 @@
     <string name="title_knowledge_discovery">System wykrywania i dostarczania wiedzy</string>
     <string name="msg_kddart_url_section">Nic tu nie</string>
     <string name="msg_username">Nazwa Użytkownika</string>
-    <string name="msg_login">Logowanie</string>
+    <string name="msg_login">Zaloguj</string>
     <string name="msg_invalid_username_and_password">Nieprawidłowa nazwa użytkownika lub hasło.</string>
     <string name="msg_cant_login"><u> Nie możesz się zalogować\? </u></string>
     <string name="msg_username_cant_be_left_empty">Nazwa użytkownika nie może być pusta</string>
@@ -1167,27 +1167,27 @@
     <string name="title_fetching_trials">Pobieranie prób Kddarta</string>
     <plurals name="title_sub_plots">
         <item quantity="one">%2$s</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%2$s</item>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_delete_trials">
-        <item quantity="one">\@string /title_activity_delete_trial</item>
+        <item quantity="one">\@string /tytuł_aktywności_usuwania_próbny</item>
         <item quantity="few"></item>
-        <item quantity="many">\@string /title_activity_delete_trials</item>
-        <item quantity="other">\@string /title_activity_delete_trials</item>
+        <item quantity="many">\@string /title_activity_delete_trial</item>
+        <item quantity="other">\@string /title_activity_delete_trial</item>
     </plurals>
     <plurals name="title_delete_tags">
-        <item quantity="one">\@string /ctx_title_delete_tag</item>
+        <item quantity="one">\@string /ctx_title_usuw_tag</item>
         <item quantity="few"></item>
-        <item quantity="many">\@string /ctx_title_delete_tags</item>
-        <item quantity="other">\@string /ctx_title_delete_tags</item>
+        <item quantity="many">\@string /ctx_title_delete_tag</item>
+        <item quantity="other">\@string /ctx_title_delete_tag</item>
     </plurals>
     <plurals name="title_delete_traits">
-        <item quantity="one">\@string /title_activity_delete_trait</item>
+        <item quantity="one">\@string /title_activity_delete_cecha</item>
         <item quantity="few"></item>
-        <item quantity="many">\@string /title_activity_delete_traits</item>
-        <item quantity="other">\@string /title_activity_delete_traits</item>
+        <item quantity="many">\@string /title_activity_delete_trait</item>
+        <item quantity="other">\@string /title_activity_delete_trait</item>
     </plurals>
     <string name="msg_csv_import_not_available">Import CSV niedostępny</string>
     <string name="msg_active_database_is_demo">Aktywna baza danych to Demo</string>
@@ -1287,7 +1287,7 @@
     <string name="msg_no_alias">Brak aliasu</string>
     <string name="msg_no_trait_validation_rule">Brak reguły sprawdzania poprawności cech</string>
     <string name="msg_no_unit">Brak jednostki</string>
-    <string name="msg_kdxchange">KDXChange:</string>
+    <string name="msg_kdxchange">KDXchange:</string>
     <string name="msg_discovered">Odkryte</string>
     <string name="msg_rediscovered">Ponownie odkryto</string>
     <string name="msg_search_stopped">Wyszukiwanie zatrzymane</string>
@@ -1540,7 +1540,7 @@
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">Wartość nazwy próbnej jest wymagana dla każdego wykresu podczas używania</string>
     <string name="msg_subplot_count_column_is_required_if_for_all_subplot_is_used">Kolumna Liczba wykresów podrzędnych jest wymagana, jeśli użyto #* (dla wszystkich Poddziałek)</string>
     <string name="msg_eg_trait">np. cecha</string>
-    <string name="msg_trait_for_subplot">Cecha dla sub-fabuły</string>
+    <string name="msg_trait_for_subplot">Cecha dla poddziałki</string>
     <string name="msg_must_be_of">musi być</string>
     <string name="msg_traitnamesubplotnumber_format_eg_anthesis">\\ RaitName #Sub -plotNumber\' format np. Anthesis #1</string>
     <string name="msg_must_be_selected">musi być wybrany.</string>
@@ -1622,7 +1622,7 @@
     <string name="ctx_help_manage_tags">&lt;p&gt; Ekran tagów &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; wyświetla wszystkie znaczniki, które są aktualnie dostępne w KDSmart. &lt;/p&gt; &lt;p&gt; Aby wyświetlić szczegóły znacznika, wybierz znacznik za pomocą krótkiego naciśnięcia. To przeniesie Cię do ekranu szczegółów znacznika &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Jeśli znacznik jest podświetlony, możesz wykonać na nim następujące czynności wraz z ogólnymi czynnościami w menu &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Edytuj znacznik &lt;/strong&gt; &amp;nbsp; - Otwiera to &amp;nbsp; 3X] &lt;strong&gt; Ekran edycji tagów &lt;/strong&gt; &amp;nbsp; dla dowolnego podświetlonego tagu; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Utwórz tag &lt;/strong&gt; &lt;/strong&gt; - Otwiera &amp;nbsp; &lt;strong&gt; Utwórz ekran tagu &lt;/strong&gt; &amp;nbsp;, gdzie można tworzyć nowe tagi; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Importuj z &lt;/strong&gt; &amp;nbsp; - Opcje importowania znaczników z urządzenia lub z KDXplore za pomocą KDXchange; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Udostępnij &lt;/strong&gt; ] &amp;nbsp; - Opcje udostępniania podświetlonego tagu za pomocą systemu Android Storage Access Framework, w tym poczty e-mail, Bluetooth lub dowolnej usługi udostępniania plików zainstalowanej na urządzeniu; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Eksportuj do &lt;/strong&gt; &amp;nbsp; - Opcje eksportu dowolnego podświetlonego tagu do eksportowania plików do urządzenia; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Usuń &lt;/strong&gt; &amp;nbsp; - Opcje usuwania podświetlonego znacznika lub usunięcia go z pakietu znaczników; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Sortuj... &lt;/strong&gt; &amp;nbsp; - Opcje sortowania cech; i &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Pomoc &lt;/strong&gt; &amp;nbsp; - Otwiera tę stronę pomocy. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Użyj długiego naciśnięcia jednego lub więcej znaczników, aby wybrać je do dalszych działań. Zauważ, że jednocześnie można wybrać więcej niż jeden znacznik. Dodatkowe działania, które może wyświetlić wybór, to: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Zaznacz/Odznacz wszystko &lt;/strong&gt; &amp;nbsp; - Wybiera lub odznacza wszystkie tagi; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Udostępnij &lt;/strong&gt; &amp;nbsp; - Udostępnianie opcje dla podświetlonych tagów z systemem Android Storage Access Framework, w tym poczta e-mail, Bluetooth lub dowolna usługa udostępniania plików zainstalowana na urządzeniu; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Eksportuj do &lt;/strong&gt; &amp;nbsp; - Opcje eksportu dowolnej podświetlonej cechy eksportowania plików do urządzenia; &lt;/li&gt; &lt;li&gt; &lt;li&gt; &lt;strong&gt; Utwórz Pakiet tagów &lt;/strong&gt; &amp;nbsp; - Otwiera &amp;nbsp; &lt;strong&gt; Dodaj ekran pakietu znaczników &lt;/strong&gt; &amp;nbsp;, gdzie można tworzyć nowe pakiety znaczników i dodawać wybrane znaczniki do istniejących; oraz &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Usuń &lt;/strong&gt; &amp;nbsp; - Opcje usuwania podświetlonego znacznika lub usunięcia go z pakietu znaczników. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="ctx_title_trait_details">Szczegóły cechy</string>
     <string name="ctx_title_tag_details">Szczegóły tagu</string>
-    <string name="ctx_title_edit_tag">Edytowanie znaczników</string>
+    <string name="ctx_title_edit_tag">Edycja znaczników</string>
     <string name="ctx_help_trait_add_edit">&lt;p&gt; Ekran &amp;nbsp; &lt;strong&gt; Edytuj cechy &lt;/strong&gt; &amp;nbsp; zapewnia opcje edycji istniejących cech. Liczba opcji, które będą dostępne do edycji, zależy od tego, czy dana cecha jest chroniona &amp;nbsp; &lt;em&gt; &amp;nbsp;, czy nie. &lt;/p&gt; &lt;p&gt; Cechą chronioną jest ta, która została zaimportowana z identyfikatorem cechy bazy danych. W przypadku cech chronionych dozwolone są tylko zmiany aliasu cechy i reguły walidacji. Jednak reguła walidacji może być zmieniona tylko dla cech INTEGER i DECIMAL i zmniejszyć dopuszczalny zakres. &lt;/p&gt; &lt;p&gt; W przypadku cech, które nie są chronione, można edytować każdy szczegół z wyjątkiem nazwy cechy. &lt;/p&gt; &lt;p&gt; Po dokonaniu edycji wybierz &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp;, aby zapisać wszystkie wprowadzone zmiany. &lt;/p&gt; &lt;p&gt; Wybierz &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp;, aby anulować zmiany wprowadzone w tej cechy. &lt;/p&gt;</string>
     <string name="ctx_title_field_view">Widok pola</string>
     <string name="title_preparing_ellipsis">Przygotowanie…</string>
@@ -1678,7 +1678,7 @@
     <string name="ctx_bulk_subplot_scoring">Luzem %1$s Punktacja</string>
     <plurals name="title_plots">
         <item quantity="one">%2$s</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%2$s</item>
         <item quantity="other">%2$s</item>
     </plurals>
@@ -1704,4 +1704,82 @@
     <string name="msg_plot_count">Liczba działek</string>
     <string name="msg_mic_access_is_needed_to_record_audio">Dostęp do mikrofonu jest potrzebny do nagrywania dźwięku</string>
     <string name="msg_mic_permission_not_available_fmt_2">Uprawnienie MIC nie jest dostępne</string>
+    <string name="msg_import_your_old_database">Importuj bazę danych</string>
+    <string name="msg_attribute_or_trait">Atrybut lub cecha</string>
+    <string name="msg_block_layout">Układ bloku</string>
+    <string name="msg_cancel">Anuluj</string>
+    <string name="msg_choices">Wybory</string>
+    <string name="msg_clear">Wyczyść</string>
+    <string name="msg_column">Kolumna</string>
+    <string name="msg_column_heading">Nagłówek kolumny</string>
+    <string name="msg_dates_in_iso_format">Daty w formacie ISO-8601</string>
+    <string name="msg_description">Opis</string>
+    <string name="msg_details_of_traits_to_be_deleted">Szczegóły cech, które mają zostać usunięte</string>
+    <string name="msg_details_of_traits_to_be_retained">Szczegóły cech, które należy zachować</string>
+    <string name="msg_device_and_operator">Urządzenie i operator</string>
+    <string name="msg_elapsed_days">Dni, które upłynęły</string>
+    <string name="msg_entities_selected">Wybrane podmioty</string>
+    <string name="msg_exit_scoring">Wyjdź z punktacji</string>
+    <string name="msg_export_options">Opcje eksportu:</string>
+    <string name="msg_export_to">Eksportuj do</string>
+    <string name="msg_include_source_database_id">Dołącz identyfikator bazy danych źródłowej</string>
+    <string name="msg_kdsx_server">Serwer KDS2x</string>
+    <string name="msg_kdxchange_servers">Serwery KDxChange</string>
+    <string name="msg_limit">Limit:</string>
+    <string name="msg_max">Maks</string>
+    <string name="msg_min">Min</string>
+    <string name="msg_more_options">Więcej opcji</string>
+    <string name="msg_n_instances">n instancji</string>
+    <string name="msg_no_active_trial">Brak aktywnej wersji próbnej</string>
+    <string name="msg_no_values">brak wartości</string>
+    <string name="msg_plot_attributes">Atrybuty wykresu</string>
+    <string name="msg_progress_messages">komunikaty o postępach</string>
+    <string name="msg_protected_trait">(Cecha chroniona)</string>
+    <string name="msg_rangerow">Zakres/rząd</string>
+    <string name="msg_row">Wiersz</string>
+    <string name="msg_save">Zapisać</string>
+    <string name="msg_save_button">Przycisk Zapisz</string>
+    <string name="msg_section">Sekcja</string>
+    <string name="msg_select_values">Wybierz wartości</string>
+    <string name="msg_start_export">Rozpocznij eksport</string>
+    <string name="msg_subtitle">Podtytuł</string>
+    <string name="msg_tags">Tagi</string>
+    <string name="msg_trait_level">Poziom cechy</string>
+    <string name="msg_trait_name">Nazwa cechy</string>
+    <string name="msg_traits">Cechy</string>
+    <string name="msg_traits_selected">Wybrane cechy</string>
+    <string name="msg_traitvalidationrule">reguła walidacji cech</string>
+    <string name="msg_trial_name">Nazwa Próbna</string>
+    <string name="msg_trials_to_export">Próby do eksportu</string>
+    <string name="msg_use_plotid">Użyj PlotID</string>
+    <string name="warning_moving_old_data">Postępuj ostrożnie!
+\n
+\nZamierzasz skopiować dane ze starego pliku bazy danych, do bazy danych %1$s.
+\n
+\nWszystkie Twoje aktualne dane zostaną utracone.</string>
+    <string name="restore_old_data">Przywróć stare dane</string>
+    <string name="title_error_importing">Błąd importu</string>
+    <string name="title_success_importing">Importowanie pomyślnie</string>
+    <string name="msg_could_not_import_data">Nie mogliśmy przenieść danych ze starego pliku bazy danych.
+\nDla bazy danych %1$s potrzebujemy nazwy pliku %2$s, aby pomyślnie zaimportować</string>
+    <string name="msg_import_data">Importowanie starego pliku bazy danych zakończyło się sukcesem.</string>
+    <string name="title_migration">Informujemy, że polityka Google Storage została zaktualizowana w celu zmiany sposobu, w jaki aplikacje Sklepu Play przechowują dane na urządzeniach. Zmiany te oznaczają, że będziesz musiał przenieść dane KDSmart do nowej lokalizacji na urządzeniu.</string>
+    <string name="warning_migration_text">Ostrzeżenie: Uruchamianie KDSmart v3.3.0 Nie usuwaj KDSmart ze swojego urządzenia, bo utracisz dane!</string>
+    <string name="locate_database_file"><b> 1. </b> Znajdź plik bazy danych na swoim urządzeniu.
+\n
+\n- Jeśli chcesz przeprowadzić migrację bazy danych Demo, będzie ona zlokalizowana pod adresem KDSmart &gt; Demo_Databse &gt; DemoDB.sqlite
+\n- Jeśli chcesz przeprowadzić migrację bazy produkcyjnej, będzie ona zlokalizowana w KDSmart &gt; Prod_Database &gt; KDSDB.sqlite</string>
+    <string name="update_kdsmart_to_latest_version"><b> 2. </b> Zaktualizuj KDSmart do najnowszej wersji, jeśli jeszcze tego nie zrobiłeś. Najnowsza aktualizacja zawiera funkcję Import.
+\nAby upewnić się, że korzystasz z najnowszej wersji, sprawdź numer wersji na górze ekranu głównego z napisem <b> 3.3.0 </b></string>
+    <string name="ensure_correct_database"><b> 3. </b> Otwórz KDSmart i upewnij się, że korzystasz z prawidłowej aktywnej bazy danych. - Jeśli importujesz bazę danych demonstracyjnych, jest to domyślna i nie będziesz musiał nic robić. - Jeśli importujesz bazę danych produkcyjnych, przejdź do <b> Settings </b> i wybierz opcję <b> Active Database </b>, aby wybrać bazę danych produkcyjnych.</string>
+    <string name="go_to_manage_devices"><b> 4. </b> Następnie przejdź do ekranu <b> Zarządzaj urządzeniami </b>.</string>
+    <string name="import_database_button_text"><b> 5. </b> Wybierz kartę <b> Baza danych </b>, a następnie przycisk <b> Importuj swoją bazę danych </b>.</string>
+    <string name="locate_database_file_as_point_1"><b> 6. </b> Znajdź plik bazy danych na swoim urządzeniu (jak w kroku 1) i wybierz go, aby zaimportować bazę danych. Powinieneś zobaczyć komunikat z napisem „Import pomyślnie”.</string>
+    <string name="import_error_message"><b> 7. </b> Jeśli zobaczysz błąd importu, upewnij się, że wybrałeś właściwy plik bazy danych i znajdujesz się we właściwej aktywnej bazie danych. Spróbuj ponownie, a jeśli masz jakieś dalsze problemy, nie wahaj się skontaktować z nami pod adresem <b> kdsmart@diversityarrays.com </b></string>
+    <string name="data_migration">Migracja danych</string>
+    <string name="title_image_info">Obraz migracji</string>
+    <string name="migration_steps"><b> Kroki migracji: </b></string>
+    <string name="migration_link">Film przedstawiający proces migracji można znaleźć tutaj: <a href="https://youtu.be/KGaRiKsqlWg"> Wideo migracji </a></string>
+    <string name="msg_all_bundles">Wszystkie pakiety</string>
+    <string name="msg_value">-wartość-</string>
 </resources>
