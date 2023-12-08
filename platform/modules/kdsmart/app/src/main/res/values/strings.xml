@@ -430,7 +430,7 @@
 
     <string name="pref_use_gps_location_for_scoring">Use Location for Scoring</string>
 
-    <string name="pref_autoscoring_options">Auto-Advance Options</string>
+    <string name="pref_autoscoring_options">Auto-advance Options</string>
 
     <string name="pref_use_gps">Check to use location for scoring</string>
 
@@ -508,7 +508,7 @@
     <string name="msg_hdg_add_edit_tag_label">Label</string>
     <string name="msg_hdg_add_edit_tag_desciption">Description</string>
 
-    <string name="prompt_action_toggle_auto_advance">Auto Adv</string>
+    <string name="prompt_action_toggle_auto_advance">Auto-advance</string>
     <string name="prompt_auto_advance_on">Auto-advance is ON\nTouch again to turn it OFF</string>
     <string name="prompt_auto_advance_off">Auto-advance is OFF\nTouch again to turn it ON</string>
     <string name="msg_btn_goto_plot">\u2713</string>
@@ -810,7 +810,7 @@
 <li><strong>Origin</strong>&nbsp;- Sets where to start and the direction to score in.</li>
 </ul>
 </li>
-<li><strong>%1$s Id Trial Layout</strong>&nbsp;- A trial where the %1$s are labelled by unique Id\'s (e.g. %1$s 12) which has the following options:
+<li><strong>%1$s ID Trial Layout</strong>&nbsp;- A trial where the %1$s are labelled by unique Id\'s (e.g. %1$s 12) which has the following options:
 <ul>
 <li><strong>Origin</strong>&nbsp;- Sets where to start and the direction to score in.</li>
 <li><strong>Traversal</strong>&nbsp;- Traversal pattern within each trial e.g&nbsp;<em>serpentine</em>&nbsp;or&nbsp;<em>one way</em>&nbsp;(traversal for the trial can be chosen in&nbsp;<strong>Scoring Configuration</strong>).</li>
@@ -1462,8 +1462,8 @@ and a formula for conversion is:
     <string name="msg_hint_trait_alias">-No alias defined-</string>
     <string name="msg_hint_enter_trait_alias">Enter alias</string>
 
-    <string name="prompt_kdxchange_started">Kdxchange Server Started</string>
-    <string name="prompt_kdxchange_stopped">Kdxchange Server Stopped</string>
+    <string name="prompt_kdxchange_started">KDXchange Server Started</string>
+    <string name="prompt_kdxchange_stopped">KDXchange Server Stopped</string>
     <string name="msg_value_out_of_range">Value out of range</string>
 
     <!--<string name="old_trait_dialogs">Old Trait Dialogs</string>-->
@@ -1568,9 +1568,9 @@ and a formula for conversion is:
     <string name="title_desc_tns_2underbar_number">Trait__123</string>
     <string name="title_desc_tns_2underbar_number_brief">__123</string>
 
-    <string name="title_desc_multi_trial_import">Multi Trial Import</string>
-    <string name="title_desc_multi_trial_scoring">Multi Trial Scoring</string>
-    <string name="msg_multi_scoring_are_you_sure">Use these trials in Multi Trial Scoring?</string>
+    <string name="title_desc_multi_trial_import">Multi-trial Import</string>
+    <string name="title_desc_multi_trial_scoring">Multi-trial Scoring</string>
+    <string name="msg_multi_scoring_are_you_sure">Use these trials in Multi-trial Scoring?</string>
 
 
     <string name="msg_hdg_path_of_import_file">Path of import file</string>
@@ -1620,7 +1620,7 @@ KDXchange server using the "plus" button in the menu.</string>
     <string name="title_unable_to_add_trait">Unable to Add Traits</string>
     <string name="msg_all_traits_already_added">You already have all of the Traits in this Trial</string>
     <string name="msg_prefix_database_error">Database Error:</string>
-    <string name="pref_title_kdxchange_auto_connect">KDXchange Auto-Connect</string>
+    <string name="pref_title_kdxchange_auto_connect">KDXchange Auto-connect</string>
     <string name="pref_description_kdxchange_auto_connect">Automatically connect to server address (if there is only one address)</string>
 
     <string name="title_location_service_disabled">Location Service not enabled</string>
@@ -1632,7 +1632,7 @@ KDXchange server using the "plus" button in the menu.</string>
     <string name="msg_question_do_you_want_to_change">Do you want to change the value?</string>
 
     <string name="pref_title_allow_inactive_trait_edit">Allow Inactive Trait Editing</string>
-    <string name="pref_title_kdxplore_barcodes">Use Kdxplore Barcodes</string>
+    <string name="pref_title_kdxplore_barcodes">Use KDKplore Barcodes</string>
     <string name="pref_title_alphabetical_trait_order_title">Use Alphabetical Traits Order</string>
     <string name="pref_title_alphabetical_trait_order">Use Alphabetical Order of Traits in CSV export</string>
     <string name="pref_desc_allow_inactive_trait_edit">Check to allow changing values or inactive traits</string>
@@ -1749,9 +1749,9 @@ KDXchange server using the "plus" button in the menu.</string>
     <string name="title_choose_how_to_identify_plots">Choose How to Identify %1$s</string>
     <string name="title_start_scoring">Start Scoring</string>
     <string name="title_export_to_csv">Export to CSV</string>
-    <string name="hdg_column_number">Col#</string>
+    <string name="hdg_column_number">Column #</string>
     <string name="hdg_csv_heading">CSV Heading</string>
-    <string name="hdg_data_row_1">Data Row#1</string>
+    <string name="hdg_data_row_1">Data Row #1</string>
     <string name="hdg_import_as">Import As</string>
     <string name="msg_no_headings_found">No Headings Found</string>
     <string name="msg_unable_to_restart">Can\'t Restart Import</string>
@@ -1940,8 +1940,8 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_fix_trial">Database Integrity Check</string>
     <string name="msg_check_database_integrity">
         Checking trial for errors.\nThis will take a few minutes.\nPlease don\'t exit the application</string>
-    <string name="msg_db_check_completed">Db Check Completed</string>
-    <string name="msg_couldnot_complete_db_check">Could not complete db check</string>
+    <string name="msg_db_check_completed">Database Check Completed</string>
+    <string name="msg_couldnot_complete_db_check">Could not complete database check</string>
     <string name="msg_couldnot_complete_trait_addition">"Could not finish adding traits"</string>
     <string name="msg_no_traits_to_add">No traits selected to add</string>
     <string name="msg_file_or_folder_empty">File Or Folder is empty</string>
@@ -1977,7 +1977,7 @@ and allow Storage permission. <br><\br></p>]]>
 <p>Select the&nbsp;<strong>\u2718</strong>&nbsp;to cancel the removal of the trial/s from the bundle.</p>
 <p>Please note that removing a trial from a bundle does not delete the trial from the device.</p>]]></string>
     <string name="title_add_trial_bundles">Add Trial Bundle</string>
-    <string name="errmsg_select_trials_from_one_trial_bundle">Please select trials from one Trial Bundle for Multi Scoring</string>
+    <string name="errmsg_select_trials_from_one_trial_bundle">Please select trials from one Trial Bundle for Multi-scoring</string>
     <string name="errmsg_multi_trial_scoring_coming_soon">Multi Trial Scoring is coming soon</string>
     <string name="errmsg_tag_with_name_already_exists">Tag with the name already exists</string>
     <string name="msg_action_camera_barcode">Scan Barcode</string>
@@ -2032,7 +2032,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_device_version_number_lollipop_and_above">Camera barcode scanning is available above Android Lollipop</string>
     <string name="msg_barcodes_were_scanned">Barcodes were scanned</string>
     <string name="msg_no_barcodes_detected">No barcodes detected</string>
-    <string name="msg_no_barcode_match">Barcode has no information. Unselect the Use Kdxplore Barcodes option in settings if you are not using KDXplore.</string>
+    <string name="msg_no_barcode_match">Barcode has no information. Unselect the Use KDXplore Barcodes option in settings if you are not using KDXplore.</string>
     <string name="msg_sample_data_exists_for_trait">Sample data exists for this Trait Instance, can not remove</string>
 
     <string name="msg_fix_block_trials">Update Block Trials</string>
@@ -2046,7 +2046,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_use_for_scoring">Score block?</string>
     <string name="msg_use_other">Enable Other</string>
     <string name="msg_word_for_other">Choice value: </string>
-    <string name="msg_other_needs_at_least_one_more_item">At least one more item is needed if using Cat Other extension</string>
+    <string name="msg_other_needs_at_least_one_more_item">At least one more item is needed if using Categotical Other extension</string>
     <string name="msg_other_needs_a_name">Enter a name for other to use for scoring</string>
     <string name="msg_needs_at_least_two_item">At least two items are needed for categorical traits</string>
     <string name="msg_enter_value_for_other">Enter value for </string>
@@ -2081,7 +2081,7 @@ and allow Storage permission. <br><\br></p>]]>
 
     <string name="msg_btn_switch_GPS_on">Switch it on in the settings or menu options</string>
     <string name="msg_gps_off">Location is turned off</string>
-    <string name="msg_please_update_kdsmart_from_playstore">Please update KDSmart from playstore</string>
+    <string name="msg_please_update_kdsmart_from_playstore">Please update KDSmart from Playstore</string>
     <string name="msg_copy_expires_soon">KDSmart expires soon</string>
     <string name="msg_days_left_before_expiry">Days left before KDSmart expires</string>
     <string name="pref_title_prefer_location_on">Location on When Scoring</string>
@@ -2194,11 +2194,11 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="errmsg_number_of_plots_new_trial_error">At least one %1$s is needed</string>
 
     <string name="errmsg_more_than_ten_thousand">More than 10000 %1$s are not allowed</string>
-    <string name="errmsg_first_plot_must_be_greater_than_zero">First %1$s id must be greater than 0</string>
+    <string name="errmsg_first_plot_must_be_greater_than_zero">First %1$s ID must be greater than 0</string>
     <string name="msg_select_minutes">Select min</string>
     <string name="msg_select_dates">Select dates</string>
     <string name="title_longer_range">Calendar</string>
-    <string name="msg_pick_number_of_minutes">No of minutes</string>
+    <string name="msg_pick_number_of_minutes">Number of minutes</string>
     <string name="msg_detected_multiple_instances">KDSmart has detected multiple instances</string>
     <string name="msg_enter_number_of_sub_plots_in_every_plot">Number of %2$s per %1$s</string>
 
@@ -2246,7 +2246,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="ctx_help_add_trial_bundle"><![CDATA[<p>The&nbsp;<strong>Add Trial Bundle Screen</strong>&nbsp;allows for the creation of new trait bundles or the addition of trials to existing bundles. Ensure that all trials to be added or bundled are selected and then select the&nbsp;<strong>Create Trial Bundle Button</strong>.
     </p> <p>The&nbsp;<strong>Add Trial Bundle Screen</strong>&nbsp;will list all selected tags and all previously created bundles. A text field for the bundle name will also be left blank. To create a new trial bundle, enter a bundle name in the blank field and then select the&nbsp;<strong>Create Button</strong>.</p> <p>To add the selected trials to an existing bundle, either type the name of that bundle in the text field or select a listed bundle with a&nbsp;<em>short press</em>&nbsp;then select the&nbsp;<strong>Add Button</strong>.</p>]]></string>
     <string name="ctx_help_add_trial"><![CDATA[<p>The&nbsp;<strong>Add Trial Screen</strong>&nbsp;allows users to create a new trial within KDSmart. The following options are available for creating a trial:</p> <ul> <li><strong>Trial Name</strong>&nbsp;- The name for the new trial.</li> <li><strong>Trial Type</strong>&nbsp;- Choose between either a&nbsp;<em>%1$s X/Y</em>&nbsp;trial where each %1$s has unique x/y coordinates, or a&nbsp;<em>%1$s Id</em>&nbsp;trial where each %1$s as a unique %1$s Id. The option that is chosen here will determine some of the next options.
-    </li> <li><strong>Number of %3$s</strong>&nbsp;(%1$s X/Y trials) - The number of %1$s %3$s that will be created for the client.</li> <li><strong>Number of %4$s</strong>&nbsp;(%1$s X/Y trials) - The number of %4$s %3$s that will be created for the client.</li> <li><strong>First %1$s Id</strong>&nbsp;(%1$s Id trials) - The Id of the %1$s that should be the first %1$s in the trial.</li> <li><strong>Run Length</strong>&nbsp;(%1$s Id trials) - Indicates the number of %1$s within a trial occurring before changing traversal.
+    </li> <li><strong>Number of %3$s</strong>&nbsp;(%1$s X/Y trials) - The number of %1$s %3$s that will be created for the client.</li> <li><strong>Number of %4$s</strong>&nbsp;(%1$s X/Y trials) - The number of %4$s %3$s that will be created for the client.</li> <li><strong>First %1$s Id</strong>&nbsp;(%1$s ID trials) - The ID of the %1$s that should be the first %1$s in the trial.</li> <li><strong>Run Length</strong>&nbsp;(%1$s ID trials) - Indicates the number of %1$s within a trial occurring before changing traversal.
     </li> <li><strong>Number of %2$s per %1$s</strong>&nbsp;- Creates %2$s for each %1$s in the trial.</li> <li><strong>Trait Instance Style</strong>&nbsp;- Choose either the&nbsp;<em>Trait:123</em>&nbsp;or&nbsp;<em>Trait:_123</em>&nbsp;naming style for trait instances.</li> </ul> <p>Once all options have been chosen, select the&nbsp;<strong>\u2713</strong>&nbsp;to create the trial or the&nbsp;<strong>\u2718</strong>&nbsp;to cancel the trial creation.</p>]]></string>
     <string name="ctx_help_simple_scoring_mode"><![CDATA[<p><strong>Sheet Scoring Mode</strong>&nbsp;is a simple sheet-style view, similar to CSV or Excel document. This mode presents all traits for %1$s and %2$s in a spreadsheet and selecting a cell will allow for entering of data. It has limited %1$s navigation features and can be slower to score, but many users find the view familiar and easy to use. Additionally,&nbsp;<strong>Spreadsheet Scoring Mode</strong>&nbsp;includes&nbsp;<strong>Field View</strong>&nbsp;which displays a top-down view of the field.</p> <p><a name=\"Scoring\"></a></p> <h5>Scoring</h5> <p>To score either a %1$s-level or %2$s level trait, select the trait value to open the&nbsp;<strong>Trait Measurement Screen</strong>. The data that needs to be entered will depend on the trait data type e.g. integer, category, decimal, etc. Swipe between the&nbsp;<strong>Trait Tab</strong>&nbsp;and the&nbsp;<strong>%1$s Info Tab</strong>&nbsp;to see more information about the current %1$s. The following buttons are available to use for scoring traits:</p> <ul> <li><strong>Cancel Button</strong>&nbsp;- Cancels the scoring of the selected trait. Cancelling will return the user to the&nbsp;<strong>Scoring Screen</strong>;</li> <li><strong>Delete Value Button</strong>&nbsp;- Deletes a current value and returns the user to the&nbsp;<strong>Scoring Screen</strong>;</li> <li><strong>Missing Value Button</strong>&nbsp;- Applies the value of&nbsp;<em>Missing</em>&nbsp;to a trait instance. This can be used if the actual value is missing;</li> <li><strong>Not Applicable Button</strong>&nbsp;- Applies the value of&nbsp;<em>Not Applicable</em>&nbsp;to a trait instance. This can be used when the trait does not need to be scored for the selected pl%1$sot or %2$s;</li> <li><strong>Accept Value Button</strong>&nbsp;- Accepts and applies a value that has been entered such as confirming a decimal trait; and</li> <li><strong>Date Button</strong>&nbsp;- Opens a&nbsp;<em>Date Picker</em>&nbsp;so that a date can be chosen (only available for elapsed days traits).</li> </ul> <p><a name=\"%1$s%2$s\"></a></p> <h5>%1$s/%2$s</h5> <p>Along with listed traits, each %1$s and %2$s will have a&nbsp;<strong>%1$s/%2$s Button</strong>. The following options are available for a&nbsp;<strong>%1$s Button</strong>:</p> <ul> <li><strong>Add %2$s</strong>&nbsp;- Adds a single %2$s to the %1$s (%2$s can be bulk added in the&nbsp;<strong>Trials Screen</strong>);</li> <li><strong>Edit Note</strong>&nbsp;- Opens a window where notes on the %1$s can be written; and</li> <li><strong>Deactivate %1$s</strong>&nbsp;- Deactivates the %1$s for scoring.
     </li> </ul> <p>The&nbsp;<strong>%2$s Button</strong>&nbsp;contains the following options:</p> <ul> <li><strong>Edit Note</strong>&nbsp;- Opens a window where notes on the %1$s can be written; and</li> <li><strong>Deactivate %2$s</strong>&nbsp;- Deactivates the %2$s for scoring.</li> </ul> <p>Tags that have been assigned to each %1$s or %2$s will be visible under the %1$s or %2$s number as a button that when pressed will open a window that displays information on the tag. More tags can be assigned to %1$s and %2$s by selecting the respective&nbsp;<strong>Tag Button</strong>. This will open the&nbsp;<strong>Tags Window</strong>&nbsp;where any available tags can be applied by selecting the checkbox and then the&nbsp;<strong>Confirm Button</strong>. Select the&nbsp;<strong>Add Button</strong>&nbsp;to open up a window where a new tag can be created.</p> <p>Attachments for each %1$s and %2$s can also be added by selecting the&nbsp;<strong>Attachment Button</strong>&nbsp;to open up the&nbsp;<strong>Attachments Screen</strong>. Both audio and image attachments can be taken, viewed, and deleted if necessary.</p> <p><a name=\"Menu\"></a></p> <h5>Menu</h5> <p>The following menu options are available to configure scoring in&nbsp;<strong>Spreadsheet Scoring Mode</strong>:</p> <ul> <li><strong>Search</strong>&nbsp;- Opens the&nbsp;<strong>Search Window</strong>;</li> <li><strong>Zoom In/Out</strong>&nbsp;- Zooms in and out of the spreadsheet;</li> <li><strong>Field View</strong>&nbsp;- Opens the trial in&nbsp;<strong>Field View</strong>. More information on&nbsp;<strong>Field View</strong>&nbsp;can be found in the&nbsp;<strong>Field View Help</strong>;</li> <li><strong>Text Size</strong>&nbsp;- Provides text size options for the traits in the first row of the spreadsheet;</li> <li><strong>Adjust Column Width</strong>&nbsp;- Opens a slider to adjust the width of columns;</li> <li><strong>Location ..</strong>&nbsp;- Provides options for recording locations: <ul> <li>GPS - for higher accuracy;</li> <li>Network - lower accuracy; and</li> <li>Do not use location.</li> </ul> </li> <li><strong>Scanner On</strong>&nbsp;- Opens the&nbsp;<strong>Paired Devices Window</strong>;</li> <li><strong>Configure …</strong>&nbsp;- Displays configuration options: <ul> <li>Numeric Keypad Text Size - Options for text size of the keypad in the&nbsp;<strong>Scoring Screen</strong>;</li> <li>Configure %1$s Info - %1$s information text size and display options; and</li> <li>How to View Attachments - Choose an application to view attachments.</li> </ul> </li> <li><strong>Elapsed Days as Count</strong>&nbsp;- Change the display of elapsed days from a date to the number of days since the trial planting date;</li> <li><strong>Offer N Days for Date</strong>&nbsp;- When checked, date traits will be scored by choosing a day that is up to three days out from the planting date. If not checked, date traits are scored with a&nbsp;<em>Date Picker</em>;</li> <li><strong>Lock/Unlock Scored Traits</strong>&nbsp;- Scored traits that are locked will require a confirmation to change the value;</li> <li><strong>Change Screen Orientation</strong>&nbsp;- Changes KDSmart between&nbsp;<strong>Landscape</strong>&nbsp;and&nbsp;<strong>Portrait Orientation</strong>;</li> <li><strong>Choose %1$s Colours</strong>&nbsp;- Provides options to change the %1$s colours;</li> <li><strong>Show/Hide All %2$s</strong>&nbsp;- Expands/subtracts %1$s to show/hide %2$s;</li> <li><strong>Fixed %1$s Info</strong>&nbsp;- Provides options for adding columns to display %1$s information; and</li> <li><strong>Help</strong>&nbsp;- Opens this help page.</li> </ul>]]></string>
@@ -2338,7 +2338,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="title_project_name">Project name</string>
     <string name="title_grouping">Grouping</string>
     <string name="msg_last_successfull_fetch">"Last successful fetch was at "</string>
-    <string name="title_fetching_trials">Fetching Kddart trials</string>
+    <string name="title_fetching_trials">Fetching KDDart trials</string>
 
     <plurals name="title_sub_plots">
         <item quantity="one">%2$s</item>
@@ -2398,7 +2398,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_csv_import_not_available">CSV Import Not Available</string>
     <string name="msg_active_database_is_demo">Active Database is Demo</string>
     <string name="msg_do_you_wish_to_continue_with_the_data_import">Do you wish to continue with the data Import?</string>
-    <string name="msg_it_will_be_removed_on_a_demo_db_reset">(It will be removed on a \'Demo DB Reset\')</string>
+    <string name="msg_it_will_be_removed_on_a_demo_db_reset">(It will be removed on a \'Demo Database Reset\')</string>
     <string name="msg_trials_available_for_scoring"> Trials available for Scoring</string>
     <string name="msg_unexpected_button_id_value">Unexpected button id, value</string>
     <string name="errMsg_database_error">Database Error</string>
@@ -2419,7 +2419,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_you_use_kdxplore_to_activate_lockdown_mode_and_to_set_a"> you use KDXplore to activate Lockdown mode (and to set a</string>
     <string name="msg_passcode_for_deactivation"> passcode for de-activation).</string>
     <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">\n\nWhen the \'locked\' icon is displayed you must use the passcode</string>
-    <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown"> set by KDXplore or connect to KDXplore to let it de-activate Lockdown.</string>
+    <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown"> set by KDXplore or connect to KDXplore to let it deactivate Lockdown.</string>
     <string name="errMsg_database_error_fmt_3">Database Error</string>
     <string name="msg_storage_access_not_available">Storage Access not available</string>
     <string name="msg_test_storage_access">Test storage access</string>
@@ -2476,7 +2476,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_for_plot"> for Plot </string>
     <string name="msg_cant_score_trait">Cant score trait</string>
     <string name="errMsg_database_not_found">Database not found</string>
-    <string name="errMsg_db_error">Db Error</string>
+    <string name="errMsg_db_error">Database Error</string>
     <string name="errMsg_logic_error">Logic Error</string>
     <string name="errMsg_plot_or_specimen_not_found">Plot or Specimen not found</string>
     <string name="msg_showing_all_specimens">Showing all Specimens</string>
@@ -2487,7 +2487,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_no_unit">No Unit</string>
     <string name="msg_kdxchange">KDXchange: </string>
     <string name="msg_discovered">Discovered </string>
-    <string name="msg_rediscovered">Re-discovered </string>
+    <string name="msg_rediscovered">Rediscovered </string>
     <string name="msg_search_stopped">Search stopped</string>
     <string name="msg_cant_connect">Can\'t Connect</string>
     <string name="msg_invalid_response">Invalid Response; </string>
@@ -2496,7 +2496,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_android_version_is">Android Version is </string>
     <string name="msg_stop_searching_first">Stop searching first</string>
     <string name="msg_kdxchange_servers_via">KDXchange Servers via </string>
-    <string name="msg_search_required">Search Required...</string>
+    <string name="msg_search_required">Search Required\u2026</string>
     <string name="action_must_implement_onfragmentinteractionlistener"> must implement OnFragmentInteractionListener</string>
     <string name="msg_connect_to_kdxchange">Connect to KDXchange</string>
     <string name="msg_already_searching">Already searching</string>
@@ -2510,7 +2510,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_kdxchange_service_started">KDXchange Service started</string>
     <string name="msg_kdxchange_service_stopped">KDXchange Service stopped</string>
     <string name="errMsg_error_fmt_2">Error (</string>
-    <string name="msg_connecting_to_kdxplore">Connecting to KDXplore ...</string>
+    <string name="msg_connecting_to_kdxplore">Connecting to KDXplore\u2026</string>
     <string name="errMsg_error_starting_server">Error Starting Server</string>
     <string name="msg_stopping_server">:: stopping server</string>
     <string name="errMsg_error_stopping_server">Error Stopping Server</string>
@@ -2548,7 +2548,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_no_unscored_sample_found_for_trait_with_barcode">No unscored sample found for trait with barcode </string>
     <string name="errMsg_database_error_fmt_9">Database Error </string>
     <string name="errMsg_traits_not_found_in_the_database">Traits not found in the database</string>
-    <string name="msg_please_wait">Please wait...</string>
+    <string name="msg_please_wait">Please wait\u2026</string>
     <string name="errMsg_error_fmt_3">Error</string>
     <string name="msg_waiting_for_location_fix_fmt_2">Waiting for location fix</string>
     <string name="msg_finding_location_fmt_2">Finding location</string>
@@ -2581,12 +2581,12 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_scoring_samples_in_plot">Scoring Samples in Plot </string>
     <string name="msg_saving_sample_failed">Saving sample failed</string>
     <string name="msg_please_save_try_again">Please Save Try Again</string>
-    <string name="msg_skipped_unscored_trait">Skipped un-scored Trait</string>
+    <string name="msg_skipped_unscored_trait">Skipped unscored Trait</string>
     <string name="msg_debug_output_in">Debug output in: </string>
     <string name="msg_no_sample">No Sample</string>
     <string name="errMsg_db_error_fmt_2">Db Error</string>
     <string name="msg_no_previous_sample">No previous Sample</string>
-    <string name="msg_exit_autoadvance">Exit Auto-Advance?</string>
+    <string name="msg_exit_autoadvance">Exit Auto-advance?</string>
     <string name="msg_not_yet_supported">: Not Yet Supported</string>
     <string name="errMsg_internal_error_fmt_2">Internal Error</string>
     <string name="msg_save_tag_details">Save Tag Details?</string>
@@ -2597,11 +2597,11 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="errMsg_delete_tag_bundle_error">Delete Tag Bundle Error</string>
     <string name="msg_tag_bundles_to_delete">Tag Bundles to Delete</string>
     <string name="msg_cannot_delete_all_tags">Cannot Delete All Tags</string>
-    <string name="errMsg_getting_tag_from_tagid_error">Getting Tag from TagId Error</string>
+    <string name="errMsg_getting_tag_from_tagid_error">Getting Tag from Tag ID Error</string>
     <string name="msg_tag_already_in">Tag already in </string>
     <string name="msg_all_tags_already_in">All Tags already in </string>
     <string name="msg_cant_delete">Cant delete</string>
-    <string name="msg_selected_ids_cant_be_deleted">Selected ids cant be deleted</string>
+    <string name="msg_selected_ids_cant_be_deleted">Selected IDs cant be deleted</string>
     <string name="msg_cant_delete_any_selected_tag">Cant delete any selected tag</string>
     <string name="msg_unable_to_finding_tags">Unable to Finding Tags</string>
     <string name="msg_export_bundle_to_kddart">Export Bundle to Kddart</string>
@@ -2610,7 +2610,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_no_item_selected">No Item Selected</string>
     <string name="msg_select_tag_from_a_bundle_other_than_all_tags_bundle">Select tag from a bundle other than All Tags bundle</string>
     <string name="msg_cant_be_imported"> cant be imported</string>
-    <string name="errMsg_retreiving_tag_from_tag_id_error">Retreiving Tag from Tag Id Error</string>
+    <string name="errMsg_retreiving_tag_from_tag_id_error">Retreiving Tag from Tag ID Error</string>
     <string name="msg_cannot_delete_from">Cannot delete from </string>
     <string name="msg_tags_from">Tags from </string>
     <string name="errMsg_remove_tags_from_tag_bundle_error">Remove Tags from Tag Bundle Error</string>
@@ -2618,7 +2618,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_no_details_available">-no details available-</string>
     <string name="msg_getting_trait_from_db_problem">Getting trait from db problem</string>
     <string name="msg_database_problem_fmt_2">Database problem</string>
-    <string name="errMsg_db_error_fmt_3">Db Error</string>
+    <string name="errMsg_db_error_fmt_3">Database Error</string>
     <string name="msg_invalid_definition">Invalid Definition</string>
     <string name="msg_intdec_mismatch">INT/DEC mismatch</string>
     <string name="msgFmt_minimum_must_be_at_least">Minimum must be at least </string>
@@ -2626,7 +2626,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msgFmt_maximum_must_be_at_most">Maximum must be at most </string>
     <string name="msgFmt_maximum_must_be_at_most_fmt_2">Maximum must be at most </string>
     <string name="errMsg_deleting_trait_bundle">Deleting Trait Bundle</string>
-    <string name="errMsg_getting_trait_bundle_from_bundle_id">Getting Trait bundle from Bundle Id</string>
+    <string name="errMsg_getting_trait_bundle_from_bundle_id">Getting Trait bundle from Bundle ID</string>
     <string name="msg_trait_bundles_to_delete">Trait Bundles to Delete</string>
     <string name="msg_cannot_delete_all_traits">Cannot Delete All Traits</string>
     <string name="errMsg_collecting_trait_bundles_error">Collecting Trait Bundles Error</string>
@@ -2681,9 +2681,9 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_trials_were_not_deleted_successfully">Trials were not deleted successfully</string>
     <string name="msg_delete_successful">Delete Successful</string>
     <string name="msg_trials_were_deleted_successfully">Trials were deleted successfully</string>
-    <string name="msg_deleting_trials">Deleting Trials ...</string>
-    <string name="msg_deleting_trial">Deleting Trial ...</string>
-    <string name="msg_attempting_to_delete_items_form_kdsmart">Attempting to delete items form KDSmart</string>
+    <string name="msg_deleting_trials">Deleting Trials\u2026</string>
+    <string name="msg_deleting_trial">Deleting Trial\u2026</string>
+    <string name="msg_attempting_to_delete_items_form_kdsmart">Attempting to delete items from KDSmart</string>
     <string name="errMsg_error_during_export">Error during Export</string>
     <string name="msg_trial_exported">Trial Exported</string>
     <string name="errMsg_export_error_trial">Export Error: Trial \'</string>
@@ -2711,7 +2711,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_no_valid_options_available">No valid options available</string>
     <string name="errMsg_could_not_find_specimens_error_fmt_2">Could not find specimens Error</string>
     <string name="msg_choose_export_option_fmt_2">Choose Export Option</string>
-    <string name="msg_export_to_kddart_fmt_5">Export to Kddart</string>
+    <string name="msg_export_to_kddart_fmt_5">Export to KDDart</string>
     <string name="msg_database_problem_fmt_3">Database problem</string>
     <string name="msg_trial_names_not_available">Trial Names not available</string>
     <string name="msg_export_trial">Export Trial</string>
@@ -2722,17 +2722,17 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_import_from_kddart_fmt_2">Import from KDDart</string>
     <string name="msg_new_trial_name">New Trial Name</string>
     <string name="msg_trial_note_optional">Trial Note (optional)</string>
-    <string name="msg_clearing_sample_data">Clearing Sample Data...</string>
+    <string name="msg_clearing_sample_data">Clearing Sample Data\u2026</string>
     <string name="msg_export_trial_fmt_2">Export Trial</string>
     <string name="msg_no_trial_id">No Trial Id</string>
     <string name="msg_cant_be_imported_fmt_3"> cant be imported</string>
-    <string name="errMsg_cant_find_trial_with_trialid">Cant find trial with TrialId</string>
+    <string name="errMsg_cant_find_trial_with_trialid">Cant find trial with Trial Id</string>
     <string name="msg_trials_from">Trials from </string>
     <string name="errMsg_cant_remove_traits_from_bundle_fmt_2">Cant remove traits from bundle</string>
     <string name="msg_trial_import_in_progress">Trial Import in Progress</string>
     <string name="msg_stop_it_and_exit">Stop it and exit?</string>
     <string name="msg_change_trait_name_style_to">Change trait name style to \n</string>
-    <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">Plot Block is not allowed for Multi Trial Scoring </string>
+    <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">Plot Block is not allowed for Multi-trial Scoring </string>
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">Trial Name value is required for every plot when using </string>
     <string name="msg_subplot_count_column_is_required_if_for_all_subplot_is_used">Sub-Plot Count column is required if #* (for all Sub-Plot) is used</string>
     <string name="msg_eg_trait">e.g. trait </string>
@@ -2784,7 +2784,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_not_yet_supported_fmt_2">: Not Yet Supported</string>
     <string name="msg_database_problem_fmt_4">Database Problem: </string>
     <string name="errMsg_database_error_fmt_16">Database Error</string>
-    <string name="errMsg_no_tags_to_use_for_trialid">No Tags to use for trialId</string>
+    <string name="errMsg_no_tags_to_use_for_trialid">No Tags to use for trial ID</string>
     <string name="errMsg_system_error">System Error</string>
     <string name="errMsg_null_database">Null Database</string>
     <string name="errMsg_internal_android_error">Internal Android Error</string>
@@ -2840,8 +2840,8 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_entities_selected">Entities Selected</string>
     <string name="msg_exit_scoring">Exit Scoring</string>
     <string name="msg_export_options">Export Options:</string>
-    <string name="msg_export_to">Export To:</string>
-    <string name="msg_include_source_database_id">Include Source Database Id</string>
+    <string name="msg_export_to">Export To:</string>\u2026
+    <string name="msg_include_source_database_id">Include Source Database ID</string>
     <string name="msg_kdsx_server">Kds2x Server</string>
     <string name="msg_kdxchange_servers">KDXchange Servers</string>
     <string name="msg_limit">Limit:</string>
@@ -2861,7 +2861,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_section">Section</string>
     <string name="msg_select_values">Select Values</string>
     <string name="msg_start_export">Start Export</string>
-    <string name="msg_subtitle">Sub-title</string>
+    <string name="msg_subtitle">Subtitle</string>
     <string name="msg_tags">Tags</string>
     <string name="msg_trait_level">Trait Level</string>
     <string name="msg_trait_name">Trait Name</string>
@@ -2870,7 +2870,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_traitvalidationrule">trait-validation-rule</string>
     <string name="msg_trial_name">Trial Name</string>
     <string name="msg_trials_to_export">Trials to export</string>
-    <string name="msg_use_plotid">Use PlotId</string>
+    <string name="msg_use_plotid">Use Plot ID</string>
     <string name="msg_value">-value-</string>
 
 </resources>
