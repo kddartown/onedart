@@ -328,17 +328,17 @@
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
         <item quantity="one">%d Instancia de rasgo activa</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d Instancia de rasgo activa</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
         <item quantity="one">%d prueba seleccionada para su eliminación</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d prueba seleccionada para su eliminación</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
         <item quantity="one">%d El rasgo será eliminado</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d El rasgo será eliminado</item>
     </plurals>
     <string name="title_export_all_traits">Exportar todos los rasgos</string>
@@ -346,18 +346,18 @@
     <string name="title_please_confirm_trait_export">Confirme la exportación de características</string>
     <plurals name="msg_export_n_traits">
         <item quantity="one">Característica %d seleccionada para la exportación</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">Característica %d seleccionada para la exportación</item>
     </plurals>
     <plurals name="msg_export_n_trials">
         <item quantity="one">%d prueba seleccionada para exportación</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d prueba seleccionada para exportación</item>
     </plurals>
     <string name="title_export_all_tags">Exportar todas las etiquetas</string>
     <plurals name="msg_export_n_tags">
         <item quantity="one">%d etiqueta Seleccionada para la exportación</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d etiqueta Seleccionada para la exportación</item>
     </plurals>
     <string name="title_activity_scoring_setup">Configurar</string>
@@ -520,12 +520,12 @@
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
         <item quantity="one">%2$d %1$s Medición de muestra</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s Medición de muestra</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
         <item quantity="one">%1$d %2$s Medida</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%1$d %2$s Medida</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
@@ -714,7 +714,7 @@
     <string name="title_inactive_trait">Rasgo inactivo</string>
     <string name="msg_question_do_you_want_to_change">¿Desea cambiar el valor\?</string>
     <string name="pref_title_allow_inactive_trait_edit">Permitir edición de rasgos inactivos</string>
-    <string name="pref_title_kdxplore_barcodes">Usar códigos de barras KDKplore</string>
+    <string name="pref_title_kdxplore_barcodes">Usar códigos de barras KDXplore</string>
     <string name="pref_title_alphabetical_trait_order_title">Usar orden alfabético de rasgos</string>
     <string name="pref_title_alphabetical_trait_order">Usar el orden alfabético de rasgos en la exportación CSV</string>
     <string name="pref_desc_allow_inactive_trait_edit">Comprobar para permitir el cambio de valores o rasgos inactivos</string>
@@ -1221,17 +1221,17 @@
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string /title_activity_eliminar_trial</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">\@string /title_activity_eliminar_trial</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string /ctx_title_delete_tag</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">\@string /ctx_title_delete_tag</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string /title_actividad_delete_trait</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">\@string /title_actividad_delete_trait</item>
     </plurals>
     <string name="msg_checkbox_text">Texto de la casilla de verificación</string>
@@ -1679,7 +1679,7 @@
     <string name="msg_range_check_value_below_minimum">Valor por debajo del mínimo</string>
     <string name="msg_range_check_value_invalid_number">Número no válido</string>
     <string name="msg_help_for_csv_import">Elija \'Importar como \'para cada columna CSV.</string>
-    <string name="title_activity_kdxchange">KDXCambiar</string>
+    <string name="title_activity_kdxchange">KDXchange</string>
     <string name="title_activity_csv_import">Importar CSV de prueba</string>
     <string name="msg_btn_ok_import">Importar</string>
     <string name="msg_error">Error</string>
