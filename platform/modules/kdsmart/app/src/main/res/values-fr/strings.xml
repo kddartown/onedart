@@ -426,7 +426,7 @@
     <string name="msg_trait_level_undecidable">Niveau de trait indécidable, impossible de changer de niveau</string>
     <string name="msg_trait_level_scored">Le trait a été marqué, impossible de changer de niveau</string>
     <string name="msg_help_for_csv_import">Choisissez « Importer sous » pour chaque colonne CSV.</string>
-    <string name="title_activity_kdxchange">Changement de KDX</string>
+    <string name="title_activity_kdxchange">KDXchange</string>
     <string name="title_activity_csv_import">Importer un fichier CSV d\'essai</string>
     <string name="msg_btn_ok_import">Importer</string>
     <string name="msg_btn_continue">Poursuivre</string>
@@ -521,8 +521,8 @@
     <string name="msg_hint_enter_unit_name">Entrez le nom de l\'unité</string>
     <string name="msg_hint_trait_alias">-Aucun alias défini-</string>
     <string name="msg_hint_enter_trait_alias">Entrez un alias</string>
-    <string name="prompt_kdxchange_started">Le serveur KDxchange a démarré</string>
-    <string name="prompt_kdxchange_stopped">Le serveur KDxchange s\'est arrêté</string>
+    <string name="prompt_kdxchange_started">Le serveur KDXchange a démarré</string>
+    <string name="prompt_kdxchange_stopped">Le serveur KDXchange s\'est arrêté</string>
     <string name="msg_value_out_of_range">Valeur hors de la fourchette</string>
     <string name="msg_selected_trait_value">Valeur actuelle</string>
     <string name="title_plot_attributes">%1$s Attributs</string>
@@ -639,7 +639,7 @@
     <string name="title_unable_to_add_trait">Impossible d\'ajouter des caractéristiques</string>
     <string name="msg_all_traits_already_added">Vous possédez déjà tous les attributs de cette version d\'essai</string>
     <string name="msg_prefix_database_error">Erreur de base de données :</string>
-    <string name="pref_title_kdxchange_auto_connect">Connexion automatique à KXchange</string>
+    <string name="pref_title_kdxchange_auto_connect">Connexion automatique à KDXchange</string>
     <string name="pref_description_kdxchange_auto_connect">Connexion automatique à l\'adresse du serveur (s\'il n\'y a qu\'une seule adresse)</string>
     <string name="title_location_service_disabled">Service de localisation non activé</string>
     <string name="msg_switch_on_location">Activez la localisation pour utiliser ce service</string>
@@ -1597,93 +1597,93 @@
     <string name="msg_please_submit_a_problem_report">Veuillez soumettre un rapport de problème</string>
     <string name="errMsg_error_fmt_6">Erreur :</string>
     <plurals name="msg_n_tags_imported">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d balises importées</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d traits importés</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d traits mis à jour</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d Instances de traits actives</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d essais sélectionnés pour suppression</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d Les traits seront supprimés</item>
     </plurals>
     <plurals name="msg_export_n_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d traits sélectionnés pour l\'exportation</item>
     </plurals>
     <plurals name="msg_export_n_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d essais sélectionnés pour l\'exportation</item>
     </plurals>
     <plurals name="msg_export_n_tags">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d balises sélectionnées pour l\'exportation</item>
     </plurals>
     <plurals name="msg_imported_n_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s importé</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s Mesures d\'échantillons</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">Mesures %1$d %2$s</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">Ajout %d de nouveaux traits</item>
     </plurals>
     <plurals name="title_sub_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_delete_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string /title_activity_delete_trials</item>
     </plurals>
     <plurals name="title_delete_tags">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string /ctx_title_supprime_tags</item>
     </plurals>
     <plurals name="title_delete_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string /title_activity_delete_traits</item>
     </plurals>
     <string name="msg_import_your_old_database">Importez votre base de données</string>
