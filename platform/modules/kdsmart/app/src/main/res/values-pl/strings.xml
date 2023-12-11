@@ -316,7 +316,7 @@
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
         <item quantity="one">%d Instancja cecha aktywna</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%d Instancja cecha aktywna</item>
         <item quantity="other">%d Instancja cecha aktywna</item>
     </plurals>
@@ -328,7 +328,7 @@
     </plurals>
     <plurals name="msg_delete_n_traits">
         <item quantity="one">%d Cecha zostanie usunięta</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%d Cecha zostanie usunięta</item>
         <item quantity="other">%d Cecha zostanie usunięta</item>
     </plurals>
@@ -350,7 +350,7 @@
     <string name="title_export_all_tags">Eksportuj wszystkie tagi</string>
     <plurals name="msg_export_n_tags">
         <item quantity="one">%d tag wybrany do eksportu</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%d tag wybrany do eksportu</item>
         <item quantity="other">%d tag wybrany do eksportu</item>
     </plurals>
@@ -563,8 +563,8 @@
     <string name="msg_hint_enter_unit_name">Wprowadź nazwę jednostki</string>
     <string name="msg_hint_trait_alias">-Nie zdefiniowano aliasu-</string>
     <string name="msg_hint_enter_trait_alias">Wprowadź alias</string>
-    <string name="prompt_kdxchange_started">Uruchomiono serwer KDxChange</string>
-    <string name="prompt_kdxchange_stopped">Serwer KDxChange zatrzymany</string>
+    <string name="prompt_kdxchange_started">Uruchomiono serwer KDXchange</string>
+    <string name="prompt_kdxchange_stopped">Serwer KDXchange zatrzymany</string>
     <string name="msg_value_out_of_range">Wartość poza zakresem</string>
     <string name="msg_selected_trait_value">Aktualna wartość</string>
     <string name="title_plot_attributes">%1$s Atrybuty</string>
@@ -688,7 +688,7 @@
     <string name="title_inactive_trait">Cecha nieaktywna</string>
     <string name="msg_question_do_you_want_to_change">Czy chcesz zmienić wartość\?</string>
     <string name="pref_title_allow_inactive_trait_edit">Zezwalaj na nieaktywną edycję cech</string>
-    <string name="pref_title_kdxplore_barcodes">Użyj kodów kreskowych KDKPLore</string>
+    <string name="pref_title_kdxplore_barcodes">Użyj kodów kreskowych KDXplore</string>
     <string name="pref_title_alphabetical_trait_order_title">Użyj kolejności cech alfabetycznych</string>
     <string name="pref_title_alphabetical_trait_order">Używanie alfabetycznej kolejności cech w eksporcie CSV</string>
     <string name="pref_desc_allow_inactive_trait_edit">Zaznacz, aby zezwolić na zmianę wartości lub nieaktywnych cech</string>
@@ -1173,19 +1173,19 @@
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string /tytuł_aktywności_usuwania_próbny</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">\@string /tytuł_aktywności_usuwania_próbny</item>
         <item quantity="other">\@string /tytuł_aktywności_usuwania_próbny</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string /ctx_title_usuw_tag</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">\@string /ctx_title_usuw_tag</item>
         <item quantity="other">\@string /ctx_title_usuw_tag</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string /title_activity_delete_cecha</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">\@string /title_activity_delete_cecha</item>
         <item quantity="other">\@string /title_activity_delete_cecha</item>
     </plurals>
