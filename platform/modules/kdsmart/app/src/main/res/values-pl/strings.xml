@@ -298,61 +298,61 @@
     <string name="prompt_autoscoring_options_selected_traits">Wybrane cechy</string>
     <plurals name="msg_n_tags_imported">
         <item quantity="one">Jeden znacznik importowany</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%d znaczniki importowane</item>
         <item quantity="other">%d znaczniki importowane</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
         <item quantity="one">Jedna cecha importowana</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">Importowane cechy %d</item>
         <item quantity="other">Importowane cechy %d</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
         <item quantity="one">Jedna cecha zaktualizowana</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">Zaktualizowano cechy %d</item>
         <item quantity="other">Zaktualizowano cechy %d</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
         <item quantity="one">%d Instancja cecha aktywna</item>
-        <item quantity="few"></item>
-        <item quantity="many">%d Aktywna instancja cechy</item>
-        <item quantity="other">%d Aktywna instancja cechy</item>
+        <item quantity="few"/>
+        <item quantity="many">%d Instancja cecha aktywna</item>
+        <item quantity="other">%d Instancja cecha aktywna</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
         <item quantity="one">%d wersja próbna wybrana do usunięcia</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%d wersja próbna wybrana do usunięcia</item>
         <item quantity="other">%d wersja próbna wybrana do usunięcia</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
         <item quantity="one">%d Cecha zostanie usunięta</item>
-        <item quantity="few"></item>
-        <item quantity="many">%d Cecha Zostanie Usunięta</item>
-        <item quantity="other">%d Cecha Zostanie Usunięta</item>
+        <item quantity="few"/>
+        <item quantity="many">%d Cecha zostanie usunięta</item>
+        <item quantity="other">%d Cecha zostanie usunięta</item>
     </plurals>
     <string name="title_export_all_traits">Eksportuj wszystkie cechy</string>
     <string name="title_please_confirm_tag_export">Potwierdź eksport tagu</string>
     <string name="title_please_confirm_trait_export">Potwierdź eksport cech</string>
     <plurals name="msg_export_n_traits">
         <item quantity="one">%d cecha wybrana do eksportu</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%d cecha wybrana do eksportu</item>
         <item quantity="other">%d cecha wybrana do eksportu</item>
     </plurals>
     <plurals name="msg_export_n_trials">
         <item quantity="one">%d wersja próbna wybrana do eksportu</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%d wersja próbna wybrana do eksportu</item>
         <item quantity="other">%d wersja próbna wybrana do eksportu</item>
     </plurals>
     <string name="title_export_all_tags">Eksportuj wszystkie tagi</string>
     <plurals name="msg_export_n_tags">
         <item quantity="one">%d tag wybrany do eksportu</item>
-        <item quantity="few"></item>
-        <item quantity="many">%d tag Wybrany do eksportu</item>
-        <item quantity="other">%d tag Wybrany do eksportu</item>
+        <item quantity="few"/>
+        <item quantity="many">%d tag wybrany do eksportu</item>
+        <item quantity="other">%d tag wybrany do eksportu</item>
     </plurals>
     <string name="title_activity_scoring_setup">Konfiguracja</string>
     <string name="title_section_scoring_options">Opcje</string>
@@ -390,7 +390,7 @@
     <string name="ctx_help_scoring_setup">&lt;p&gt;&lt;strong&gt;Karta Opcje&lt;/strong&gt; na &lt;strong&gt;ekranie konfiguracji punktacji&lt;/strong&gt; zawiera ogólne opcje oceniania wybranej wersji próbnej. Opcje te zostaną zapisane na następny raz, jeśli wersja próbna zostanie otwarta z szybkim uruchomieniem z &lt;strong&gt;ekranu głównego&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;a name=Collection-Order&gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;Kolejność odbioru&lt;/h5&gt; &lt;p&gt;&lt;em&gt;Kolejność odbioru&lt;/em&gt; to kolejność, którą będziesz przenosić z jednego %1$s do drugiego i jest wybierana przez wybranie jednego z 16 przycisków opcji, które zapewniają opcje. Jest to istotne tylko w &lt;strong&gt;trybie punktacji ścieżki&lt;/strong&gt;. Kolejność odbioru składa się z trzech kwestii:&lt;/p&gt; &lt;p&gt;1. Pochodzenie - róg pola, w którym można rozpocząć zdobywanie punktów. To zależy od tego, który narożnik jest wybrany np. lewy dolny;&lt;br /&gt; 2. Kierunek - jaki kierunek zostanie podjęty od początku, np. od lewej do prawej od lewego dolnego początku; i&lt;br /&gt; 3. Ścieżka - Wybierz serpentynową lub prostą ścieżkę.&lt;/p&gt; &lt;p&gt;Domyślną opcją kolejności odbioru jest serpentyn, od lewej do prawej od lewej dolnej. Domyślne ustawienia można zmienić w &lt;strong&gt;Ustawieniach&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;a name=Scoring-View&gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;Punktacja Widok&lt;/h5&gt; &lt;p&gt;Widoki punktacji zmieniają sposób, w jaki zdobywasz dane.&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tryb punktacji arkusza kalkulacyjnego&lt;/strong&gt; to tradycyjny widok arkusza kalkulacyjnego z dodatkowymi funkcjami;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tryb punktacji ścieżki&lt;/strong&gt; jest najlepszym wyborem dla większości użytkowników i umożliwia łatwą nawigację między %1$s; a&lt;/li&gt; &lt;li&gt;&lt;strong&gt;trybem punktacji pola&lt;/strong&gt;, który reprezentuje pole z perspektywy odgórnej.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Domyślny tryb punktacji można również ustawić w &lt;strong&gt;Ustawieniach&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Widok pola&lt;/strong&gt; jest również dostępny w &lt;strong&gt;trybie punktacji arkusza kalkulacyjnego i trybie&lt;/strong&gt; &lt;strong&gt;punktacji ścieżki&lt;/strong&gt;, ale nie jest to główna metoda nawigacji i punktacji. &lt;strong&gt;Tryb punktacji w terenie&lt;/strong&gt; zawiera również arkusz kalkulacyjny, taki jak w &lt;strong&gt;trybie punktacji arkusza kalkulacyjnego&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;a name= %1$s -Per-Group&gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;%1$s Na grupę&lt;/h5&gt; &lt;p&gt;Ile %1$s do zdobycia punktów w tym samym czasie, np. Zdobycie każdego %1$s w lewo i w prawo podczas spaceru wzdłuż pola, to dwa %1$s.&lt;/p&gt; &lt;p&gt;&lt;a name=Lock-Scored-Traits&gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;Zablokuj cechy punktowane&lt;/h5&gt; &lt;p&gt;Wybierz &lt;strong&gt;pole wyboru Zablokuj zdobyte cechy&lt;/strong&gt;, aby zapobiec przypadkowemu nadpisaniu cech, które zostały już zdobyte. Pomiary można nadal zmieniać, ale pojawi się komunikat ostrzegawczy.&lt;/p&gt; &lt;p&gt;&lt;a name=High-Outside-Visibility&gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;Wysoka widoczność zewnętrzna&lt;/h5&gt; &lt;p&gt;Określi, czy punktacja jest wykonywana w trybie ciemnym czy jasnym. Zaznacz pole wyboru, aby upewnić się, że punktacja jest w trybie wysokiej widoczności (światło) lub odznacz ją, aby uzyskać wynik w trybie ciemnym.&lt;/p&gt;</string>
     <string name="ctx_help_manage_traits">&lt;p&gt; Ekran próbny &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; wyświetla wszystkie wersje próbne, które są aktualnie załadowane do KDSmart. &lt;/p&gt; &lt;p&gt; Aby wyświetlić szczegóły cechy, wybierz cechę za pomocą krótkiego naciśnięcia. To przeniesie Cię do ekranu szczegółów cechy &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Jeśli cecha jest podświetlona, możesz wykonać następujące czynności wraz z ogólnymi czynnościami w menu &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Edytuj cechę &lt;/strong&gt; &amp;nbsp; - Otwiera to &amp;nbsp; &lt;strong&gt; Ekran edycji cech &lt;/strong&gt; &amp;nbsp; dla każdej podświetlonej cechy; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Dodaj cechę &lt;/strong&gt; &amp;nbsp; - Otwiera &amp;nbsp; &lt;strong&gt; Dodaj ekran cechy &lt;/strong&gt; &amp;nbsp; &lt;/li&gt; &lt;li&gt; &lt;li&gt; &lt;strong&gt; Importuj z &lt;/strong&gt; &amp;nbsp; - Opcje importowania cech z urządzenia lub z KDXplore za pomocą KDXChange; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Udostępnij &lt;/strong&gt; &amp;nbsp; - Opcje udostępniania wyróżnionej cechy za pomocą systemu Android Storage Access Framework, w tym poczty e-mail, Bluetooth lub dowolnej usługi udostępniania plików zainstalowanej na urządzeniu; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Eksportuj do &lt;/strong&gt; &amp;nbsp; - Opcje eksportu dowolnej podświetlonej cechy do eksportowania plików do urządzenia; [X110X] 7X] &lt;li&gt; &lt;strong&gt; Usuń &lt;/strong&gt; &amp;nbsp; - Opcje usuwania wyróżnionej cechy lub usunięcia jej z pakietu cech; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Kursywa dla chronionego &lt;/strong&gt; &amp;nbsp; - Zaznacz pole wyboru, aby upewnić się, że tekst chronionych cech jest kursywą ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Rozmiar tekstu klawiatury numerycznej &lt;/strong&gt; &amp;nbsp; - Opcje rozmiaru tekstu klawiatury w &amp;nbsp; &lt;strong&gt; Ekran punktacji &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Skaner włączony &lt;/strong&gt;] &amp;nbsp; - Otwiera okno &amp;nbsp; &lt;strong&gt; sparowanych urządzeń &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Odśwież listę &lt;/strong&gt; &amp;nbsp; - Odświeża listę cech; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Bluetooth On/Off &lt;/strong&gt; &amp;nbsp; - Włącza lub wyłącza urządzenie Bluetooth; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Sortuj... &lt;/strong&gt; &amp;nbsp; - Opcje sortowania cech; i &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Pomoc &lt;/strong&gt; &amp;nbsp; - Otwiera to strona pomocy. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Użyj długiego naciśnięcia jednej lub kilku cech, aby wybrać je do dalszych działań. Zauważ, że jednocześnie można wybrać więcej niż jedną cechę. Dodatkowe działania, które może wyświetlić wybór, to: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Zaznacz/Odznacz wszystko &lt;/strong&gt; &amp;nbsp; - Wybiera lub odznacza wszystkie cechy; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Udostępnij &lt;/strong&gt; &lt;/strong&gt; [X22202X]] - Opcje udostępniania wyróżnionej cechy w systemie Android Storage Access Framework, w tym poczta e-mail, Bluetooth lub dowolna usługa udostępniania plików zainstalowana na urządzeniu; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Eksportuj do &lt;/strong&gt; &amp;nbsp; - Opcje eksportu dowolnej podświetlonej cechy eksportowania plików do urządzenia; &lt;/li&gt; &lt;li&gt; [X2596X] [X2596X] [X2596X] [X2525X] 00X] Utwórz pakiet cech &lt;/strong&gt; &amp;nbsp; - Otwiera &amp;nbsp; [X 2559X] Dodaj ekran zestawu cech &lt;/strong&gt; &amp;nbsp;, gdzie możesz tworzyć nowe zestawy cech i dodawać wybrane cechy do istniejących; oraz &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Usuń &lt;/strong&gt; &amp;nbsp; - Opcje usuwania wyróżnionego cechy lub usunięcia jej z pakietu cech. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="ctx_title_trial_detail">Szczegóły próbne</string>
-    <string name="ctx_help_trial_detail">&lt;div id=change-14900 class=journal has-notes&gt; &lt;div id=note-7&gt; &lt;div id=journal-14900-notes class=wiki&gt; &lt;p&gt;Ten ekran zawiera informacje o wybranej wersji próbnej. Przesuń palcem w lewo i w prawo, aby wybrać różne wersje próbne na urządzeniu. Wiele z tych samych opcji na &lt;strong&gt;ekranie próbnym&lt;/strong&gt;, w tym udostępnianie i usuwanie, jest nadal dostępnych, w tym udostępnianie i usuwanie wersji próbnej (więcej informacji można znaleźć w pomocy &lt;strong&gt;ekranu próbnego&lt;/strong&gt;).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Przycisk Edytuj&lt;/strong&gt; pozwoli na edycję lub dodanie dowolnych szczegółów wersji próbnej. Wszystkie szczegóły są wymienione poniżej:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Nazwa wersji próbnej&lt;/strong&gt; - Nazwa wybranej wersji próbnej. Tego nie można edytować.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Skrót&lt;/strong&gt; - Skrócona nazwa procesu.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Data sadzenia&lt;/strong&gt; - Data posadzenia okazów.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s &amp; Nazwy osi X/Y - Zmień nazwy&lt;/strong&gt; osi X/Y i nazwy %1$s. Są one domyślnie ustawione na &lt;em&gt;%1$s&lt;/em&gt;, &lt;em&gt;%4$s&lt;/em&gt; i &lt;em&gt;Zakres&lt;/em&gt;, ale mogą być dowolne.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Identyfikacja&lt;/strong&gt; - %1$s opcje identyfikacji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Układ próbny&lt;/strong&gt; — udostępnia opcje ustawiania układu próbnego. Opcje te będą zależeć od rodzaju układu próbnego, jak opisano poniżej: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;%1$s X/Y Trial Layout&lt;/strong&gt; - próba, w której %1$s są oznaczone współrzędnymi x/y (np. %1$s 3,2), która ma następującą opcję: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Pochodzenie&lt;/strong&gt; - Ustawia gdzie zacząć i kierunek, w którym należy zdobyć punkty.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Id Trial Layout&lt;/strong&gt; - Wersja próbna, w której %1$s są oznaczone unikalnymi identyfikatorami (np. %1$s 12), które mają następujące opcje: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Origin&lt;/strong&gt; - Ustawia od czego zacząć i kierunek, w którym należy zdobyć punkty.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Traversal&lt;/strong&gt; - Wzór przechodzenia w ramach każdej próby, np. &lt;em&gt;serpentyn&lt;/em&gt; lub w &lt;em&gt;jedną stronę&lt;/em&gt; (przejście dla próby można wybrać w &lt;strong&gt;Konfiguracji punktacji&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Długość biegu&lt;/strong&gt; - Wskazuje liczbę %1$s występującą przed zmianą identyfikatora początku przechodzenia&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s - początkowy identyfikator&lt;/strong&gt; %1$s.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Block Trial Layout&lt;/strong&gt; - Wersja próbna zawierająca bloki, które są podzbiory sąsiednich %1$s w ramach próby: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Układ bloku&lt;/strong&gt; - Ustawia, gdzie zacząć i kierunek, w którym należy zdobyć punkty w każdym bloku.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Traversal&lt;/strong&gt; - Wzór przechodzenia w obrębie każdego bloku, np. &lt;em&gt;serpentyna&lt;/em&gt; lub w &lt;em&gt;jedną stronę&lt;/em&gt; (przejście dla próby można wybrać w &lt;strong&gt;Konfiguracji punktacji&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Długość biegu&lt;/strong&gt; — wskazuje liczbę %1$s wewnątrz bloku występującą przed zmianą przechodzenia.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Identyfikator bloku pochodzenia&lt;/strong&gt; - początkowy identyfikator bloku.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Początek w bloku&lt;/strong&gt; - Wskazuje początek %1$s we wszystkich blokach.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Typ organizmu&lt;/strong&gt; - domyślnie ustawiony na &lt;em&gt;ogólny&lt;/em&gt;, ale można go zmienić na &lt;em&gt;roślinę&lt;/em&gt;, &lt;em&gt;kukurydzę&lt;/em&gt;, &lt;em&gt;pszenicę&lt;/em&gt; lub &lt;em&gt;DNA&lt;/em&gt;. Te opcje spowodują zmianę ikony używanej dla %2$s (próbki) w wersji próbnej.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Uwaga&lt;/strong&gt; - Dodaj notatkę do wersji próbnej.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cechy&lt;/strong&gt; — wymienia cechy w badaniu i wskazuje, ile wystąpień cech jest dostępnych dla każdej cechy (więcej informacji znajduje się poniżej).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Atrybuty próbne&lt;/strong&gt; - Atrybuty, które mają zastosowanie do całego okresu próbnego.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Typy&lt;/strong&gt; - typy %1$s, które są w wersji próbnej.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Atrybuty&lt;/strong&gt; - Atrybuty mające zastosowanie do %1$s.&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Opcja Cechy&lt;/strong&gt; otworzy &lt;strong&gt;ekran wystąpień cech&lt;/strong&gt;. Zawiera listę cech w próbie i wskazuje, ile instancji cech jest dostępnych dla każdej cechy. Pełna gwiazda wskazuje, że cecha zostanie oceniona, pusta gwiazda wskazuje, że cecha zostanie ukryta podczas zdobywania punktów, a w połowie wypełniona gwiazda pokazuje, że istnieje wiele instancji dla cechy, ale przynajmniej jeden z nich zostanie ukryty. Jest to pomocne przy wyborze tylko tych cech, które należy oceniać. Dostępne są następujące opcje ogólne:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Wybierz Nie /Zaznacz wszystko&lt;/strong&gt; - Odznacza lub wybiera wszystkie cechy.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Dodaj cechy&lt;/strong&gt; - dodaje cechy do prób (można to znaleźć, wybierając &lt;strong&gt;przycisk Menu&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Zmień kolejność&lt;/strong&gt; - wybierz kolejność, w której zostaną ocenione cechy (można to znaleźć po wybraniu &lt;strong&gt;przycisku Menu&lt;/strong&gt;).&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Więcej opcji wystąpienia cech dla poszczególnych kabin cech można znaleźć, wybierając &lt;strong&gt;przycisk Instancja cechy&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Dodaj wystąpienie&lt;/strong&gt; - tworzy wystąpienia dla wybranej cechy. Wybierz tę opcję ponownie, aby utworzyć inną instancję.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Przesuń w górę&lt;/strong&gt; - przesuwa cechę w górę w kolejności punktacji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Przesuń w dół&lt;/strong&gt; - przesuwa cechę w dół w kolejności punktacji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Edytuj opis&lt;/strong&gt; - Edytuj opis instancji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Usuń cechę&lt;/strong&gt; - usuwa cechę z wersji próbnej.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div id=change-14911 class=journal has-details&gt;&lt;/div&gt;</string>
+    <string name="ctx_help_trial_detail">&lt;div id=change-14900 class=journal has-notes&gt; &lt;div id=note-7&gt; &lt;div id=journal-14900-notes class=wiki&gt; &lt;p&gt;Ten ekran zawiera informacje o wybranej wersji próbnej. Przesuń palcem w lewo i w prawo, aby wybrać różne wersje próbne, które są dostępne na urządzeniu. Wiele z tych samych opcji na &lt;strong&gt;ekranie prób&lt;/strong&gt; nym, w tym udostępnianie i usuwanie, jest nadal dostępnych, w tym udostępnianie i usuwanie wersji próbnej (więcej informacji można znaleźć w pomocy dotyczącej &lt;strong&gt;ekranu wersji prób&lt;/strong&gt; nej).&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Przycisk Edycja&lt;/strong&gt; umożliwia edycję lub dodawanie wszelkich szczegółów próbnych. Wszystkie szczegóły są wymienione poniżej:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Nazwa próbnej&lt;/strong&gt; - Nazwa wybranej wersji próbnej. Tego nie można edytować.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;S&lt;/strong&gt; krót - Skrócona nazwa procesu.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Data sadzenia&lt;/strong&gt; - Data posadzenia okazów.&lt;/li&gt; Nazwy osi &lt;li&gt;&lt;strong&gt;%1$s i X/Y - Zmień nazwy osi&lt;/strong&gt; X/Y i nazwy %1$s. Domyślnie są ustawione na &lt;em&gt;%1$s&lt;/em&gt;, &lt;em&gt;%4$s&lt;/em&gt; i &lt;em&gt;Zakres, ale mogą być dowolne&lt;/em&gt;&lt;/li&gt;. &lt;li&gt;&lt;strong&gt;%1$s Identyfikacja&lt;/strong&gt; - %1$s opcje identyfikacji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Układ prób&lt;/strong&gt; ny - udostępnia opcje ustawiania układu próbnego. Opc &lt;ul&gt;&lt;li&gt;je te będą zależeć od rodzaju układu próbnego, jak opisano poniżej: &lt;strong&gt;%1$s Układ próbny X/Y&lt;/strong&gt; - Próba, w której %1$s są oznaczone współrzędnymi x/y (np. %1$s 3,2), która ma następującą opcję: Początek - Ustawia miejsce rozpoczęcia i kierunek, w którym należy uzyskać wynik &lt;ul&gt;&lt;li&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s ID Trial Layout — wersja prób&lt;/strong&gt; na, w której %1$s są oznaczone unikalnymi identyfikatorami (np. %1$s 12), która ma następujące opcje: Początek &lt;ul&gt;&lt;li&gt;- Ustawia miejsce rozpoczęcia i kierunek, w którym &lt;strong&gt;należy&lt;/strong&gt;&lt;/li&gt; uzyskać wynik. &lt;li&gt;&lt;strong&gt;Trawersal&lt;/strong&gt; &lt;strong&gt;- Wzór obrotu w ramach każdej próby, np. &lt;em&gt;serpent&lt;/em&gt; yna lub w &lt;em&gt;jedną stronę&lt;/em&gt; (trawersal dla próby można wybrać w konfiguracji punktacji).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Długość przebiegu&lt;/strong&gt; — wskazuje liczbę %1$s występujących przed zmianą identyfikatora Origin [X2214X&lt;/li&gt; &lt;li&gt;&lt;strong&gt;] — Początkowy identyfikator %1$s&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;. &lt;li&gt;&lt;strong&gt;Układ próbny bloku&lt;/strong&gt; — wersja próbna zawierająca bloki, które są podzbiorami sąsiedniego %1$s w ramach okresu próbnego: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Układ bloku&lt;/strong&gt; — określa, gdzie rozpocząć i kierunek, w którym należy uzyskać punkty w&lt;/li&gt; każdym bloku. &lt;li&gt;&lt;strong&gt;Trawersal&lt;/strong&gt; &lt;strong&gt;- Wzór obrotu w obrębie każdego bloku, np. &lt;em&gt;serpent&lt;/em&gt; yna lub w &lt;em&gt;jedną stronę&lt;/em&gt; (trawersal dla próby można wybrać w konfiguracji punktacji).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Długość przebiegu&lt;/strong&gt; - wskazuje liczbę %1$s w bloku występującą przed zmianą ruchu.&lt;/li&gt; &lt;li&gt;I &lt;strong&gt;dentyfikator bloku&lt;/strong&gt; początkowego - początkowy identyfikator bloku.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;%1$s Początek w bloku - Wskaz&lt;/strong&gt; uje początek %1$s we wszystkich blokach.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Typ organizmu&lt;/strong&gt; - domyślnie ustawiony na &lt;em&gt;ogól&lt;/em&gt; ny, ale można go zmienić na &lt;em&gt;roślin&lt;/em&gt; ę, &lt;em&gt;kukurydzę&lt;/em&gt;, &lt;em&gt;pszenic&lt;/em&gt; ę lub &lt;em&gt;DNA&lt;/em&gt;. Ta opcja spowoduje zmianę ikony używanej dla %2$s (próbki) w wersji próbnej&lt;/li&gt;. &lt;li&gt;&lt;strong&gt;Uwaga&lt;/strong&gt; - Dodaj notatkę do okresu próbnego.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;C&lt;/strong&gt; echy - Wymienia cechy w próbie i wskazuje, ile wystąpień cech jest dostępnych dla każdej cechy (patrz poniżej, aby uzyskać więcej informacji).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Atrybuty prób&lt;/strong&gt; ne — atrybuty, które mają zastosowanie do całej wersji próbnej.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Typy - Typy&lt;/strong&gt; %1$s, które są w trakcie próby.&lt;/li&gt; &lt;/ul&gt;&lt;li&gt;&lt;strong&gt;%1$s Atrybuty — atrybuty odno&lt;/strong&gt; szące się do %1$s.&lt;/li&gt; &lt;p&gt;&lt;strong&gt;Opcja Cechy otworzy &lt;strong&gt;ekran wystąpień&lt;/strong&gt; cech&lt;/strong&gt;. Wymienia cechy w próbie i wskazuje, ile wystąpień cech jest dostępnych dla każdej cechy. Pełna gwiazda wskazuje, że cecha zostanie oceniona, pusta gwiazda wskazuje, że cecha zostanie ukryta podczas oceniania, a w połowie wypełniona gwiazda pokazuje, że istnieje wiele przypadków cechy, ale przynajmniej jeden z nich zostanie ukryty. Jest to pomocne przy wyborze tylko cech, które należy ocenić. Dostępne są następujące opcje ogólne:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Wybierz Brak lub Wybierz wszystko - Usuwa zaznaczenie lub wybiera wszystkie&lt;/strong&gt; cechy&lt;/li&gt;. &lt;li&gt;&lt;strong&gt;Dodaj cechy&lt;/strong&gt; - Dodaje cechy do prób (można to znaleźć, wybierając &lt;strong&gt;przycisk menu&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Zmień kolej&lt;/strong&gt; ność - wybierz kolejność, w której cechy będą oceniane (można to znaleźć, wybierając &lt;strong&gt;przycisk Menu&lt;/strong&gt;).&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Więcej opcji wystąpienia cech dla każdej indywidualnej kabiny cech można znaleźć, wybierając &lt;strong&gt;przycisk Instancja cechy&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Dodaj inst&lt;/strong&gt; ancję - Tworzy instancje dla wybranej cechy. Wybierz tę opcję ponownie, aby utworzyć inną instancję.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Przesuń&lt;/strong&gt; w górę - przesuwa cechę w górę w kolejności punktacji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Przesuń w dół&lt;/strong&gt; - przesuwa cechę w dół w kolejności punktacji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Edytuj opis&lt;/strong&gt; - Edytuj opis instancji.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Usuń cech&lt;/strong&gt; ę - usuwa cechę z próby.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div id=change-14911 class=journal has-details&gt;&lt;/div&gt;</string>
     <string name="ctx_help_trial_context">Użyj akcji &lt;i&gt;Eksportuj do,&lt;/i&gt; aby wyeksportować pojedynczą &lt;i&gt;wersję próbną&lt;/i&gt;. &lt;p&gt;Użyj akcji &lt;i&gt;Usuń&lt;/i&gt;, aby usunąć wybrane &lt;i&gt;wersje próbne&lt;/i&gt; z bazy danych. &lt;p&gt;Anuluj, używając zaznaczenia po lewej stronie &lt;i&gt;paska akcji&lt;/i&gt;. &lt;br/&gt;&lt;br/&gt;Zachowaj ostrożność podczas usuwania prób. Jako środek ostrożności upewnij się, że eksport próbny zakończył się pomyślnie, najpierw przeglądając i sprawdzając zawartość wersji próbnej CSV lub przeglądając dane próbne w KDXplore przed usunięciem z KDSmart.</string>
     <string name="ctx_title_manage_tags">Zarządzaj tagami</string>
     <string name="ctx_help_trait_details">&lt;p&gt; Ten ekran zawiera informacje o wybranej cechy. Przesuń palcem w lewo i w prawo, aby wybrać różne cechy urządzenia. Opcje menu z ekranu cech są nadal dostępne, w tym udostępnianie i usuwanie wersji próbnej (więcej informacji można znaleźć w pomocy na ekranie cech). Następujące pola są wymienione dla szczegółów wybranej cechy: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Nazwa cechy &lt;/strong&gt; &amp;nbsp; - Nazwa cechy; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Alias &lt;/strong&gt; &amp;nbsp; - Alias &amp;nbsp; - Alias lub shoras nazwa cechy; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; %1$s/%2$s Przycisk poziomu &lt;/strong&gt; &amp;nbsp; - Ikona po prawej stronie nazwy, która wskazuje, czy cecha znajduje się na poziomie %1$s czy %2$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Opis &lt;/strong&gt; &amp;nbsp; - Pole tekstowe do opisu cechy; &lt;/li&gt; &lt;li&gt; Jednostka cechy** - Jednostka mierzona np. centymetry ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Typ danych &lt;/strong&gt; &amp;nbsp; - Jeden z dostępnych typów danych, którymi są: &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Tekst &lt;/strong&gt; &amp;nbsp; - tekst alfanumeryczny. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Kategoryczny &lt;/strong&gt; &amp;nbsp; - Kategorie takie jak kolory mogą być tworzone. Można również wybrać opcję &amp;nbsp; &lt;em&gt; &lt;em&gt; &lt;/em&gt; &amp;nbsp;, która umożliwia dołączenie wartości tekstowej zamiast kategorii. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Data &lt;/strong&gt; &amp;nbsp; np. 10/08/2019 &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt;, które upłynęły dni &lt;/strong&gt; &amp;nbsp; - Wartość dla dni przed lub po dacie sadzenia próby. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Liczba całkowita &lt;/strong&gt; &amp;nbsp; np. 4 &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; np. 4.4 &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;/li&gt; &lt;li&gt; &lt;li&gt; 56X] Test Validation Button &lt;/strong&gt; &amp;nbsp; - Zapewni test dla reguły walidacji, która została ustawiona dla cechy. &lt;/li&gt; &lt;/ul&gt;</string>
@@ -498,13 +498,13 @@
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
         <item quantity="one">%2$d %1$s Pomiar próbki</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%2$d %1$s Pomiar próbki</item>
         <item quantity="other">%2$d %1$s Pomiar próbki</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
         <item quantity="one">%1$d %2$s Pomiar</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%1$d %2$s Pomiar</item>
         <item quantity="other">%1$d %2$s Pomiar</item>
     </plurals>
@@ -563,8 +563,8 @@
     <string name="msg_hint_enter_unit_name">Wprowadź nazwę jednostki</string>
     <string name="msg_hint_trait_alias">-Nie zdefiniowano aliasu-</string>
     <string name="msg_hint_enter_trait_alias">Wprowadź alias</string>
-    <string name="prompt_kdxchange_started">Uruchomiono serwer Kdxchange</string>
-    <string name="prompt_kdxchange_stopped">Serwer Kdxchange zatrzymany</string>
+    <string name="prompt_kdxchange_started">Uruchomiono serwer KDXchange</string>
+    <string name="prompt_kdxchange_stopped">Serwer KDXchange zatrzymany</string>
     <string name="msg_value_out_of_range">Wartość poza zakresem</string>
     <string name="msg_selected_trait_value">Aktualna wartość</string>
     <string name="title_plot_attributes">%1$s Atrybuty</string>
@@ -647,8 +647,8 @@
     <string name="title_desc_tns_colon_number_brief">:123</string>
     <string name="title_desc_tns_2underbar_number">Cecha__123</string>
     <string name="title_desc_tns_2underbar_number_brief">__123</string>
-    <string name="title_desc_multi_trial_scoring">Punktacja Multi Trial</string>
-    <string name="msg_multi_scoring_are_you_sure">Użyj tych prób w Multi Trial Scoring\?</string>
+    <string name="title_desc_multi_trial_scoring">Punktacja wielopróbna</string>
+    <string name="msg_multi_scoring_are_you_sure">Użyj tych prób w Multi-Trial Scoring\?</string>
     <string name="msg_hdg_path_of_import_file">Ścieżka pliku importu</string>
     <string name="msg_hdg_specimens">%2$s</string>
     <string name="msg_prompt_enter_text">Wprowadź tekst</string>
@@ -679,7 +679,7 @@
     <string name="title_unable_to_add_trait">Nie można dodać cech</string>
     <string name="msg_all_traits_already_added">Masz już wszystkie cechy w tej próbie</string>
     <string name="msg_prefix_database_error">Błąd bazy danych:</string>
-    <string name="pref_title_kdxchange_auto_connect">Automatyczne połączenie KDXChange</string>
+    <string name="pref_title_kdxchange_auto_connect">KDXChange Automatyczne łączenie</string>
     <string name="pref_description_kdxchange_auto_connect">Automatycznie połącz się z adresem serwera (jeśli jest tylko jeden adres)</string>
     <string name="title_location_service_disabled">Usługa lokalizacji nie jest włączona</string>
     <string name="msg_switch_on_location">Włącz lokalizację, aby korzystać z tej Usługi</string>
@@ -688,7 +688,7 @@
     <string name="title_inactive_trait">Cecha nieaktywna</string>
     <string name="msg_question_do_you_want_to_change">Czy chcesz zmienić wartość\?</string>
     <string name="pref_title_allow_inactive_trait_edit">Zezwalaj na nieaktywną edycję cech</string>
-    <string name="pref_title_kdxplore_barcodes">Użyj kodów kreskowych Kdxplore</string>
+    <string name="pref_title_kdxplore_barcodes">Użyj kodów kreskowych KDXplore</string>
     <string name="pref_title_alphabetical_trait_order_title">Użyj kolejności cech alfabetycznych</string>
     <string name="pref_title_alphabetical_trait_order">Używanie alfabetycznej kolejności cech w eksporcie CSV</string>
     <string name="pref_desc_allow_inactive_trait_edit">Zaznacz, aby zezwolić na zmianę wartości lub nieaktywnych cech</string>
@@ -785,7 +785,7 @@
     <string name="title_choose_how_to_identify_plots">Wybierz sposób identyfikacji %1$s</string>
     <string name="title_start_scoring">Rozpocznij punktację</string>
     <string name="title_export_to_csv">Eksportuj do pliku CSV</string>
-    <string name="hdg_column_number">Col</string>
+    <string name="hdg_column_number">Kolumna #</string>
     <string name="hdg_csv_heading">Nagłówek CSV</string>
     <string name="hdg_data_row_1">Wiersz danych #1</string>
     <string name="hdg_import_as">Importuj jako</string>
@@ -898,8 +898,8 @@
     <string name="msg_check_database_integrity">Sprawdzanie próby pod kątem błędów.
 \nZajmie to kilka minut.
 \nProszę nie zamykać aplikacji</string>
-    <string name="msg_db_check_completed">Sprawdzanie Db zakończone</string>
-    <string name="msg_couldnot_complete_db_check">Nie można ukończyć sprawdzania bazy danych</string>
+    <string name="msg_db_check_completed">Kontrola bazy danych zakończona</string>
+    <string name="msg_couldnot_complete_db_check">Nie można zakończyć sprawdzenia bazy danych</string>
     <string name="msg_couldnot_complete_trait_addition">Nie można dokończyć dodawania cech</string>
     <string name="msg_no_traits_to_add">Nie wybrano żadnych cech do dodania</string>
     <string name="msg_file_or_folder_empty">Plik lub folder jest pusty</string>
@@ -923,7 +923,7 @@
     <string name="ctx_help_delete_trial_bundle">&lt;p&gt; Każdy pakiet próbny, który został wybrany do usunięcia, pojawi się na tym ekranie &amp;nbsp; &lt;strong&gt; Usuń pakiety próbne &lt;/strong&gt;. Każdy pakiet zostanie wymieniony poniżej, wraz z każdą wersją próbną, która jest częścią tego pakietu. &lt;/p&gt; &lt;p&gt; Wybierz &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp;, aby potwierdzić usunięcie pakietu próbnego. &lt;/p&gt; &lt;p&gt; Wybierz &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp;, aby anulować usunięcie pakietu próbnego. &lt;/p&gt; &lt;p&gt; Należy pamiętać, że usunięcie pakietu próbnego nie powoduje usunięcia zawartych w nim wersji próbnych. &lt;/p&gt;</string>
     <string name="ctx_help_remove_trials_from_bundle">&lt;p&gt; Próby wybrane do usunięcia z pakietu próbnego są wymienione na tym ekranie i usunięcie musi zostać potwierdzone. &lt;/p&gt; &lt;p&gt; Wybierz &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp;, aby potwierdzić usunięcie prób z pakietu. &lt;/p&gt; &lt;p&gt; Wybierz &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp;, aby anulować usunięcie prób z pakietu. &lt;/p&gt; &lt;p&gt; Należy pamiętać, że usunięcie wersji próbnej z pakietu nie powoduje usunięcia wersji próbnej z urządzenia. &lt;/p&gt;</string>
     <string name="title_add_trial_bundles">Dodaj pakiet próbny</string>
-    <string name="errmsg_select_trials_from_one_trial_bundle">Wybierz wersje próbne z jednego pakietu próbnego, aby uzyskać Multi Scoring</string>
+    <string name="errmsg_select_trials_from_one_trial_bundle">Wybierz wersje próbne z jednego pakietu próbnego dla wielu punktów</string>
     <string name="errmsg_multi_trial_scoring_coming_soon">Multi Trial Scoring już wkrótce</string>
     <string name="errmsg_tag_with_name_already_exists">Znacznik z nazwą już istnieje</string>
     <string name="msg_action_camera_barcode">skanowanie kodów kreskowych</string>
@@ -971,7 +971,7 @@
     <string name="errmsg_reset_database_error">Nie można ukończyć resetowania bazy danych.</string>
     <string name="msg_device_version_number_lollipop_and_above">Skanowanie kodów kreskowych aparatu jest dostępne powyżej Android Lollipop</string>
     <string name="msg_barcodes_were_scanned">Kody kreskowe zostały zeskanowane</string>
-    <string name="msg_no_barcode_match">Kod kreskowy nie zawiera informacji. Jeśli nie używasz KDXplore, odznacz opcję Użyj kodów kreskowych Kdxplore w ustawieniach.</string>
+    <string name="msg_no_barcode_match">Kod kreskowy nie zawiera informacji. Usuń zaznaczenie opcji Użyj kodów kreskowych KDXplore w ustawieniach, jeśli nie używasz KDXplore.</string>
     <string name="msg_sample_data_exists_for_trait">Przykładowe dane istnieją dla tej instancji cechy, nie można usunąć</string>
     <string name="msg_fix_block_trials">Aktualizuj wersje próbne bloków</string>
     <string name="msg_retry_scoring_block_trial">Ponów próbę blokowania punktacji</string>
@@ -983,7 +983,7 @@
     <string name="msg_use_for_scoring">Blok punktów\?</string>
     <string name="msg_use_other">Włącz inne</string>
     <string name="msg_word_for_other">Wartość wyboru:</string>
-    <string name="msg_other_needs_at_least_one_more_item">W przypadku korzystania z rozszerzenia Cat Other potrzebny jest co najmniej jeden element</string>
+    <string name="msg_other_needs_at_least_one_more_item">Jeśli używasz rozszerzenia Categotical Other, potrzebny jest co najmniej jeden element</string>
     <string name="msg_other_needs_a_name">Wprowadź nazwę dla innej osoby, która ma być używana do oceniania</string>
     <string name="msg_needs_at_least_two_item">Do cech kategorycznych potrzebne są co najmniej dwie pozycje</string>
     <string name="msg_enter_value_for_other">Wprowadź wartość dla</string>
@@ -1014,7 +1014,7 @@
     <string name="msg_cloning_trial">Próba klonowania</string>
     <string name="msg_btn_switch_GPS_on">Włącz go w ustawieniach lub opcjach menu</string>
     <string name="msg_gps_off">Lokalizacja jest wyłączona</string>
-    <string name="msg_please_update_kdsmart_from_playstore">Zaktualizuj KDSmart z playstore</string>
+    <string name="msg_please_update_kdsmart_from_playstore">Zaktualizuj KDSmart z Playstore</string>
     <string name="msg_copy_expires_soon">KDSmart wkrótce wygasa</string>
     <string name="msg_days_left_before_expiry">Pozostały dni przed wygaśnięciem KDSmart</string>
     <string name="pref_title_prefer_location_on">Lokalizacja na podczas punktacji</string>
@@ -1079,7 +1079,7 @@
     <string name="errmsg_first_plot_must_be_greater_than_zero">Pierwszy identyfikator %1$s musi być większy niż 0</string>
     <string name="msg_select_minutes">Wybierz min</string>
     <string name="title_longer_range">Kalendarz</string>
-    <string name="msg_pick_number_of_minutes">Brak minut</string>
+    <string name="msg_pick_number_of_minutes">Liczba minut</string>
     <string name="msg_detected_multiple_instances">KDSmart wykrył wiele instancji</string>
     <string name="msg_enter_number_of_sub_plots_in_every_plot">Liczba %2$s na %1$s</string>
     <string name="msg_empty_trial_name">Nazwa wersji próbnej nie może być pusta</string>
@@ -1099,7 +1099,7 @@
     <string name="ctx_help_scoring_setup_select_blocks"><p> Każda próba bloków będzie miała wszystkie bloki wymienione i wybierane za pomocą pól wyboru. Przynajmniej jeden musi zostać wybrany. Ta opcja będzie dostępna tylko dla prób blokowych. </p></string>
     <string name="ctx_add_trial_bundle">Dodaj pakiet próbny</string>
     <string name="ctx_help_add_trial_bundle">&lt;p&gt; Ekran &amp;nbsp; &lt;strong&gt; Dodaj pakiet próbny &lt;/strong&gt; &amp;nbsp; pozwala na tworzenie nowych pakietów cech lub dodanie prób do istniejących pakietów. Upewnij się, że wszystkie wersje próbne do dodania lub dołączenia są wybrane, a następnie wybierz przycisk &amp;nbsp; &lt;strong&gt; Utwórz pakiet próbny &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Ekran &amp;nbsp; &lt;strong&gt; Dodaj pakiet próbny &lt;/strong&gt; &amp;nbsp; wyświetli wszystkie wybrane tagi i wszystkie wcześniej utworzone pakiety. Pole tekstowe nazwy pakietu również pozostanie puste. Aby utworzyć nowy pakiet próbny, wprowadź nazwę pakietu w pustym polu, a następnie wybierz przycisk &amp;nbsp; &lt;strong&gt; Utwórz przycisk &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Aby dodać wybrane wersje próbne do istniejącego pakietu, wpisz nazwę tego pakietu w polu tekstowym lub wybierz wymieniony pakiet z krótkim naciśnięciem &amp;nbsp; &lt;em&gt; &lt;/em&gt; &amp;nbsp;, a następnie wybierz &amp;nbsp; &lt;strong&gt; Dodaj przycisk &lt;/strong&gt;. &lt;/p&gt;</string>
-    <string name="ctx_help_add_trial">&lt;p&gt; &amp;nbsp; &lt;strong&gt; Dodaj ekran próbny &lt;/strong&gt; &amp;nbsp; umożliwia użytkownikom tworzenie nowej wersji próbnej w ramach KDSmart. Dostępne są następujące opcje tworzenia wersji próbnej: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Nazwa wersji próbnej &lt;/strong&gt; &amp;nbsp; - Nazwa nowej wersji próbnej. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Typ próby &lt;/strong&gt; &amp;nbsp; - Wybierz pomiędzy próbą &amp;nbsp; &lt;em&gt; %1$s X/Y &lt;/em&gt; &amp;nbsp;, w której każdy %1$s ma unikalne współrzędne x/y lub &amp;nbsp; &lt;em&gt; %1$s Identyfikator &lt;/em&gt; &amp;nbsp; próba, w której każdy %1$s jako unikalny %1$s Id. Wybrana tutaj opcja określi niektóre z następnych opcji. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Liczba %3$s &lt;/strong&gt; &amp;nbsp; (%1$s X/Y trials) - Liczba %1$s %3$s, która zostanie utworzona dla klienta. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Liczba %4$s &lt;/strong&gt; &amp;nbsp; (%1$s X/Y próby) - liczba %4$s %3$s, która zostanie utworzona dla klienta. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Pierwszy %1$s Id &lt;/strong&gt; &amp;nbsp; (%1$s Próby ID) - Identyfikator %1$s, który powinien być pierwszym %1$s w badaniu. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Długość przebiegu &lt;/strong&gt; &amp;nbsp; (%1$s Próby ID) - Wskazuje liczbę %1$s w badaniu występującym przed zmianą przechodzenia. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Liczba %2$s na %1$s &lt;/strong&gt; &amp;nbsp; - Tworzy %2$s dla każdego %1$s w próbie. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Styl instancji cechy &lt;/strong&gt; &amp;nbsp; - Wybierz &amp;nbsp; &lt;em&gt; Cecha:123 &lt;/em&gt; &amp;nbsp; lub &amp;nbsp; &lt;em&gt; Cecha:_123 &lt;/em&gt; &amp;nbsp; styl dla wystąpień cech. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Po wybraniu wszystkich opcji wybierz &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp;, aby utworzyć wersję próbną lub &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp;, aby anulować tworzenie wersji próbnej. &lt;/p&gt;</string>
+    <string name="ctx_help_add_trial">&lt;p&gt; &amp;nbsp; &lt;strong&gt; Dodaj ekran próbny &lt;/strong&gt; &amp;nbsp; umożliwia użytkownikom utworzenie nowej wersji próbnej w ramach KDSmart. Dostępne są następujące opcje tworzenia wersji próbnej: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Nazwa próbna &lt;/strong&gt; &amp;nbsp; - Nazwa nowej wersji próbnej. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Typ próbny &lt;/strong&gt; &amp;nbsp; - Wybierz jedną z wersji próbnej &amp;nbsp; &lt;em&gt; %1$s X/Y &lt;/em&gt; &amp;nbsp;, w której każdy %1$s ma unikalne współrzędne x/y lub &amp;nbsp; &lt;em&gt;] %1$s Id &lt;/em&gt; &amp;nbsp; wersja próbna, gdzie każdy %1$s jako unikalny identyfikator %1$s. Wybrana tutaj opcja określi niektóre z następnych opcji. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Liczba %3$s &lt;/strong&gt; &amp;nbsp; (%1$s X/Y próby) - Liczba %1$s %3$s, które zostaną utworzone dla klienta. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Liczba %4$s &lt;/strong&gt; &amp;nbsp; (%1$s X/Y próby) - Liczba %4$s %3$s, które zostaną utworzone dla klienta. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Pierwszy %1$s Id &lt;/strong&gt; &amp;nbsp; (%1$s ID próby) - Identyfikator %1$s, który powinien być pierwszym %1$s w procesie. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Długość przebiegu &lt;/strong&gt; &amp;nbsp; (%1$s próby ID) - Wskazuje liczbę %1$s w trakcie próby występującej przed zmianą ruchu. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Liczba %2$s na %1$s &lt;/strong&gt; &amp;nbsp; - Tworzy %2$s dla każdego %1$s w próbie. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Styl wystąpienia cech &lt;/strong&gt; &amp;nbsp; - Wybierz &amp;nbsp; &lt;em&gt; Cecha:123 &lt;/em&gt; &amp;nbsp; lub &amp;nbsp; &lt;em&gt; Cecha:_123 &lt;/em&gt; [nazewnictwo X1280X] styl dla przykładów cech. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Po wybraniu wszystkich opcji wybierz &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp;, aby utworzyć wersję próbną lub &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp;, aby anulować tworzenie wersji próbnej. &lt;/p&gt;</string>
     <string name="ctx_help_simple_scoring_mode">&lt;p&gt; &lt;strong&gt; Tryb punktacji arkusza &lt;/strong&gt; &amp;nbsp; to prosty widok arkusza, podobny do dokumentu CSV lub Excel. Ten tryb przedstawia wszystkie cechy dla %1$s i %2$s w arkuszu kalkulacyjnym, a wybranie komórki pozwoli na wprowadzenie danych. Ma ograniczone funkcje nawigacji %1$s i może być wolniejszy w zdobywaniu punktów, ale wielu użytkowników uważa widok za znajomy i łatwy w użyciu. Dodatkowo &amp;nbsp; &lt;strong&gt; Tryb punktacji arkusza kalkulacyjnego &lt;/strong&gt; &amp;nbsp; zawiera &amp;nbsp; &amp;nbsp; &lt;strong&gt; Widok pola &lt;/strong&gt; &amp;nbsp;, który wyświetla widok pola z góry na dół. &lt;/p&gt; &lt;p&gt; &lt;a name=\"Scoring\"&gt; &lt;/a&gt; &lt;/p&gt; &lt;h5&gt; Punktacja &lt;/h5&gt; &lt;p&gt; Aby zdobyć cechę poziomu %1$s lub %2$s, wybierz wartość cechy, aby otworzyć &amp;nbsp; &lt;strong&gt; Pomiar cechy Ekran &lt;/strong&gt;. Dane, które należy wprowadzić, będą zależeć od typu danych cechy, np. liczba całkowita, kategoria, przecinek itp. Przesuń między &amp;nbsp; &lt;strong&gt; Karta Cechy &lt;/strong&gt; &amp;nbsp; i &amp;nbsp; &lt;strong&gt; %1$s Info Tab &lt;/strong&gt; &amp;nbsp;, aby zobaczyć więcej informacji o bieżącym %1$s. Do oceniania cech są dostępne następujące przyciski: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Przycisk Anuluj &lt;/strong&gt; &amp;nbsp; - Anuluje punktację wybranej cechy. Anulowanie spowoduje powrót użytkownika do ekranu &amp;nbsp; &lt;strong&gt; punktacji &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Przycisk Usuń wartość &lt;/strong&gt; &amp;nbsp; - Usuwa bieżącą wartość i zwraca użytkownika do &amp;nbsp; &lt;strong&gt; Ekran punktacji [X132020X] X]; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Przycisk brakującej wartości &lt;/strong&gt; &amp;nbsp; - Stosuje wartość &amp;nbsp; &lt;em&gt; Brak &lt;/em&gt; &amp;nbsp; do instancji cechy. Można tego użyć, jeśli brakuje rzeczywistej wartości; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Nie dotyczy przycisku &lt;/strong&gt; &amp;nbsp; - Stosuje wartość &amp;nbsp; &lt;em&gt; Nie dotyczy &lt;/em&gt; &amp;nbsp; &amp;nbsp; do instancji cechy. Można tego użyć, gdy cecha nie musi być oceniona dla wybranego pl %1$s ot lub %2$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Przycisk akceptacji wartości &lt;/strong&gt; &amp;nbsp; - Akceptuje i stosuje wprowadzoną wartość, na przykład potwierdzając cechę dziesiętną; i &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Przycisk daty &lt;/strong&gt; &amp;nbsp; - Otwiera &amp;nbsp; &lt;em&gt; Data Picker &lt;/em&gt; &amp;nbsp;, aby można było wybrać datę (dostępna tylko dla cech dni, które upłynęły). &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; &lt;a name=\"%1$s%2$s\"&gt; %2$s \"&gt; &lt;/a&gt; &lt;/p&gt; &lt;h5&gt; %1$s/%2$s &lt;p&gt; &lt;p&gt; Wraz z wymienionymi cechami, każdy %1$s i %2$s będzie miał &amp;nbsp; &lt;strong&gt; %1$s/%2$s Przycisk &lt;/strong&gt;. Następujące opcje są dostępne dla &amp;nbsp; &lt;strong&gt; %1$s Przycisk &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Dodaj %2$s &lt;/strong&gt; &amp;nbsp; - Dodaje pojedynczy %2$s do %2$s &amp;nbsp; 2336X] (%2$s można dodać zbiorczo w &amp;nbsp; &lt;strong&gt; Trials Screen &lt;/strong&gt;); &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Edytuj notatkę &lt;/strong&gt; &amp;nbsp; - Otwiera okno, w którym można pisać notatki na %1$s; i &lt;/li&gt; X] &lt;li&gt; &lt;strong&gt; Dezaktywuj %1$s &lt;/strong&gt; &amp;nbsp; - Dezaktywuje %1$s dla punktacji. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Przycisk &amp;nbsp; &lt;strong&gt; %2$s &lt;/strong&gt; &amp;nbsp; zawiera następujące opcje: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Edytuj notatkę &lt;/strong&gt; &amp;nbsp; - Otwiera okno, w którym można zapisać notatki na %1$s; i &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Dezaktywuj %2$s &lt;/strong&gt; &amp;nbsp; - Dezaktywuje %2$s do punktacji. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Tagi przypisane do każdego %1$s lub %2$s będą widoczne pod numerem %1$s lub %2$s jako przycisk, który po naciśnięciu otworzy okno wyświetlające informacje na tagu. Więcej znaczników można przypisać do %1$s i %2$s, wybierając odpowiedni przycisk znacznika &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. Spowoduje to otwarcie okna &amp;nbsp; &lt;strong&gt; Tagi &lt;/strong&gt; &amp;nbsp;, w którym można zastosować wszystkie dostępne tagi, zaznaczając pole wyboru, a następnie przycisk &amp;nbsp; &lt;strong&gt; Potwierdź przycisk &lt;/strong&gt;. Wybierz przycisk &amp;nbsp; &lt;strong&gt; Dodaj &lt;/strong&gt; &amp;nbsp;, aby otworzyć okno, w którym można utworzyć nowy znacznik. &lt;/p&gt; &lt;p&gt; Załączniki dla każdego %1$s i %2$s można również dodać, wybierając przycisk &amp;nbsp; &lt;strong&gt; Załącznik &lt;/strong&gt; &amp;nbsp;, aby otworzyć &amp;nbsp; &lt;strong&gt; Ekran załączników &lt;/strong&gt;. Zarówno załączniki audio, jak i graficzne mogą być pobierane, przeglądane i usuwane w razie potrzeby. &lt;/p&gt; &lt;p&gt; &lt;a name=\"Menu\"&gt; &lt;/a&gt; &lt;/p&gt; &lt;h5&gt; Menu &lt;/h5&gt; &lt;p&gt; Dostępne są następujące opcje menu umożliwiające skonfigurowanie punktacji w &amp;nbsp; &lt;strong&gt; Tryb punktacji arkusza kalkulacyjnego &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; X] &lt;li&gt; &lt;strong&gt; Szukaj &lt;/strong&gt; &amp;nbsp; - Otwiera &amp;nbsp; &lt;strong&gt; Okno wyszukiwania &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Powiększanie/pomniejszanie &lt;/strong&gt; &amp;nbsp; - Powiększenie i pomniejszanie arkusza kalkulacyjnego; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Widok pola &lt;/strong&gt; &amp;nbsp; - Otwiera wersję próbną w &amp;nbsp; &lt;strong&gt; Field View &lt;/strong&gt;. Więcej informacji o &amp;nbsp; &lt;strong&gt; Field View &lt;/strong&gt; &amp;nbsp; można znaleźć w &amp;nbsp; &lt;strong&gt; Field View Help &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Rozmiar tekstu &lt;/strong&gt; &amp;nbsp; &amp;nbsp; X] - Zapewnia opcje rozmiaru tekstu dla cech w pierwszym wierszu arkusza kalkulacyjnego; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Dostosuj szerokość kolumny &lt;/strong&gt; &amp;nbsp; - Otwiera suwak do regulacji szerokości kolumn; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Lokalizacja.. &lt;/strong&gt; &amp;nbsp; - Zapewnia opcje lokalizacji nagrywania: &lt;ul&gt; &lt;li&gt; GPS - dla większej dokładności; &lt;/li&gt; &lt;li&gt; Sieć - niższa dokładność; i &lt;/li&gt; &lt;li&gt; Nie używaj lokalizacji. &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Skaner włączony &lt;/strong&gt; &amp;nbsp; - Otwiera okno &amp;nbsp; &lt;strong&gt; Sparowane urządzenia &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Konfiguracja... &lt;/strong&gt; &amp;nbsp; - Wyświetla opcje konfiguracji: &lt;ul&gt; &lt;li&gt; Rozmiar tekstu klawiatury numerycznej - Opcje rozmiaru tekstu klawiatury w &amp;nbsp; &lt;strong&gt; Scoring Screen &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; Konfiguracja %1$s Informacje - %1$s Rozmiar i wyświetlanie tekstu informacji opcje; i &lt;/li&gt; &lt;li&gt; Jak wyświetlić załączniki - Wybierz aplikację, aby wyświetlić załączniki. &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Dni, które upłynęły jako liczba &lt;/strong&gt; &amp;nbsp; - Zmień wyświetlanie dni, które upłynęły od daty daty próbnego sadzenia; &lt;/li&gt; &lt;li&gt; &lt;li&gt; &lt;strong&gt; Oferta N dni dla daty &lt;/strong&gt; &amp;nbsp; - Po sprawdzeniu cechy daty zostaną ocenione, wybierając dzień, który jest do trzech dni od daty sadzenia. Jeśli nie jest zaznaczone, cechy daty są oceniane za pomocą &amp;nbsp; &lt;em&gt; Wybór daty &lt;/em&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Zablokowanie/odblokowanie cech zdobytych &lt;/strong&gt; &amp;nbsp; - Zablokowane cechy będą wymagały potwierdzenia zmiany wartości; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Zmień orientację ekranu &lt;/strong&gt; &amp;nbsp; - Zmienia KDSmart między &amp;nbsp; &lt;strong&gt; Krajobraz &lt;/strong&gt; &amp;nbsp; i &amp;nbsp; &lt;strong&gt; Orientacja portretowa &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt;] &lt;strong&gt; Wybierz %1$s Kolory &lt;/strong&gt; &amp;nbsp; - Zapewnia opcje zmiany kolorów %1$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Pokaż/ukryj wszystko %2$s [X 5986X] &amp;nbsp; - Rozszerza/odejmuje %1$s, aby pokazać/ukryć %2$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Naprawiono %1$s Info &lt;/strong&gt; &amp;nbsp; - Zapewnia opcje dodawania kolumn do wyświetlania informacji %1$s; i [X6161X] 2X] &lt;li&gt; &lt;strong&gt; Pomoc &lt;/strong&gt; &amp;nbsp; - Otwiera tę stronę pomocy. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="ctx_title_bulk_tagging">Tagowanie zbiorcze</string>
     <string name="msg_search_trials">Wyszukaj wersje próbne</string>
@@ -1164,7 +1164,7 @@
     <string name="title_project_name">Nazwa projektu</string>
     <string name="title_grouping">Grupowanie</string>
     <string name="msg_last_successfull_fetch">"Ostatnie udane pobranie odbyło się o godz "</string>
-    <string name="title_fetching_trials">Pobieranie prób Kddarta</string>
+    <string name="title_fetching_trials">Pobieranie prób KdArt</string>
     <plurals name="title_sub_plots">
         <item quantity="one">%2$s</item>
         <item quantity="few"/>
@@ -1173,25 +1173,25 @@
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string /tytuł_aktywności_usuwania_próbny</item>
-        <item quantity="few"></item>
-        <item quantity="many">\@string /title_activity_delete_trial</item>
-        <item quantity="other">\@string /title_activity_delete_trial</item>
+        <item quantity="few"/>
+        <item quantity="many">\@string /tytuł_aktywności_usuwania_próbny</item>
+        <item quantity="other">\@string /tytuł_aktywności_usuwania_próbny</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string /ctx_title_usuw_tag</item>
-        <item quantity="few"></item>
-        <item quantity="many">\@string /ctx_title_delete_tag</item>
-        <item quantity="other">\@string /ctx_title_delete_tag</item>
+        <item quantity="few"/>
+        <item quantity="many">\@string /ctx_title_usuw_tag</item>
+        <item quantity="other">\@string /ctx_title_usuw_tag</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string /title_activity_delete_cecha</item>
-        <item quantity="few"></item>
-        <item quantity="many">\@string /title_activity_delete_trait</item>
-        <item quantity="other">\@string /title_activity_delete_trait</item>
+        <item quantity="few"/>
+        <item quantity="many">\@string /title_activity_delete_cecha</item>
+        <item quantity="other">\@string /title_activity_delete_cecha</item>
     </plurals>
     <string name="msg_csv_import_not_available">Import CSV niedostępny</string>
     <string name="msg_active_database_is_demo">Aktywna baza danych to Demo</string>
-    <string name="msg_it_will_be_removed_on_a_demo_db_reset">(Zostanie on usunięty na „Demo DB Reset”)</string>
+    <string name="msg_it_will_be_removed_on_a_demo_db_reset">(Zostanie usunięty podczas „Resetowania bazy danych demonstracyjnych”)</string>
     <string name="msg_trials_available_for_scoring">Dostępne wersje próbne dla punktacji</string>
     <string name="msg_unexpected_button_id_value">Nieoczekiwany identyfikator przycisku, wartość</string>
     <string name="errMsg_database_error">Błąd bazy danych</string>
@@ -1218,7 +1218,7 @@
     <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">"
 \n
 \nGdy wyświetlana jest ikona „zablokowana”, musisz użyć hasła"</string>
-    <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">ustawiony przez KDXplore lub połącz się z KDXplore, aby umożliwić dezaktywację Lockdown.</string>
+    <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">ustawione przez KDxPlore lub połącz się z KDXplore, aby umożliwić mu dezaktywację Lockdown.</string>
     <string name="errMsg_database_error_fmt_3">Błąd bazy danych</string>
     <string name="msg_storage_access_not_available">Dostęp do pamięci masowej jest niedostępny</string>
     <string name="msg_test_storage_access">Testuj dostęp do pamięci masowej</string>
@@ -1278,7 +1278,7 @@
     <string name="msg_for_plot">dla działki</string>
     <string name="msg_cant_score_trait">Cecha Cant-score</string>
     <string name="errMsg_database_not_found">Nie znaleziono bazy danych</string>
-    <string name="errMsg_db_error">Błąd Db</string>
+    <string name="errMsg_db_error">Błąd bazy danych</string>
     <string name="errMsg_logic_error">Błąd logiczny</string>
     <string name="errMsg_plot_or_specimen_not_found">Nie znaleziono wykresu lub próbki</string>
     <string name="msg_showing_all_specimens">Wyświetlanie wszystkich okazów</string>
@@ -1289,7 +1289,7 @@
     <string name="msg_no_unit">Brak jednostki</string>
     <string name="msg_kdxchange">KDXchange:</string>
     <string name="msg_discovered">Odkryte</string>
-    <string name="msg_rediscovered">Ponownie odkryto</string>
+    <string name="msg_rediscovered">Odkryte na nowo</string>
     <string name="msg_search_stopped">Wyszukiwanie zatrzymane</string>
     <string name="msg_cant_connect">Nie można się połączyć</string>
     <string name="msg_invalid_response">Nieprawidłowa odpowiedź;</string>
@@ -1298,7 +1298,7 @@
     <string name="msg_android_version_is">Wersja Androida to</string>
     <string name="msg_stop_searching_first">Najpierw przestań szukać</string>
     <string name="msg_kdxchange_servers_via">Serwery KDXchange za pośrednictwem</string>
-    <string name="msg_search_required">Wymagane wyszukiwanie...</string>
+    <string name="msg_search_required">Wymagane wyszukiwanie…</string>
     <string name="action_must_implement_onfragmentinteractionlistener">musi zaimplementować onFragmentInteractionListener</string>
     <string name="msg_connect_to_kdxchange">Połącz się z KDXchange</string>
     <string name="msg_already_searching">Już szukałem</string>
@@ -1312,7 +1312,7 @@
     <string name="msg_kdxchange_service_started">Uruchomiono usługę KDXchange</string>
     <string name="msg_kdxchange_service_stopped">Usługa KDXchange została zatrzymana</string>
     <string name="errMsg_error_fmt_2">Błąd (</string>
-    <string name="msg_connecting_to_kdxplore">Łączenie z KDXplore...</string>
+    <string name="msg_connecting_to_kdxplore">Łączenie z KDXplore…</string>
     <string name="errMsg_error_starting_server">Błąd uruchamiania serwera</string>
     <string name="msg_stopping_server">:: zatrzymanie serwera</string>
     <string name="errMsg_error_stopping_server">Błąd zatrzymywania serwera</string>
@@ -1353,7 +1353,7 @@
     <string name="msg_no_unscored_sample_found_for_trait_with_barcode">Nie znaleziono nieocenionej próbki dla cechy z kodem kreskowym</string>
     <string name="errMsg_database_error_fmt_9">Błąd bazy danych</string>
     <string name="errMsg_traits_not_found_in_the_database">Cechy, których nie znaleziono w bazie danych</string>
-    <string name="msg_please_wait">Proszę czekać...</string>
+    <string name="msg_please_wait">Proszę czekać…</string>
     <string name="errMsg_error_fmt_3">Błąd</string>
     <string name="msg_waiting_for_location_fix_fmt_2">Oczekiwanie na poprawkę lokalizacji</string>
     <string name="msg_finding_location_fmt_2">Znajdowanie lokalizacji</string>
@@ -1389,12 +1389,12 @@
     <string name="msg_scoring_samples_in_plot">Punktacja próbek na wykresie</string>
     <string name="msg_saving_sample_failed">Zapis próbki nie powiódł</string>
     <string name="msg_please_save_try_again">Proszę zapisać Spróbuj ponownie</string>
-    <string name="msg_skipped_unscored_trait">Pominięta cecha nieoceniona</string>
+    <string name="msg_skipped_unscored_trait">Pominięta cecha bez punktów</string>
     <string name="msg_debug_output_in">Wyjście debugowania w:</string>
     <string name="msg_no_sample">Brak próbki</string>
     <string name="errMsg_db_error_fmt_2">Błąd Db</string>
     <string name="msg_no_previous_sample">Brak poprzedniej próbki</string>
-    <string name="msg_exit_autoadvance">Wyjdź z automatycznego wyprzedzania\?</string>
+    <string name="msg_exit_autoadvance">Wyjdź z Auto-Advance\?</string>
     <string name="msg_not_yet_supported">: Jeszcze nie obsługiwane</string>
     <string name="msg_save_tag_details">Zapisz szczegóły tagu\?</string>
     <string name="msg_confirm_save">Potwierdź Zapisz</string>
@@ -1406,7 +1406,7 @@
     <string name="msg_please_try_again">Proszę spróbować ponownie</string>
     <string name="msg_tag_bundles_to_delete">Zestawy tagów do usunięcia</string>
     <string name="msg_cannot_delete_all_tags">Nie można usunąć wszystkich znaczników</string>
-    <string name="errMsg_getting_tag_from_tagid_error">Pobieranie tagu z błędu TagId</string>
+    <string name="errMsg_getting_tag_from_tagid_error">Pobieranie znacznika z błędu identyfikatora znacznika</string>
     <string name="msg_tag_already_in">Oznacz już w</string>
     <string name="msg_cant_delete">Nie mogę usunąć</string>
     <string name="msg_selected_ids_cant_be_deleted">Wybrane identyfikatory nie mogą zostać usunięte</string>
@@ -1418,7 +1418,7 @@
     <string name="msg_no_item_selected">Nie wybrano elementu</string>
     <string name="msg_select_tag_from_a_bundle_other_than_all_tags_bundle">Wybierz znacznik z pakietu innego niż pakiet All Tags</string>
     <string name="msg_cant_be_imported">nie można zaimportować</string>
-    <string name="errMsg_retreiving_tag_from_tag_id_error">Retreiving Tag z błędu identyfikatora znacznika</string>
+    <string name="errMsg_retreiving_tag_from_tag_id_error">Przywracanie znacznika z błędu identyfikatora znacznika</string>
     <string name="msg_cannot_delete_from">Nie można usunąć z</string>
     <string name="msg_tags_from">Tagi z</string>
     <string name="errMsg_remove_tags_from_tag_bundle_error">Usuń znaczniki z błędu pakietu znaczników</string>
@@ -1426,14 +1426,14 @@
     <string name="msg_no_details_available">-brak dostępnych szczegółów-</string>
     <string name="msg_getting_trait_from_db_problem">Uzyskiwanie cechy z problemu db</string>
     <string name="msg_database_problem_fmt_2">Problem z bazą danych</string>
-    <string name="errMsg_db_error_fmt_3">Błąd Db</string>
+    <string name="errMsg_db_error_fmt_3">Błąd bazy danych</string>
     <string name="msg_invalid_definition">Nieprawidłowa definicja</string>
     <string name="msg_intdec_mismatch">Niezgodność INT/DEC</string>
     <string name="msgFmt_minimum_must_be_at_least_fmt_2">Minimum musi wynosić co najmniej</string>
     <string name="msgFmt_maximum_must_be_at_most">Maksymalny musi być co najwyżej</string>
     <string name="msgFmt_maximum_must_be_at_most_fmt_2">Maksymalny musi być co najwyżej</string>
     <string name="errMsg_deleting_trait_bundle">Usuwanie pakietu cech</string>
-    <string name="errMsg_getting_trait_bundle_from_bundle_id">Uzyskiwanie pakietu cech z identyfikatora pakietu</string>
+    <string name="errMsg_getting_trait_bundle_from_bundle_id">Pobieranie pakietu cech z identyfikatora pakietu</string>
     <string name="msg_trait_bundles_to_delete">Zestawy cech do usunięcia</string>
     <string name="msg_cannot_delete_all_traits">Nie można usunąć wszystkich cech</string>
     <string name="errMsg_collecting_trait_bundles_error">Błąd zbierania wiązek cech</string>
@@ -1499,8 +1499,8 @@
     <string name="msg_trials_were_not_deleted_successfully">Próby nie zostały pomyślnie usunięte</string>
     <string name="msg_delete_successful">Usuń pomyślnie</string>
     <string name="msg_trials_were_deleted_successfully">Próby zostały pomyślnie usunięte</string>
-    <string name="msg_deleting_trials">Usuwanie prób...</string>
-    <string name="msg_deleting_trial">Usuwanie wersji próbnej...</string>
+    <string name="msg_deleting_trials">Usuwanie wersji próbnych</string>
+    <string name="msg_deleting_trial">Usuwanie wersji próbnej…</string>
     <string name="msg_attempting_to_delete_items_form_kdsmart">Próba usunięcia elementów z KDSmart</string>
     <string name="errMsg_error_during_export">Błąd podczas eksportu</string>
     <string name="msg_trial_exported">Wersja próbna wyeksportowana</string>
@@ -1525,18 +1525,18 @@
     <string name="msg_import_from_kddart_fmt_2">Import z KDDart</string>
     <string name="msg_new_trial_name">Nowa nazwa wersji próbnej</string>
     <string name="msg_trial_note_optional">Uwaga próbna (opcjonalnie)</string>
-    <string name="msg_clearing_sample_data">Czyszczenie przykładowych danych...</string>
+    <string name="msg_clearing_sample_data">Czyszczenie przykładowych danych…</string>
     <string name="msg_export_trial_fmt_2">Wersja próbna eksportu</string>
     <string name="msg_no_trial_id">Brak identyfikatora próbnego</string>
     <string name="msg_cant_be_imported_fmt_3">nie można zaimportować</string>
-    <string name="errMsg_cant_find_trial_with_trialid">Nie mogę znaleźć wersji próbnej z TriaLid</string>
+    <string name="errMsg_cant_find_trial_with_trialid">Nie mogę znaleźć wersji próbnej z identyfikatorem próbnym</string>
     <string name="msg_trials_from">Próby od</string>
     <string name="errMsg_cant_remove_traits_from_bundle_fmt_2">Nie mogę usunąć cech z pakietu</string>
     <string name="msg_trial_import_in_progress">Import próbny w toku</string>
     <string name="msg_stop_it_and_exit">Zatrzymać i wyjść\?</string>
     <string name="msg_change_trait_name_style_to">Zmień styl nazwy cechy na
 \n</string>
-    <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">Blok wydruku nie jest dozwolony dla wielu punktów próbnych</string>
+    <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">Blok fabularny nie jest dozwolony dla wielu próbek</string>
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">Wartość nazwy próbnej jest wymagana dla każdego wykresu podczas używania</string>
     <string name="msg_subplot_count_column_is_required_if_for_all_subplot_is_used">Kolumna Liczba wykresów podrzędnych jest wymagana, jeśli użyto #* (dla wszystkich Poddziałek)</string>
     <string name="msg_eg_trait">np. cecha</string>
@@ -1572,7 +1572,7 @@
     <string name="msg_not_yet_supported_fmt_2">: Jeszcze nie obsługiwane</string>
     <string name="msg_database_problem_fmt_4">Problem z bazą danych:</string>
     <string name="errMsg_database_error_fmt_16">Błąd bazy danych</string>
-    <string name="errMsg_no_tags_to_use_for_trialid">Brak tagów do użycia dla TriaLid</string>
+    <string name="errMsg_no_tags_to_use_for_trialid">Brak tagów do użycia dla identyfikatora próbnego</string>
     <string name="errMsg_system_error">Błąd systemu</string>
     <string name="errMsg_null_database">Baza danych zerowych</string>
     <string name="errMsg_internal_android_error">Wewnętrzny błąd Androida</string>
@@ -1603,7 +1603,7 @@
     <string name="msg_btn_add_edit_tag_use">Użyj</string>
     <string name="msg_hdg_add_edit_tag_label">Etykieta</string>
     <string name="msg_hdg_add_edit_tag_desciption">Opis</string>
-    <string name="prompt_action_toggle_auto_advance">Auto Adv</string>
+    <string name="prompt_action_toggle_auto_advance">Automatyczne postępowanie</string>
     <string name="prompt_auto_advance_on">Automatyczne postępowanie jest włączone
 \nDotknij ponownie, aby go wyłączyć</string>
     <string name="prompt_auto_advance_off">Automatyczne postępowanie jest WYŁĄCZONY
@@ -1661,11 +1661,11 @@
     <string name="title_import_as_trial_y_row_name">Trial %3$s Nazwa</string>
     <string name="errMsg_internal_error_fmt_2">Błąd wewnętrzny</string>
     <string name="msgFmt_minimum_must_be_at_least">Minimum musi wynosić co najmniej</string>
-    <string name="title_desc_multi_trial_import">Multi Trial Import</string>
+    <string name="title_desc_multi_trial_import">Import wielu prób</string>
     <string name="msg_no_valid_options_available">Brak dostępnych ważnych opcji</string>
     <string name="errMsg_could_not_find_specimens_error_fmt_2">Nie można znaleźć próbek Błąd</string>
     <string name="msg_choose_export_option_fmt_2">Wybierz opcję eksportu</string>
-    <string name="msg_export_to_kddart_fmt_5">Eksportuj do Kddart</string>
+    <string name="msg_export_to_kddart_fmt_5">Eksportuj do KDDart</string>
     <string name="msg_database_problem_fmt_3">Problem z bazą danych</string>
     <string name="msg_trial_names_not_available">Nazwy wersji próbnej niedostępne</string>
     <string name="msg_export_trial">Wersja próbna eksportu</string>
@@ -1742,7 +1742,7 @@
     <string name="msg_section">Sekcja</string>
     <string name="msg_select_values">Wybierz wartości</string>
     <string name="msg_start_export">Rozpocznij eksport</string>
-    <string name="msg_subtitle">Podtytuł</string>
+    <string name="msg_subtitle">Napisy</string>
     <string name="msg_tags">Tagi</string>
     <string name="msg_trait_level">Poziom cechy</string>
     <string name="msg_trait_name">Nazwa cechy</string>
@@ -1751,7 +1751,7 @@
     <string name="msg_traitvalidationrule">reguła walidacji cech</string>
     <string name="msg_trial_name">Nazwa Próbna</string>
     <string name="msg_trials_to_export">Próby do eksportu</string>
-    <string name="msg_use_plotid">Użyj PlotID</string>
+    <string name="msg_use_plotid">Użyj identyfikatora wydruku</string>
     <string name="warning_moving_old_data">Postępuj ostrożnie!
 \n
 \nZamierzasz skopiować dane ze starego pliku bazy danych, do bazy danych %1$s.

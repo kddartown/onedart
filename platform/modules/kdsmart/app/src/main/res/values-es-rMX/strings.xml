@@ -4,7 +4,7 @@
     <string name="msg_app_the_smart_way_to_score">La forma inteligente de anotar</string>
     <string name="title_action_take_snapshot">Instantánea</string>
     <string name="title_action_field_view">Vista de campo</string>
-    <string name="title_action_settings">Configuración</string>
+    <string name="title_action_settings">Ajustes</string>
     <string name="prompt_action_swap_sides">Intercambiar lados</string>
     <string name="prompt_action_change_visit_order">Cambiar orden de visita</string>
     <string name="prompt_action_lock_scored_traits">Bloquear Rasgos Anotados</string>
@@ -21,7 +21,7 @@
     <string name="msg_btn_exit_bluetooth">Salir y detener bluetooth</string>
     <string name="msg_btn_delete">Eliminar</string>
     <string name="msg_btn_export">Exportar</string>
-    <string name="msg_btn_stop">Parar</string>
+    <string name="msg_btn_stop">Detener</string>
     <string name="msg_btn_close">Cerrar</string>
     <string name="msg_btn_export_without_dbid">Exportar</string>
     <string name="msg_btn_export_with_dbid">Exportar con ID de base de datos</string>
@@ -149,7 +149,7 @@
     <string name="title_select_trial_traits">Seleccionar rasgos de prueba</string>
     <string name="title_activity_edit_traits">Editar rasgos</string>
     <string name="title_menu_edit_traits">Editar rasgos</string>
-    <string name="title_activity_settings">Configuración</string>
+    <string name="title_activity_settings">Ajustes</string>
     <string name="pref_category_database">Base de datos</string>
     <string name="pref_title_device_name">Nombre del dispositivo</string>
     <string name="pref_desc_device_name">Nombra este dispositivo para KDXChange</string>
@@ -247,7 +247,7 @@
     <string name="pref_plot_change_title_confirm_plot_skipped">Confirmar cuando se omite el trazado</string>
     <string name="pref_plot_change_summary">Verifique para confirmar la ubicación y desmarque para ver si hay un mensaje breve.</string>
     <string name="pref_use_gps_location_for_scoring">Usar ubicación para la puntuación</string>
-    <string name="pref_autoscoring_options">Opciones de Avance Automático</string>
+    <string name="pref_autoscoring_options">Opciones de avance automático</string>
     <string name="pref_use_gps">Comprobar si se utiliza la ubicación para la puntuación</string>
     <string name="prompt_confirm_when_plot_skipped">Confirmar cuando %1$s se omitió</string>
     <string name="msg_prefix_picture_for">Imagen para</string>
@@ -299,7 +299,7 @@
     <string name="msg_btn_add_edit_tag_use">Uso</string>
     <string name="msg_hdg_add_edit_tag_label">Etiqueta</string>
     <string name="msg_hdg_add_edit_tag_desciption">Descripción</string>
-    <string name="prompt_action_toggle_auto_advance">Auto Adv</string>
+    <string name="prompt_action_toggle_auto_advance">Avance automático</string>
     <string name="prompt_auto_advance_on">El avance automático está ACTIVADO
 \nToque de nuevo para apagarlo</string>
     <string name="prompt_auto_advance_off">El avance automático está DESACTIVADO
@@ -328,37 +328,37 @@
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
         <item quantity="one">%d Instancia de rasgo activa</item>
-        <item quantity="many"></item>
-        <item quantity="other">%d Instancias de características activas</item>
+        <item quantity="many"/>
+        <item quantity="other">%d Instancia de rasgo activa</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
         <item quantity="one">%d prueba seleccionada para su eliminación</item>
-        <item quantity="many"></item>
-        <item quantity="other">%d ensayos seleccionados para su eliminación</item>
+        <item quantity="many"/>
+        <item quantity="other">%d prueba seleccionada para su eliminación</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
         <item quantity="one">%d El rasgo será eliminado</item>
-        <item quantity="many"></item>
-        <item quantity="other">%d Los rasgos serán eliminados</item>
+        <item quantity="many"/>
+        <item quantity="other">%d El rasgo será eliminado</item>
     </plurals>
     <string name="title_export_all_traits">Exportar todos los rasgos</string>
     <string name="title_please_confirm_tag_export">Confirme la exportación de etiquetas</string>
     <string name="title_please_confirm_trait_export">Confirme la exportación de características</string>
     <plurals name="msg_export_n_traits">
         <item quantity="one">Característica %d seleccionada para la exportación</item>
-        <item quantity="many"></item>
-        <item quantity="other">Rasgos %d seleccionados para la exportación</item>
+        <item quantity="many"/>
+        <item quantity="other">Característica %d seleccionada para la exportación</item>
     </plurals>
     <plurals name="msg_export_n_trials">
         <item quantity="one">%d prueba seleccionada para exportación</item>
-        <item quantity="many"></item>
-        <item quantity="other">%d pruebas seleccionadas para la exportación</item>
+        <item quantity="many"/>
+        <item quantity="other">%d prueba seleccionada para exportación</item>
     </plurals>
     <string name="title_export_all_tags">Exportar todas las etiquetas</string>
     <plurals name="msg_export_n_tags">
         <item quantity="one">%d etiqueta Seleccionada para la exportación</item>
-        <item quantity="many"></item>
-        <item quantity="other">%d etiquetas Seleccionadas para exportación</item>
+        <item quantity="many"/>
+        <item quantity="other">%d etiqueta Seleccionada para la exportación</item>
     </plurals>
     <string name="title_activity_scoring_setup">Configurar</string>
     <string name="title_section_scoring_options">Opciones</string>
@@ -404,7 +404,7 @@
     <string name="ctx_title_manage_traits">Administrar Rasgos</string>
     <string name="ctx_help_manage_traits">&lt;p&gt; La pantalla de prueba &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; muestra todas las pruebas que están cargadas actualmente en KDSmart. &lt;/p&gt; &lt;p&gt; Para mostrar los detalles de un rasgo, elija el rasgo presionando brevemente. Esto te llevará a la pantalla de detalles de características &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Si un rasgo está resaltado, puede realizar las siguientes acciones sobre él junto con acciones generales en el menú &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;strong&gt; Editar rasgo &lt;/strong&gt; &amp;nbsp; - Abre ese &amp;nbsp; &lt;strong&gt; Rasgo Editar pantalla &lt;/strong&gt; &amp;nbsp; para cualquier rasgo resaltado; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Agregar rasgo &lt;/strong&gt; &amp;nbsp; - Abre la pantalla &amp;nbsp; &lt;strong&gt; Agregar rasgo &lt;/strong&gt; &amp;nbsp; donde se pueden crear nuevos rasgos; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; X] Importar desde &lt;/strong&gt; &amp;nbsp; - Opciones para importar características desde el dispositivo o desde KDXplore con KDXchange; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Compartir &lt;/strong&gt; &amp;nbsp; - Opciones para compartir el rasgo resaltado con Storage Access Framework de Android, incluyendo correo electrónico, Bluetooth o cualquier servicio de intercambio de archivos instalado en el dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Exportar a &lt;/strong&gt; &amp;nbsp; - Opciones de exportación de cualquier rasgo resaltado para exportar archivos al dispositivo; &lt;/li&gt; &lt;li&gt; X] &lt;strong&gt; Eliminar &lt;/strong&gt; &amp;nbsp; - Opciones para eliminar el rasgo resaltado o eliminarlo de un paquete de rasgos; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Cursiva para Protegido &lt;/strong&gt; &amp;nbsp; - Seleccione la casilla de verificación para asegurarse de que el texto de los rasgos protegidos esté en cursiva ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Tamaño del texto del teclado numérico &lt;/strong&gt; &amp;nbsp; - Opciones para el tamaño de texto del teclado en la pantalla de puntuación &amp;nbsp; &lt;strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Escáner en &lt;/strong&gt;] &amp;nbsp; - Abre la ventana &amp;nbsp; &lt;strong&gt; Dispositivos emparejados &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Actualizar lista &lt;/strong&gt; &amp;nbsp; - Actualiza la lista de rasgos; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Bluetooth encendido/apagado &lt;/strong&gt; X] &amp;nbsp; - Activa o desactiva el dispositivo Bluetooth; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ordenar... &lt;/strong&gt; &amp;nbsp; - Opciones para clasificar rasgos; y &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ayuda &lt;/strong&gt; &amp;nbsp; - Abre esto página de ayuda. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Utilice una pulsación larga sobre uno o más rasgos para seleccionarlos para futuras acciones. Tenga en cuenta que se puede seleccionar más de un rasgo a la vez. Las acciones adicionales que la selección puede mostrar son: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; Seleccionar/Deseleccionar Todo &lt;/strong&gt; &amp;nbsp; - Selecciona o deselecciona todos los rasgos; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Compartir &lt;/strong&gt; &amp;nbsp; - Compartir opciones para el rasgo resaltado con Storage Access Framework de Android, incluido correo electrónico, Bluetooth o cualquier servicio de uso compartido de archivos instalado en el dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Exportar a &lt;/strong&gt; &amp;nbsp; - Opciones de exportación de cualquier rasgo resaltado para exportar archivos al dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Crear paquete de características &lt;/strong&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Crear paquete de características &lt;/strong&gt; &amp;nbsp; - Abre el &amp;nbsp; [X 2559X] Agregar pantalla de paquete de rasgos &lt;/strong&gt; &amp;nbsp; donde puede crear nuevos paquetes de rasgos y agregar los rasgos seleccionados a los existentes; y &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Eliminar &lt;/strong&gt; &amp;nbsp; - Opciones para eliminar el rasgo resaltado o eliminarlo de un paquete de rasgos. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="ctx_title_trial_detail">Detalles de la prueba</string>
-    <string name="ctx_help_trial_detail">&lt;div id=change-14900 class=journal has-notes&gt; &lt;div id=note-7&gt; &lt;div id=journal-14900-notes class=wiki&gt; &lt;p&gt;Esta pantalla proporciona información sobre una versión de prueba seleccionada. Desliza el dedo hacia la izquierda y hacia la derecha para seleccionar diferentes pruebas que están en el dispositivo. Muchas de las mismas opciones de la &lt;strong&gt;pantalla de pruebas&lt;/strong&gt;, incluyendo compartir y eliminar, siguen disponibles, incluyendo compartir y eliminar la versión de prueba (consulte la ayuda de la &lt;strong&gt;pantalla de pruebas&lt;/strong&gt; para obtener más información).&lt;/p&gt; &lt;p&gt;El &lt;strong&gt;botón Editar&lt;/strong&gt; permitirá editar o agregar cualquier detalle de prueba. Todos los detalles se enumeran a continuación:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Nombre de la prueba&lt;/strong&gt; - Nombre del ensayo seleccionado. Esto no se puede editar.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Abreviatura&lt;/strong&gt; - Nombre abreviado del juicio.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Fecha de siembra&lt;/strong&gt; - Fecha en que se plantaron los especímenes.&lt;/li&gt; Nombres de ejes &lt;li&gt;&lt;strong&gt;%1$s y X/Y: cambie los nombres de los ejes&lt;/strong&gt; X/Y y los nombres de %1$s. Están configurados en &lt;em&gt;%1$s&lt;/em&gt;, &lt;em&gt;%4$s&lt;/em&gt; y &lt;em&gt;Rango&lt;/em&gt; de forma predeterminada, pero&lt;/li&gt; pueden ser cualquier cosa. &lt;li&gt;&lt;strong&gt;%1$s Identificación&lt;/strong&gt; - %1$s opciones de identificación.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Diseño de prueba&lt;/strong&gt;: proporciona opciones para configurar el diseño de prueba. Estas opciones dependerán del tipo de diseño de prueba como se describe a continuación: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;%1$s X/Y Diseño de prueba - Una prueba&lt;/strong&gt; donde los %1$s están etiquetados por sus coordenadas x/y (por ejemplo, %1$s 3,2) que tiene la siguiente opción: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Origen&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt; - Establece dónde comenzar y la dirección en la que&lt;/li&gt; anotar. &lt;li&gt;&lt;strong&gt;%1$s Diseño de prueba de ID&lt;/strong&gt; - Una prueba en la que %1$s están etiquetados con identificadores únicos (por ejemplo, %1$s 12) que tiene las siguientes opciones: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Origen&lt;/strong&gt; - Establece&lt;/li&gt; dónde comenzar y la dirección en la que anotar. &lt;li&gt;&lt;strong&gt;Trasversal&lt;/strong&gt; &lt;strong&gt;- Patrón transversal dentro de cada ensayo, por ejemplo, &lt;em&gt;serpentina&lt;/em&gt; o &lt;em&gt;una vía&lt;/em&gt; (la travesía para el ensayo se puede elegir en Configuración de puntuación).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Longitud de ejecución&lt;/strong&gt;: indica el número de %1$s que se produce antes de cambiar el ID de origen %1$s transversal&lt;/li&gt; &lt;li&gt;&lt;strong&gt;: el ID de inicio %1$s&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;. &lt;li&gt;&lt;strong&gt;Diseño de prueba en bloque&lt;/strong&gt; - Una prueba que contiene bloques que son subconjuntos de %1$s adyacentes dentro de una prueba: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Diseño de bloque&lt;/strong&gt; - Establece dónde comenzar y la dirección para anotar&lt;/li&gt; dentro de cada bloque. &lt;li&gt;&lt;strong&gt;Trasversal&lt;/strong&gt; &lt;strong&gt;- Patrón transversal dentro de cada bloque, por ejemplo, &lt;em&gt;serpentina&lt;/em&gt; o en &lt;em&gt;una vía&lt;/em&gt; (la travesía para la prueba se puede elegir en Configuración de puntuación).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Longitud de ejecución&lt;/strong&gt;: indica el número de %1$s dentro de un bloque que se produce antes de cambiar el recorrido.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;ID de bloque de origen&lt;/strong&gt;: el ID de bloque inicial.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;%1$s Origen en bloque&lt;/strong&gt;: indica el origen de %1$s en todos los bloques.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tipo de organismo&lt;/strong&gt; - Se establece como &lt;em&gt;genérico&lt;/em&gt; por defecto pero se puede cambiar a &lt;em&gt;planta&lt;/em&gt;, &lt;em&gt;maíz&lt;/em&gt;, &lt;em&gt;trigo&lt;/em&gt; o &lt;em&gt;ADN&lt;/em&gt;. Estas opciones cambiarán el icono que se utiliza para %2$s (especímenes) en&lt;/li&gt; la prueba. &lt;li&gt;&lt;strong&gt;Nota&lt;/strong&gt; - Agregar una nota a la versión de prueba.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Rasgos&lt;/strong&gt;: enumera los rasgos en el ensayo e indica cuántas instancias de rasgos están disponibles para cada rasgo (consulte a continuación para obtener más información).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Atributos de prueba&lt;/strong&gt; - Atributos que se aplican a todo el ensayo.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Tipos: tipos de&lt;/strong&gt; %1$s que se encuentran en la prueba.&lt;/li&gt; &lt;/ul&gt;&lt;li&gt;&lt;strong&gt;%1$s Atributos: atributos&lt;/strong&gt; que se aplican a %1$s.&lt;/li&gt; &lt;p&gt;La &lt;strong&gt;opción Rasgos&lt;/strong&gt; abrirá la &lt;strong&gt;pantalla Instancias de rasgos&lt;/strong&gt;. Enumera los rasgos en el ensayo e indica cuántas instancias de rasgos están disponibles para cada rasgo. Una estrella completa indica que se puntuará el rasgo, una estrella vacía indica que el rasgo se ocultará al anotar, y una estrella medio llena demuestra que hay múltiples instancias para un rasgo, pero al menos una de ellas estará oculta. Esto es útil para seleccionar solo los rasgos que necesitan ser puntuados. Las siguientes opciones generales están disponibles aquí:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Seleccionar Ninguno/Seleccionar todo - Deselecciona o selecciona todos&lt;/strong&gt;&lt;/li&gt; los rasgos. &lt;li&gt;&lt;strong&gt;Agregar rasgos&lt;/strong&gt; - Agrega rasgos a las pruebas (esto se puede encontrar seleccionando el &lt;strong&gt;botón Menú&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cambiar orden&lt;/strong&gt;: elija el orden en el que se puntuarán los rasgos (esto se puede encontrar seleccionando el &lt;strong&gt;botón Menú&lt;/strong&gt;).&lt;/li&gt;&lt;/ul&gt; Puede &lt;p&gt;encontrar más opciones de instancia de rasgo para cada rasgo individual seleccionando el &lt;strong&gt;botón Instancia de rasgo&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Agregar instancia&lt;/strong&gt; - Crea instancias para el rasgo seleccionado. Vuelva a elegir esta opción para crear otra instancia.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mover hacia arriba&lt;/strong&gt; - Mueve el rasgo hacia arriba en el orden de puntuación.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Bajar&lt;/strong&gt; - Mueve el rasgo hacia abajo en el orden de puntuación.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Editar descripción&lt;/strong&gt;: edita la descripción de la instancia.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Eliminar rasgo&lt;/strong&gt;: elimina el rasgo de la prueba.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div id=change-14911 class=journal has-details&gt;&lt;/div&gt;</string>
+    <string name="ctx_help_trial_detail">&lt;div id=change-14900 class=journal has-notes&gt; &lt;div id=note-7&gt; &lt;div id=journal-14900-notes class=wiki&gt; &lt;p&gt;Esta pantalla proporciona información sobre una versión de prueba seleccionada. Desliza el dedo hacia la izquierda y hacia la derecha para seleccionar diferentes pruebas que están en el dispositivo. Muchas de las mismas opciones de la &lt;strong&gt;pantalla de pruebas&lt;/strong&gt;, incluyendo compartir y eliminar, siguen disponibles, incluyendo compartir y eliminar la versión de prueba (consulte la ayuda de la &lt;strong&gt;pantalla de pruebas&lt;/strong&gt; para obtener más información).&lt;/p&gt; &lt;p&gt;El &lt;strong&gt;botón Editar&lt;/strong&gt; permitirá editar o agregar cualquier detalle de prueba. Todos los detalles se enumeran a continuación:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Nombre de la prueba&lt;/strong&gt; - Nombre del ensayo seleccionado. Esto no se puede editar.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Abreviatura&lt;/strong&gt; - Nombre abreviado del juicio.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Fecha de siembra&lt;/strong&gt; - Fecha en que se plantaron los especímenes.&lt;/li&gt; Nombres de ejes &lt;li&gt;&lt;strong&gt;%1$s y X/Y: cambie los nombres de los ejes&lt;/strong&gt; X/Y y los nombres de %1$s. Están configurados en &lt;em&gt;%1$s&lt;/em&gt;, &lt;em&gt;%4$s&lt;/em&gt; y &lt;em&gt;Rango&lt;/em&gt; de forma predeterminada, pero&lt;/li&gt; pueden ser cualquier cosa. &lt;li&gt;&lt;strong&gt;%1$s Identificación&lt;/strong&gt; - %1$s opciones de identificación.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Diseño de prueba&lt;/strong&gt;: proporciona opciones para configurar el diseño de prueba. Estas opciones dependerán del tipo de diseño de prueba como se describe a continuación: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;%1$s X/Y Diseño de prueba - Una prueba&lt;/strong&gt; donde los %1$s están etiquetados por sus coordenadas x/y (por ejemplo, %1$s 3,2) que tiene la siguiente opción: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Origen&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt; - Establece dónde comenzar y la dirección en la que&lt;/li&gt; anotar. &lt;li&gt;&lt;strong&gt;%1$s Diseño de prueba de ID&lt;/strong&gt; - Una prueba donde los %1$s están etiquetados con identificadores únicos (por ejemplo, %1$s 12) que tiene las siguientes opciones: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Origen&lt;/strong&gt; - Establece&lt;/li&gt; dónde comenzar y la dirección en la que anotar. &lt;li&gt;&lt;strong&gt;Trasversal&lt;/strong&gt; &lt;strong&gt;- Patrón transversal dentro de cada ensayo, por ejemplo, &lt;em&gt;serpentina&lt;/em&gt; o &lt;em&gt;una vía&lt;/em&gt; (la travesía para el ensayo se puede elegir en Configuración de puntuación).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Longitud de ejecución&lt;/strong&gt;: indica el número de %1$s que se produce antes de cambiar el ID de origen %1$s transversal&lt;/li&gt; &lt;li&gt;&lt;strong&gt;: el ID de inicio %1$s&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;. &lt;li&gt;&lt;strong&gt;Diseño de prueba en bloque&lt;/strong&gt; - Una prueba que contiene bloques que son subconjuntos de %1$s adyacentes dentro de una prueba: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Diseño de bloque&lt;/strong&gt; - Establece dónde comenzar y la dirección para anotar&lt;/li&gt; dentro de cada bloque. &lt;li&gt;&lt;strong&gt;Trasversal&lt;/strong&gt; &lt;strong&gt;- Patrón transversal dentro de cada bloque, por ejemplo, &lt;em&gt;serpentina&lt;/em&gt; o en &lt;em&gt;una vía&lt;/em&gt; (la travesía para la prueba se puede elegir en Configuración de puntuación).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Longitud de ejecución&lt;/strong&gt;: indica el número de %1$s dentro de un bloque que se produce antes de cambiar el recorrido.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;ID de bloque de origen&lt;/strong&gt;: el ID de bloque inicial.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;%1$s Origen en bloque&lt;/strong&gt;: indica el origen de %1$s en todos los bloques.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tipo de organismo&lt;/strong&gt; - Se establece como &lt;em&gt;genérico&lt;/em&gt; por defecto pero se puede cambiar a &lt;em&gt;planta&lt;/em&gt;, &lt;em&gt;maíz&lt;/em&gt;, &lt;em&gt;trigo&lt;/em&gt; o &lt;em&gt;ADN&lt;/em&gt;. Estas opciones cambiarán el icono que se utiliza para %2$s (especímenes) en&lt;/li&gt; la prueba. &lt;li&gt;&lt;strong&gt;Nota&lt;/strong&gt; - Agregar una nota a la versión de prueba.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Rasgos&lt;/strong&gt;: enumera los rasgos en el ensayo e indica cuántas instancias de rasgos están disponibles para cada rasgo (consulte a continuación para obtener más información).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Atributos de prueba&lt;/strong&gt; - Atributos que se aplican a todo el ensayo.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Tipos: tipos de&lt;/strong&gt; %1$s que se encuentran en la prueba.&lt;/li&gt; &lt;/ul&gt;&lt;li&gt;&lt;strong&gt;%1$s Atributos: atributos&lt;/strong&gt; que se aplican a %1$s.&lt;/li&gt; &lt;p&gt;La &lt;strong&gt;opción Rasgos&lt;/strong&gt; abrirá la &lt;strong&gt;pantalla Instancias de rasgos&lt;/strong&gt;. Enumera los rasgos en el ensayo e indica cuántas instancias de rasgos están disponibles para cada rasgo. Una estrella completa indica que se puntuará el rasgo, una estrella vacía indica que el rasgo se ocultará al anotar, y una estrella medio llena demuestra que hay múltiples instancias para un rasgo, pero al menos una de ellas estará oculta. Esto es útil para seleccionar solo los rasgos que necesitan ser puntuados. Las siguientes opciones generales están disponibles aquí:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Seleccionar Ninguno/Seleccionar todo - Deselecciona o selecciona todos&lt;/strong&gt;&lt;/li&gt; los rasgos. &lt;li&gt;&lt;strong&gt;Agregar rasgos&lt;/strong&gt; - Agrega rasgos a las pruebas (esto se puede encontrar seleccionando el &lt;strong&gt;botón Menú&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cambiar orden&lt;/strong&gt;: elija el orden en el que se puntuarán los rasgos (esto se puede encontrar seleccionando el &lt;strong&gt;botón Menú&lt;/strong&gt;).&lt;/li&gt;&lt;/ul&gt; Puede &lt;p&gt;encontrar más opciones de instancia de rasgo para cada rasgo individual seleccionando el &lt;strong&gt;botón Instancia de rasgo&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Agregar instancia&lt;/strong&gt; - Crea instancias para el rasgo seleccionado. Vuelva a elegir esta opción para crear otra instancia.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mover hacia arriba&lt;/strong&gt; - Mueve el rasgo hacia arriba en el orden de puntuación.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Bajar&lt;/strong&gt; - Mueve el rasgo hacia abajo en el orden de puntuación.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Editar descripción&lt;/strong&gt;: edita la descripción de la instancia.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Eliminar rasgo&lt;/strong&gt;: elimina el rasgo de la prueba.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div id=change-14911 class=journal has-details&gt;&lt;/div&gt;</string>
     <string name="ctx_title_trial_context">Juicio</string>
     <string name="ctx_help_trial_context">Utilice la acción &lt;i&gt;Exportar a&lt;/i&gt; para exportar una sola &lt;i&gt;prueba&lt;/i&gt;. &lt;p&gt;Utilice la acción &lt;i&gt;Eliminar&lt;/i&gt; para eliminar las &lt;i&gt;pruebas&lt;/i&gt; seleccionadas de la base de datos. &lt;p&gt;Cancelar usando la marca de la izquierda de la &lt;i&gt;barra de acciones&lt;/i&gt;. &lt;br/&gt;&lt;br/&gt;Tenga cuidado al eliminar Pruebas. Como medida de precaución, asegúrese de que cualquier exportación de prueba se haya realizado correctamente visualizando y comprobando primero el contenido del CSV de prueba o viendo los datos de prueba en KDXplore antes de eliminarlos de KDSmart.</string>
     <string name="ctx_title_manage_tags">Administrar etiquetas</string>
@@ -520,17 +520,17 @@
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
         <item quantity="one">%2$d %1$s Medición de muestra</item>
-        <item quantity="many"></item>
-        <item quantity="other">%2$d %1$s Medidas de muestra</item>
+        <item quantity="many"/>
+        <item quantity="other">%2$d %1$s Medición de muestra</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
         <item quantity="one">%1$d %2$s Medida</item>
-        <item quantity="many"></item>
-        <item quantity="other">%1$d %2$s Medidas</item>
+        <item quantity="many"/>
+        <item quantity="other">%1$d %2$s Medida</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
         <item quantity="one">Añadido %d Nuevos Rasgos</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">Añadido %d Nuevos Rasgos</item>
     </plurals>
     <string name="title_activity_export_trial">Exportar prueba</string>
@@ -587,8 +587,8 @@
     <string name="msg_hint_enter_unit_name">Introduzca el nombre de la unidad</string>
     <string name="msg_hint_trait_alias">-Sin alias definido-</string>
     <string name="msg_hint_enter_trait_alias">Introducir alias</string>
-    <string name="prompt_kdxchange_started">Se inició el servidor Kdxchange</string>
-    <string name="prompt_kdxchange_stopped">Servidor Kdxchange detenido</string>
+    <string name="prompt_kdxchange_started">Se inició el servidor KDXchange</string>
+    <string name="prompt_kdxchange_stopped">Servidor KDXChange detenido</string>
     <string name="msg_value_out_of_range">Valor fuera de rango</string>
     <string name="msg_selected_trait_value">Valor actual</string>
     <string name="title_plot_attributes">%1$s Atributos</string>
@@ -673,8 +673,8 @@
     <string name="title_desc_tns_2underbar_number">Trait__123</string>
     <string name="title_desc_tns_2underbar_number_brief">__123</string>
     <string name="title_desc_multi_trial_import">Importación de prueba múltiple</string>
-    <string name="title_desc_multi_trial_scoring">Puntuación de prueba múltiple</string>
-    <string name="msg_multi_scoring_are_you_sure">¿Usa estas pruebas en la puntuación de múltiples pruebas\?</string>
+    <string name="title_desc_multi_trial_scoring">Puntuación de varias pruebas</string>
+    <string name="msg_multi_scoring_are_you_sure">¿Utiliza estas pruebas en la puntuación de varios ensayos\?</string>
     <string name="msg_hdg_path_of_import_file">Ruta del archivo de importación</string>
     <string name="msg_hdg_specimens">%2$s</string>
     <string name="msg_prompt_enter_text">Introducir texto</string>
@@ -714,7 +714,7 @@
     <string name="title_inactive_trait">Rasgo inactivo</string>
     <string name="msg_question_do_you_want_to_change">¿Desea cambiar el valor\?</string>
     <string name="pref_title_allow_inactive_trait_edit">Permitir edición de rasgos inactivos</string>
-    <string name="pref_title_kdxplore_barcodes">Usar códigos de barras de Kdxplore</string>
+    <string name="pref_title_kdxplore_barcodes">Usar códigos de barras KDXplore</string>
     <string name="pref_title_alphabetical_trait_order_title">Usar orden alfabético de rasgos</string>
     <string name="pref_title_alphabetical_trait_order">Usar el orden alfabético de rasgos en la exportación CSV</string>
     <string name="pref_desc_allow_inactive_trait_edit">Comprobar para permitir el cambio de valores o rasgos inactivos</string>
@@ -815,7 +815,7 @@
     <string name="title_choose_how_to_identify_plots">Elija cómo identificar %1$s</string>
     <string name="title_start_scoring">Comenzar a anotar</string>
     <string name="title_export_to_csv">Exportar a CSV</string>
-    <string name="hdg_column_number">Col#</string>
+    <string name="hdg_column_number">Columna #</string>
     <string name="hdg_csv_heading">Encabezado CSV</string>
     <string name="hdg_data_row_1">Fila de datos #1</string>
     <string name="hdg_import_as">Importar como</string>
@@ -933,8 +933,8 @@
     <string name="msg_check_database_integrity">Comprobación de errores en la prueba.
 \nEsto llevará unos minutos.
 \nPor favor, no salga de la aplicación</string>
-    <string name="msg_db_check_completed">Verificación de base de datos completada</string>
-    <string name="msg_couldnot_complete_db_check">No se pudo completar la comprobación de base de datos</string>
+    <string name="msg_db_check_completed">Verificación de la base de datos completada</string>
+    <string name="msg_couldnot_complete_db_check">No se pudo completar la comprobación de la base de datos</string>
     <string name="msg_couldnot_complete_trait_addition">No se pudo terminar de agregar rasgos</string>
     <string name="msg_no_traits_to_add">No se han seleccionado rasgos para agregar</string>
     <string name="msg_file_or_folder_empty">El archivo o carpeta está vacío</string>
@@ -958,7 +958,7 @@
     <string name="ctx_help_delete_trial_bundle">&lt;p&gt; Cualquier paquete de prueba seleccionado para su eliminación aparecerá en esta pantalla &amp;nbsp; &lt;strong&gt; Eliminar paquetes de prueba &lt;/strong&gt;. Cada paquete se enumerará a continuación, junto con cada prueba que forma parte de ese paquete. &lt;/p&gt; &lt;p&gt; Seleccione &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp; para confirmar la eliminación del paquete de prueba. &lt;/p&gt; &lt;p&gt; Seleccione &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp; para cancelar la eliminación del paquete de prueba. &lt;/p&gt; &lt;p&gt; Tenga en cuenta que al eliminar un paquete de prueba no se eliminan las pruebas que contiene. &lt;/p&gt;</string>
     <string name="ctx_help_remove_trials_from_bundle">&lt;p&gt; Las pruebas seleccionadas para su eliminación del paquete de prueba aparecen en esta pantalla y es necesario confirmar la eliminación. &lt;/p&gt; &lt;p&gt; Seleccione &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp; para confirmar la eliminación de las pruebas del paquete. &lt;/p&gt; &lt;p&gt; Seleccione &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp; para cancelar la eliminación de las pruebas del paquete. &lt;/p&gt; &lt;p&gt; Tenga en cuenta que al eliminar una versión de prueba de un paquete no se elimina la versión de prueba del dispositivo. &lt;/p&gt;</string>
     <string name="title_add_trial_bundles">Agregar paquete de prueba</string>
-    <string name="errmsg_select_trials_from_one_trial_bundle">Seleccione las pruebas de un paquete de prueba para la puntuación múltiple</string>
+    <string name="errmsg_select_trials_from_one_trial_bundle">Seleccione las pruebas de un paquete de prueba para puntuación múltiple</string>
     <string name="errmsg_multi_trial_scoring_coming_soon">La puntuación de prueba múltiple llegará pronto</string>
     <string name="errmsg_tag_with_name_already_exists">La etiqueta con el nombre ya existe</string>
     <string name="msg_action_camera_barcode">Escanear código de barras</string>
@@ -1006,7 +1006,7 @@
     <string name="msg_device_version_number_lollipop_and_above">El escaneo de código de barras de la cámara está disponible por encima de Android Lollipop</string>
     <string name="msg_barcodes_were_scanned">Los códigos de barras fueron escaneados</string>
     <string name="msg_no_barcodes_detected">No se detectaron códigos de barras</string>
-    <string name="msg_no_barcode_match">El código de barras no tiene información. Deseleccione la opción Usar códigos de barras de Kdxplore en la configuración si no está utilizando KDXplore.</string>
+    <string name="msg_no_barcode_match">El código de barras no tiene información. Desactive la opción Usar códigos de barras de KDXplore en la configuración si no está utilizando KDXplore.</string>
     <string name="msg_sample_data_exists_for_trait">Los datos de muestra existen para esta instancia de rasgo, no se pueden quitar</string>
     <string name="msg_fix_block_trials">Actualizar pruebas de bloques</string>
     <string name="msg_retry_scoring_block_trial">Prueba de bloque de puntuación de reintento</string>
@@ -1018,7 +1018,7 @@
     <string name="msg_use_for_scoring">¿Bloqueo de puntuación\?</string>
     <string name="msg_use_other">Activar Otros</string>
     <string name="msg_word_for_other">Valor de la elección:</string>
-    <string name="msg_other_needs_at_least_one_more_item">Se necesita al menos un elemento más si se utiliza la extensión Cat Other</string>
+    <string name="msg_other_needs_at_least_one_more_item">Se necesita al menos un elemento más si se utiliza la extensión Categoría Otro</string>
     <string name="msg_other_needs_a_name">Escriba un nombre para que otro usuario lo use en la puntuación</string>
     <string name="msg_needs_at_least_two_item">Se necesitan al menos dos elementos para los rasgos categóricos</string>
     <string name="msg_enter_value_for_other">Introduzca un valor para</string>
@@ -1052,7 +1052,7 @@
     <string name="msg_cloning_trial">Prueba de clonación</string>
     <string name="msg_btn_switch_GPS_on">Encienderlo en la configuración o en las opciones del menú</string>
     <string name="msg_gps_off">La ubicación está desactivada</string>
-    <string name="msg_please_update_kdsmart_from_playstore">Actualiza KDSmart desde playstore</string>
+    <string name="msg_please_update_kdsmart_from_playstore">Actualiza KDSmart desde Playstore</string>
     <string name="msg_copy_expires_soon">KDSmart expira pronto</string>
     <string name="msg_days_left_before_expiry">Días restantes antes de que caduque KDSmart</string>
     <string name="pref_title_prefer_location_on">Ubicación en When Scoring</string>
@@ -1112,11 +1112,11 @@
     <string name="title_trial_plot_id">%1$s ID</string>
     <string name="errmsg_number_of_plots_new_trial_error">Se necesita al menos un %1$s</string>
     <string name="errmsg_more_than_ten_thousand">No se permiten más de 10000 %1$s</string>
-    <string name="errmsg_first_plot_must_be_greater_than_zero">La primera identificación %1$s debe ser mayor que 0</string>
+    <string name="errmsg_first_plot_must_be_greater_than_zero">El primer ID %1$s debe ser mayor que 0</string>
     <string name="msg_select_minutes">Seleccionar min</string>
     <string name="msg_select_dates">Seleccionar fechas</string>
     <string name="title_longer_range">Calendario</string>
-    <string name="msg_pick_number_of_minutes">No de minutos</string>
+    <string name="msg_pick_number_of_minutes">Número de minutos</string>
     <string name="msg_detected_multiple_instances">KDSmart ha detectado varias instancias</string>
     <string name="msg_enter_number_of_sub_plots_in_every_plot">Número de %2$s por %1$s</string>
     <string name="msg_empty_trial_name">El nombre de la prueba no se puede dejar vacío</string>
@@ -1139,7 +1139,7 @@
     <string name="ctx_help_scoring_setup_select_blocks"><p> Cualquier prueba de bloque tendrá todos los bloques listados y seleccionables con las casillas de verificación. Al menos uno debe ser elegido. Esta opción solo estará disponible para las pruebas en bloque. </p></string>
     <string name="ctx_add_trial_bundle">Agregar paquete de prueba</string>
     <string name="ctx_help_add_trial_bundle">&lt;p&gt; La pantalla &amp;nbsp; &lt;strong&gt; Agregar paquete de prueba &lt;/strong&gt; &amp;nbsp; permite la creación de nuevos paquetes de rasgos o la adición de pruebas a los paquetes existentes. Asegúrese de que todas las pruebas que se van a agregar o agrupar estén seleccionadas y, a continuación, seleccione el botón &amp;nbsp; &lt;strong&gt; Crear paquete de prueba &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; La pantalla &amp;nbsp; &lt;strong&gt; Agregar paquete de prueba &lt;/strong&gt; &amp;nbsp; mostrará una lista de todas las etiquetas seleccionadas y todos los paquetes creados previamente. También se dejará en blanco un campo de texto para el nombre del paquete. Para crear un nuevo paquete de prueba, escriba un nombre de paquete en el campo en blanco y, a continuación, seleccione el botón Crear &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Para agregar las pruebas seleccionadas a un paquete existente, escriba el nombre de ese paquete en el campo de texto o seleccione un paquete listado con una pulsación corta &amp;nbsp; &lt;em&gt; &lt;/em&gt; &amp;nbsp; y luego seleccione el botón Agregar &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt;</string>
-    <string name="ctx_help_add_trial">&lt;p&gt; La pantalla &amp;nbsp; &lt;strong&gt; Agregar prueba &lt;/strong&gt; &amp;nbsp; permite a los usuarios crear una nueva versión de prueba dentro de KDSmart. Las siguientes opciones están disponibles para crear una versión de prueba: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Nombre de prueba &lt;/strong&gt; &amp;nbsp; - El nombre de la nueva versión de prueba. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Tipo de prueba &lt;/strong&gt; &amp;nbsp; - Elija entre una prueba &amp;nbsp; &lt;em&gt; %1$s X/Y &lt;/em&gt; &amp;nbsp; en la que cada %1$s tiene coordenadas x/y únicas, o una &amp;nbsp; &lt;em&gt; %1$s Id [X4040X] 3X] &amp;nbsp; prueba donde cada %1$s tiene un ID único %1$s. La opción que aquí se elija determinará algunas de las siguientes opciones. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Número de %3$s &lt;/strong&gt; &amp;nbsp; (pruebas %1$s X/Y) - El número de %1$s %3$s que se creará para el cliente. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Número de %4$s &lt;/strong&gt; &amp;nbsp; (pruebas %1$s X/Y) - El número de %4$s %3$s que se creará para el cliente. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Primero %1$s Id &lt;/strong&gt; &amp;nbsp; (%1$s Id trial) - El Id del %1$s que debería ser el primer %1$s en el ensayo. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Longitud de ejecución &lt;/strong&gt; &amp;nbsp; (%1$s ID de pruebas): indica el número de %1$s dentro de un ensayo que se produce antes de cambiar el recorrido. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Número de %2$s por %1$s &lt;/strong&gt; &amp;nbsp; - Crea %2$s para cada %1$s en la prueba. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Estilo de instancia de rasgo &lt;/strong&gt; &amp;nbsp; - Elija el &amp;nbsp; &lt;em&gt; Trait:123 &lt;/em&gt; &amp;nbsp; o &amp;nbsp; &lt;em&gt; Trait:_123 &lt;/em&gt; &lt;/em&gt; &amp;nbsp; nomenclatura de estilo para instancias de rasgos. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Una vez elegidas todas las opciones, seleccione el &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp; para crear la prueba o el &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp; para cancelar la creación de prueba. &lt;/p&gt;</string>
+    <string name="ctx_help_add_trial">&lt;p&gt; La pantalla &amp;nbsp; &lt;strong&gt; Agregar prueba &lt;/strong&gt; &amp;nbsp; permite a los usuarios crear una nueva versión de prueba dentro de KDSmart. Las siguientes opciones están disponibles para crear una versión de prueba: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Nombre de prueba &lt;/strong&gt; &amp;nbsp; - El nombre de la nueva versión de prueba. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Tipo de prueba &lt;/strong&gt; &amp;nbsp; - Elija entre una prueba &amp;nbsp; &lt;em&gt; %1$s X/Y &lt;/em&gt; &amp;nbsp; en la que cada %1$s tiene coordenadas x/y únicas, o una &amp;nbsp; &lt;em&gt; %1$s Id [X4040X] 3X] &amp;nbsp; prueba donde cada %1$s tiene un ID único %1$s. La opción que aquí se elija determinará algunas de las siguientes opciones. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Número de %3$s &lt;/strong&gt; &amp;nbsp; (pruebas %1$s X/Y) - El número de %1$s %3$s que se creará para el cliente. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Número de %4$s &lt;/strong&gt; &amp;nbsp; (pruebas %1$s X/Y) - El número de %4$s %3$s que se creará para el cliente. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Primero %1$s Id &lt;/strong&gt; &amp;nbsp; (pruebas de identificación %1$s) - El ID del %1$s que debería ser el primer %1$s en el ensayo. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Longitud de ejecución &lt;/strong&gt; &amp;nbsp; (pruebas de identificación %1$s): indica el número de %1$s dentro de un ensayo que se produce antes de cambiar el recorrido. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Número de %2$s por %1$s &lt;/strong&gt; &amp;nbsp; - Crea %2$s para cada %1$s en la prueba. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Estilo de instancia de rasgo &lt;/strong&gt; &amp;nbsp; - Elija el &amp;nbsp; &lt;em&gt; Trait:123 &lt;/em&gt; &amp;nbsp; o &amp;nbsp; &lt;em&gt; Trait:_123 &lt;/em&gt; &lt;/em&gt; &amp;nbsp; nomenclatura de estilo para instancias de rasgos. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Una vez elegidas todas las opciones, seleccione el &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp; para crear la prueba o el &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp; para cancelar la creación de prueba. &lt;/p&gt;</string>
     <string name="ctx_help_simple_scoring_mode">&lt;p&gt; &lt;strong&gt; Modo de puntuación de hoja &lt;/strong&gt; &amp;nbsp; es una vista de estilo de hoja simple, similar a un documento CSV o Excel. Este modo presenta todos los rasgos para %1$s y %2$s en una hoja de cálculo y seleccionar una celda permitirá ingresar datos. Tiene funciones de navegación limitadas %1$s y puede ser más lento para puntuar, pero muchos usuarios encuentran la vista familiar y fácil de usar. Además, &amp;nbsp; &lt;strong&gt; Modo de puntuación de hoja de cálculo &lt;/strong&gt; &amp;nbsp; incluye &amp;nbsp; &lt;strong&gt; Vista de campo &lt;/strong&gt; &amp;nbsp; que muestra una vista de arriba hacia abajo del campo. &lt;/p&gt; &lt;p&gt; &lt;a name=\"Scoring\"&gt; &lt;/a&gt; &lt;/p&gt; &lt;h5&gt; Puntuación &lt;/h5&gt; &lt;p&gt; Para puntuar un rasgo de nivel %1$s o de nivel %2$s, seleccione el valor del rasgo para abrir la pantalla de medición de rasgos &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. Los datos que se deben ingresar dependerán del tipo de datos de rasgo, por ejemplo, entero, categoría, decimal, etc. Deslice entre la pestaña de características &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; y la pestaña de información &amp;nbsp; &lt;strong&gt; %1$s &lt;/strong&gt; &amp;nbsp; para ver más información sobre el actual %1$s. Los siguientes botones están disponibles para usar para puntuar rasgos: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Cancelar Botón &lt;/strong&gt; &amp;nbsp; - Cancela la puntuación del rasgo seleccionado. La cancelación devolverá al usuario a la pantalla de puntuación &amp;nbsp; &lt;strong&gt; &lt;strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Botón Eliminar valor &lt;/strong&gt; &amp;nbsp; - Elimina un valor actual y devuelve al usuario a la pantalla de puntuación &amp;nbsp; &lt;strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Botón de valor faltante &lt;/strong&gt; &amp;nbsp; - Aplica el valor de &amp;nbsp; &lt;em&gt; Falta &lt;/em&gt; &amp;nbsp; a una instancia de rasgo. Esto se puede usar si falta el valor real; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Botón no aplicable &lt;/strong&gt; &amp;nbsp; - Aplica el valor de &amp;nbsp; &lt;em&gt; No aplicable &lt;/em&gt; &amp;nbsp; a una instancia de rasgo. Esto se puede usar cuando el rasgo no necesita ser puntuado para el pl %1$s ot o %2$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Botón Aceptar valor &lt;/strong&gt; &amp;nbsp; - Acepta y aplica un valor que se ha ingresado, como confirmar un rasgo decimal; y &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Botón de fecha &lt;/strong&gt; &amp;nbsp; - Abre un Selector de fecha &amp;nbsp; &lt;em&gt; &lt;/em&gt; &amp;nbsp; para que se pueda elegir una fecha (solo disponible para rasgos de días transcurridos). &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; &lt;a name=\"%1$s%2$s\"&gt; %2$s \"&gt; &lt;/a&gt; &lt;/p&gt; &lt;h5&gt; %1$s/%2$s &lt;/h5&gt; &lt;p&gt; Junto con los rasgos enumerados, cada %1$s y %2$s tendrán un botón &amp;nbsp; &lt;strong&gt; %1$s/%2$s &lt;/strong&gt;. Las siguientes opciones están disponibles para un botón &amp;nbsp; &lt;strong&gt; %1$s: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Agregar %2$s &lt;/strong&gt; &amp;nbsp; - Agrega un solo %2$s al %1$s (%2$s se puede agregar masivamente en la pantalla de pruebas &amp;nbsp; &lt;strong&gt;); &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Editar nota &lt;/strong&gt; &amp;nbsp; - Abre una ventana donde se pueden escribir notas sobre el %1$s; y &lt;/li&gt; &lt;/li&gt; [17X] &lt;strong&gt; Desactivar %1$s &lt;/strong&gt; &amp;nbsp; - Desactiva el %1$s para la puntuación. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; El botón &amp;nbsp; &lt;strong&gt; %2$s &lt;/strong&gt; &amp;nbsp; contiene las siguientes opciones: &lt;/p&gt; &lt;ul&gt; &lt;strong&gt; Editar nota &lt;/strong&gt; &amp;nbsp; Abre una ventana donde se pueden escribir notas sobre %1$s; y &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Desactivar %2$s &lt;/strong&gt; &amp;nbsp; - Desactiva el %2$s para la puntuación. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Las etiquetas que se han asignado a cada %1$s o %2$s serán visibles bajo el número %1$s o %2$s como un botón que cuando se presiona abrirá una ventana que muestra información sobre la etiqueta. Se pueden asignar más etiquetas a %1$s y %2$s seleccionando el respectivo botón de etiqueta &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. Esto abrirá la ventana &amp;nbsp; &lt;strong&gt; Etiquetas &lt;/strong&gt; &amp;nbsp; donde se pueden aplicar las etiquetas disponibles seleccionando la casilla de verificación y luego el botón &amp;nbsp; &lt;strong&gt; Confirmar &lt;/strong&gt;. Seleccione el botón Agregar &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; para abrir una ventana donde se pueda crear una nueva etiqueta. &lt;/p&gt; &lt;p&gt; También se pueden agregar accesorios para cada %1$s y %2$s seleccionando el botón de conexión &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; para abrir la pantalla de adjuntos &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. Los archivos adjuntos de audio e imagen se pueden tomar, ver y eliminar si es necesario. &lt;/p&gt; &lt;p&gt; &lt;a name=\"Menu\"&gt; &lt;/a&gt; &lt;/p&gt; &lt;h5&gt; Menú &lt;/h5&gt; &lt;p&gt; Las siguientes opciones de menú están disponibles para configurar la puntuación en &amp;nbsp; &lt;strong&gt; Modo de puntuación de hoja de cálculo &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Buscar &lt;/strong&gt; &amp;nbsp; - Abre la ventana de búsqueda &amp;nbsp; &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ampliar o alejar &lt;/strong&gt; &amp;nbsp; - Acerca y alejar la hoja de cálculo; [X40451X] - Acerca y alejar la hoja de cálculo; [X40451X] X] &lt;li&gt; &lt;strong&gt; Vista de campo &lt;/strong&gt; &amp;nbsp; - Abre la prueba en &amp;nbsp; &lt;strong&gt; Vista de campo &lt;/strong&gt;. Más información sobre &amp;nbsp; &lt;strong&gt; Vista de campo &lt;/strong&gt; &amp;nbsp; se puede encontrar en el &amp;nbsp; &lt;strong&gt; Ayuda de vista de campo &lt;/strong&gt;; &lt;/li&gt; &lt;strong&gt; Tamaño del texto &lt;/strong&gt; &amp;nbsp; - Proporciona opciones de tamaño de texto para el rasgos en la primera fila de la hoja de cálculo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ajustar Ancho de Columna &lt;/strong&gt; &amp;nbsp; - Abre un control deslizante para ajustar el ancho de columnas; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ubicación.. &lt;/strong&gt; &amp;nbsp; - Proporciona opciones para ubicaciones de grabación: &lt;ul&gt; &lt;li&gt; GPS - para mayor precisión; &lt;/li&gt; &lt;li&gt; Red - menor precisión; y &lt;/li&gt; &lt;li&gt; No usar ubicación. &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Escáner encendido &lt;/strong&gt; &amp;nbsp; - Abre la ventana &amp;nbsp; &lt;strong&gt; Dispositivos emparejados &lt;/strong&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Configurar... &lt;/strong&gt; &lt;strong&gt; Configurar... &lt;/strong&gt;] &amp;nbsp; - Muestra las opciones de configuración: &lt;ul&gt; &lt;li&gt; Tamaño del texto del teclado numérico - Opciones para el tamaño del texto del teclado en la pantalla de puntuación &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;; &lt;/li&gt; Configurar %1$s Información - %1$s información tamaño del texto y opciones de visualización; y &lt;/li&gt; &lt;li&gt; Cómo ver archivos adjuntos: elija una aplicación para ver los archivos adjuntos. &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Días transcurridos como recuento &lt;/strong&gt; &amp;nbsp; - Cambiar la visualización de los días transcurridos de una fecha al número de días transcurridos desde la fecha de siembra de prueba; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Oferta N Días para la Fecha [5345X] &amp;nbsp; - Cuando se comprueba, los rasgos de fecha se puntuarán eligiendo un día que esté hasta tres días fuera de la fecha de siembra. Si no se marca, los rasgos de fecha se puntúan con un Selector de fecha &amp;nbsp; &lt;em&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Bloquear/desbloquear rasgos puntuados &lt;/strong&gt; - Los rasgos puntuados que están bloqueados requerirán una confirmación para cambiar el valor; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Cambiar orientación de pantalla &lt;/strong&gt; &amp;nbsp; - Cambia KDSmart entre &amp;nbsp; &lt;strong&gt; Paisaje &lt;/strong&gt; &amp;nbsp; y &amp;nbsp; &lt;strong&gt; Orientación Retrato &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;li&gt; &lt;strong&gt; Elegir [X585862X] Seleccionar &lt;strong&gt; 77X] Colores &lt;/strong&gt; &amp;nbsp; - Proporciona opciones para cambiar los colores %1$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Mostrar/Ocultar todo %2$s [X 5986X] &amp;nbsp; - Expandida/Resta %1$s para mostrar/ocultar %2$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Fijo %1$s Información &lt;/strong&gt; &amp;nbsp; - Proporciona opciones para agregar columnas para mostrar información %1$s; y &lt;/li&gt; X6168X] &lt;strong&gt; Ayuda &lt;/strong&gt; &amp;nbsp; - Abre esta página de ayuda. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="ctx_title_bulk_tagging">Etiquetado masivo</string>
     <string name="ctx_help_bulk_tagging">&lt;p&gt; El etiquetado masivo es una función en la que las etiquetas se pueden aplicar a %1$s y %2$s para uno o más %1$s a la vez. Solo está disponible en &amp;nbsp; &lt;strong&gt; Modo de puntuación de campo &lt;/strong&gt; &lt;/p&gt; &lt;p&gt; El conmutador &amp;nbsp; &lt;strong&gt; Agregar o quitar etiquetas &lt;/strong&gt; &amp;nbsp; se puede seleccionar para habilitar la adición o eliminación de etiquetas. &lt;/p&gt; &lt;p&gt; Todas las etiquetas disponibles se enumerarán bajo los encabezados %1$s y %2$s. Utilice las flechas desplegables para expandir la lista si es necesario. La columna &amp;nbsp; &lt;strong&gt; # Agregado &lt;/strong&gt; muestra cuántos de los %1$s seleccionados actualmente han tenido etiquetas agregadas o eliminadas. &lt;/p&gt; &lt;p&gt; Seleccione una etiqueta para agregarla o eliminarla de los %1$s /s seleccionados y cancele o confirme el diálogo que aparece. Este cambio se reflejará en la columna &amp;nbsp; &lt;strong&gt; # Agregado &lt;/strong&gt;. Cualquier cambio se puede deshacer con el botón Deshacer &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt;</string>
@@ -1208,7 +1208,7 @@
     <string name="title_project_name">Nombre del proyecto</string>
     <string name="title_grouping">Agrupación</string>
     <string name="msg_last_successfull_fetch">"La última búsqueda exitosa fue en "</string>
-    <string name="title_fetching_trials">Obtener pruebas de Kddart</string>
+    <string name="title_fetching_trials">Obtuando pruebas de KDDart</string>
     <plurals name="title_sub_plots">
         <item quantity="one">%2$s</item>
         <item quantity="many"/>
@@ -1221,18 +1221,18 @@
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string /title_activity_eliminar_trial</item>
-        <item quantity="many"></item>
-        <item quantity="other">\@string /title_actividad_eliminar_ensayos</item>
+        <item quantity="many"/>
+        <item quantity="other">\@string /title_activity_eliminar_trial</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string /ctx_title_delete_tag</item>
-        <item quantity="many"></item>
-        <item quantity="other">\@string /ctx_title_delete_tags</item>
+        <item quantity="many"/>
+        <item quantity="other">\@string /ctx_title_delete_tag</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string /title_actividad_delete_trait</item>
-        <item quantity="many"></item>
-        <item quantity="other">\@string /title_actividad_delete_traits</item>
+        <item quantity="many"/>
+        <item quantity="other">\@string /title_actividad_delete_trait</item>
     </plurals>
     <string name="msg_checkbox_text">Texto de la casilla de verificación</string>
     <string name="msg_other_text">Otro texto</string>
@@ -1268,7 +1268,7 @@
     <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">"
 \n
 \nCuando se muestra el icono \'bloqueado\', debe usar el código de paso"</string>
-    <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">configurado por KDXplore o conéctese a KDXplore para permitir que desactive Lockdown.</string>
+    <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">establecido por KDXplore o conéctese a KDXplore para permitir que desactive Lockdown.</string>
     <string name="errMsg_database_error_fmt_3">Error de base de datos</string>
     <string name="msg_storage_access_not_available">Acceso al almacenamiento de información no disponible</string>
     <string name="msg_test_storage_access">Pruebe el acceso al almacenamiento de información</string>
@@ -1328,7 +1328,7 @@
     <string name="msg_for_plot">para Plot</string>
     <string name="msg_cant_score_trait">No se puede anotar el rasgo</string>
     <string name="errMsg_database_not_found">Base de datos no encontrada</string>
-    <string name="errMsg_db_error">Error de Db</string>
+    <string name="errMsg_db_error">Error de base de datos</string>
     <string name="errMsg_logic_error">Error de lógica</string>
     <string name="errMsg_plot_or_specimen_not_found">No se encontró la parcela o el espécimen</string>
     <string name="msg_showing_all_specimens">Mostrando todos los especímenes</string>
@@ -1348,7 +1348,7 @@
     <string name="msg_android_version_is">La versión de Android es</string>
     <string name="msg_stop_searching_first">Deja de buscar primero</string>
     <string name="msg_kdxchange_servers_via">Servidores KDXchange a través de</string>
-    <string name="msg_search_required">Búsqueda Requerida...</string>
+    <string name="msg_search_required">Búsqueda Requerida…</string>
     <string name="action_must_implement_onfragmentinteractionlistener">debe implementar OnFragmentInteractionListener</string>
     <string name="msg_connect_to_kdxchange">Conectarse a KDXchange</string>
     <string name="msg_already_searching">Ya está buscando</string>
@@ -1362,7 +1362,7 @@
     <string name="msg_kdxchange_service_started">Se inició el servicio KDXChange</string>
     <string name="msg_kdxchange_service_stopped">Servicio KDXChange detenido</string>
     <string name="errMsg_error_fmt_2">Error (</string>
-    <string name="msg_connecting_to_kdxplore">Conectando a KDXplore...</string>
+    <string name="msg_connecting_to_kdxplore">Conectando a KDXplore…</string>
     <string name="errMsg_error_starting_server">Error al iniciar el servidor</string>
     <string name="msg_stopping_server">:: detener el servidor</string>
     <string name="errMsg_error_stopping_server">Error al detener el servidor</string>
@@ -1403,7 +1403,7 @@
     <string name="msg_no_unscored_sample_found_for_trait_with_barcode">No se encontró ninguna muestra sin puntuar para rasgo con código de barras</string>
     <string name="errMsg_database_error_fmt_9">Error de base de datos</string>
     <string name="errMsg_traits_not_found_in_the_database">Rasgos no encontrados en la base de datos</string>
-    <string name="msg_please_wait">Por favor, espere...</string>
+    <string name="msg_please_wait">Por favor, espere…</string>
     <string name="errMsg_error_fmt_3">Error</string>
     <string name="msg_waiting_for_location_fix_fmt_2">Esperando una corrección de ubicación</string>
     <string name="msg_finding_location_fmt_2">Encontrar ubicación</string>
@@ -1439,7 +1439,7 @@
     <string name="msg_scoring_samples_in_plot">Puntuación de las muestras en la trama</string>
     <string name="msg_saving_sample_failed">Error al guardar la muestra</string>
     <string name="msg_please_save_try_again">Por favor, guarde Inténtelo de nuevo</string>
-    <string name="msg_skipped_unscored_trait">Rasgo sin puntuación omitido</string>
+    <string name="msg_skipped_unscored_trait">Rasgo sin puntuar omitido</string>
     <string name="msg_debug_output_in">Salida de depuración en:</string>
     <string name="msg_no_sample">Sin muestra</string>
     <string name="errMsg_db_error_fmt_2">Error de Db</string>
@@ -1455,7 +1455,7 @@
     <string name="errMsg_delete_tag_bundle_error">Error de paquete de etiquetas de eliminación</string>
     <string name="msg_tag_bundles_to_delete">Etiquetar paquetes para eliminar</string>
     <string name="msg_cannot_delete_all_tags">No se pueden eliminar todas las etiquetas</string>
-    <string name="errMsg_getting_tag_from_tagid_error">Obteniendo la etiqueta del error de TagId</string>
+    <string name="errMsg_getting_tag_from_tagid_error">Error al obtener la etiqueta del ID de etiqueta</string>
     <string name="msg_tag_already_in">Etiqueta already in</string>
     <string name="msg_all_tags_already_in">Todas las Etiquetas already in</string>
     <string name="msg_cant_delete">No se puede eliminar</string>
@@ -1468,7 +1468,7 @@
     <string name="msg_no_item_selected">Ningún elemento seleccionado</string>
     <string name="msg_select_tag_from_a_bundle_other_than_all_tags_bundle">Seleccionar etiqueta de un paquete que no sea el paquete Todas las etiquetas</string>
     <string name="msg_cant_be_imported">no se puede importar</string>
-    <string name="errMsg_retreiving_tag_from_tag_id_error">Error al recuperar la etiqueta del identificador de etiqueta</string>
+    <string name="errMsg_retreiving_tag_from_tag_id_error">Error al recuperar la etiqueta desde el ID de etiqueta</string>
     <string name="msg_cannot_delete_from">No se puede eliminar de</string>
     <string name="msg_tags_from">Etiquetas de</string>
     <string name="errMsg_remove_tags_from_tag_bundle_error">Eliminar etiquetas de Tag Bundle Error</string>
@@ -1476,7 +1476,7 @@
     <string name="msg_no_details_available">-no hay detalles disponibles-</string>
     <string name="msg_getting_trait_from_db_problem">Obtener un rasgo del problema de db</string>
     <string name="msg_database_problem_fmt_2">Problema de base de datos</string>
-    <string name="errMsg_db_error_fmt_3">Error de Db</string>
+    <string name="errMsg_db_error_fmt_3">Error de base de datos</string>
     <string name="msg_invalid_definition">Definición no válida</string>
     <string name="msg_intdec_mismatch">Desajuste INT/DEC</string>
     <string name="msgFmt_minimum_must_be_at_least">El mínimo debe ser al menos</string>
@@ -1484,7 +1484,7 @@
     <string name="msgFmt_maximum_must_be_at_most">El máximo debe ser como máximo</string>
     <string name="msgFmt_maximum_must_be_at_most_fmt_2">El máximo debe ser como máximo</string>
     <string name="errMsg_deleting_trait_bundle">Eliminación del paquete de características</string>
-    <string name="errMsg_getting_trait_bundle_from_bundle_id">Obtener el paquete de rasgos de Bundle Id</string>
+    <string name="errMsg_getting_trait_bundle_from_bundle_id">Obtener el paquete de rasgos desde Bundle ID</string>
     <string name="msg_trait_bundles_to_delete">Paquetes de características para eliminar</string>
     <string name="msg_cannot_delete_all_traits">No se pueden eliminar todos los rasgos</string>
     <string name="errMsg_collecting_trait_bundles_error">Error de recopilación de paquetes de características</string>
@@ -1539,8 +1539,8 @@
     <string name="msg_trials_were_not_deleted_successfully">Los ensayos no se eliminaron correctamente</string>
     <string name="msg_delete_successful">Eliminar con éxito</string>
     <string name="msg_trials_were_deleted_successfully">Los ensayos se eliminaron correctamente</string>
-    <string name="msg_deleting_trials">Eliminación de pruebas...</string>
-    <string name="msg_deleting_trial">Eliminando la versión de prueba...</string>
+    <string name="msg_deleting_trials">Eliminación de pruebas…</string>
+    <string name="msg_deleting_trial">Eliminando la versión de prueba…</string>
     <string name="msg_attempting_to_delete_items_form_kdsmart">Intento de eliminar elementos de KDSmart</string>
     <string name="errMsg_error_during_export">Error durante la exportación</string>
     <string name="msg_trial_exported">Prueba exportada</string>
@@ -1569,7 +1569,7 @@
     <string name="msg_no_valid_options_available">No hay opciones válidas disponibles</string>
     <string name="errMsg_could_not_find_specimens_error_fmt_2">No se pudieron encontrar las muestras Error</string>
     <string name="msg_choose_export_option_fmt_2">Elija la opción de exportación</string>
-    <string name="msg_export_to_kddart_fmt_5">Exportar a Kddart</string>
+    <string name="msg_export_to_kddart_fmt_5">Exportar a KDDart</string>
     <string name="msg_database_problem_fmt_3">Problema de base de datos</string>
     <string name="msg_trial_names_not_available">Nombres de prueba no disponibles</string>
     <string name="msg_export_trial">Exportar prueba</string>
@@ -1580,18 +1580,18 @@
     <string name="msg_import_from_kddart_fmt_2">Importar desde KDDart</string>
     <string name="msg_new_trial_name">Nuevo nombre de prueba</string>
     <string name="msg_trial_note_optional">Nota de prueba (opcional)</string>
-    <string name="msg_clearing_sample_data">Borrado de datos de muestra...</string>
+    <string name="msg_clearing_sample_data">Borrado de datos de muestra…</string>
     <string name="msg_export_trial_fmt_2">Exportar prueba</string>
     <string name="msg_no_trial_id">Sin ID de prueba</string>
     <string name="msg_cant_be_imported_fmt_3">no se puede importar</string>
-    <string name="errMsg_cant_find_trial_with_trialid">No se puede encontrar una versión de prueba con TrialID</string>
+    <string name="errMsg_cant_find_trial_with_trialid">No se puede encontrar la versión de prueba con el ID de prueba</string>
     <string name="msg_trials_from">Ensayos de</string>
     <string name="errMsg_cant_remove_traits_from_bundle_fmt_2">No se pueden eliminar rasgos del paquete</string>
     <string name="msg_trial_import_in_progress">Importación de prueba en curso</string>
     <string name="msg_stop_it_and_exit">¿Detenerlo y salir\?</string>
     <string name="msg_change_trait_name_style_to">Cambiar el estilo del nombre de rasgo a
 \n</string>
-    <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">El bloque de trama no está permitido para la puntuación de pruebas múltiples</string>
+    <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">El bloque de trama no está permitido para la puntuación de varias pruebas</string>
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">El valor del nombre de prueba es necesario para cada trazado cuando se utiliza</string>
     <string name="msg_subplot_count_column_is_required_if_for_all_subplot_is_used">Se requiere la columna Recuento de subtrazado si se utiliza #* (para todos los subtrazados)</string>
     <string name="msg_eg_trait">por ejemplo, rasgo</string>
@@ -1646,7 +1646,7 @@
     <string name="msg_not_yet_supported_fmt_2">: Aún no soportado</string>
     <string name="msg_database_problem_fmt_4">Problema de base de datos:</string>
     <string name="errMsg_database_error_fmt_16">Error de base de datos</string>
-    <string name="errMsg_no_tags_to_use_for_trialid">No hay etiquetas que usar para TrialID</string>
+    <string name="errMsg_no_tags_to_use_for_trialid">No hay etiquetas que usar para el ID de prueba</string>
     <string name="errMsg_system_error">Error del sistema</string>
     <string name="errMsg_null_database">Base de datos nula</string>
     <string name="errMsg_internal_android_error">Error interno de Android</string>
@@ -1679,7 +1679,7 @@
     <string name="msg_range_check_value_below_minimum">Valor por debajo del mínimo</string>
     <string name="msg_range_check_value_invalid_number">Número no válido</string>
     <string name="msg_help_for_csv_import">Elija \'Importar como \'para cada columna CSV.</string>
-    <string name="title_activity_kdxchange">KDXCambiar</string>
+    <string name="title_activity_kdxchange">KDXchange</string>
     <string name="title_activity_csv_import">Importar CSV de prueba</string>
     <string name="msg_btn_ok_import">Importar</string>
     <string name="msg_error">Error</string>
@@ -1758,7 +1758,7 @@
     <string name="msg_traitvalidationrule">regla de validación de rasgos</string>
     <string name="msg_trial_name">Nombre de la prueba</string>
     <string name="msg_trials_to_export">Ensayos para exportar</string>
-    <string name="msg_use_plotid">Usar PlotID</string>
+    <string name="msg_use_plotid">Usar ID de trazado</string>
     <string name="msg_value">-valor-</string>
     <string name="msg_attribute_or_trait">Atributo o rasgo</string>
     <string name="msg_block_layout">Diseño de Bloque</string>

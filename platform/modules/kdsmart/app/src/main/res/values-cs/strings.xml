@@ -29,7 +29,7 @@
     <string name="msg_state_is">Stát je</string>
     <string name="msg_export_trial">Zkušební verze exportu</string>
     <string name="errMsg_database_error_fmt_16">Chyba databáze</string>
-    <string name="errMsg_no_tags_to_use_for_trialid">Žádné značky, které se mají použít pro TrialID</string>
+    <string name="errMsg_no_tags_to_use_for_trialid">Žádné tagy pro zkušební ID</string>
     <string name="errMsg_system_error">Chyba systému</string>
     <string name="errMsg_null_database">Null databáze</string>
     <string name="errMsg_internal_android_error">Interní chyba systému Android</string>
@@ -294,7 +294,7 @@
     <string name="pref_plot_change_title_confirm_plot_skipped">Potvrdit, kdy je vykreslení přeskočeno</string>
     <string name="pref_plot_change_summary">Zaškrtnutím potvrďte polohu a zrušte zaškrtnutí krátké zprávy.</string>
     <string name="pref_use_gps_location_for_scoring">Použít místo pro bodování</string>
-    <string name="pref_autoscoring_options">Možnosti automatického předstihu</string>
+    <string name="pref_autoscoring_options">Možnosti automatického postupu</string>
     <string name="pref_use_gps">Zkontrolujte, zda chcete použít místo pro bodování</string>
     <string name="prompt_confirm_when_plot_skipped">Potvrďte, když %1$s přeskočil</string>
     <string name="msg_prefix_picture_for">Obrázek pro</string>
@@ -352,7 +352,7 @@
     <string name="msg_btn_add_edit_tag_use">Použít</string>
     <string name="msg_hdg_add_edit_tag_label">Štítek</string>
     <string name="msg_hdg_add_edit_tag_desciption">Popis</string>
-    <string name="prompt_action_toggle_auto_advance">Auto Adv</string>
+    <string name="prompt_action_toggle_auto_advance">Automatický postup</string>
     <string name="prompt_auto_advance_on">Automatické zálohování je ZAPnuto
 \nOpětovným stisknutím jej vypnete</string>
     <string name="prompt_auto_advance_off">Automatický postup je VYPNUTÝ
@@ -366,52 +366,52 @@
     <string name="prompt_autoscoring_options_selected_traits">Vybrané vlastnosti</string>
     <plurals name="msg_n_tags_imported">
         <item quantity="one">Importovaná jedna značka</item>
-        <item quantity="few"></item>
-        <item quantity="other">Importované tagy %d</item>
+        <item quantity="few"/>
+        <item quantity="other">%d tagy importované</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
         <item quantity="one">Jedna vlastnost importována</item>
-        <item quantity="few"></item>
-        <item quantity="other">%d vlastnosti importované</item>
+        <item quantity="few"/>
+        <item quantity="other">%d importované vlastnosti</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
         <item quantity="one">Jedna vlastnost byla aktualizována</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="other">%d vlastnosti aktualizovány</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
         <item quantity="one">%d Instance znaku aktivní</item>
-        <item quantity="few"></item>
-        <item quantity="other">%d Vlastnosti instancí aktivní</item>
+        <item quantity="few"/>
+        <item quantity="other">%d Instance znaku aktivní</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
         <item quantity="one">Zkušební verze %d vybraná pro vymazání</item>
-        <item quantity="few"></item>
-        <item quantity="other">%d pokusy vybrané pro vymazání</item>
+        <item quantity="few"/>
+        <item quantity="other">Zkušební verze %d vybraná pro vymazání</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
         <item quantity="one">%d Zrnka bude smazána</item>
-        <item quantity="few"></item>
-        <item quantity="other">%d Vlastnosti budou smazány</item>
+        <item quantity="few"/>
+        <item quantity="other">%d Zrnka bude smazána</item>
     </plurals>
     <string name="title_export_all_traits">Exportovat všechny vlastnosti</string>
     <string name="title_please_confirm_tag_export">Potvrďte export tagů</string>
     <string name="title_please_confirm_trait_export">Potvrďte export znaků</string>
     <plurals name="msg_export_n_traits">
         <item quantity="one">%d vlastnost vybraná pro export</item>
-        <item quantity="few"></item>
-        <item quantity="other">%d vlastnosti vybrané pro export</item>
+        <item quantity="few"/>
+        <item quantity="other">%d vlastnost vybraná pro export</item>
     </plurals>
     <plurals name="msg_export_n_trials">
         <item quantity="one">Zkušební verze %d vybraná pro export</item>
-        <item quantity="few"></item>
-        <item quantity="other">%d zkoušky vybrané pro export</item>
+        <item quantity="few"/>
+        <item quantity="other">Zkušební verze %d vybraná pro export</item>
     </plurals>
     <string name="title_export_all_tags">Exportovat všechny tagy</string>
     <plurals name="msg_export_n_tags">
         <item quantity="one">%d tag Vybráno pro export</item>
-        <item quantity="few"></item>
-        <item quantity="other">%d Tagy Vybrané pro export</item>
+        <item quantity="few"/>
+        <item quantity="other">%d tag Vybráno pro export</item>
     </plurals>
     <string name="title_activity_scoring_setup">Konfigurace</string>
     <string name="title_section_scoring_options">Možnosti</string>
@@ -456,7 +456,7 @@
     <string name="ctx_title_manage_traits">Správa vlastností</string>
     <string name="ctx_help_manage_traits">&lt;p&gt; Zkušební obrazovka &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; zobrazuje všechny zkoušky, které jsou aktuálně načteny do KDSmart. &lt;/p&gt; &lt;p&gt; Chcete-li zobrazit podrobnosti o znaku, zvolte vlastnost krátkým stisknutím. Tím se dostanete na obrazovku podrobností vlastností &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Je-li zvýrazněna vlastnost, můžete na něm provést následující akce spolu s obecnými akcemi v nabídce &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Upravit vlastnost &lt;/strong&gt; &amp;nbsp; - Otevře se že &amp;nbsp; &lt;strong&gt; Obrazovka úpravy vlastností &lt;/strong&gt; &amp;nbsp; pro jakoukoli zvýrazněnou vlastnost; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Přidat vlastnost &lt;/strong&gt; &amp;nbsp; - Otevře &amp;nbsp; &lt;strong&gt; Přidat obrazovku znaku &lt;/strong&gt; &amp;nbsp; kde lze vytvořit nové vlastnosti; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Import z &lt;/strong&gt; &amp;nbsp; - Možnosti importu vlastností buď ze zařízení, nebo z KDXplore s KDXchange; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Sdílet &lt;/strong&gt; &amp;nbsp; - Možnosti sdílení pro zvýrazněnou vlastnost pomocí platformy Android Storage Access Framework včetně e-mailu, Bluetooth nebo jakékoli služby sdílení souborů nainstalované v zařízení; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Export do &lt;/strong&gt; &amp;nbsp; - Možnosti exportu libovolného zvýrazněného znaku pro export souborů do zařízení; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Odstranit &lt;/strong&gt; &amp;nbsp; - Možnosti odstranění zvýrazněné vlastnosti nebo jeho odstranění ze svazku znaků; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Kurzíva pro chráněné &lt;/strong&gt; &amp;nbsp; - Zaškrtněte políčko, abyste zajistili, že text chráněných znaků je kurzívou ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Velikost textu numerické klávesnice &lt;/strong&gt; &amp;nbsp; - Možnosti velikosti textu klávesnice na obrazovce &amp;nbsp; &lt;strong&gt; &lt;strong&gt; &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Skener zapnutý &lt;/strong&gt; X] &amp;nbsp; - Otevře okno spárovaných zařízení &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Aktualizovat seznam &lt;/strong&gt; &amp;nbsp; - Obnoví seznam vlastností; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Bluetooth Zapnuto/vypnuto &lt;/strong&gt; &amp;nbsp; - Zapne nebo vypne zařízení Bluetooth; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Třídit... &lt;/strong&gt; &amp;nbsp; - Možnosti třídění vlastností; a &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Nápověda &lt;/strong&gt; &lt;/strong&gt; &lt;/strong&gt; &lt;/strong&gt; &lt;/strong&gt; &lt;/strong&gt;] - Otevírá toto stránka nápovědy. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Dlouhým stisknutím jedné nebo více znaků je vyberte pro další akce. Všimněte si, že lze vybrat více než jednu vlastnost najednou. Další akce, které může výběr zobrazit, jsou: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Vyberte/zrušit výběr všech &lt;/strong&gt; &amp;nbsp; - Vybere nebo zruší výběr všech vlastností; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Sdílet &lt;/strong&gt; &lt;/strong&gt; Možnosti sdílení pro zvýrazněnou vlastnost s Androidem Storage Access Framework včetně e-mailu, Bluetooth nebo jakékoli služby sdílení souborů nainstalované v zařízení; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Export do &lt;/strong&gt; &amp;nbsp; - Možnosti exportu libovolného zvýrazněného znaku pro export souborů do zařízení; &lt;/li&gt; &lt;/li&gt; &lt;li&gt; X] &lt;strong&gt; Vytvořit balíček vlastností &lt;/strong&gt; &amp;nbsp; - Otevře &amp;nbsp; [X 2559X] Přidejte obrazovku balíčku znaků &lt;/strong&gt; &amp;nbsp;, kde můžete vytvořit nové svazky znaků a přidat vybrané vlastnosti k existujícím; a &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Odstranit &lt;/strong&gt; &amp;nbsp; - Možnosti odstranění zvýrazněné vlastnosti nebo jeho odstranění ze svazku vlastností. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="ctx_title_trial_detail">Podrobnosti o zkoušce</string>
-    <string name="ctx_help_trial_detail">&lt;div id=change-14900 class=journal has-notes&gt; &lt;div id=note-7&gt; &lt;div id=journal-14900-notes class=wiki&gt; &lt;p&gt;Tato obrazovka obsahuje informace o vybrané zkušební verzi. Přejetím doleva a doprava vyberte různé zkušební verze, které jsou v zařízení. Mnoho stejných možností na &lt;strong&gt;obrazovce Zkušební verze&lt;/strong&gt; včetně sdílení a mazání je stále k dispozici, včetně sdílení a mazání zkušební verze (další informace najdete v nápovědě na &lt;strong&gt;obrazovce Zkušební verze&lt;/strong&gt;&lt;/p&gt;). &lt;p&gt;&lt;strong&gt;Tlačítko Upravit&lt;/strong&gt; umožní editaci nebo přidání podrobností zkušební verze. Všechny podrobnosti jsou uvedeny níže:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Název zkušební verze&lt;/strong&gt; - Název vybrané zkušební verze. To nelze upravovat&lt;/li&gt;. &lt;li&gt;&lt;strong&gt;Zkratka&lt;/strong&gt; - Zkrácený název soudu.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Datum výsadby&lt;/strong&gt; - Datum, kdy byly vzorky vysazeny.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s &amp; Názvy os X/Y — změňte názvy os&lt;/strong&gt; X/Y a názvy %1$s. Ve výchozím nastavení jsou nastaveny na &lt;em&gt;%1$s&lt;/em&gt;, &lt;em&gt;%4$s&lt;/em&gt; a &lt;em&gt;Rozsah&lt;/em&gt;, ale&lt;/li&gt; mohou to být cokoli. &lt;li&gt;&lt;strong&gt;%1$s Identifikace&lt;/strong&gt; - %1$s možnosti identifikace.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Zkušební rozvržení&lt;/strong&gt; - Poskytuje možnosti pro nastavení zkušebního rozvržení. &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Tyto možnosti budou záviset na typu zkušebního rozvržení, jak je popsáno níže: &lt;li&gt;&lt;strong&gt;%1$s X/Y Trial Layout - Zkušební verze&lt;/strong&gt;, ve které jsou %1$s označeny souřadnicemi x/y (např. %1$s 3,2), která má následující možnost: Počátek - Nastaví, kam&lt;/li&gt; se má začít a směr skóre.&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;%1$s Id Trial Layout&lt;/strong&gt; - Zkušební verze, ve které jsou %1$s označeny jedinečnými ID (např. %1$s 12), která má následující možnosti: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Origin&lt;/strong&gt; -&lt;/li&gt; Nastaví, kde se má začít a směr skóre. &lt;li&gt;&lt;strong&gt;Traversal&lt;/strong&gt; &lt;strong&gt;- Traversal vzor v každé zkoušce, např. &lt;em&gt;hadovitý nebo &lt;em&gt;jednosměrný&lt;/em&gt; (traversal pro zkoušku lze zvolit v Scoring Configuration&lt;/em&gt;).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Délka běhu&lt;/strong&gt; — Označuje počet %1$s vyskytujících se před změnou Počátek průchodu %1$s ID - počáteční&lt;/li&gt; &lt;li&gt;&lt;strong&gt;[X2251X&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;] ID. &lt;li&gt;&lt;strong&gt;Block Trial Layout&lt;/strong&gt; - Zkušební verze, která obsahuje bloky, které jsou podmnožinami sousedních %1$s v rámci zkušební verze: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Rozložení bloku&lt;/strong&gt; - Nastaví, kam začít a směr skóre v každém&lt;/li&gt; bloku. &lt;li&gt;&lt;strong&gt;Traversal&lt;/strong&gt; &lt;strong&gt;- Traversal vzor v každém bloku, např. &lt;em&gt;hadovitý nebo &lt;em&gt;jednosměrný&lt;/em&gt; (traversal pro zkoušku lze zvolit v Scoring Configuration&lt;/em&gt;).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Délka běhu&lt;/strong&gt; — Označuje počet %1$s v bloku, ke kterému dochází před změnou průchodu.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Origin Block ID&lt;/strong&gt; - Počáteční ID bloku.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;%1$s Počátek v bloku&lt;/strong&gt; — označuje počátek %1$s ve všech blocích.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Typ organismu&lt;/strong&gt; &lt;em&gt;- ve výchozím nastavení je nastaven na &lt;em&gt;obecný&lt;/em&gt;, ale lze jej změnit na &lt;em&gt;rostlinu&lt;/em&gt;, &lt;em&gt;kukuřici&lt;/em&gt;&lt;em&gt;, pšenici&lt;/em&gt; nebo DNA.&lt;/em&gt; Tato volba změní ikonu, která se používá pro %2$s (vzorky)&lt;/li&gt; ve zkušební verzi. &lt;li&gt;&lt;strong&gt;Poznámka&lt;/strong&gt; - Přidejte poznámku ke zkušební verzi.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Vlastnosti&lt;/strong&gt; - Seznamy vlastností ve zkoušce a udává, kolik instancí znaků je k dispozici pro každou vlastnost (viz níže pro více informací).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Trial Atributy&lt;/strong&gt; — atributy, které se vztahují na celou zkušební verzi.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Typy - Typy&lt;/strong&gt; %1$s, které jsou ve zkušební verzi.&lt;/li&gt; &lt;/ul&gt;&lt;li&gt;&lt;strong&gt;%1$s Atributy - Atributy&lt;/strong&gt;, které se vztahují na %1$s.&lt;/li&gt; &lt;p&gt;&lt;strong&gt;Možnost Vlastnosti otevře obrazovku&lt;/strong&gt; &lt;strong&gt;Instance znaků&lt;/strong&gt;. Uvádí vlastnosti ve zkoušce a označuje, kolik instancí znaků je k dispozici pro každou vlastnost. Celá hvězda označuje, že vlastnost bude skórována, prázdná hvězda označuje, že vlastnost bude při bodování skrytá, a napůl naplněná hvězda ukazuje, že existuje více instancí pro vlastnost, ale alespoň jedna z nich bude skryta. To je užitečné pro výběr pouze vlastností, které je třeba skóroval. Zde jsou k dispozici následující obecné možnosti:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Vybrat žádný/Vybrat vše - Zruší výběr nebo vybere všechny&lt;/strong&gt;&lt;/li&gt; vlastnosti. &lt;li&gt;&lt;strong&gt;Přidat vlastnosti&lt;/strong&gt; - Přidá vlastnosti ke zkouškám (to lze nalézt výběrem &lt;strong&gt;tlačítka Menu&lt;/strong&gt;).&lt;/li&gt; &lt;/ul&gt;&lt;li&gt;&lt;strong&gt;Změnová objednávka&lt;/strong&gt; - Zvolte pořadí, ve kterém budou vlastnosti zaznamenány (to lze nalézt kliknutím na &lt;strong&gt;tlačítko Menu&lt;/strong&gt;).&lt;/li&gt; &lt;p&gt;Další možnosti instance znaků pro každou jednotlivou kabinu znaků najdete výběrem &lt;strong&gt;tlačítka Instance znaku&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Přidat instanci - Vytvoří instance&lt;/strong&gt; pro vybranou vlastnost. Znovu zvolte tuto možnost, chcete-li vytvořit jinou instanci.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Move Up&lt;/strong&gt; - Posune vlastnost nahoru v pořadí bodování.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Přesunout dolů&lt;/strong&gt; - Posune vlastnost dolů v pořadí bodování.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Upravit popis&lt;/strong&gt; — Upravte popis instance.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Odstranit vlastnost&lt;/strong&gt; - Odstraní vlastnost ze zkušební verze.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div id=change-14911 class=journal has-details&gt;&lt;/div&gt;</string>
+    <string name="ctx_help_trial_detail">&lt;div id=change-14900 class=journal has-notes&gt; &lt;div id=note-7&gt; &lt;div id=journal-14900-notes class=wiki&gt; &lt;p&gt;Tato obrazovka poskytuje informace o vybrané zkušební verzi. Přejeďte prstem doleva a doprava a vyberte různé zkušební verze, které jsou v zařízení. Mnoho stejných možností z &lt;strong&gt;obrazovky Zkušební verze&lt;/strong&gt;, včetně sdílení a mazání, je stále k dispozici, včetně sdílení a mazání zkušební verze (další informace najdete v nápově &lt;strong&gt;dě k obrazovce&lt;/strong&gt; Zkušební verze).&lt;/p&gt; &lt;p&gt;Tla &lt;strong&gt;čítko Upravit&lt;/strong&gt; umožní úpravy nebo přidání jakýchkoli podrobností o zkušební verzi. Všechny podrobnosti jsou uvedeny níže:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Název zkušební&lt;/strong&gt; verze - Název vybrané zkušební verze. To nelze upravovat.&lt;/li&gt; &lt;li&gt;Z &lt;strong&gt;kratka&lt;/strong&gt; - Zkrácený název soudního řízení.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Datum výsadby&lt;/strong&gt; - Datum výsadby vzorků.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s &amp; Názvy os X/Y - Změňte názvy os&lt;/strong&gt; X/Y a názvy %1$s. Ve výchozím nastavení jsou nastav &lt;em&gt;eny na %1$s&lt;/em&gt;, &lt;em&gt;%4$s a Rozsah, ale&lt;/em&gt; mohou to být &lt;em&gt;cokoli&lt;/em&gt;&lt;/li&gt;. &lt;li&gt;&lt;strong&gt;%1$s Identifikace - %1$s možnosti identifikace&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Zkušební rozvržení&lt;/strong&gt; - Poskytuje možnosti nastavení zkušebního rozvržení. Tyto možnosti budou záviset na typu zkušebního rozvržení, jak je uvedeno níže: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;%1$s X/Y Trial Layout - Zkušební&lt;/strong&gt; verze, kde jsou %1$s označeny souřadnicemi x/y (např. %1$s 3,2), která má následující možnost: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Origin&lt;/strong&gt; - Nastav&lt;/li&gt;&lt;/ul&gt; í, kde má&lt;/li&gt; začít a směr, ve kterém má bodovat. &lt;li&gt;&lt;strong&gt;%1$s Rozložení zkušební verze ID&lt;/strong&gt; - Zkušební verze, kde jsou %1$s označeny jedinečnými ID (např. %1$s 12), která má následující možnosti: &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Origin&lt;/strong&gt; - Nastaví, kde&lt;/li&gt; má začít a směr, ve kterém se má skórovat. &lt;li&gt;&lt;strong&gt;Traversal&lt;/strong&gt; &lt;strong&gt;- Průchodový vzor v rámci každého pokusu, např. &lt;em&gt;hadovitý&lt;/em&gt; nebo &lt;em&gt;jednosměrný&lt;/em&gt; (průchod pro zkoušku lze zvolit v konfiguraci bodování).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Délka běhu&lt;/strong&gt; - Označuje počet %1$s, ke kterým došlo před změnou ID počátku&lt;/li&gt; průjezdu &lt;li&gt;&lt;strong&gt;%1$s - počáteční %1$s ID&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;. &lt;li&gt;&lt;strong&gt;Rozložení zkušební&lt;/strong&gt; verze bloku - Zkušební verze, která obsahuje bloky, které jsou podmnožinami sousedních %1$s v rámci zkušební verze: Rozlo &lt;ul&gt;&lt;li&gt;&lt;strong&gt;žení bloku&lt;/strong&gt; - Nastavuje, kde začít a směr, ve kterém má být bodováno v každém blo&lt;/li&gt; ku. &lt;li&gt;&lt;strong&gt;Traversal&lt;/strong&gt; &lt;strong&gt;- Průchodový vzor v rámci každého bloku, např. &lt;em&gt;hadovitý&lt;/em&gt; nebo &lt;em&gt;jednosměrný&lt;/em&gt; (průchod pro zkoušku lze zvolit v konfiguraci bodování).&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Délka běhu&lt;/strong&gt; - Označuje počet %1$s v bloku, který nastal před změnou přechodu.&lt;/li&gt; &lt;li&gt;ID &lt;strong&gt;počátečního bloku - ID&lt;/strong&gt; počátečního bloku.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;%1$s Původ v bloku&lt;/strong&gt; - Označuje počátek %1$s ve všech blocích.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Typ organismu&lt;/strong&gt; - Ve výchozím nastavení nastaven na &lt;em&gt;obec&lt;/em&gt; ný, ale lze jej změnit na &lt;em&gt;rostlinu&lt;/em&gt;, &lt;em&gt;kukuřici&lt;/em&gt;, &lt;em&gt;pšen&lt;/em&gt; ici nebo &lt;em&gt;DNA&lt;/em&gt;. Tato volba změní ikonu, která se používá pro %2$s (vzorky) ve&lt;/li&gt; zkušební verzi. &lt;li&gt;&lt;strong&gt;Poznámka&lt;/strong&gt; - Přidejte poznámku ke zkušební verzi.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Vlastnosti&lt;/strong&gt; - Uvádí vlastnosti ve studii a udává, kolik instancí vlastností je k dispozici pro každý znak (další informace viz níže).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Atributy zkušební&lt;/strong&gt; verze - atributy, které se vztahují na celou zkušební verzi.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;%1$s Typy - Typy&lt;/strong&gt; %1$s, které jsou ve zkušební verzi.&lt;/li&gt; &lt;/ul&gt;&lt;li&gt;&lt;strong&gt;%1$s Atributy - Atributy&lt;/strong&gt;, které se vztahují na %1$s.&lt;/li&gt; &lt;p&gt;&lt;strong&gt;Možnost Vlastnosti otevře&lt;/strong&gt; &lt;strong&gt;obrazovku Instance vlastností&lt;/strong&gt;. Uvádí seznam vlastností ve studii a ukazuje, kolik instancí vlastností je k dispozici pro každý znak. Plná hvězda označuje, že vlastnost bude hodnocena, prázdná hvězda označuje, že vlastnost bude při bodování skrytá, a napůl naplněná hvězda ukazuje, že pro vlastnost existuje více instancí, ale alespoň jeden z nich bude skrytý. To je užitečné pro výběr pouze vlastností, které je třeba hodnotit. Zde jsou k dispozici následující obecné možnosti:&lt;/p&gt; Vybrat ne &lt;ul&gt;&lt;li&gt;&lt;strong&gt;/Vybrat vše - Zruší výběr nebo vybere všechny&lt;/strong&gt; vlastnosti&lt;/li&gt;. &lt;li&gt;&lt;strong&gt;Přidat vlastnosti&lt;/strong&gt; - Přidá vlastnosti do pokusů (to lze najít výběrem &lt;strong&gt;tlačítka Menu&lt;/strong&gt;).&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Změnit pořadí&lt;/strong&gt; - Vyberte pořadí, ve kterém budou vlastnosti hodnoceny (to lze zjistit kliknutím na &lt;strong&gt;tlačítko Menu&lt;/strong&gt;).&lt;/li&gt;&lt;/ul&gt; &lt;p&gt;Další možnosti instance vlastností pro každou jednotlivou kabinu vlastností najdete výběrem &lt;strong&gt;tlačítka Instance vlastností&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Přidat instanci&lt;/strong&gt; - Vytvoří instance pro vybraný znak. Zvolte tuto možnost znovu, chcete-li vytvořit další instanci.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Posunout nahoru&lt;/strong&gt; - Posune vlastnost nahoru v pořadí bodování.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Přesunout dolů&lt;/strong&gt; - Přesune vlastnost dolů v pořadí bodování.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Upravit popis&lt;/strong&gt; — Upravte popis instance.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Odebrat vlastnost&lt;/strong&gt; - Odstraní vlastnost ze zkušební verze.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt; &lt;div id=change-14911 class=journal has-details&gt;&lt;/div&gt;</string>
     <string name="ctx_title_trial_context">Zkušební</string>
     <string name="ctx_help_trial_context">Pomocí akce &lt;i&gt;Exportovat&lt;/i&gt; do exportujte jednu &lt;i&gt;zkušební verzi&lt;/i&gt;. &lt;p&gt;Akce &lt;i&gt;Odstranit&lt;/i&gt; slouží k odebrání vybraných &lt;i&gt;pokusů&lt;/i&gt; z databáze. &lt;p&gt;Zrušit pomocí zaškrtnutí v levé části &lt;i&gt;panelu akcí&lt;/i&gt;. &lt;br/&gt;&lt;br/&gt;Při mazání pokusů buďte opatrní. Jako preventivní opatření zajistěte, aby jakýkoli zkušební export byl úspěšný tím, že nejprve prohlédnete a zkontrolujete obsah Trial CSV nebo prohlížením zkušebních dat v KDXplore před odstraněním z KDSmart.</string>
     <string name="ctx_title_manage_tags">Správa tagů</string>
@@ -521,7 +521,7 @@
     <string name="msg_trait_level_undecidable">Úroveň rysů nerozhodnutelná, nelze změnit úroveň</string>
     <string name="msg_trait_level_scored">Trait byl skórován, nemůže změnit úroveň</string>
     <string name="msg_help_for_csv_import">Zvolte \'Importovat jako \'pro každý sloupec CSV.</string>
-    <string name="title_activity_kdxchange">KDxChange</string>
+    <string name="title_activity_kdxchange">KDXchange</string>
     <string name="title_activity_csv_import">Importovat zkušební verzi CSV</string>
     <string name="msg_btn_ok_import">Importovat</string>
     <string name="msg_btn_continue">Pokračovat</string>
@@ -568,22 +568,22 @@
     <string name="msg_import_trial_sample_counts_colon">Počty měření vzorků:</string>
     <plurals name="msg_imported_n_plots">
         <item quantity="one">%2$d %1$s importováno</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="other">%2$d %1$s importováno</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
         <item quantity="one">%2$d %1$s Měření vzorku</item>
-        <item quantity="few"></item>
-        <item quantity="other">%2$d %1$s Měření vzorků</item>
+        <item quantity="few"/>
+        <item quantity="other">%2$d %1$s Měření vzorku</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
         <item quantity="one">%1$d %2$s Měření</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="other">%1$d %2$s Měření</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
         <item quantity="one">Přidáno %d Nové vlastnosti</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="other">Přidáno %d Nové vlastnosti</item>
     </plurals>
     <string name="title_activity_export_trial">Zkušební verze exportu</string>
@@ -640,8 +640,8 @@
     <string name="msg_hint_enter_unit_name">Zadejte název jednotky</string>
     <string name="msg_hint_trait_alias">-Žádný alias není definován-</string>
     <string name="msg_hint_enter_trait_alias">Zadejte alias</string>
-    <string name="prompt_kdxchange_started">Spuštěn server Kdxchange</string>
-    <string name="prompt_kdxchange_stopped">Server Kdxchange byl zastaven</string>
+    <string name="prompt_kdxchange_started">Server KDXchange byl spuštěn</string>
+    <string name="prompt_kdxchange_stopped">Server KDXchange byl zastaven</string>
     <string name="msg_value_out_of_range">Hodnota mimo rozsah</string>
     <string name="msg_selected_trait_value">Aktuální hodnota</string>
     <string name="title_plot_attributes">%1$s Atributy</string>
@@ -725,9 +725,9 @@
     <string name="title_desc_tns_colon_number_brief">:123</string>
     <string name="title_desc_tns_2underbar_number">Trait__123</string>
     <string name="title_desc_tns_2underbar_number_brief">__123</string>
-    <string name="title_desc_multi_trial_import">Multi Trial Import</string>
-    <string name="title_desc_multi_trial_scoring">Multi Zkušební bodování</string>
-    <string name="msg_multi_scoring_are_you_sure">Použijte tyto zkoušky v Multi Trial Scoring\?</string>
+    <string name="title_desc_multi_trial_import">Multi zkušební import</string>
+    <string name="title_desc_multi_trial_scoring">Vícenásobné bodování</string>
+    <string name="msg_multi_scoring_are_you_sure">Použijte tyto pokusy v bodování více pokusů\?</string>
     <string name="msg_hdg_path_of_import_file">Cesta k souboru importu</string>
     <string name="msg_hdg_specimens">%2$s</string>
     <string name="msg_prompt_enter_text">Zadejte text</string>
@@ -758,7 +758,7 @@
     <string name="title_unable_to_add_trait">Nelze přidat vlastnosti</string>
     <string name="msg_all_traits_already_added">V této zkušební verzi již máte všechny rysy</string>
     <string name="msg_prefix_database_error">Chyba databáze:</string>
-    <string name="pref_title_kdxchange_auto_connect">Automatické připojení KDXchange</string>
+    <string name="pref_title_kdxchange_auto_connect">KDXchange Automatické připojení</string>
     <string name="pref_description_kdxchange_auto_connect">Automatické připojení k adrese serveru (pokud existuje pouze jedna adresa)</string>
     <string name="title_location_service_disabled">Služba určování polohy není povolena</string>
     <string name="msg_switch_on_location">Zapnutí polohy pro použití této služby</string>
@@ -767,7 +767,7 @@
     <string name="title_inactive_trait">Neaktivní vlastnost</string>
     <string name="msg_question_do_you_want_to_change">Chcete změnit hodnotu\?</string>
     <string name="pref_title_allow_inactive_trait_edit">Povolit neaktivní úpravy vlastností</string>
-    <string name="pref_title_kdxplore_barcodes">Použijte čárové kódy Kdxplore</string>
+    <string name="pref_title_kdxplore_barcodes">Použijte čárové kódy KDXplore</string>
     <string name="pref_title_alphabetical_trait_order_title">Použít pořadí abecedních znaků</string>
     <string name="pref_title_alphabetical_trait_order">Použití abecedního pořadí znaků při exportu CSV</string>
     <string name="pref_desc_allow_inactive_trait_edit">Zkontrolujte, zda chcete povolit změnu hodnot nebo neaktivních vlastností</string>
@@ -868,9 +868,9 @@
     <string name="title_choose_how_to_identify_plots">Zvolte způsob identifikace %1$s</string>
     <string name="title_start_scoring">Spustit bodování</string>
     <string name="title_export_to_csv">Export do formátu CSV</string>
-    <string name="hdg_column_number">Splk #</string>
+    <string name="hdg_column_number">Sloupec #</string>
     <string name="hdg_csv_heading">Nadpis CSV</string>
-    <string name="hdg_data_row_1">datový řádek, #1</string>
+    <string name="hdg_data_row_1">Datový řádek #1</string>
     <string name="hdg_import_as">Importovat jako</string>
     <string name="msg_no_headings_found">Nebyly nalezeny žádné nadpisy</string>
     <string name="msg_unable_to_restart">Nelze restartovat import</string>
@@ -986,8 +986,8 @@
     <string name="msg_check_database_integrity">Kontrola pokusu o chyby.
 \nBude to trvat několik minut.
 \nProsím, neukončujte aplikaci</string>
-    <string name="msg_db_check_completed">Kontrola Db dokončena</string>
-    <string name="msg_couldnot_complete_db_check">Nelze dokončit kontrolu db</string>
+    <string name="msg_db_check_completed">Kontrola databáze dokončena</string>
+    <string name="msg_couldnot_complete_db_check">Nelze dokončit kontrolu databáze</string>
     <string name="msg_couldnot_complete_trait_addition">Nelze dokončit přidávání znaků</string>
     <string name="msg_no_traits_to_add">Žádné vlastnosti vybrané k přidání</string>
     <string name="msg_file_or_folder_empty">Soubor nebo složka je prázdná</string>
@@ -1010,7 +1010,7 @@
     <string name="ctx_help_delete_trial_bundle">&lt;p&gt; Všechny zkušební balíčky, které byly vybrány pro odstranění, se zobrazí na této obrazovce &amp;nbsp; &lt;strong&gt; Smazat zkušební balíčky &lt;/strong&gt;. Každý balíček bude uveden níže, spolu s každou zkušební verzí, která je součástí tohoto balíčku. &lt;/p&gt; &lt;p&gt; Vyberte &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp; pro potvrzení vymazání zkušebního balíčku. &lt;/p&gt; &lt;p&gt; Vyberte &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp; pro zrušení vymazání zkušebního balíčku. &lt;/p&gt; &lt;p&gt; Vezměte prosím na vědomí, že odstranění zkušebního balíčku neodstraní zkoušky, které obsahuje. &lt;/p&gt;</string>
     <string name="ctx_help_remove_trials_from_bundle">&lt;p&gt; Pokusy vybrané pro odstranění ze zkušebního balíčku jsou uvedeny na této obrazovce a odstranění je třeba potvrdit. &lt;/p&gt; &lt;p&gt; Vyberte &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp; pro potvrzení odstranění zkušeb/s ze svazku. &lt;/p&gt; &lt;p&gt; Výběrem &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp; &amp;nbsp; zrušíte odstranění zkušebních soud ze svazku. &lt;/p&gt; &lt;p&gt; Vezměte prosím na vědomí, že odebrání zkušební verze ze svazku nevymaže zkušební verzi ze zařízení. &lt;/p&gt;</string>
     <string name="title_add_trial_bundles">Přidat zkušební balíček</string>
-    <string name="errmsg_select_trials_from_one_trial_bundle">Vyberte zkušební verze z jednoho zkušebního balíčku pro Multi Scoring</string>
+    <string name="errmsg_select_trials_from_one_trial_bundle">Vyberte prosím zkušební verze z jednoho zkušebního balíčku pro vícenásobné bodování</string>
     <string name="errmsg_multi_trial_scoring_coming_soon">Multi Trial Scoring se blíží</string>
     <string name="errmsg_tag_with_name_already_exists">Značka s názvem již existuje</string>
     <string name="msg_action_camera_barcode">Skenovat čárový kód</string>
@@ -1059,7 +1059,7 @@
     <string name="msg_device_version_number_lollipop_and_above">Skenování čárových kódů fotoaparátu je k dispozici nad Android Lollipop</string>
     <string name="msg_barcodes_were_scanned">Čárové kódy byly naskenovány</string>
     <string name="msg_no_barcodes_detected">Nebyly zjištěny žádné čárové kódy</string>
-    <string name="msg_no_barcode_match">Čárový kód nemá žádné informace. Pokud nepoužíváte KDXplore, zrušte výběr možnosti Použít čárové kódy Kdxplore v nastavení.</string>
+    <string name="msg_no_barcode_match">Čárový kód nemá žádné informace. Pokud nepoužíváte KDxplore, zrušte výběr možnosti Použít čárové kódy KDxplore v nastavení.</string>
     <string name="msg_sample_data_exists_for_trait">Ukázková data existují pro tuto instanci znaku, nelze odstranit</string>
     <string name="msg_fix_block_trials">Aktualizovat zkušební verze bloku</string>
     <string name="msg_retry_scoring_block_trial">Zkuste opakovat bodování blok zkušební</string>
@@ -1071,7 +1071,7 @@
     <string name="msg_use_for_scoring">Blok skóre\?</string>
     <string name="msg_use_other">Povolit jiné</string>
     <string name="msg_word_for_other">Hodnota výběru:</string>
-    <string name="msg_other_needs_at_least_one_more_item">Pokud používáte rozšíření Cat Other, je zapotřebí alespoň jedna další položka</string>
+    <string name="msg_other_needs_at_least_one_more_item">Pokud používáte rozšíření Categotical Other, je zapotřebí alespoň jedna položka</string>
     <string name="msg_other_needs_a_name">Zadejte název jiného, který má být použit pro bodování</string>
     <string name="msg_needs_at_least_two_item">Pro kategorické rysy jsou zapotřebí nejméně dvě položky</string>
     <string name="msg_enter_value_for_other">Zadejte hodnotu pro</string>
@@ -1105,7 +1105,7 @@
     <string name="msg_cloning_trial">Klonovací pokus</string>
     <string name="msg_btn_switch_GPS_on">Zapněte jej v nastaveních nebo možnostech nabídky</string>
     <string name="msg_gps_off">Umístění je vypnuto</string>
-    <string name="msg_please_update_kdsmart_from_playstore">Aktualizujte prosím KDSmart z obchodu Playstore</string>
+    <string name="msg_please_update_kdsmart_from_playstore">Aktualizujte prosím KDsmart z Playstore</string>
     <string name="msg_copy_expires_soon">KDSmart brzy vyprší</string>
     <string name="msg_days_left_before_expiry">Zbývající dny před vypršením platnosti KDSmart</string>
     <string name="pref_title_prefer_location_on">Poloha na When Scoring</string>
@@ -1163,11 +1163,11 @@
     <string name="title_trial_plot_id">%1$s ID</string>
     <string name="errmsg_number_of_plots_new_trial_error">Je zapotřebí alespoň jeden %1$s</string>
     <string name="errmsg_more_than_ten_thousand">Více než 10000 %1$s nejsou povoleny</string>
-    <string name="errmsg_first_plot_must_be_greater_than_zero">První %1$s id musí být větší než 0</string>
+    <string name="errmsg_first_plot_must_be_greater_than_zero">První %1$s ID musí být větší než 0</string>
     <string name="msg_select_minutes">Vyberte min</string>
     <string name="msg_select_dates">Zvolte data</string>
     <string name="title_longer_range">kalendář</string>
-    <string name="msg_pick_number_of_minutes">Ne minut</string>
+    <string name="msg_pick_number_of_minutes">Počet minut</string>
     <string name="msg_detected_multiple_instances">KDSmart detekoval více instancí</string>
     <string name="msg_enter_number_of_sub_plots_in_every_plot">Počet %2$s na %1$s</string>
     <string name="msg_empty_trial_name">Název zkušební verze nemůže být ponechán prázdný</string>
@@ -1187,7 +1187,7 @@
     <string name="ctx_help_scoring_setup_select_blocks"><p> Jakákoli zkušební verze bloku bude mít všechny bloky uvedené a volitelné pomocí zaškrtávacích políček. Musí být vybrán alespoň jeden. Tato možnost bude k dispozici pouze pro blokové zkoušky. </p></string>
     <string name="ctx_add_trial_bundle">Přidat zkušební balíček</string>
     <string name="ctx_help_add_trial_bundle">&lt;p&gt; Obrazovka &amp;nbsp; &lt;strong&gt; Přidat zkušební balíček &lt;/strong&gt; &amp;nbsp; umožňuje vytváření nových balíčků znaků nebo přidání pokusů do stávajících balíčků. Zkontrolujte, zda jsou vybrány všechny zkušební verze, které mají být přidány nebo zabaleny, a poté vyberte tlačítko &amp;nbsp; &lt;strong&gt; Vytvořit zkušební balíček &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Obrazovka &amp;nbsp; &lt;strong&gt; Přidat zkušební balíček &lt;/strong&gt; &amp;nbsp; zobrazí seznam všech vybraných značek a všech dříve vytvořených balíčků. Textové pole pro název svazku zůstane také prázdné. Chcete-li vytvořit nový zkušební balíček, zadejte do prázdného pole název svazku a vyberte tlačítko &amp;nbsp; &lt;strong&gt; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Chcete-li přidat vybrané zkušební verze do existujícího svazku, zadejte do textového pole název tohoto svazku nebo vyberte svazek v seznamu pomocí &amp;nbsp; &lt;em&gt; krátkým stisknutím &lt;/em&gt; &amp;nbsp; &amp;nbsp; a vyberte &amp;nbsp; &lt;strong&gt; tlačítko Přidat &lt;/strong&gt;. &lt;/p&gt;</string>
-    <string name="ctx_help_add_trial">&lt;p&gt; Obrazovka &amp;nbsp; &lt;strong&gt; Přidat zkušební verzi &lt;/strong&gt; &amp;nbsp; umožňuje uživatelům vytvořit novou zkušební verzi v rámci KDSmart. Pro vytvoření zkušební verze jsou k dispozici následující možnosti: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Název zkušební verze &lt;/strong&gt; &amp;nbsp; - Název nové zkušební verze. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Zkušební typ &lt;/strong&gt; &amp;nbsp; - Vyberte buď mezi &amp;nbsp; &lt;em&gt; %1$s X/Y &lt;/em&gt; &amp;nbsp; &amp;nbsp;, kde každá %1$s má jedinečné souřadnice x/y, nebo &amp;nbsp; &amp;nbsp; X392X] %1$s Id &lt;/em&gt; &amp;nbsp; zkušební verze, kde každý %1$s jako jedinečný %1$s Id. Možnost, která je zde vybrána, určí některé z dalších možností. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Počet %3$s &lt;/strong&gt; &amp;nbsp; (%1$s X/Y zkoušky) - Počet %1$s %3$s, které budou vytvořeny pro klienta. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Počet %4$s &lt;/strong&gt; &amp;nbsp; (%1$s X/Y zkoušky) - Počet %4$s %3$s, které budou vytvořeny pro klienta. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; První %1$s Id &lt;/strong&gt; &amp;nbsp; (%1$s Id pokusy) - ID %1$s, které by mělo být první %1$s ve zkoušce. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Délka běhu &lt;/strong&gt; &amp;nbsp; (%1$s Id trial) - Označuje počet %1$s v rámci studie, ke které dojde před změnou průchodu. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Počet %2$s na %1$s &lt;/strong&gt; &amp;nbsp; - Vytvoří %2$s pro každý %1$s ve zkušební verzi. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Styl instance znaku &lt;/strong&gt; &amp;nbsp; - Vyberte buď vlastnost &amp;nbsp; &lt;em&gt;: 123 &lt;/em&gt; &amp;nbsp; nebo &amp;nbsp; &lt;em&gt; &lt;em&gt; styl pojmenování instancí znaků. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Jakmile jsou zvoleny všechny možnosti, vyberte &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp; pro vytvoření zkušební verze nebo &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp; pro zrušení vytvoření zkušební verze. &lt;/p&gt;</string>
+    <string name="ctx_help_add_trial">&lt;p&gt; &amp;nbsp; &lt;strong&gt; Přidat zkušební obrazovku &lt;/strong&gt; &amp;nbsp; umožňuje uživatelům vytvořit novou zkušební verzi v rámci KDsmart. Pro vytvoření zkušební verze jsou k dispozici následující možnosti: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Název zkušební verze &lt;/strong&gt; &amp;nbsp; - Název nové zkušební verze. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Zkušební typ &lt;/strong&gt; &amp;nbsp; - Vyberte si buď mezi &amp;nbsp; &lt;em&gt; %1$s X/Y &lt;/em&gt; &amp;nbsp;, kde každá %1$s má jedinečné souřadnice x/y, nebo &amp;nbsp; &lt;em&gt; &lt;em&gt; &lt;em&gt; 6X] Id &lt;/em&gt; &amp;nbsp; zkušební verze, kde každý %1$s jako jedinečný %1$s Id. Možnost, která je zde vybrána, určí některé z dalších možností. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Počet %3$s &lt;/strong&gt; &amp;nbsp; (%1$s X/Y pokusů) - Počet %1$s %3$s, které budou vytvořeny pro klienta. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Počet %4$s &lt;/strong&gt; &amp;nbsp; (%1$s X/Y pokusů) - Počet %4$s %3$s, které budou vytvořeny pro klienta. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; První %1$s Id &lt;/strong&gt; &amp;nbsp; (%1$s ID pokusů) - ID %1$s, které by mělo být prvním %1$s ve zkušební verzi. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Délka běhu &lt;/strong&gt; &amp;nbsp; (%1$s ID pokusů) - Označuje počet %1$s v rámci zkušební verze, ke kterému došlo před změnou průjezdu. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Počet %2$s na %1$s &lt;/strong&gt; &amp;nbsp; - Vytvoří %2$s pro každý %1$s ve zkušební verzi. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Styl instance vlastností &lt;/strong&gt; &amp;nbsp; - Vyberte buď vlastnost &amp;nbsp; &lt;em&gt;: 123 &lt;/em&gt; &amp;nbsp; nebo &amp;nbsp; &lt;em&gt; Trait:_123 &lt;/em&gt; [pojmenování stylu X1280X] pro případy vlastností. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Po výběru všech možností vyberte možnost &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp; pro vytvoření zkušební verze nebo &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp; pro zrušení vytvoření zkušební verze. &lt;/p&gt;</string>
     <string name="ctx_help_simple_scoring_mode">&lt;p&gt; &lt;strong&gt; Režim bodování listů &lt;/strong&gt; &amp;nbsp; je jednoduchý pohled ve stylu listu, podobný dokumentu CSV nebo Excel. Tento režim zobrazuje všechny vlastnosti pro %1$s a %2$s v tabulce a výběr buňky umožní zadávání dat. Má omezené navigační funkce %1$s a skóre může být pomalejší, ale mnoho uživatelů považuje pohled za známé a snadno použitelné. Navíc &amp;nbsp; &lt;strong&gt; Režim bodování tabulky &lt;/strong&gt; &amp;nbsp; obsahuje &amp;nbsp; &amp;nbsp; &lt;strong&gt; Zobrazení pole &lt;/strong&gt; &amp;nbsp;, které zobrazuje pohled shora dolů na pole. &lt;/p&gt; &lt;p&gt; &lt;a name=\"Scoring\"&gt; &lt;/a&gt; &lt;/p&gt; &lt;h5&gt; Bodování &lt;/h5&gt; &lt;p&gt; Chcete-li získat skóre buď na úrovni %1$s nebo %2$s, vyberte hodnotu znaku pro otevření &amp;nbsp; &lt;strong&gt; Vlastnosti měření Obrazovka &lt;/strong&gt;. Data, která je třeba zadat, budou záviset na datovém typu znaku, např. celé číslo, kategorii, desetinné číslo atd. Přejeďte mezi kartou &amp;nbsp; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; &lt;strong&gt; Info &lt;/strong&gt; &lt;/strong&gt; &amp;nbsp; a zobrazíte další informace o proud %1$s. Pro bodovací vlastnosti jsou k dispozici následující tlačítka: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;li&gt; &lt;strong&gt; Tlačítko Zrušit &lt;/strong&gt; &amp;nbsp; - Zruší bodování vybrané vlastnosti. Zrušení vrátí uživatele na &amp;nbsp; &lt;strong&gt; &lt;strong&gt; &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Tlačítko Odstranit hodnotu &lt;/strong&gt; &amp;nbsp; - Odstraní aktuální hodnotu a vrátí uživatele na obrazovku hodnocení &amp;nbsp; &lt;strong&gt; X1320X]; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Tlačítko chybějící hodnoty &lt;/strong&gt; &amp;nbsp; - Použije hodnotu &amp;nbsp; &lt;em&gt; Chybějící &lt;/em&gt; &amp;nbsp; na instanci znaku. To lze použít, pokud chybí skutečná hodnota; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Nepoužitelné tlačítko &lt;/strong&gt; &amp;nbsp; - Použije hodnotu &amp;nbsp; &lt;em&gt; Není použitelné &lt;/em&gt; &amp;nbsp; na instanci znaku. To lze použít, když vlastnost nemusí být hodnocena pro vybraný pl %1$s ot nebo %2$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Tlačítko Přijmout hodnotu &lt;/strong&gt; &amp;nbsp; - Přijímá a použije zadanou hodnotu, například potvrzení desetinného znaku; a &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Tlačítko data &lt;/strong&gt; &amp;nbsp; - Otevře &amp;nbsp; &lt;em&gt; Výběr data &lt;/em&gt; &amp;nbsp;, aby bylo možné zvolit datum (k dispozici pouze pro vlastnosti uplynulých dnů). &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; &lt;a name=\"%1$s%2$s\"&gt; %2$s \"&gt; &lt;/a&gt; &lt;/p&gt; &lt;h5&gt; %1$s/%2$s &lt;/h5&gt; &lt;p&gt; Spolu s uvedenými vlastnostmi, každý %1$s a %2$s X] bude mít tlačítko &amp;nbsp; &lt;strong&gt; %1$s/%2$s &lt;/strong&gt;. Následující možnosti jsou k dispozici pro tlačítko &amp;nbsp; &lt;strong&gt; %1$s &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Přidat %2$s &lt;/strong&gt; &amp;nbsp; - Přidá jeden %2$s na %1$s (%2$s lze hromadně přidat do &amp;nbsp; &lt;strong&gt; Zkušební obrazovka &lt;/strong&gt;); &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Edit Note &lt;/strong&gt; &amp;nbsp; - Otevře okno, kde lze psát poznámky k %1$s; a &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Deaktivovat %1$s &lt;/strong&gt; &amp;nbsp; - Deaktivuje %1$s pro bodování. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Tlačítko &amp;nbsp; &lt;strong&gt; %2$s &lt;/strong&gt; &amp;nbsp; obsahuje následující možnosti: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Poznámka k úpravě &lt;/strong&gt; &amp;nbsp; - Otevře okno, kde lze psát poznámky k %1$s a &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Deaktivovat %2$s &lt;/strong&gt; &amp;nbsp; - Deaktivuje %2$s pro bodování. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Značky, které byly přiřazeny každému %1$s nebo %2$s, budou viditelné pod číslem %1$s nebo %2$s jako tlačítko, které po stisknutí otevře okno s informacemi o štítku. Další značky lze přiřadit k %1$s a %2$s výběrem příslušného tlačítka &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &lt;/strong&gt;. Otevře se okno &amp;nbsp; &lt;strong&gt; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp;, kde lze použít všechny dostupné značky zaškrtnutím políčka a poté na tlačítko &amp;nbsp; &lt;strong&gt; &lt;strong&gt; Potvrdit &lt;/strong&gt;. Vyberte tlačítko &amp;nbsp; &lt;strong&gt; Přidat &lt;/strong&gt; &amp;nbsp; a otevřete okno, kde lze vytvořit novou značku. &lt;/p&gt; &lt;p&gt; Přílohy pro každý %1$s a %2$s lze také přidat výběrem tlačítka &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; pro otevření obrazovky &amp;nbsp; &lt;strong&gt; &lt;strong&gt; &lt;/strong&gt;. V případě potřeby lze pořizovat, prohlížet a smazat zvukové i obrazové přílohy. &lt;/p&gt; &lt;p&gt; &lt;a name=\"Menu\"&gt; &lt;/a&gt; &lt;/p&gt; &lt;h5&gt; Nabídka &lt;/h5&gt; &lt;p&gt; Následující možnosti nabídky jsou k dispozici pro konfiguraci bodování v &amp;nbsp; &lt;strong&gt; Režim bodování tabulky &lt;/strong&gt;: &lt;/p&gt; &lt;/p&gt; &lt;/p&gt; 77X] &lt;li&gt; &lt;strong&gt; Hledat &lt;/strong&gt; &amp;nbsp; - Otevře okno vyhledávání &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Přiblížení/oddálení &lt;/strong&gt; &amp;nbsp; - Přiblížení a oddálení tabulka; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Zobrazení pole &lt;/strong&gt; &amp;nbsp; - Otevře zkušební verzi v &amp;nbsp; &lt;strong&gt; Zobrazení pole &lt;/strong&gt;. Další informace o &amp;nbsp; &lt;strong&gt; Zobrazení pole &lt;/strong&gt; &amp;nbsp; najdete v nápovědě &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;li&gt; &lt;strong&gt; Velikost textu &lt;/strong&gt; [X4296X] 5X] - Poskytuje možnosti velikosti textu pro znaky v prvním řádku tabulky; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; Upravit šířku sloupce &lt;/strong&gt; &amp;nbsp; - Otevře posuvník pro nastavení šířky sloupců; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Umístění.. &lt;/strong&gt; &amp;nbsp; - Poskytuje možnosti pro umístění záznamu: &lt;ul&gt; &lt;li&gt; GPS - pro vyšší přesnost; &lt;/li&gt; &lt;li&gt; Síť - nižší přesnost; a &lt;/li&gt; &lt;li&gt; Nepoužívejte umístění. &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Skener zapnutý &lt;/strong&gt; &amp;nbsp; - otevře &amp;nbsp; &lt;strong&gt; &lt;strong&gt; Spárovaná zařízení &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Konfigurovat...] &amp;nbsp; - Zobrazí možnosti konfigurace: &lt;ul&gt; &lt;li&gt; Velikost textu numerické klávesnice - Možnosti velikosti textu klávesnice v &amp;nbsp; &lt;strong&gt; Scoring Screen &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; Konfigurace %1$s Informace - %1$s Velikost textu a možnosti zobrazení; a &lt;/li&gt; &lt;li&gt; Jak zobrazit přílohy — Vyberte aplikaci pro zobrazení příloh. &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Uběhlé dny jako počet &lt;/strong&gt; &amp;nbsp; - Změna zobrazení uplynulých dnů od data na počet dní od data zkušební výsadby; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Nabídka N Dny pro datum &lt;/strong&gt; &amp;nbsp; - Při kontrole budou vlastnosti data zaznamenány výběrem dne, který je až tři dny od data výsadby. Pokud není zaškrtnuto, vlastnosti data se hodnotí pomocí &amp;nbsp; &lt;em&gt; Výběr data &lt;/em&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Zámk/Odemknout skórované vlastnosti &lt;/strong&gt; &amp;nbsp; - Zamknuté vlastnosti s bodem budou vyžadovat potvrzení pro změnu hodnoty; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Změna orientace obrazovky &lt;/strong&gt; &amp;nbsp; - Změny KDSmart mezi &amp;nbsp; &lt;strong&gt; Krajina &lt;/strong&gt; &amp;nbsp; a &amp;nbsp; &lt;strong&gt; Orientace na výšku &lt;/strong&gt;; &lt;/li&gt; &lt;/li&gt; &lt;li&gt; X] &lt;strong&gt; Zvolte %1$s Barvy &lt;/strong&gt; &amp;nbsp; - Poskytuje možnosti pro změnu barev %1$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Zobrazit/skrýt vše %2$s [X 5986X] &amp;nbsp; - Rozbalí/odečte %1$s pro zobrazení/skrytí %2$s; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Opraveno %1$s Informace &lt;/strong&gt; &amp;nbsp; - Poskytuje možnosti pro přidání sloupců pro zobrazení informací %1$s; a &lt;/li&gt;] &lt;li&gt; &lt;strong&gt; Nápověda &lt;/strong&gt; &amp;nbsp; - Otevře tuto stránku nápovědy. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="ctx_title_bulk_tagging">Hromadné značkování</string>
     <string name="ctx_help_bulk_tagging">&lt;p&gt; Hromadné značkování je funkce, kde lze tagy použít na %1$s a %2$s pro jeden nebo více %1$s najednou. Je k dispozici pouze v režimu hodnocení pole &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &lt;/p&gt; &lt;p&gt; &lt;p&gt; &lt;strong&gt; &lt;strong&gt; Přidat nebo odebrat přepínač značek &lt;/strong&gt; &amp;nbsp; lze vybrat, aby bylo možné povolit přidávání nebo odebrání značek. &lt;/p&gt; &lt;p&gt; Všechny dostupné značky budou uvedeny pod hlavičkami %1$s a %2$s. V případě potřeby rozbalte seznam pomocí šipek rozevíracího seznamu. Přidaný sloupec &amp;nbsp; &lt;strong&gt; # &lt;/strong&gt; zobrazuje, kolik aktuálně vybraných %1$s bylo přidáno nebo odebráno tagy. &lt;/p&gt; &lt;p&gt; Vyberte značku, kterou chcete přidat nebo odebrat z vybraného %1$s /s, a buď zrušte nebo potvrďte zobrazený dialog. Tato změna se projeví ve sloupci &amp;nbsp; &lt;strong&gt; # Přidaný sloupec &lt;/strong&gt;. Jakékoli změny lze vrátit zpět tlačítkem &amp;nbsp; &lt;strong&gt; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt;</string>
@@ -1249,31 +1249,31 @@
     <string name="title_project_name">Název projektu</string>
     <string name="title_grouping">Seskupování</string>
     <string name="msg_last_successfull_fetch">"Poslední úspěšné načtení bylo v "</string>
-    <string name="title_fetching_trials">Načítání zkoušek Kddart</string>
+    <string name="title_fetching_trials">Načítání zkušebních verzí KdArt</string>
     <plurals name="title_sub_plots">
         <item quantity="one">%2$s</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_plots">
         <item quantity="one">%2$s</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string /title_activity_delete_trial</item>
-        <item quantity="few"></item>
-        <item quantity="other">\@string /title_activity_delete_trials</item>
+        <item quantity="few"/>
+        <item quantity="other">\@string /title_activity_delete_trial</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string /ctx_title_delete_tag</item>
-        <item quantity="few"></item>
-        <item quantity="other">\@string /ctx_title_delete_tagy</item>
+        <item quantity="few"/>
+        <item quantity="other">\@string /ctx_title_delete_tag</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string /title_activity_delete_trait</item>
-        <item quantity="few"></item>
-        <item quantity="other">\@string /title_activity_delete_traits</item>
+        <item quantity="few"/>
+        <item quantity="other">\@string /title_activity_delete_trait</item>
     </plurals>
     <string name="msg_checkbox_text">Text zaškrtávacího políčka</string>
     <string name="msg_other_text">Další text</string>
@@ -1282,7 +1282,7 @@
     <string name="msg_csv_import_not_available">Import CSV není k dispozici</string>
     <string name="msg_active_database_is_demo">Aktivní databáze je ukázka</string>
     <string name="msg_do_you_wish_to_continue_with_the_data_import">Přejete si pokračovat v importu dat\?</string>
-    <string name="msg_it_will_be_removed_on_a_demo_db_reset">(Bude odstraněn na \'Demo DB Reset\')</string>
+    <string name="msg_it_will_be_removed_on_a_demo_db_reset">(Bude odstraněn při \'Resetování ukázkové databáze\')</string>
     <string name="msg_trials_available_for_scoring">Zkušební verze k dispozici pro bodování</string>
     <string name="msg_unexpected_button_id_value">ID neočekávaného tlačítka, hodnota</string>
     <string name="errMsg_database_error">Chyba databáze</string>
@@ -1309,7 +1309,7 @@
     <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">"
 \n
 \nKdyž se zobrazí ikona „zamčené“, musíte použít přístupový kód"</string>
-    <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">nastaveno pomocí KDXplore nebo se připojte k KDXplore a nechte jej deaktivovat Lockdown.</string>
+    <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">nastavte pomocí KDxplore nebo se připojte k KDxplore a nechte jej deaktivovat uzamčení.</string>
     <string name="errMsg_database_error_fmt_3">Chyba databáze</string>
     <string name="msg_storage_access_not_available">Přístup k úložišti není k dispozici</string>
     <string name="msg_test_storage_access">Testovací přístup k úložišti</string>
@@ -1369,7 +1369,7 @@
     <string name="msg_for_plot">pro Plot</string>
     <string name="msg_cant_score_trait">Převýšení skóre rys</string>
     <string name="errMsg_database_not_found">Databáze nebyla nalezena</string>
-    <string name="errMsg_db_error">Chyba Db</string>
+    <string name="errMsg_db_error">Chyba databáze</string>
     <string name="errMsg_logic_error">Logická chyba</string>
     <string name="errMsg_plot_or_specimen_not_found">Pozemek nebo vzorek nebyl nalezen</string>
     <string name="msg_showing_all_specimens">Zobrazují se všechny vzorky</string>
@@ -1380,7 +1380,7 @@
     <string name="msg_no_unit">Žádná jednotka</string>
     <string name="msg_kdxchange">KDxChange:</string>
     <string name="msg_discovered">Objeveno</string>
-    <string name="msg_rediscovered">Znovu objeveno</string>
+    <string name="msg_rediscovered">Znovuobjevený</string>
     <string name="msg_search_stopped">Vyhledávání zastaveno</string>
     <string name="msg_cant_connect">Nelze se připojit</string>
     <string name="msg_invalid_response">Neplatná odpověď;</string>
@@ -1389,7 +1389,7 @@
     <string name="msg_android_version_is">Verze pro Android je</string>
     <string name="msg_stop_searching_first">Nejprve přestaňte hledat</string>
     <string name="msg_kdxchange_servers_via">Servery KDXchange prostřednictvím</string>
-    <string name="msg_search_required">Vyžaduje se vyhledávání...</string>
+    <string name="msg_search_required">Vyhledávání Povinné…</string>
     <string name="action_must_implement_onfragmentinteractionlistener">musí implementovat onFragmentInteractionListener</string>
     <string name="msg_connect_to_kdxchange">Připojení ke KDXchange</string>
     <string name="msg_already_searching">Již hledám</string>
@@ -1403,7 +1403,7 @@
     <string name="msg_kdxchange_service_started">Spuštěna služba KDXchange</string>
     <string name="msg_kdxchange_service_stopped">Služba KDxChange byla zastavena</string>
     <string name="errMsg_error_fmt_2">Chyba (</string>
-    <string name="msg_connecting_to_kdxplore">Připojení k KDXplore...</string>
+    <string name="msg_connecting_to_kdxplore">Připojuji se k KDxplore…</string>
     <string name="errMsg_error_starting_server">Chyba při spuštění serveru</string>
     <string name="msg_stopping_server">:: zastavení serveru</string>
     <string name="errMsg_error_stopping_server">Chyba při zastavení serveru</string>
@@ -1443,7 +1443,7 @@
     <string name="msg_no_unscored_sample_found_for_trait_with_barcode">Pro vlastnost s čárovým kódem nebyl nalezen žádný vzorek bez skóre</string>
     <string name="errMsg_database_error_fmt_9">Chyba databáze</string>
     <string name="errMsg_traits_not_found_in_the_database">Vlastnosti nenalezeny v databázi</string>
-    <string name="msg_please_wait">Prosím, počkejte...</string>
+    <string name="msg_please_wait">Prosím, počkejte…</string>
     <string name="errMsg_error_fmt_3">Chyba</string>
     <string name="msg_waiting_for_location_fix_fmt_2">Čekání na opravu polohy</string>
     <string name="msg_finding_location_fmt_2">Hledání místa</string>
@@ -1479,12 +1479,12 @@
     <string name="msg_scoring_samples_in_plot">Bodování vzorků ve spiknutí</string>
     <string name="msg_saving_sample_failed">Uložení vzorku se nezdařilo</string>
     <string name="msg_please_save_try_again">Uložte prosím Zkuste to znovu</string>
-    <string name="msg_skipped_unscored_trait">Přeskočil un-skóroval Trait</string>
+    <string name="msg_skipped_unscored_trait">Přeskočená vlastnost bez skóre</string>
     <string name="msg_debug_output_in">Ladění výstupu v:</string>
     <string name="msg_no_sample">Žádný vzorek</string>
     <string name="errMsg_db_error_fmt_2">Chyba Db</string>
     <string name="msg_no_previous_sample">Žádný předchozí vzorek</string>
-    <string name="msg_exit_autoadvance">Ukončete Auto-Advance\?</string>
+    <string name="msg_exit_autoadvance">Ukončit automatický postup\?</string>
     <string name="msg_not_yet_supported">: Zatím není podporováno</string>
     <string name="errMsg_internal_error_fmt_2">Vnitřní chyba</string>
     <string name="msg_save_tag_details">Uložit podrobnosti značky\?</string>
@@ -1495,11 +1495,11 @@
     <string name="errMsg_delete_tag_bundle_error">Chyba smazat svazek tagů</string>
     <string name="msg_tag_bundles_to_delete">Svazky tagů k odstranění</string>
     <string name="msg_cannot_delete_all_tags">Nelze odstranit všechny tagy</string>
-    <string name="errMsg_getting_tag_from_tagid_error">Získání značky z tagID Chyba</string>
+    <string name="errMsg_getting_tag_from_tagid_error">Chyba při získávání značky z ID značky</string>
     <string name="msg_tag_already_in">Označit již v</string>
     <string name="msg_all_tags_already_in">Všechny tagy již v</string>
     <string name="msg_cant_delete">Převýšení nelze smazat</string>
-    <string name="msg_selected_ids_cant_be_deleted">Vybrané ID nelze odstranit</string>
+    <string name="msg_selected_ids_cant_be_deleted">Vybraná ID nelze smazat</string>
     <string name="msg_cant_delete_any_selected_tag">Převýšení nelze odstranit libovolný vybraný tag</string>
     <string name="msg_unable_to_finding_tags">Nelze najít tagy</string>
     <string name="msg_export_bundle_to_kddart">Exportovat svazek do Kddart</string>
@@ -1516,7 +1516,7 @@
     <string name="msg_no_details_available">-žádné podrobnosti nejsou k dispozici-</string>
     <string name="msg_getting_trait_from_db_problem">Získání rysů z problému db</string>
     <string name="msg_database_problem_fmt_2">Databázový problém</string>
-    <string name="errMsg_db_error_fmt_3">Chyba Db</string>
+    <string name="errMsg_db_error_fmt_3">Chyba databáze</string>
     <string name="msg_invalid_definition">Neplatná definice</string>
     <string name="msg_intdec_mismatch">INT/DEC nesoulad</string>
     <string name="msgFmt_minimum_must_be_at_least">Minimum musí být alespoň</string>
@@ -1524,7 +1524,7 @@
     <string name="msgFmt_maximum_must_be_at_most">Maximum musí být nanejvýšně</string>
     <string name="msgFmt_maximum_must_be_at_most_fmt_2">Maximum musí být nanejvýšně</string>
     <string name="errMsg_deleting_trait_bundle">Odstranění svazku znaků</string>
-    <string name="errMsg_getting_trait_bundle_from_bundle_id">Získání balíčku vlastností z ID balíčku</string>
+    <string name="errMsg_getting_trait_bundle_from_bundle_id">Získání balíčku vlastností z Bundle ID</string>
     <string name="msg_trait_bundles_to_delete">Svazky znaků k odstranění</string>
     <string name="msg_cannot_delete_all_traits">Nelze odstranit všechny vlastnosti</string>
     <string name="errMsg_collecting_trait_bundles_error">Chyba shromažďování svazků znaků</string>
@@ -1581,9 +1581,9 @@
     <string name="msg_trials_were_not_deleted_successfully">Zkoušky nebyly úspěšně odstraněny</string>
     <string name="msg_delete_successful">Odstranit úspěšné</string>
     <string name="msg_trials_were_deleted_successfully">Zkoušky byly úspěšně smazány</string>
-    <string name="msg_deleting_trials">Smazání pokusů...</string>
-    <string name="msg_deleting_trial">Smazání zkušební verze...</string>
-    <string name="msg_attempting_to_delete_items_form_kdsmart">Pokus o odstranění položek z KDSmart</string>
+    <string name="msg_deleting_trials">Odstranění zkušebních verzí…</string>
+    <string name="msg_deleting_trial">Odstranění zkušební verze…</string>
+    <string name="msg_attempting_to_delete_items_form_kdsmart">Pokus o odstranění položek z KDsmart</string>
     <string name="errMsg_error_during_export">Chyba během exportu</string>
     <string name="msg_trial_exported">Exportováno zkušební verze</string>
     <string name="errMsg_export_error_trial">Chyba exportu: Zkušební verze \'</string>
@@ -1611,7 +1611,7 @@
     <string name="msg_no_valid_options_available">Nejsou k dispozici žádné platné možnosti</string>
     <string name="errMsg_could_not_find_specimens_error_fmt_2">Nelze najít vzorky Chyba</string>
     <string name="msg_choose_export_option_fmt_2">Zvolte možnost exportu</string>
-    <string name="msg_export_to_kddart_fmt_5">Export do Kddart</string>
+    <string name="msg_export_to_kddart_fmt_5">Export do KDDart</string>
     <string name="msg_database_problem_fmt_3">Databázový problém</string>
     <string name="msg_trial_names_not_available">Názvy zkušebních verzí nejsou k dispozici</string>
     <string name="msg_not_a_directory">Není adresář:</string>
@@ -1621,18 +1621,18 @@
     <string name="msg_import_from_kddart_fmt_2">Import z KdDart</string>
     <string name="msg_new_trial_name">Nový název zkušební verze</string>
     <string name="msg_trial_note_optional">Zkušební poznámka (volitelné)</string>
-    <string name="msg_clearing_sample_data">Vymazání vzorových dat...</string>
+    <string name="msg_clearing_sample_data">Vymazání vzorových dat…</string>
     <string name="msg_export_trial_fmt_2">Zkušební verze exportu</string>
     <string name="msg_no_trial_id">Žádné zkušební ID</string>
     <string name="msg_cant_be_imported_fmt_3">nelze importovat</string>
-    <string name="errMsg_cant_find_trial_with_trialid">Nemůže najít zkušební verzi s TrialID</string>
+    <string name="errMsg_cant_find_trial_with_trialid">Nelze najít zkušební verzi s ID zkušebního testu</string>
     <string name="msg_trials_from">Zkoušky od</string>
     <string name="errMsg_cant_remove_traits_from_bundle_fmt_2">Převýšení koleje odstranit vlastnosti ze svazku</string>
     <string name="msg_trial_import_in_progress">Probíhá zkušební import</string>
     <string name="msg_stop_it_and_exit">Zastavit a odejít\?</string>
     <string name="msg_change_trait_name_style_to">Změnit styl názvu znaku na
 \n</string>
-    <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">Plot Block není povolen pro Multi Trial Scoring</string>
+    <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">Blokování vykreslování není povoleno pro bodování více pokusů</string>
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">Hodnota zkušebního názvu je vyžadována pro každý graf při použití</string>
     <string name="msg_subplot_count_column_is_required_if_for_all_subplot_is_used">Sloupec Počet dílčích plotů je vyžadován, pokud je použit #* (pro všechny dílčí vykreslování)</string>
     <string name="msg_eg_trait">např. vlastnost</string>
@@ -1686,4 +1686,82 @@
     <string name="msg_value_not_valid">Hodnota není platná</string>
     <string name="msg_not_yet_supported_fmt_2">: Zatím není podporováno</string>
     <string name="msg_database_problem_fmt_4">Problém s databází:</string>
+    <string name="msg_import_your_old_database">Import databáze</string>
+    <string name="msg_export_to">Exportovat do</string>\u2026
+    <string name="msg_kdsx_server">Server KDS2x</string>
+    <string name="msg_kdxchange_servers">Servery KDxChange</string>
+    <string name="msg_limit">Limit:</string>
+    <string name="msg_max">Max</string>
+    <string name="msg_min">Min</string>
+    <string name="msg_more_options">Více možností</string>
+    <string name="msg_n_instances">n instancí</string>
+    <string name="msg_no_active_trial">Žádná aktivní zkušební verze</string>
+    <string name="msg_no_values">žádné hodnoty</string>
+    <string name="msg_plot_attributes">Atributy vykreslování</string>
+    <string name="msg_progress_messages">zprávy o pokroku</string>
+    <string name="msg_protected_trait">(chráněná vlastnost)</string>
+    <string name="msg_rangerow">Rozsah/řádek</string>
+    <string name="msg_row">Řádek</string>
+    <string name="msg_save">Uložit</string>
+    <string name="msg_save_button">Tlačítko Uložit</string>
+    <string name="msg_section">Sekce</string>
+    <string name="msg_select_values">Vybrat hodnoty</string>
+    <string name="msg_start_export">Spustit export</string>
+    <string name="msg_tags">Značky</string>
+    <string name="msg_trials_to_export">Zkušební verze k exportu</string>
+    <string name="msg_value">-hodnota-</string>
+    <string name="msg_use_plotid">Použít ID vykreslování</string>
+    <string name="warning_moving_old_data">Postupujte opatrně!
+\n
+\nChystáte se zkopírovat data ze starého databázového souboru do databáze %1$s.
+\n
+\nVšechna vaše aktuální data budou ztracena.</string>
+    <string name="restore_old_data">Obnovte stará data</string>
+    <string name="title_error_importing">Chyba importu</string>
+    <string name="title_success_importing">Import byl úspěšný</string>
+    <string name="msg_could_not_import_data">Nemohli jsme přesunout data ze starého databázového souboru.
+\nPro databázi %1$s potřebujeme název souboru %2$s k úspěšnému importu</string>
+    <string name="msg_import_data">Import starého databázového souboru byl úspěšný.</string>
+    <string name="title_migration">Rádi bychom vás informovali, že zásady služby Úložiště Google byly aktualizovány, aby změnily způsob, jakým aplikace Obchodu Play ukládají data na zařízeních. Tyto změny znamenají, že budete muset migrovat data KDsmart do nového umístění v zařízení.</string>
+    <string name="warning_migration_text">Upozornění: Spuštění KDsmart v3.3.0 Neodstraňujte KDsmart ze svého zařízení, jinak ztratíte svá data!</string>
+    <string name="locate_database_file"><b> 1. </b> Vyhledejte databázový soubor v zařízení.
+\n
+\n- Pokud chcete migrovat Demo databázi, bude umístěna na adrese KDsmart &gt; Demo_Databse &gt; DemoDb.sqlite
+\n- Pokud chcete migrovat produkční databázi, bude umístěna na adrese KDsmart &gt; Prod_Database &gt; KDSDB.sqlite</string>
+    <string name="update_kdsmart_to_latest_version"><b> 2. </b> Aktualizujte KDsmart na nejnovější verzi, pokud jste tak ještě neučinili. Nejnovější aktualizace obsahuje funkci Import.
+\nAbyste se ujistili, že používáte nejnovější verzi, zkontrolujte číslo verze v horní části domovské obrazovky s nápisem <b> 3.3.0 </b></string>
+    <string name="ensure_correct_database"><b> 3. </b> Otevřete KDsmart a ujistěte se, že jste ve správné aktivní databázi. - Pokud importujete Demo databázi, pak je tato výchozí a nebudete muset nic dělat. - Pokud importujete produkční databázi, přejděte do <b> Nastavení </b> a vyberte možnost <b> Aktivní databáze </b> a vyberte produkční databázi.</string>
+    <string name="go_to_manage_devices"><b> 4. </b> Dále přejděte na obrazovku <b> Správa zařízení </b>.</string>
+    <string name="import_database_button_text"><b> 5. </b> Vyberte kartu <b> Databáze </b> a poté tlačítko <b> Importovat databázi </b>.</string>
+    <string name="locate_database_file_as_point_1"><b> 6. </b> Vyhledejte databázový soubor ve svém zařízení (jako v kroku 1) a vyberte jej pro import databáze. Měla by se zobrazit zpráva s nápisem „Import úspěšný“.</string>
+    <string name="import_error_message"><b> 7. </b> Pokud se zobrazí chyba importu, ujistěte se, že jste vybrali správný databázový soubor a jste ve správné aktivní databázi. Zkuste to znovu a pokud máte nějaké další problémy, neváhejte nás kontaktovat na <b> kdsmart@diversityarrays.com </b></string>
+    <string name="data_migration">Migrace dat</string>
+    <string name="title_image_info">Obrázek migrace</string>
+    <string name="migration_steps"><b> Kroky migrace: </b></string>
+    <string name="migration_link">Video o procesu migrace naleznete zde: <a href="https://youtu.be/KGaRiKsqlWg"> Migration Video </a></string>
+    <string name="msg_all_bundles">Všechny balíčky</string>
+    <string name="msg_attribute_or_trait">Atribut nebo vlastnost</string>
+    <string name="msg_block_layout">Rozložení bloku</string>
+    <string name="msg_choices">Možnosti</string>
+    <string name="msg_clear">Průhledná</string>
+    <string name="msg_column">Sloupec</string>
+    <string name="msg_column_heading">Záhlaví sloupce</string>
+    <string name="msg_dates_in_iso_format">Data ve formátu ISO-8601</string>
+    <string name="msg_description">Popis</string>
+    <string name="msg_details_of_traits_to_be_deleted">Podrobnosti o vlastnostech, které mají být odstraněny</string>
+    <string name="msg_details_of_traits_to_be_retained">Podrobnosti o vlastnostech, které mají být zachovány</string>
+    <string name="msg_device_and_operator">Zařízení a operátor</string>
+    <string name="msg_elapsed_days">Uplynulé dny</string>
+    <string name="msg_entities_selected">Vybrané entity</string>
+    <string name="msg_exit_scoring">Ukončení bodování</string>
+    <string name="msg_export_options">Možnosti exportu:</string>
+    <string name="msg_trait_level">Úroveň vlastností</string>
+    <string name="msg_trait_name">Název znaku</string>
+    <string name="msg_traits">Vlastnosti</string>
+    <string name="msg_traits_selected">Vybrané vlastnosti</string>
+    <string name="msg_traitvalidationrule">pravidlo ověření vlastností</string>
+    <string name="msg_trial_name">Název zkušební verze</string>
+    <string name="msg_include_source_database_id">Zahrnout ID zdrojové databáze</string>
+    <string name="msg_subtitle">Titulky</string>
+    <string name="msg_cancel">Zrušit</string>
 </resources>
