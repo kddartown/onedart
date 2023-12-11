@@ -62,21 +62,21 @@
     <string name="pref_trait_date_format_titles_10">25/kwi</string>
     <string name="pref_trait_date_format_titles_11">25/04</string>
     <string name="collOrder_pref_names_0">Lewy dolny, w górę, serpentyna</string>
-    <string name="collOrder_pref_names_1">Lewy dolny, w górę, w jedną stronę</string>
+    <string name="collOrder_pref_names_1">Dolny lewy, w górę, w jedną stronę</string>
     <string name="collOrder_pref_names_2">Lewy dolny, prawy, serpentyna</string>
-    <string name="collOrder_pref_names_3">Lewy dolny, prawy, jednokierunkowe</string>
+    <string name="collOrder_pref_names_3">Dolny lewy, prawy, jednokierunkowy</string>
     <string name="collOrder_pref_names_4">Górny lewy, DÓŁ, Serpentyna</string>
-    <string name="collOrder_pref_names_5">Górny lewy, DÓŁ, W jedną stronę</string>
+    <string name="collOrder_pref_names_5">Górny lewy, dół, jednokierunkowy</string>
     <string name="collOrder_pref_names_6">Górny lewy, prawy, serpentyna</string>
-    <string name="collOrder_pref_names_7">Górny lewy, prawy, jednokierunkowe</string>
+    <string name="collOrder_pref_names_7">Lewy górny, prawy, jednokierunkowy</string>
     <string name="collOrder_pref_names_8">Górny prawy, dół, serpentyna</string>
-    <string name="collOrder_pref_names_9">Górny prawy, DÓŁ, W jedną stronę</string>
+    <string name="collOrder_pref_names_9">Górny prawy, dół, jednokierunkowy</string>
     <string name="collOrder_pref_names_10">Górny prawy, lewy, serpentyna</string>
-    <string name="collOrder_pref_names_11">Górny prawy, Lewy, W jedną stronę</string>
+    <string name="collOrder_pref_names_11">Górny prawy, lewy, jednokierunkowy</string>
     <string name="collOrder_pref_names_12">Prawy dolny, w górę, serpentyna</string>
-    <string name="collOrder_pref_names_13">Prawy dolny, w górę, w jedną stronę</string>
+    <string name="collOrder_pref_names_13">Dolny prawy, w górę, w jedną stronę</string>
     <string name="collOrder_pref_names_14">Prawy dolny, lewy, serpentyna</string>
-    <string name="collOrder_pref_names_15">Prawy dolny, lewy, jednokierunkowe</string>
+    <string name="collOrder_pref_names_15">Dolny prawy, lewy, jednokierunkowy</string>
     <string name="pref_transition_type_titles_0">Brak przejścia</string>
     <string name="pref_transition_type_titles_1">Zsuń w dół</string>
     <string name="pref_transition_type_titles_2">Przesuń w górę</string>
@@ -92,7 +92,7 @@
     <string name="pref_textAppearance_names_0">Mały</string>
     <string name="pref_textAppearance_names_1">Średni</string>
     <string name="pref_textAppearance_names_2">Duży</string>
-    <string name="pref_textAppearance_names_3">X-Large</string>
+    <string name="pref_textAppearance_names_3">Wyjątkowo duży</string>
     <string name="pref_keyboard_size_names_0">Mały</string>
     <string name="pref_keyboard_size_names_1">Średni</string>
     <string name="pref_keyboard_size_names_2">Duży</string>
@@ -140,6 +140,6 @@
     <string name="trial_group_settings_titles_0">Pakiet próbny</string>
     <string name="trial_group_settings_titles_1">Typ próbny</string>
     <string name="trial_group_settings_titles_2">Adres URL KDDart</string>
-    <string name="trial_group_settings_titles_3">Typ organizmu</string>
+    <string name="trial_group_settings_titles_3">Rodzaj organizmu</string>
     <string name="trial_group_settings_titles_4">Rok sadzenia</string>
 </resources>
