@@ -7,7 +7,6 @@
     <!-- collOrder_pref_names -->
     <!-- See also strings_activity_settings.xml#pref_transition_type_values -->
     <!-- pref_transition_type_titles -->
-    <string name="pref_transition_type_titles_1"/>
     <!-- Icon name for scoring view preference -->
     <!-- Order must match ScoringViewOption and strings.xml/pref_scoring_view_values -->
     <!-- pref_scoring_view_titles -->
@@ -40,7 +39,6 @@
     <!-- *This* is the user visible name corresponding to the prev_auto_scoring_values array -->
     <!-- NOTE: This *DOES* need to be translated. -->
     <!-- pref_auto_scoring_titles -->
-    <string name="pref_auto_scoring_titles_0"/>
     <!-- trait_level_names -->
     <!-- run_length_choices -->
 </resources>
