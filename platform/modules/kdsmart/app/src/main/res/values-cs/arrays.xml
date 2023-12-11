@@ -40,7 +40,7 @@
     <!-- pref_auto_scoring_titles -->
     <!-- trait_level_names -->
     <!-- run_length_choices -->
-    <string name="trial_group_settings_titles_2">KdDart</string>
+    <string name="trial_group_settings_titles_2">KDDart</string>
     <string name="trial_group_settings_titles_3">Typ organismu</string>
     <string name="trial_group_settings_titles_4">Rok výsadby</string>
     <string name="pref_auto_scoring_titles_0">Všechny vlastnosti</string>
@@ -67,19 +67,19 @@
     <string name="collOrder_pref_names_0">Dolní vlevo, nahoru, hadovitý</string>
     <string name="collOrder_pref_names_1">Dolní levá, Nahoru, Jednosměrná</string>
     <string name="collOrder_pref_names_2">Dolní levý, Pravý, Serpentine</string>
-    <string name="collOrder_pref_names_3">Dolní levá, Pravá, Jednosměrná</string>
+    <string name="collOrder_pref_names_3">Dolní levá, pravá, jednosměrná</string>
     <string name="collOrder_pref_names_4">Levý horní, Dolů, Serpentine</string>
-    <string name="collOrder_pref_names_5">Levý horní, Dolů, Jednosměrný</string>
+    <string name="collOrder_pref_names_5">Vlevo nahoře, Dolů, Jednosměrné</string>
     <string name="collOrder_pref_names_6">Horní levý, Pravý, Hadí</string>
-    <string name="collOrder_pref_names_7">Horní levý, Pravý, Jednosměrný</string>
+    <string name="collOrder_pref_names_7">Horní levý, pravý, jednosměrný</string>
     <string name="collOrder_pref_names_8">Pravý horní, Dolů, Serpentine</string>
-    <string name="collOrder_pref_names_9">Pravý horní, Dolů, Jednosměrný</string>
+    <string name="collOrder_pref_names_9">Vpravo nahoře, Dolů, Jednosměrný</string>
     <string name="collOrder_pref_names_10">Pravý horní, levý, hadovitý</string>
-    <string name="collOrder_pref_names_11">Pravý horní, Levý, Jednosměrný</string>
+    <string name="collOrder_pref_names_11">Vpravo nahoře, vlevo, jednosměrné</string>
     <string name="collOrder_pref_names_12">Pravá dolní, Nahoru, Serpentine</string>
-    <string name="collOrder_pref_names_13">Dolní vpravo, nahoru, jednosměrný</string>
+    <string name="collOrder_pref_names_13">Vpravo dole, Nahoru, Jednosměrný</string>
     <string name="collOrder_pref_names_14">Vpravo dole, vlevo, hadovitý</string>
-    <string name="collOrder_pref_names_15">Pravá dolní, Levá, Jednosměrná</string>
+    <string name="collOrder_pref_names_15">Vpravo dole, vlevo, jednosměrné</string>
     <string name="pref_transition_type_titles_0">Žádný přechod</string>
     <string name="pref_transition_type_titles_1">Sklouznout dolů</string>
     <string name="pref_transition_type_titles_2">Posuňte nahoru</string>
@@ -95,7 +95,7 @@
     <string name="pref_textAppearance_names_0">Malá</string>
     <string name="pref_textAppearance_names_1">Střední</string>
     <string name="pref_textAppearance_names_2">Velké</string>
-    <string name="pref_textAppearance_names_3">X-Velký</string>
+    <string name="pref_textAppearance_names_3">Extra velký</string>
     <string name="pref_keyboard_size_names_0">Malá</string>
     <string name="pref_keyboard_size_names_1">Střední</string>
     <string name="pref_keyboard_size_names_2">Velké</string>
