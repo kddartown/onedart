@@ -40,4 +40,106 @@
     <!-- pref_auto_scoring_titles -->
     <!-- trait_level_names -->
     <!-- run_length_choices -->
+    <string name="pref_database_names_0">Demo</string>
+    <string name="pref_database_names_1">Produção</string>
+    <string name="pref_trait_date_format_titles_1">25/abr/1915</string>
+    <string name="collOrder_pref_names_5">Superior esquerdo, para baixo, unidirecional</string>
+    <string name="collOrder_pref_names_6">Canto superior esquerdo, direito, serpentina</string>
+    <string name="pref_transition_type_titles_6">Girar</string>
+    <string name="trial_group_settings_titles_0">Pacote de teste</string>
+    <string name="trial_group_settings_titles_1">Tipo de teste</string>
+    <string name="trial_group_settings_titles_2">URL do KDDart</string>
+    <string name="trial_group_settings_titles_3">Tipo de organismo</string>
+    <string name="trial_group_settings_titles_4">Ano de plantio</string>
+    <string name="pref_auto_scoring_titles_0">Todas as características</string>
+    <string name="pref_auto_scoring_titles_1">Traços não pontuados</string>
+    <string name="trait_level_names_0">Trama</string>
+    <string name="trait_level_names_1">Sub-parcela</string>
+    <string name="run_length_choices_0">Vertical</string>
+    <string name="run_length_choices_1">Horizontal</string>
+    <string name="run_length_choices_2">Personalizado</string>
+    <string name="pref_trait_date_format_titles_0">1915/Abr/25</string>
+    <string name="pref_trait_date_format_titles_2">25/Abr/1915</string>
+    <string name="pref_trait_date_format_titles_3">1915/04/25</string>
+    <string name="pref_trait_date_format_titles_4">25/04/1915</string>
+    <string name="pref_trait_date_format_titles_5">25/04/1915</string>
+    <string name="pref_trait_date_format_titles_6">1915/115</string>
+    <string name="pref_trait_date_format_titles_7">115/1915</string>
+    <string name="pref_trait_date_format_titles_8">25 de abril</string>
+    <string name="pref_trait_date_format_titles_9">25/04</string>
+    <string name="pref_trait_date_format_titles_10">25/abr</string>
+    <string name="pref_trait_date_format_titles_11">25/04</string>
+    <string name="collOrder_pref_names_0">Inferior esquerdo, para cima, serpentina</string>
+    <string name="collOrder_pref_names_1">Inferior esquerdo, para cima, unidirecional</string>
+    <string name="collOrder_pref_names_2">Inferior esquerdo, direito, serpentina</string>
+    <string name="collOrder_pref_names_3">Inferior esquerdo, direito, unidirecional</string>
+    <string name="collOrder_pref_names_4">Cima esquerda, para baixo, serpentina</string>
+    <string name="collOrder_pref_names_7">Superior esquerdo, direito, unidirecional</string>
+    <string name="collOrder_pref_names_8">Cima direita, para baixo, serpentina</string>
+    <string name="collOrder_pref_names_9">Superior direito, para baixo, unidirecional</string>
+    <string name="collOrder_pref_names_10">Superior direito, esquerdo, serpentina</string>
+    <string name="collOrder_pref_names_11">Superior direito, esquerdo, unidirecional</string>
+    <string name="collOrder_pref_names_12">Canto inferior direito, para cima, serpentina</string>
+    <string name="collOrder_pref_names_13">Canto inferior direito, para cima, unidirecional</string>
+    <string name="collOrder_pref_names_14">Inferior direito, esquerdo, serpentina</string>
+    <string name="collOrder_pref_names_15">Inferior direito, esquerdo, unidirecional</string>
+    <string name="pref_transition_type_titles_0">Sem transição</string>
+    <string name="pref_transition_type_titles_1">Deslize para baixo</string>
+    <string name="pref_transition_type_titles_2">Deslize para cima</string>
+    <string name="pref_transition_type_titles_3">Deslize à esquerda</string>
+    <string name="pref_transition_type_titles_4">Deslize à direita</string>
+    <string name="pref_transition_type_titles_5">Desvanecer-se</string>
+    <string name="pref_scoring_view_titles_0">Modo de planilha</string>
+    <string name="pref_scoring_view_titles_1">Modo de caminho</string>
+    <string name="pref_scoring_view_titles_2">Modo de campo</string>
+    <string name="pref_howto_view_attachment_names_0">Visualizador interno</string>
+    <string name="pref_howto_view_attachment_names_1">Escolha o aplicativo</string>
+    <string name="pref_textAppearance_names_0">Pequeno</string>
+    <string name="pref_textAppearance_names_1">Médio</string>
+    <string name="pref_textAppearance_names_2">Grande</string>
+    <string name="pref_textAppearance_names_3">X-Large</string>
+    <string name="pref_keyboard_size_names_0">Pequeno</string>
+    <string name="pref_keyboard_size_names_1">Médio</string>
+    <string name="pref_keyboard_size_names_2">Grande</string>
+    <string name="pref_phone_picker_date_format_names_0">Giradora</string>
+    <string name="pref_phone_picker_date_format_names_1">Calendário</string>
+    <string name="pref_phone_picker_date_format_names_2">Ambos</string>
+    <string name="gradient_pref_names_0">Tons azuis</string>
+    <string name="gradient_pref_names_1">Tons de laranja</string>
+    <string name="gradient_pref_names_2">Tons de magenta</string>
+    <string name="gradient_pref_names_3">Azul a vermelho</string>
+    <string name="gradient_pref_names_4">Verde, amarelo, laranja, vermelho</string>
+    <string name="gradient_pref_names_5">Vermelho para verde</string>
+    <string name="gradient_pref_names_6">Vermelho, laranja, amarelo</string>
+    <string name="gradient_pref_names_7">Preto, marrom, vermelho, bronzeado</string>
+    <string name="gradient_pref_names_8">Preto, marrom, vermelho, laranja, amarelo</string>
+    <string name="gradient_pref_names_9">Arco-íris</string>
+    <string name="orgtype_pref_names_0">Genérico</string>
+    <string name="orgtype_pref_names_1">Planta</string>
+    <string name="orgtype_pref_names_2">Milho</string>
+    <string name="orgtype_pref_names_3">Trigo</string>
+    <string name="orgtype_pref_names_4">ADN</string>
+    <string name="pref_gps_titles_0">GPS (maior precisão)</string>
+    <string name="pref_gps_titles_1">Rede (menor precisão)</string>
+    <string name="pref_gps_titles_2">Não use a localização</string>
+    <string name="drawer_list_items_0">Início</string>
+    <string name="drawer_list_items_1">Testes</string>
+    <string name="drawer_list_items_2">Traços</string>
+    <string name="drawer_list_items_3">Etiquetas</string>
+    <string name="drawer_list_items_4">Gerenciar dispositivos</string>
+    <string name="drawer_list_items_5">Configurações</string>
+    <string name="drawer_list_items_6">Informações</string>
+    <string name="minutes_ago_options_0">1=1 minuto atrás</string>
+    <string name="minutes_ago_options_1">2=2 minutos atrás</string>
+    <string name="minutes_ago_options_2">3=3 minutos atrás</string>
+    <string name="minutes_ago_options_3">4=4 minutos atrás</string>
+    <string name="minutes_ago_options_4">5=5 minutos atrás</string>
+    <string name="minutes_ago_options_5">10=10 minutos atrás</string>
+    <string name="minutes_ago_options_6">15=15 minutos atrás</string>
+    <string name="minutes_ago_options_7">Mais…</string>
+    <string name="locale_pref_titles_0">Use a configuração do sistema</string>
+    <string name="locale_pref_titles_1">Inglês</string>
+    <string name="locale_pref_titles_2">alemã</string>
+    <string name="locale_pref_titles_3">Espanhol-Mex</string>
+    <string name="locale_pref_titles_4">polonês</string>
 </resources>
