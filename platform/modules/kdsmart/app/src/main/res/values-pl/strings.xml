@@ -184,8 +184,8 @@
     <string name="pref_selected_kddart_url_key" translatable="false">pref_selected_kddart_url</string>
     <string name="pref_collOrder_title">Domyślna kolejność odbioru</string>
     <string name="pref_collOrder_key" translatable="false">pref_list_visit_order</string>
-    <string name="pref_collOrder_default_value" translatable="false">LL_RIGHT_SERPENTYN</string>
-    <string name="pref_collOrder_drawablesName" translatable="false">Collorder_pref_drawables</string>
+    <string name="pref_collOrder_default_value" translatable="false">LL_RIGHT_SERPENTINE</string>
+    <string name="pref_collOrder_drawablesName" translatable="false">collOrder_pref_drawables</string>
     <string name="pref_title_plots_per_group">Domyślne wykresy na grupę</string>
     <string name="pref_title_transition_type">Następna cecha Przejście</string>
     <string name="pref_title_scoring_type">Domyślny tryb punktacji</string>
@@ -537,7 +537,7 @@
     <string name="pref_gradient_drawablesName" translatable="false">gradient_pref_drawables</string>
     <string name="pref_gradient_default_value" translatable="false">HEAT_5</string>
     <string name="pref_gradient_key" translatable="false">pref_heatmap_gradient</string>
-    <string name="pref_orgtype_default_value" translatable="false">RODZAJOWY</string>
+    <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
     <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
     <string name="pref_title_organism_type">Rodzaj organizmu</string>
@@ -872,7 +872,7 @@
     <string name="hdg_choose_scoring_view_style">Tryb punktacji</string>
     <string name="pref_key_scoringView" translatable="false">pref_scoring_view</string>
     <string name="pref_default_value_scoringView" translatable="false">PATH_VIEW</string>
-    <string name="pref_drawablesName_scoringView" translatable="false">Scoringview_pref_drawables</string>
+    <string name="pref_drawablesName_scoringView" translatable="false">scoringView_pref_drawables</string>
     <string name="msg_no_plot_there">Nie %1$s tam</string>
     <string name="msg_unable_to_find_xy_for_plot">Nie można znaleźć X, Y dla %1$s</string>
     <string name="prompt_find_plots">Znajdź %1$s</string>

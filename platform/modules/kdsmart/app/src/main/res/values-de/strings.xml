@@ -185,8 +185,8 @@
     <string name="pref_collOrder_title">Standardabholreihenfolge</string>
     <string name="pref_collOrder_description">Standardabholreihenfolge</string>
     <string name="pref_collOrder_key" translatable="false">pref_list_visit_order</string>
-    <string name="pref_collOrder_default_value" translatable="false">LL_RIGHT_SERPENTIN</string>
-    <string name="pref_collOrder_drawablesName" translatable="false">CollOrder_Pref_Drawables</string>
+    <string name="pref_collOrder_default_value" translatable="false">LL_RIGHT_SERPENTINE</string>
+    <string name="pref_collOrder_drawablesName" translatable="false">collOrder_pref_drawables</string>
     <string name="pref_title_plots_per_group">Standarddiagramme pro Gruppe</string>
     <string name="pref_title_transition_type">Nächster Merkmalsübergang</string>
     <string name="pref_title_scoring_type">Standard-Scoring-Modus</string>
@@ -477,10 +477,10 @@
     <string name="pref_title_gradient_choice">Standard-Heatmap-Gradient</string>
     <string name="pref_desc_gradient_choice">Wählen Sie Heatmap Gradient</string>
     <string name="pref_gradient_drawablesName" translatable="false">gradient_pref_drawables</string>
-    <string name="pref_gradient_default_value" translatable="false">HITZE_5</string>
+    <string name="pref_gradient_default_value" translatable="false">HEAT_5</string>
     <string name="pref_gradient_key" translatable="false">pref_heatmap_gradient</string>
-    <string name="pref_orgtype_default_value" translatable="false">GENERISCH</string>
-    <string name="pref_orgtype_key" translatable="false">präfer_organismus_type</string>
+    <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
+    <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
     <string name="pref_title_organism_type">Organismus-Typ</string>
     <string name="pref_desc_organism_type">Wählen Sie einen Organismentyp</string>
@@ -841,8 +841,8 @@
     <string name="ctx_help_manage_database">&lt;p&gt; Der &amp;nbsp; &lt;strong&gt; Datenbank-Tab &lt;/strong&gt; &amp;nbsp; bietet Optionen zum Sichern von Testversionen und der KDSmart-Datenbank. Die verfügbaren Optionen sind unten aufgeführt: &lt;/p&gt; &lt;li&gt; &lt;strong&gt; Schaltfläche „In Ordner ausgeben“ &lt;/strong&gt; &amp;nbsp; — Wählen Sie diese Schaltfläche, um das Storage Access Framework (SAF) des Geräts zu öffnen, in dem ein Ordnerpfad für gespeicherte Dateien ausgewählt werden kann; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Speichertaste &lt;/strong&gt;: &lt;ul&gt;] &lt;li&gt; Testversionen als Zip — am besten zum Speichern von Dateien als CSV; &lt;/li&gt; &lt;li&gt; Testversionen als KDX — am besten für die Verwendung mit KDXPlore; und &lt;/li&gt; &lt;li&gt; Datenbankdateien — zum Sichern aller Daten. &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;strong&gt; Schaltfläche zur Überprüfung der Datenbankintegrität &lt;/strong&gt; &amp;nbsp; — Initiiert eine Integritätsprüfung der lokalen Datenbank; und &lt;/li&gt; &lt;strong&gt; Schaltfläche „Blockversuche aktualisieren“ &lt;/strong&gt; &amp;nbsp; — Behebt bekannte Probleme mit Blockversuchen. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="hdg_choose_scoring_view_style">Punktemodus</string>
     <string name="pref_key_scoringView" translatable="false">pref_scoring_view</string>
-    <string name="pref_default_value_scoringView" translatable="false">PFAD_ANSICHT</string>
-    <string name="pref_drawablesName_scoringView" translatable="false">ScoringView_Pref_Drawables</string>
+    <string name="pref_default_value_scoringView" translatable="false">PATH_VIEW</string>
+    <string name="pref_drawablesName_scoringView" translatable="false">scoringView_pref_drawables</string>
     <string name="msg_no_plot_there">Nein %1$s da</string>
     <string name="msg_unable_to_find_xy_for_plot">X, Y für %1$s konnte nicht gefunden werden</string>
     <string name="prompt_find_plots">Finde %1$s</string>

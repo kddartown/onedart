@@ -184,15 +184,15 @@
     <string name="pref_title_left_handed_layout">Puntuación zurda</string>
     <string name="pref_description_left_handed_layout">Comience en modo zurdo al anotar rasgos</string>
     <string name="pref_locale_key">pref_application_locale</string>
-    <string name="pref_locale_default_value" translatable="false">SISTEMA</string>
-    <string name="pref_locale_drawablesName" translatable="false">pref_aplicación_locale_drawables</string>
+    <string name="pref_locale_default_value" translatable="false">SYSTEM</string>
+    <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
     <string name="pref_kddart_url_key" translatable="false">pref_kddart_url</string>
     <string name="pref_selected_kddart_url_key" translatable="false">pref_selected_kddart_url</string>
     <string name="pref_collOrder_title">Orden de recopilación predeterminada</string>
     <string name="pref_collOrder_description">Orden de recopilación predeterminado</string>
-    <string name="pref_collOrder_key" translatable="false">Pref_list_visit_order</string>
+    <string name="pref_collOrder_key" translatable="false">pref_list_visit_order</string>
     <string name="pref_collOrder_default_value" translatable="false">LL_RIGHT_SERPENTINE</string>
-    <string name="pref_collOrder_drawablesName" translatable="false">Collorder_pref_drawables</string>
+    <string name="pref_collOrder_drawablesName" translatable="false">collOrder_pref_drawables</string>
     <string name="pref_title_plots_per_group">Tramas predeterminadas por grupo</string>
     <string name="pref_title_transition_type">Siguiente Transición de Rasgo</string>
     <string name="pref_title_scoring_type">Modo de puntuación predeterminado</string>
@@ -558,11 +558,11 @@
     <string name="pref_title_date_phone_picker_format">selector de fecha para pantallas pequeñas</string>
     <string name="pref_title_gradient_choice">Degradado predeterminado del mapa de calor</string>
     <string name="pref_desc_gradient_choice">Seleccionar degradado del mapa de calor</string>
-    <string name="pref_gradient_drawablesName" translatable="false">gradient_pref_dibujables</string>
-    <string name="pref_gradient_default_value" translatable="false">CALOR_5</string>
-    <string name="pref_gradient_key" translatable="false">pref_heatmap_gradiente</string>
-    <string name="pref_orgtype_default_value" translatable="false">GENÉRICO</string>
-    <string name="pref_orgtype_key" translatable="false">tipo de organismo pref</string>
+    <string name="pref_gradient_drawablesName" translatable="false">gradient_pref_drawables</string>
+    <string name="pref_gradient_default_value" translatable="false">HEAT_5</string>
+    <string name="pref_gradient_key" translatable="false">pref_heatmap_gradient</string>
+    <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
+    <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
     <string name="pref_title_organism_type">Tipo de organismo</string>
     <string name="pref_desc_organism_type">Seleccione un tipo de organismo</string>
@@ -906,8 +906,8 @@
     <string name="ctx_help_manage_database">&lt;p&gt; La ficha Base de datos &amp;nbsp; &lt;strong&gt; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; ofrece opciones para realizar copias de seguridad de las pruebas y la base de datos KDSmart. Las opciones disponibles se enumeran a continuación: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Botón Salida a carpeta &lt;/strong&gt; &amp;nbsp; - Seleccione este botón para abrir el dispositivo Storage Access Framework (SAF) donde se puede elegir una ubicación de carpeta para los archivos guardados; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Guardar botón &lt;/strong&gt;: &lt;ul&gt;] &lt;li&gt; Pruebas como Zip - lo mejor para guardar archivos como CSV; &lt;/li&gt; &lt;li&gt; Pruebas como KDX - mejor para usar con KDXplore; y &lt;/li&gt; &lt;li&gt; Archivos de base de datos - para realizar copias de seguridad de todos los datos. &lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Botón de comprobación de integridad de base de datos &lt;/strong&gt; &amp;nbsp; - Inicia una comprobación de integridad de la base de datos local; y &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Botón de actualización de pruebas en bloque &lt;/strong&gt; &amp;nbsp; - Resuelve problemas conocidos con las pruebas de bloques. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="hdg_choose_scoring_view_style">Modo de puntuación</string>
     <string name="pref_key_scoringView" translatable="false">pref_scoring_view</string>
-    <string name="pref_default_value_scoringView" translatable="false">VISTA DE RUTA</string>
-    <string name="pref_drawablesName_scoringView" translatable="false">ScoringView_Pref_Drawables</string>
+    <string name="pref_default_value_scoringView" translatable="false">PATH_VIEW</string>
+    <string name="pref_drawablesName_scoringView" translatable="false">scoringView_pref_drawables</string>
     <string name="msg_no_plot_there">No hay %1$s</string>
     <string name="msg_unable_to_find_xy_for_plot">No se puede encontrar X, Y para %1$s</string>
     <string name="prompt_find_plots">Buscar %1$s</string>
