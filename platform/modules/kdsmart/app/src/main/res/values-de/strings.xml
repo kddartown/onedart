@@ -679,7 +679,7 @@
     <string name="title_select_heatmap_opacity">Wählen Sie Heatmap Opazität</string>
     <string name="title_select_heatmap_gradient">Wählen Sie Heatmap Gradient</string>
     <string name="msg_info_searchname_nplots">{0}: {1, Zahl, Ganzzahl}</string>
-    <string name="msg_info_selected_nplots">Ausgewählt: {0, Zahl, Ganzzahl}</string>
+    <string name="msg_info_selected_nplots">Ausgewählt: {0, number, integer}</string>
     <string name="prompt_menu_configure_ellipsis">Konfigurieren…</string>
     <string name="msgfmt_warning_landscape_small">Im Querformat auf kleinen Bildschirmen wird immer mindestens {0} verwendet</string>
     <string name="prompt_menu_data_score_samples">Partiturbeispiele</string>
@@ -732,8 +732,8 @@
     <string name="msg_no_plot_info">Keine %1$s -Information</string>
     <string name="msgfmt_tags_selected_for_delete">Zum Löschen ausgewählte Tags: {0, number, integer}</string>
     <string name="msg_min_must_be_lt_max">Min muss kleiner als Max sein</string>
-    <string name="msgfmt_invalid_min_value">Ungültiges Minimum: {0, Zahl, Ganzzahl}</string>
-    <string name="msgfmt_invalid_max_value">Ungültiges Maximum: {0, Zahl, Ganzzahl}</string>
+    <string name="msgfmt_invalid_min_value">Ungültiges Minimum: {0, number, integer}</string>
+    <string name="msgfmt_invalid_max_value">Ungültiges Maximum: {0, number, integer}</string>
     <string name="title_trial_element_names">Namen der Testelemente</string>
     <string name="msg_hint_for_example_Plot">z. B. %1$s</string>
     <string name="msg_hint_for_example_Column">z. B. %1$s</string>
