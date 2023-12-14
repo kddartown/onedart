@@ -377,32 +377,32 @@
     <string name="prompt_autoscoring_options_unscored_traits">Traços não pontuados</string>
     <string name="prompt_autoscoring_options_selected_traits">Características selecionadas</string>
     <plurals name="msg_n_tags_imported">
-        <item quantity="one"></item>
+        <item quantity="one">%d tag importada</item>
         <item quantity="many"></item>
         <item quantity="other">%d tags importadas</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
-        <item quantity="one"></item>
+        <item quantity="one">%d característica importada</item>
         <item quantity="many"></item>
         <item quantity="other">%d características importadas</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
-        <item quantity="one"></item>
+        <item quantity="one">%d características atualizada</item>
         <item quantity="many"></item>
         <item quantity="other">%d características atualizadas</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
-        <item quantity="one"></item>
+        <item quantity="one">%d Instância de característica ativa</item>
         <item quantity="many"></item>
         <item quantity="other">%d Instâncias de características ativas</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
-        <item quantity="one"></item>
+        <item quantity="one">Um ensaios selecionado para exclusão</item>
         <item quantity="many"></item>
         <item quantity="other">%d ensaios selecionados para exclusão</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
-        <item quantity="one"></item>
+        <item quantity="one">Uma característica será excluída</item>
         <item quantity="many"></item>
         <item quantity="other">%d As características serão excluídas</item>
     </plurals>
@@ -410,18 +410,18 @@
     <string name="title_please_confirm_tag_export">Por favor, confirme a exportação da tag</string>
     <string name="title_please_confirm_trait_export">Por favor, confirme a exportação da característica</string>
     <plurals name="msg_export_n_traits">
-        <item quantity="one"></item>
+        <item quantity="one">Uma característica selecionada para exportação</item>
         <item quantity="many"></item>
         <item quantity="other">%d características selecionadas para exportação</item>
     </plurals>
     <plurals name="msg_export_n_trials">
-        <item quantity="one"></item>
+        <item quantity="one">Uma ensaio selecionada para exportação</item>
         <item quantity="many"></item>
         <item quantity="other">%d ensaios selecionados para exportação</item>
     </plurals>
     <string name="title_export_all_tags">Exportar todas as tags</string>
     <plurals name="msg_export_n_tags">
-        <item quantity="one"></item>
+        <item quantity="one">Um tag selecionada para exportação</item>
         <item quantity="many"></item>
         <item quantity="other">%d tags selecionadas para exportação</item>
     </plurals>
@@ -574,22 +574,22 @@
     <string name="msg_import_trial_csv_completed_colon">A importação experimental do CSV foi concluída:</string>
     <string name="msg_import_trial_sample_counts_colon">A medição da amostra conta:</string>
     <plurals name="msg_imported_n_plots">
-        <item quantity="one"></item>
+        <item quantity="one">%2$d %1$s importado</item>
         <item quantity="many"></item>
         <item quantity="other">%2$d %1$s importado</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
-        <item quantity="one"></item>
+        <item quantity="one">%2$d %1$s medição de amostra</item>
         <item quantity="many"></item>
         <item quantity="other">%2$d %1$s Medições de amostra</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
-        <item quantity="one"></item>
+        <item quantity="one">medição</item>
         <item quantity="many"></item>
         <item quantity="other">%1$d %2$s Medições</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
-        <item quantity="one"></item>
+        <item quantity="one">Adicionada uma nova característica</item>
         <item quantity="many"></item>
         <item quantity="other">Foram adicionadas novas características %d</item>
     </plurals>
@@ -1240,22 +1240,22 @@
     <string name="msg_last_successfull_fetch">"A última busca bem-sucedida foi em "</string>
     <string name="title_fetching_trials">Obtendo testes do KDDart</string>
     <plurals name="title_sub_plots">
-        <item quantity="one"></item>
+        <item quantity="one">%2$s</item>
         <item quantity="many"></item>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_delete_trials">
-        <item quantity="one"></item>
+        <item quantity="one">\@string/title_activity_delete_trials</item>
         <item quantity="many"></item>
         <item quantity="other">\@string /title_activity_delete_trials</item>
     </plurals>
     <plurals name="title_delete_tags">
-        <item quantity="one"></item>
+        <item quantity="one">\@string/ctx_title_delete_tags</item>
         <item quantity="many"></item>
         <item quantity="other">\@string /ctx_title_delete_tags</item>
     </plurals>
     <plurals name="title_delete_traits">
-        <item quantity="one"></item>
+        <item quantity="one">\@string/title_activity_delete_traits</item>
         <item quantity="many"></item>
         <item quantity="other">\@string /title_activity_delete_traits</item>
     </plurals>
@@ -1765,7 +1765,7 @@
     <string name="ctx_help_manage_trial" formatted="false">&lt;p&gt; A tela de teste &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; exibe todos os testes que estão atualmente carregados no KDSmart. &lt;/p&gt; &lt;p&gt; Aviso: &amp;nbsp; &lt;strong&gt; O modo de demonstração &lt;/strong&gt; &amp;nbsp; deve &amp;nbsp; &lt;strong&gt; NÃO &lt;/strong&gt; &amp;nbsp; ser usado em seus testes reais. É &amp;nbsp; &lt;strong&gt; SOMENTE &lt;/strong&gt; &amp;nbsp; destinado a fins de demonstração e treinamento. Todos os dados no modo de demonstração &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; podem ser perdidos com qualquer atualização de versão ou escolhendo a opção &amp;nbsp; &lt;em&gt; Redefinir dados de demonstração &lt;/em&gt; &amp;nbsp; nas configurações &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; que restaura os dados de demonstração. &amp;nbsp; &lt;strong&gt; O modo de demonstração &lt;/strong&gt; &amp;nbsp; é indicado pelo &amp;nbsp; &lt;strong&gt; DEMO DB &lt;/strong&gt; que aparece na tela inicial &amp;nbsp; &lt;strong&gt; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Para exibir os detalhes de um teste, escolha o teste com um toque curto em &amp;nbsp; &lt;em&gt; &lt;/em&gt;. Isso o levará à tela de detalhes do teste &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Se um teste estiver destacado, você poderá realizar as seguintes ações nele junto com as ações gerais no menu &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Comece a pontuar &lt;/strong&gt; &amp;nbsp; - Abre a pontuação Tela de configuração &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; para qualquer teste destacado; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Teste de importação &lt;/strong&gt; &amp;nbsp; - Opções para importar testes do dispositivo ou do KDXplore com o KDXchange; [X7712X] [X125X] - Opções para importar testes do dispositivo ou do KDXplore com o KDXchange; [X7712X] [X125X] 83X] &lt;strong&gt; Compartilhe &lt;/strong&gt; &amp;nbsp; - Opções de compartilhamento para o teste destacado com o Storage Access do Android Estrutura incluindo e-mail, Bluetooth ou qualquer serviço de compartilhamento de arquivos instalado no dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Exportar para &lt;/strong&gt; &amp;nbsp; - Opções de exportação de qualquer teste destacado para exportar arquivos para o dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Clone Trial &lt;/strong&gt; &amp;nbsp;] - Cria um clone de qualquer teste destacado que contenha os mesmos dados e características; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Excluir &lt;/strong&gt; &amp;nbsp; - Exclui qualquer teste destacado; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Classificar... &lt;/strong&gt; &amp;nbsp; - Opções para classificar ensaios; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Agrupamento &lt;/strong&gt; &amp;nbsp; - Opções para grupos de ensaios; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Dados de demonstração aleatórios &lt;/strong&gt; &amp;nbsp; - Uma ferramenta para aplicar dados de demonstração aleatórios a um teste, incluindo anexos (somente no &amp;nbsp; &lt;strong&gt; Modo de demonstração &lt;/strong&gt;); &lt;ul&gt; &lt;li&gt; &lt;strong&gt;] Amostras de pontuação &lt;/strong&gt; &amp;nbsp; - Gera dados de amostra com a probabilidade de uma amostra ser pontuada variando de 10% a 100%; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Adicionar anexos &lt;/strong&gt; &amp;nbsp; - Gera anexos e etiquetas; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Limpar todos os dados &lt;/strong&gt; &amp;nbsp; - Limpa todos os dados de amostra para o teste de demonstração selecionado; &lt;/li&gt; &lt;/ul&gt; [X 2444X] &lt;li&gt; &lt;strong&gt; Adicionar teste &lt;/strong&gt; &amp;nbsp; - Opções para criar um novo teste; e &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ajuda &lt;/strong&gt; &amp;nbsp; - Abre esta página de ajuda. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Use um &amp;nbsp; &lt;em&gt; e pressione e segure &lt;/em&gt; &amp;nbsp; em uma ou mais tentativas para selecioná-las para ações futuras. Observe que mais de um teste pode ser selecionado ao mesmo tempo. As ações extras que a seleção pode exibir são: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Selecionar/desmarcar tudo &lt;/strong&gt; &amp;nbsp; - Seleciona ou desmarca todas as tentativas; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Compartilhar &lt;/strong&gt; &amp;nbsp; - Compartilhamento opções para os testes destacados com o Storage Access Framework do Android, incluindo e-mail, Bluetooth ou qualquer serviço de compartilhamento de arquivos instalado no dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Exportar para &lt;/strong&gt; &amp;nbsp; - Opções de exportação de qualquer característica destacada para exportar arquivos para o dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Adicionar %2$s &lt;/strong&gt; &amp;nbsp; - Adicione %2$s a cada %1$s em qualquer teste. Observe que isso significa escolher o número de %2$s que cada %1$s terá e não adicionará o valor selecionado ao %1$s existente atualmente. Por exemplo, se cada %1$s em um teste já tiver um %2$s, mas você quiser adicionar mais um, escolha \'2\' e não \'1\'; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Adicionar pacote de características &lt;/strong&gt; &amp;nbsp; - Adicionar um pacote de características a um teste; e &lt;/li&gt; X] &lt;li&gt; &lt;strong&gt; Adicionar pacote &lt;/strong&gt; &amp;nbsp; - Crie um novo pacote de teste com 2 ou mais testes selecionados. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="title_import_as_trial_cell_name">Nome do teste %1$s</string>
     <plurals name="title_plots">
-        <item quantity="one"></item>
+        <item quantity="one">%1$s</item>
         <item quantity="many"></item>
         <item quantity="other">%1$s</item>
     </plurals>
