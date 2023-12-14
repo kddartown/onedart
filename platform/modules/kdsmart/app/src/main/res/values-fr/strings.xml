@@ -383,32 +383,32 @@
     <string name="prompt_autoscoring_options_unscored_traits">Caractéristiques non notées</string>
     <string name="prompt_autoscoring_options_selected_traits">Caractéristiques sélectionnées</string>
     <plurals name="msg_n_tags_imported">
-        <item quantity="one"></item>
+        <item quantity="one">Une étiquette importée</item>
         <item quantity="many"></item>
-        <item quantity="other">%d balises importées</item>
+        <item quantity="other">%d étiquettes importées</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
-        <item quantity="one"></item>
+        <item quantity="one">Un trait importé</item>
         <item quantity="many"></item>
         <item quantity="other">%d traits importés</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
-        <item quantity="one"></item>
+        <item quantity="one">Un trait mis à jour</item>
         <item quantity="many"></item>
         <item quantity="other">%d traits mis à jour</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
-        <item quantity="one"></item>
+        <item quantity="one">Une instance de trait active</item>
         <item quantity="many"></item>
         <item quantity="other">%d Instances de traits actives</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
-        <item quantity="one"></item>
+        <item quantity="one">Un essai sélectionné pour suppression</item>
         <item quantity="many"></item>
         <item quantity="other">%d essais sélectionnés pour suppression</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
-        <item quantity="one"></item>
+        <item quantity="one">Un trait sera supprimé</item>
         <item quantity="many"></item>
         <item quantity="other">%d Les traits seront supprimés</item>
     </plurals>
@@ -416,18 +416,18 @@
     <string name="title_please_confirm_tag_export">Veuillez confirmer l\'exportation du tag</string>
     <string name="title_please_confirm_trait_export">Veuillez confirmer l\'exportation des caractéristiques</string>
     <plurals name="msg_export_n_traits">
-        <item quantity="one"></item>
+        <item quantity="one">Un caractère sélectionné pour l\'exportation</item>
         <item quantity="many"></item>
         <item quantity="other">%d traits sélectionnés pour l\'exportation</item>
     </plurals>
     <plurals name="msg_export_n_trials">
-        <item quantity="one"></item>
+        <item quantity="one">Un essai sélectionné pour l\'exportation</item>
         <item quantity="many"></item>
         <item quantity="other">%d essais sélectionnés pour l\'exportation</item>
     </plurals>
     <string name="title_export_all_tags">Exporter tous les tags</string>
     <plurals name="msg_export_n_tags">
-        <item quantity="one"></item>
+        <item quantity="one">Une balise sélectionnée pour l\'exportation</item>
         <item quantity="many"></item>
         <item quantity="other">%d balises sélectionnées pour l\'exportation</item>
     </plurals>
@@ -565,22 +565,22 @@
     <string name="msg_import_trial_csv_completed_colon">Importation CSV de la version d\'essai terminée :</string>
     <string name="msg_import_trial_sample_counts_colon">Nombre d\'échantillons de mesure :</string>
     <plurals name="msg_imported_n_plots">
-        <item quantity="one"></item>
+        <item quantity="one">importé</item>
         <item quantity="many"></item>
         <item quantity="other">%2$d %1$s importé</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
-        <item quantity="one"></item>
+        <item quantity="one">%2$d %1$s Mesures d\'échantillon</item>
         <item quantity="many"></item>
         <item quantity="other">%2$d %1$s Mesures d\'échantillons</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
-        <item quantity="one"></item>
+        <item quantity="one">Mesure %1$d %2$s</item>
         <item quantity="many"></item>
         <item quantity="other">Mesures %1$d %2$s</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
-        <item quantity="one"></item>
+        <item quantity="one">Ajout d\'un nouveau trait</item>
         <item quantity="many"></item>
         <item quantity="other">Ajout %d de nouveaux traits</item>
     </plurals>
@@ -1236,22 +1236,22 @@
     <string name="msg_last_successfull_fetch">"La dernière récupération réussie a eu lieu à "</string>
     <string name="title_fetching_trials">Récupérer les versions d\'essai de KDDart</string>
     <plurals name="title_sub_plots">
-        <item quantity="one"></item>
+        <item quantity="one">%2$s</item>
         <item quantity="many"></item>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_delete_trials">
-        <item quantity="one"></item>
+        <item quantity="one">\@string/title_activity_delete_trials</item>
         <item quantity="many"></item>
         <item quantity="other">\@string /title_activity_delete_trials</item>
     </plurals>
     <plurals name="title_delete_tags">
-        <item quantity="one"></item>
+        <item quantity="one">\@string/ctx_title_delete_tags</item>
         <item quantity="many"></item>
         <item quantity="other">\@string /ctx_title_supprime_tags</item>
     </plurals>
     <plurals name="title_delete_traits">
-        <item quantity="one"></item>
+        <item quantity="one">\@string/title_activity_delete_traits</item>
         <item quantity="many"></item>
         <item quantity="other">\@string /title_activity_delete_traits</item>
     </plurals>
@@ -1762,7 +1762,7 @@
     <string name="ctx_help_manage_trial" formatted="false">&lt;p&gt; L\'écran d\'essai &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; affiche toutes les versions d\'essai actuellement chargées dans KDSmart. &lt;/p&gt; &lt;p&gt; Avertissement : &amp;nbsp; &lt;strong&gt; Mode de démonstration &lt;/strong&gt; &amp;nbsp; si &amp;nbsp; &lt;strong&gt; NE &lt;/strong&gt; &amp;nbsp; doit être utilisé pour vos essais réels. Il s\'agit de &amp;nbsp; &lt;strong&gt; UNIQUEMENT &lt;/strong&gt; &amp;nbsp; destiné à des fins de démonstration et de formation. Toutes les données du mode de démonstration &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; peuvent être perdues avec n\'importe quelle mise à niveau de version ou en choisissant l\'option &amp;nbsp; &lt;em&gt; Réinitialiser les données de démonstration &lt;/em&gt; &amp;nbsp; dans les paramètres &lt;/strong&gt; &amp;nbsp; qui restaure les données de démonstration. &amp;nbsp; &lt;strong&gt; Le mode de démonstration &lt;/strong&gt; &amp;nbsp; est indiqué par &amp;nbsp; &lt;strong&gt; DEMO DB &lt;/strong&gt; qui apparaît sur l\'écran d\'accueil &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Pour afficher les détails d\'un essai, choisissez l\'essai en appuyant brièvement sur &amp;nbsp; &lt;em&gt; &lt;/em&gt;. Vous serez alors redirigé vers l\'écran de détails de la version d\'essai &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Si un essai est sélectionné, vous pouvez y effectuer les actions suivantes ainsi que les actions générales dans le menu &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; : &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Commencer à marquer &lt;/strong&gt; &amp;nbsp; - Ouvre le score &amp;nbsp; [X] &lt;strong&gt; Écran de configuration &lt;/strong&gt; &amp;nbsp; pour tout essai sélectionné ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Importer la version d\'essai &lt;/strong&gt; &amp;nbsp; - Options pour importer des versions d\'essai depuis l\'appareil ou depuis KDXplore avec kDXchange ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Partager &lt;/strong&gt; &amp;nbsp; - Options de partage pour la version d\'essai sélectionnée avec l\'accès au stockage d\'Android Framework incluant e-mail, Bluetooth ou tout autre service de partage de fichiers installé sur l\'appareil ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Exporter vers &lt;/strong&gt; &amp;nbsp; - Options d\'exportation de tout essai sélectionné pour l\'exportation de fichiers vers l\'appareil ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Clone Trial &lt;/strong&gt; &amp;nbsp; - Crée un clone de tout essai sélectionné contenant les mêmes données et caractéristiques ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Supprimer &lt;/strong&gt; &amp;nbsp; - Supprime tout essai sélectionné ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Trier... &lt;/strong&gt; &amp;nbsp; - Options de tri des essais ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Regroupement &lt;/strong&gt; &amp;nbsp; - Options pour essais collectifs ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Données de démonstration aléatoires &lt;/strong&gt; &amp;nbsp; - Un outil permettant d\'appliquer des données de démonstration aléatoires à un essai, y compris les pièces jointes (uniquement en mode de démonstration &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;) ; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Exemples de scores [2144X] &amp;nbsp; - Génère des échantillons de données avec une probabilité de notation comprise entre 10 % et 100 % ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ajouter des pièces jointes &lt;/strong&gt; &amp;nbsp; - Génère des pièces jointes et des balises ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Effacer toutes les données &lt;/strong&gt; [X234X] 73X] - Efface tous les exemples de données pour l\'essai de démonstration sélectionné ; &lt;/li&gt; &lt;/ul&gt; [X 2444X] &lt;li&gt; &lt;strong&gt; Ajouter une version d\'essai &lt;/strong&gt; &amp;nbsp; - Options pour créer une nouvelle version d\'essai ; et &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Aide &lt;/strong&gt; &amp;nbsp; - Ouvre cette page d\'aide. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Appuyez longuement sur &lt;/em&gt; &lt;em&gt; sur &lt;/em&gt; &amp;nbsp; sur un ou plusieurs essais pour les sélectionner en vue d\'autres actions. Notez que plusieurs essais peuvent être sélectionnés à la fois. Les actions supplémentaires que la sélection peut afficher sont les suivantes : &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Tout sélectionner/tout désélectionner &lt;/strong&gt; &amp;nbsp; - Sélectionne ou désélectionne tous les essais ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Partager &lt;/strong&gt; &amp;nbsp; - Partage pour les options les essais sélectionnés avec le Storage Access Framework d\'Android, y compris le courrier électronique, le Bluetooth ou tout autre service de partage de fichiers installé sur l\'appareil ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Exporter vers &lt;/strong&gt; &amp;nbsp; - Options d\'exportation de toute caractéristique sélectionnée pour l\'exportation de fichiers vers l\'appareil ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ajoutez %2$s [3235X] &amp;nbsp; - Ajoutez %2$s à chaque %1$s dans n\'importe quel essai. Veuillez noter qu\'il s\'agit de choisir le numéro de %2$s que chaque %1$s aura et n\'ajoutera pas le montant sélectionné au %1$s existant actuellement. Par exemple, si chaque %1$s d\'un essai possède déjà un %2$s mais que vous souhaitez en ajouter un de plus, choisissez « 2 » et non « 1 » ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ajouter un ensemble de caractéristiques &lt;/strong&gt; &amp;nbsp; - Ajoutez un ensemble de caractéristiques à un essai ; et &lt;/li&gt; [&lt;li&gt; &lt;strong&gt; Ajouter un ensemble &lt;/strong&gt; &amp;nbsp; - Créez un nouveau pack d\'essai avec au moins 2 essais sélectionnés. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="title_import_as_trial_cell_name">Nom de la version d\'essai %1$s</string>
     <plurals name="title_plots">
-        <item quantity="one"></item>
+        <item quantity="one">%1$s</item>
         <item quantity="many"></item>
         <item quantity="other">%1$s</item>
     </plurals>
