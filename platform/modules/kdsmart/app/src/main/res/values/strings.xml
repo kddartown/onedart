@@ -522,102 +522,6 @@
     <string name="prompt_autoscoring_options_unscored_traits">Unscored traits</string>
     <string name="prompt_autoscoring_options_selected_traits">Selected traits</string>
 
-
-    <plurals name="msg_n_tags_imported">
-        <item quantity="zero">No tags imported</item>
-        <item quantity="one">One tag imported</item>
-        <item quantity="other">%d tags imported</item>
-    </plurals>
-
-    <plurals name="msg_n_traits_imported">
-        <item quantity="zero">No traits imported</item>
-        <item quantity="one">One trait imported</item>
-        <item quantity="other">%d traits imported</item>
-    </plurals>
-
-    <plurals name="msg_n_traits_updated">
-        <item quantity="zero">No traits updated</item>
-        <item quantity="one">One trait updated</item>
-        <item quantity="other">%d traits updated</item>
-    </plurals>
-
-    <plurals name="msg_n_trait_instances_selected">
-        <!--
-        From the android developer documentation,
-        supported values for "quantity" are:
-
-          zero, one, two, few, many, other
-
-        You should ALWAYS use the %d for the 'one' version
-        For this plural I *never* call with a value of 0 so
-        there is no need for a translation for that.
-         -->
-        <item quantity="zero">No Trait Instances Active</item>
-        <item quantity="one">%d Trait Instance Active</item>
-        <item quantity="other">%d Trait Instances Active</item>
-    </plurals>
-
-    <plurals name="msg_delete_n_trials">
-        <!--
-        From the android developer documentation,
-        supported values for "quantity" are:
-
-          zero, one, two, few, many, other
-
-        You should ALWAYS use the %d for the 'one' version
-        For this plural I *never* call with a value of 0 so
-        there is no need for a translation for that.
-         -->
-        <!-- Should never need the "zero" version -->
-        <item quantity="one">%d trial selected for deletion</item>
-        <item quantity="other">%d trials selected for deletion</item>
-    </plurals>
-
-    <!-- taylor - find out about where this is as trials and traits do not match upo -->
-    <plurals name="msg_delete_n_traits">
-        <!--
-        From the android developer documentation,
-        supported values for "quantity" are:
-
-          zero, one, two, few, many, other
-
-        You should ALWAYS use the %d for the 'one' version
-        For this plural I *never* call with a value of 0 so
-        there is no need for a translation for that.
-         -->
-        <!-- Should never need the "zero" version -->
-        <item quantity="one">%d Trait Will Be Deleted</item>
-        <item quantity="other">%d Traits Will Be Deleted</item>
-    </plurals>
-
-
-    <string name="title_export_all_traits">Export All Traits</string>
-
-    <string name="title_please_confirm_tag_export">Please confirm tag export</string>
-    <string name="title_please_confirm_trait_export">Please confirm trait export</string>
-
-    <plurals name="msg_export_n_traits">
-        <!-- Should never need the "zero" version -->
-        <item quantity="one">%d trait selected for export</item>
-        <item quantity="other">%d traits selected for export</item>
-    </plurals>
-
-
-    <plurals name="msg_export_n_trials">
-        <!-- Should never need the "zero" version -->
-        <item quantity="one">%d trial selected for export</item>
-        <item quantity="other">%d trials selected for export</item>
-    </plurals>
-
-    <string name="title_export_all_tags">Export All Tags</string>
-
-
-    <plurals name="msg_export_n_tags">
-        <!-- Should never need the "zero" version -->
-        <item quantity="one">%d tag Selected for export</item>
-        <item quantity="other">%d tags Selected for export</item>
-    </plurals>
-
     <string name="title_activity_scoring_setup">Configure</string>
 
     <string name="title_section_scoring_options">Options</string>
@@ -1357,31 +1261,6 @@ and a formula for conversion is:
     <string name="msg_import_trial_csv_completed_colon">Trial CSV import complete: </string>
     <string name="msg_import_trial_sample_counts_colon">Sample Measurement Counts: </string>
 
-    <plurals name="msg_imported_n_plots">
-        <item quantity="zero">No %1$s imported</item>
-        <item quantity="one">%2$d %1$s imported</item>
-        <item quantity="other">%2$d %1$s imported</item>
-    </plurals>
-
-    <plurals name="msg_import_trial_n_plot_sample_measurements">
-        <item quantity="zero">No %1$s Sample Measurements</item>
-        <item quantity="one">%2$d %1$s Sample Measurement</item>
-        <item quantity="other">%2$d %1$s Sample Measurements</item>
-    </plurals>
-
-    <plurals name="msg_import_trial_n_specimen_sample_measurements">
-        <item quantity="zero">No %2$s Measurements</item>
-        <item quantity="one">%1$d %2$s Measurement</item>
-        <item quantity="other">%1$d %2$s Measurements</item>
-    </plurals>
-
-    <plurals name="msg_import_trial_added_n_new_traits">
-        <item quantity="zero">Added No New Traits</item>
-        <item quantity="one">Added %d New Traits</item>
-        <item quantity="other">Added %d New Traits</item>
-    </plurals>
-
-
     <string name="title_activity_export_trial">Export Trial</string>
     <string name="msg_export_csv_for_plots_only">Only Scores: %1$s (CSV)</string>
     <string name="msg_export_csv_for_plots_and_specimens">Only Scores:  %1$s &amp; %2$s (CSV)</string>
@@ -1476,6 +1355,10 @@ and a formula for conversion is:
     <string name="title_database">Database</string>
     <string name="title_bluetooth">Bluetooth</string>
 
+    <string name="title_text_size">Text Size</string>
+    <string name="title_text_size_small">Small Text</string>
+    <string name="title_text_size_medium">Medium Text</string>
+    <string name="title_text_size_large">Large Text</string>
 
     <string name="title_change_trait_order">Change Trait Order</string>
     <string name="title_reorder_traits_help">Drag traits to the desired order</string>
@@ -2361,35 +2244,6 @@ and allow Storage permission. <br><\br></p>]]>
         <item quantity="other">@string/title_activity_delete_traits</item>
     </plurals>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <!-- -->
     <string name="msg_checkbox_text">Checkbox text</string>
     <string name="msg_other_text">Other text</string>
     <string name="msg_initialising_database">Initialising Database</string>
@@ -2878,4 +2732,82 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="drawer_list_items_4">Manage Devices</string>
     <string name="drawer_list_items_5">Settings</string>
     <string name="drawer_list_items_6">Info</string>
+    <string name="msg_no_further_details_required">no further details required</string>
+    <string name="title_export_all_tags">Export All Tags</string>
+    <string name="title_export_all_traits">Export All Traits</string>
+    <string name="title_please_confirm_tag_export">Please confirm tag export</string>
+    <string name="title_please_confirm_trait_export">Please confirm trait export</string>
+
+    <plurals name="msg_n_tags_imported">
+        <item quantity="zero">No tags imported</item>
+        <item quantity="one">One tag imported</item>
+        <item quantity="other">%d tags imported</item>
+    </plurals>
+
+    <plurals name="msg_n_traits_imported">
+        <item quantity="zero">No traits imported</item>
+        <item quantity="one">One trait imported</item>
+        <item quantity="other">%d traits imported</item>
+    </plurals>
+
+    <plurals name="msg_n_traits_updated">
+        <item quantity="zero">No traits updated</item>
+        <item quantity="one">One trait updated</item>
+        <item quantity="other">%d traits updated</item>
+    </plurals>
+
+    <plurals name="msg_n_trait_instances_selected">
+        <item quantity="zero">No Trait Instances Active</item>
+        <item quantity="one">%d Trait Instance Active</item>
+        <item quantity="other">%d Trait Instances Active</item>
+    </plurals>
+
+    <plurals name="msg_delete_n_trials">
+        <item quantity="one">%d trial selected for deletion</item>
+        <item quantity="other">%d trials selected for deletion</item>
+    </plurals>
+
+    <plurals name="msg_delete_n_traits">
+        <item quantity="one">%d Trait Will Be Deleted</item>
+        <item quantity="other">%d Traits Will Be Deleted</item>
+    </plurals>
+
+    <plurals name="msg_export_n_traits">
+        <item quantity="one">%d trait selected for export</item>
+        <item quantity="other">%d traits selected for export</item>
+    </plurals>
+
+    <plurals name="msg_export_n_trials">
+        <item quantity="one">%d trial selected for export</item>
+        <item quantity="other">%d trials selected for export</item>
+    </plurals>
+
+    <plurals name="msg_export_n_tags">
+        <item quantity="one">%d tag Selected for export</item>
+        <item quantity="other">%d tags Selected for export</item>
+    </plurals>
+
+    <plurals name="msg_imported_n_plots">
+        <item quantity="zero">No %1$s imported</item>
+        <item quantity="one">%2$d %1$s imported</item>
+        <item quantity="other">%2$d %1$s imported</item>
+    </plurals>
+
+    <plurals name="msg_import_trial_n_plot_sample_measurements">
+        <item quantity="zero">No %1$s Sample Measurements</item>
+        <item quantity="one">%2$d %1$s Sample Measurement</item>
+        <item quantity="other">%2$d %1$s Sample Measurements</item>
+    </plurals>
+
+    <plurals name="msg_import_trial_n_specimen_sample_measurements">
+        <item quantity="zero">No %2$s Measurements</item>
+        <item quantity="one">%1$d %2$s Measurement</item>
+        <item quantity="other">%1$d %2$s Measurements</item>
+    </plurals>
+
+    <plurals name="msg_import_trial_added_n_new_traits">
+        <item quantity="zero">Added No New Traits</item>
+        <item quantity="one">Added %d New Traits</item>
+        <item quantity="other">Added %d New Traits</item>
+    </plurals>
 </resources>
