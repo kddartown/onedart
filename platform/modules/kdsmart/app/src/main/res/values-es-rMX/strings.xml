@@ -313,7 +313,7 @@
     <string name="prompt_autoscoring_options_selected_traits">Rasgos seleccionados</string>
     <plurals name="msg_n_tags_imported">
         <item quantity="one">Una etiqueta importada</item>
-        <item quantity="many"/>
+        <item quantity="many"></item>
         <item quantity="other">%d etiquetas importadas</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
@@ -1216,7 +1216,7 @@
     </plurals>
     <plurals name="title_plots">
         <item quantity="one">%1$s</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%1$s</item>
     </plurals>
     <plurals name="title_delete_trials">
