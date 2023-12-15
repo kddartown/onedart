@@ -312,8 +312,8 @@
     <string name="prompt_autoscoring_options_unscored_traits">Rasgos sin puntuar</string>
     <string name="prompt_autoscoring_options_selected_traits">Rasgos seleccionados</string>
     <plurals name="msg_n_tags_imported">
+        <item quantity="zero">Ninguna etiqueta importada</item>
         <item quantity="one">Una etiqueta importada</item>
-        <item quantity="many"></item>
         <item quantity="other">%d etiquetas importadas</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
