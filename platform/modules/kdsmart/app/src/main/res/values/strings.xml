@@ -426,6 +426,11 @@
     <string name="msg_plot_change_prefix_you_should_be_at">"You should be at "</string>
 
     <string name="pref_plot_change_title_confirm_plot_skipped">Confirm When Plot is Skipped</string>
+
+    <string name="pref_auto_scoring_show_plot_info_above_trait">Auto-advance screen configuration</string>
+
+    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">Plot information will show above Trait Scoring when left unchecked.</string>
+
     <string name="pref_plot_change_summary">Check to confirm location and uncheck for a brief message.</string>
 
     <string name="pref_use_gps_location_for_scoring">Use Location for Scoring</string>
