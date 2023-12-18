@@ -1753,4 +1753,10 @@
     <string name="drawer_list_items_5">Einstellungen</string>
     <string name="drawer_list_items_6">Informationen</string>
     <string name="msg_no_further_details_required">keine weiteren Angaben erforderlich</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait">Automatische Bildschirmkonfiguration</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">Wenn das Häkchen nicht aktiviert ist, werden die Plot-Informationen über der Eigenschaftsbewertung angezeigt.</string>
+    <string name="title_text_size">Größe des Textes</string>
+    <string name="title_text_size_small">Kleiner Text</string>
+    <string name="title_text_size_medium">Mittlerer Text</string>
+    <string name="title_text_size_large">Großer Text</string>
 </resources>
