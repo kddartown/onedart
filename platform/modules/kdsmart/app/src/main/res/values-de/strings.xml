@@ -70,17 +70,17 @@
     <string name="title_activity_about">Informationen</string>
     <string name="title_activity_help">Hilfe</string>
     <string name="btn_create">✓</string>
-    <string name="title_activity_manage_trials">Versuche</string>
+    <string name="title_activity_manage_trials">Experimente</string>
     <string name="title_activity_delete_trials">Testversionen löschen</string>
     <string name="title_activity_delete_trial">Testversion löschen</string>
-    <string name="ctx_title_delete_traits">Eigenschaften löschen</string>
+    <string name="ctx_title_delete_traits">Merkmal löschen</string>
     <string name="ctx_title_delete_tags">Schlagworte löschen</string>
     <string name="ctx_title_delete_tag">Tag löschen</string>
     <string name="ctx_title_delete_tag_bundles">Tag-Bundles löschen</string>
     <string name="ctx_title_delete_trait_bundle">Eigenschaftspakete löschen</string>
     <string name="title_activity_csv_export_trials">Test-CSV exportieren</string>
     <string name="title_activity_download_trial">Testversionen herunterladen</string>
-    <string name="title_activity_trials">Versuche</string>
+    <string name="title_activity_trials">Experimente</string>
     <string name="title_activity_trial_details">Einzelheiten der Studie</string>
     <string name="title_activity_trial_scoring">Punktewertung</string>
     <string name="title_activity_trait_instance">Eigenschaftsinstanzen</string>
@@ -292,9 +292,9 @@
     <string name="hdg_plot_ident_option">%1$s Identifikation</string>
     <string name="hdg_trial_note">Hinweis</string>
     <string name="hdg_trait_name_style">Stil des Merkmalsnamens</string>
-    <string name="hdg_trial_traits">Eigenschaften</string>
+    <string name="hdg_trial_traits">Merkmale</string>
     <string name="hdg_trial_details">Einzelheiten der Studie</string>
-    <string name="title_activity_delete_traits">Eigenschaften löschen</string>
+    <string name="title_activity_delete_traits">Merkmal löschen</string>
     <string name="title_activity_delete_trait">Merkmal löschen</string>
     <string name="title_tags_delete_activity">Schlagworte löschen</string>
     <string name="msg_hint_no_acronym">Kein Akronym</string>
@@ -308,7 +308,7 @@
     <string name="ctx_title_add_tags_to_bundle">Schlagworte zum Bundle hinzufügen</string>
     <string name="title_activity_edit_trait">Merkmal bearbeiten</string>
     <string name="title_activity_find_server">Server finden</string>
-    <string name="title_activity_manage_traits">Eigenschaften</string>
+    <string name="title_activity_manage_traits">Merkmale</string>
     <plurals name="msg_n_traits_imported">
         <item quantity="one">Ein Merkmal wurde importiert</item>
         <item quantity="other">%d Eigenschaften importiert</item>
@@ -593,7 +593,7 @@
     <string name="title_desc_tns_colon_number_brief">:123</string>
     <string name="title_desc_tns_2underbar_number">Merkmal __123</string>
     <string name="title_desc_tns_2underbar_number_brief">__123</string>
-    <string name="title_desc_multi_trial_import">Import mehrerer Versuche</string>
+    <string name="title_desc_multi_trial_import">Import mehrerer Experimente</string>
     <string name="title_desc_multi_trial_scoring">Punktevergabe in mehreren Versuchen</string>
     <string name="msg_multi_scoring_are_you_sure">Verwenden Sie diese Studien beim Multi-Trial-Scoring\?</string>
     <string name="msg_hdg_path_of_import_file">Pfad der Importdatei</string>
@@ -701,7 +701,7 @@
     <string name="msg_progress_gathering_plots">Sammeln %1$s</string>
     <string name="msg_progress_gathering_samples">Proben sammeln</string>
     <string name="msg_progress_clearing_tables">Tabellen werden gelöscht…</string>
-    <string name="msg_progress_constructing_trials">Versuche werden erstellt…</string>
+    <string name="msg_progress_constructing_trials">Experimente werden erstellt…</string>
     <string name="msg_progress_gathering_traits">Eigenschaften werden gesammelt…</string>
     <string name="prompt_menu_random_demo_data">Zufällige Demo-Daten</string>
     <string name="prompt_menu_scanner_off">Scanner aus</string>
@@ -772,7 +772,7 @@
     <string name="pref_locale_title">Sprache</string>
     <string name="pref_locale_description">Sprache</string>
     <string name="msg_btn_trials_as_zip">Testversionen als Zip</string>
-    <string name="msg_btn_trials_as_kdx">Versuche als KDX</string>
+    <string name="msg_btn_trials_as_kdx">Experimente als KDX</string>
     <string name="msg_btn_database_files">Datenbank-Dateien</string>
     <string name="msg_hdg_output_to_folder">Ausgabe in Ordner:</string>
     <string name="msg_hint_provide_path_for_save">Pfad für die Ausgabe angeben</string>
@@ -945,7 +945,7 @@
     <string name="msg_no_barcode_match">Barcode hat keine Informationen. Deaktivieren Sie in den Einstellungen die Option KDXplore-Barcodes verwenden, wenn Sie KDXplore nicht verwenden.</string>
     <string name="title_first_plot_id">Erste %1$s -ID</string>
     <string name="msg_sample_data_exists_for_trait">Für diese Trait-Instance sind Beispieldaten vorhanden, die nicht entfernt werden können</string>
-    <string name="msg_fix_block_trials">Blockversuche aktualisieren</string>
+    <string name="msg_fix_block_trials">Blockexperimente aktualisieren</string>
     <string name="msg_retry_scoring_block_trial">Versuchen Sie es erneut mit dem Punkte-Blocktest</string>
     <string name="msg_fixing_block_trials">Blockversuche beheben</string>
     <string name="prompt_choose_blocks_in_trial">Blöcke auswählen</string>
@@ -1039,7 +1039,7 @@
     <string name="hdg_add_trait_bundles">Eigenschaftspakete</string>
     <string name="msg_select_trait_sort_order">Reihenfolge der Merkmale für:</string>
     <string name="msg_action_show_first_data_row">Erste Datenzeile anzeigen</string>
-    <string name="title_action_multi_trial">Import mehrerer Versuche</string>
+    <string name="title_action_multi_trial">Import mehrerer Experimente</string>
     <string name="title_choose_trait_instance_style">Stil einer Eigenschaftsinstanz</string>
     <string name="title_num_of_rows">Anzahl von %4$s (Y)</string>
     <string name="title_num_of_cols">Anzahl von %3$s (X)</string>
@@ -1360,7 +1360,7 @@
     <string name="msg_invalid_port">Ungültiger Port:</string>
     <string name="msg_invalid_host_address">Ungültige Hostadresse</string>
     <string name="msg_still_used_by">Wird immer noch verwendet von</string>
-    <string name="msg_trials">Versuche</string>
+    <string name="msg_trials">Experimente</string>
     <string name="msg_unknown_reason">Unbekannter Grund</string>
     <string name="msg_skipping_frame_could_not_find_bytebuffer_associated_with_the_image">Rahmen überspringen. Der dem Bild zugeordnete ByteBuffer konnte nicht gefunden werden</string>
     <string name="msg_data_from_the_camera">Daten von der Kamera.</string>
@@ -1746,10 +1746,11 @@
     <string name="title_error_importing">Fehler beim Importieren</string>
     <string name="title_success_importing">Import erfolgreich</string>
     <string name="drawer_list_items_0">Zuhause</string>
-    <string name="drawer_list_items_1">Versuche</string>
+    <string name="drawer_list_items_1">Experimente</string>
     <string name="drawer_list_items_2">Eigenschaften</string>
     <string name="drawer_list_items_3">Schlagworte</string>
     <string name="drawer_list_items_4">Geräte verwalten</string>
     <string name="drawer_list_items_5">Einstellungen</string>
     <string name="drawer_list_items_6">Informationen</string>
+    <string name="msg_no_further_details_required">keine weiteren Angaben erforderlich</string>
 </resources>
