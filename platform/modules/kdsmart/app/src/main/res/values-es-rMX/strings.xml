@@ -36,7 +36,7 @@
     <string name="hdg_visit_order">Orden de cobro</string>
     <string name="hdg_organism_type">Tipo de organismo</string>
     <string name="prompt_btn_start_scoring">Comenzar a anotar</string>
-    <string name="hdg_trial_name">Nombre de la prueba</string>
+    <string name="hdg_trial_name">Nombre del ensayo</string>
     <string name="hdg_current_plot">Actual %1$s</string>
     <string name="hdg_trial_acronym">Abreviatura</string>
     <string name="hdg_trial_planting_date">Fecha de siembra</string>
@@ -45,7 +45,7 @@
     <string name="hdg_trial_note">Nota</string>
     <string name="hdg_trait_name_style">Estilo de nombre de rasgo</string>
     <string name="hdg_trial_traits">Rasgos</string>
-    <string name="hdg_trial_details">Detalles de la prueba</string>
+    <string name="hdg_trial_details">Detalles del ensayo</string>
     <string name="hdg_trial_progress">Progreso de la prueba</string>
     <string name="msg_html_trait_name_style_no_instances">Sin instancias</string>
     <string name="msg_html_trait_name_style_2underscores_digits">Característica &lt;font color=0x00ddff&gt;__123&lt;/font&gt;</string>
@@ -78,7 +78,7 @@
     <string name="title_activity_about">Información</string>
     <string name="title_activity_help">Ayuda</string>
     <string name="btn_create">✓</string>
-    <string name="title_activity_manage_trials">Juicios</string>
+    <string name="title_activity_manage_trials">Ensayos</string>
     <string name="title_activity_delete_trials">Eliminar pruebas</string>
     <string name="title_activity_delete_trial">Eliminar versión de prueba</string>
     <string name="ctx_title_delete_traits">Eliminar rasgos</string>
@@ -96,7 +96,7 @@
     <string name="title_activity_edit_trait">Editar rasgo</string>
     <string name="title_activity_find_server">Buscar servidor</string>
     <string name="title_activity_manage_traits">Rasgos</string>
-    <string name="title_activity_trials">Juicios</string>
+    <string name="title_activity_trials">Ensayos</string>
     <string name="title_activity_trial_details">Detalles de la prueba</string>
     <string name="title_activity_trial_scoring">Puntuación</string>
     <string name="title_activity_trait_instance">Instancias de rasgos</string>
@@ -1381,7 +1381,7 @@
     <string name="msg_invalid_port">Puerto no válido:</string>
     <string name="msg_invalid_host_address">Dirección de host no válida</string>
     <string name="msg_still_used_by">Todavía utilizado por</string>
-    <string name="msg_trials">Juicios</string>
+    <string name="msg_trials">Ensayos</string>
     <string name="msg_unknown_reason">Razón desconocida</string>
     <string name="msg_skipping_frame_could_not_find_bytebuffer_associated_with_the_image">Cuadro saltando. No se pudo encontrar ByteBuffer asociado a la imagen</string>
     <string name="msg_data_from_the_camera">datos de la cámara.</string>
@@ -1575,7 +1575,7 @@
     <string name="msg_export_trial">Exportar prueba</string>
     <string name="msg_not_a_directory">No es un directorio:</string>
     <string name="msg_cant_export_this_file">No se puede exportar este archivo</string>
-    <string name="msg_search_trials">Buscar juicios</string>
+    <string name="msg_search_trials">Buscar Ensayos</string>
     <string name="msg_export_to_kddart_fmt_6">Exportar a KDDart</string>
     <string name="msg_import_from_kddart_fmt_2">Importar desde KDDart</string>
     <string name="msg_new_trial_name">Nuevo nombre de prueba</string>
@@ -1764,7 +1764,7 @@
     <string name="msg_cancel">Cancelar</string>
     <string name="msg_column">Columna</string>
     <string name="drawer_list_items_0">Inicio</string>
-    <string name="drawer_list_items_1">Juicios</string>
+    <string name="drawer_list_items_1">Ensayos</string>
     <string name="drawer_list_items_2">Rasgos</string>
     <string name="drawer_list_items_3">Etiquetas</string>
     <string name="drawer_list_items_4">Administración de dispositivos</string>
