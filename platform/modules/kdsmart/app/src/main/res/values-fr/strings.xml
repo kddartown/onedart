@@ -1771,4 +1771,11 @@
     <string name="msg_missing_specimen_for_barcode">%2$s introuvable pour le code-barres</string>
     <string name="title_subplot_selected">%2$s Sélectionné</string>
     <string name="pref_title_kdxplore_barcodes">Utiliser les codes-barres KDXplore</string>
+    <string name="title_text_size_small">Petit texte</string>
+    <string name="title_text_size_medium">Texte moyen</string>
+    <string name="title_text_size_large">Texte de grande taille</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">Les informations du graphique apparaîtront au-dessus du score des traits si elles ne sont pas cochées.</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait">Configuration avancée automatique de l\'écran</string>
+    <string name="title_text_size">Taille du texte</string>
+    <string name="msg_no_further_details_required">aucun autre détail n\'est requis</string>
 </resources>
