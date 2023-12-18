@@ -1678,7 +1678,7 @@
     <string name="ctx_bulk_subplot_scoring">Luzem %2$s Punktacja</string>
     <plurals name="title_plots">
         <item quantity="one">%1$s</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%1$s</item>
         <item quantity="other">%1$s</item>
     </plurals>
@@ -1789,4 +1789,11 @@
     <string name="drawer_list_items_4">Zarządzanie urządzeniami</string>
     <string name="drawer_list_items_5">Ustawienia</string>
     <string name="drawer_list_items_6">Informacja</string>
+    <string name="title_text_size">Rozmiar tekstu</string>
+    <string name="title_text_size_small">Mały tekst</string>
+    <string name="title_text_size_medium">Średni tekst</string>
+    <string name="title_text_size_large">Duży tekst</string>
+    <string name="msg_no_further_details_required">nie są wymagane żadne dalsze szczegóły</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait">Automatyczna konfiguracja ekranu</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">Informacje o wykresie zostaną wyświetlone powyżej Punktacji cech, jeśli nie zostaną zaznaczone.</string>
 </resources>
