@@ -1770,4 +1770,11 @@
     <string name="drawer_list_items_4">Administración de dispositivos</string>
     <string name="drawer_list_items_5">Ajustes</string>
     <string name="drawer_list_items_6">Información</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">La información de la trama se mostrará arriba Puntuación de rasgos cuando no esté marcada.</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait">Configuración de pantalla de avance automático</string>
+    <string name="title_text_size">Tamaño del texto</string>
+    <string name="title_text_size_small">Texto pequeño</string>
+    <string name="title_text_size_medium">Texto medio</string>
+    <string name="title_text_size_large">Texto grande</string>
+    <string name="msg_no_further_details_required">no se requieren más detalles</string>
 </resources>
