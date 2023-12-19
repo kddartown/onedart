@@ -1,27 +1,27 @@
 ﻿1
 00:00:04,900 --> 00:00:08,900
-1. Select a trait instance from the Scoring screen.
+1. Wählen Sie auf dem Bewertungsbildschirm eine Eigenschaftsinstanz aus.
 
 2
 00:00:10,400 --> 00:00:16,000
-2. Select a score for the trait instance. This will also take you back to the previous screen.
+2. Wählen Sie eine Punktzahl für die Eigenschaftsinstanz aus. Dadurch kehren Sie auch zum vorherigen Bildschirm zurück.
 
 3
 00:00:16,366 --> 00:00:21,732
-3. Repeat this process for each trait instance.
+3. Wiederholen Sie diesen Vorgang für jede Eigenschaftsinstanz.
 
 4
 00:00:22,600 --> 00:00:28,966
-4. Select the Next or Previous Plot buttons to move to a different plot.
+4. Wählen Sie die Schaltflächen „Nächstes Diagramm“ oder „Vorheriges Diagramm“, um zu einem anderen Diagramm zu wechseln.
 
 5
 00:00:29,566 --> 00:00:35,566
-5. Continue scoring for this plot.
+5. Setze die Punkte für diese Handlung fort.
 
 6
 00:00:39,966 --> 00:00:46,432
-You can also navigate to a new plot with Field view.
+Sie können auch mit Feldansicht zu einem neuen Diagramm navigieren.
 
 7
 00:00:50,466 --> 00:00:57,066
-You can also navigate to a new plot by selecting the current plot and then choosing a new one.
+Sie können auch zu einem neuen Diagramm navigieren, indem Sie das aktuelle Diagramm und dann ein neues Diagramm auswählen.
