@@ -678,7 +678,7 @@
     <string name="hdg_plotview_inactive_traits">Inaktive Eigenschaften</string>
     <string name="title_select_heatmap_opacity">Wählen Sie Heatmap Opazität</string>
     <string name="title_select_heatmap_gradient">Wählen Sie Heatmap Gradient</string>
-    <string name="msg_info_searchname_nplots">{0}: {1, Zahl, Ganzzahl}</string>
+    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Ausgewählt: {0, number, integer}</string>
     <string name="prompt_menu_configure_ellipsis">Konfigurieren…</string>
     <string name="msgfmt_warning_landscape_small">Im Querformat auf kleinen Bildschirmen wird immer mindestens {0} verwendet</string>
@@ -718,7 +718,7 @@
     <string name="errmsg_unsupported_valrule">Validierungsregel wird nicht unterstützt:</string>
     <string name="hdg_attachments">Anlagen</string>
     <string name="msg_no_traits_scored">Es wurden keine Merkmale bewertet</string>
-    <string name="msgfmt_traits_scored_m_of_n">Bewertete Merkmale: {0, Zahl, Ganzzahl} von {1, Zahl, Ganzzahl}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Bewertete Merkmale: {0,number,integer} von {1,number,integerl}</string>
     <string name="hdg_attributes">Attribute</string>
     <string name="msg_found">"Gefunden "</string>
     <string name="msg_no_unscored_samples">Keine Proben ohne Bewertung für das Merkmal</string>
