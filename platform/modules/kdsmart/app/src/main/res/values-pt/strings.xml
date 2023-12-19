@@ -802,7 +802,7 @@
     <string name="title_select_heatmap_opacity">Selecione a opacidade do mapa de calor</string>
     <string name="pref_title_kdxplore_barcodes">Use códigos de barras do KDXplore</string>
     <string name="title_select_heatmap_gradient">Selecione o gradiente do mapa de calor</string>
-    <string name="msg_info_searchname_nplots">{0}: {1, número, número inteiro}</string>
+    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Configurar…</string>
     <string name="msgfmt_warning_landscape_small">O modo paisagem em telas pequenas sempre usará pelo menos {0}</string>
     <string name="prompt_menu_data_score_samples">Amostras de pontuação</string>
@@ -840,7 +840,7 @@
     <string name="errmsg_unsupported_valrule">Regra de validação não suportada:</string>
     <string name="hdg_attachments">Anexos</string>
     <string name="msg_no_traits_scored">Nenhuma característica pontuada</string>
-    <string name="msgfmt_traits_scored_m_of_n">Características pontuadas: {0, número, inteiro} de {1, número, número inteiro}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Características pontuadas: {0,number,integer} de {1,number,integer}</string>
     <string name="hdg_attributes">Atributos</string>
     <string name="msg_found">"Encontrado "</string>
     <string name="msg_no_unscored_samples">Nenhuma amostra não pontuada para a característica</string>
