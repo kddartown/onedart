@@ -793,7 +793,7 @@
     <string name="hdg_plotview_inactive_traits">Traits inactifs</string>
     <string name="title_select_heatmap_opacity">Sélectionnez l\'opacité de la carte thermique</string>
     <string name="title_select_heatmap_gradient">Sélectionnez le dégradé de la carte thermique</string>
-    <string name="msg_info_searchname_nplots">{0} : {1, nombre, entier}</string>
+    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Configurer…</string>
     <string name="msgfmt_warning_landscape_small">Le mode paysage sur les petits écrans utilisera toujours au moins {0}</string>
     <string name="prompt_menu_data_score_samples">Exemples de scores</string>
@@ -831,7 +831,7 @@
     <string name="errmsg_unsupported_valrule">Règle de validation non prise en charge :</string>
     <string name="hdg_attachments">Pièces jointes</string>
     <string name="msg_no_traits_scored">Aucune caractéristique n\'a été notée</string>
-    <string name="msgfmt_traits_scored_m_of_n">Traits notés : {0, nombre, entier} sur {1, nombre, entier}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Traits notés : {0,number,integer} sur {1,number,integer}</string>
     <string name="msg_found">"Trouvé "</string>
     <string name="msg_no_unscored_samples">Aucun échantillon non noté pour le trait</string>
     <string name="msg_no_more_tags_to_change">Plus aucun tag à modifier par rapport à votre position actuelle</string>
