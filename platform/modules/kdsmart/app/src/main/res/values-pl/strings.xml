@@ -722,7 +722,7 @@
     <string name="hdg_plotview_inactive_traits">Nieaktywne cechy</string>
     <string name="title_select_heatmap_opacity">Wybierz krycie mapy cieplnej</string>
     <string name="title_select_heatmap_gradient">Wybierz gradient mapy cieplnej</string>
-    <string name="msg_info_searchname_nplots">{0}: {1, liczba, liczba całkowita}</string>
+    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Wybrano: {0, number, integer}</string>
     <string name="prompt_menu_configure_ellipsis">Skonfiguruj…</string>
     <string name="msgfmt_warning_landscape_small">Tryb poziomy na małych ekranach zawsze będzie używał co najmniej {0}</string>
@@ -1638,7 +1638,7 @@
     <string name="msg_export_for_kdxplore">Pełne dane dla KDXplore</string>
     <string name="msg_hdg_instance_numbers">Instancja #s</string>
     <string name="prompt_edit_devop_title">Edytowanie nazw urządzeń i operatorów</string>
-    <string name="msgfmt_traits_scored_m_of_n">Cechy zdobyte: {0, liczba, liczba całkowita} z {1, liczba, liczba całkowita}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Cechy zdobyte: {0,number,integer} z {1,number,integer}</string>
     <string name="msg_btn_trials_as_kdx">Próby jako KDX</string>
     <string name="title_heatmap_colour_values">Wartości kolorów mapy cieplnej</string>
     <string name="ctx_title_manage_database">Zarządzaj bazą danych</string>
