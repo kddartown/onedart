@@ -749,7 +749,7 @@
     <string name="hdg_plotview_inactive_traits">Rasgos inactivos</string>
     <string name="title_select_heatmap_opacity">Seleccionar Opacidad del Mapa de Calor</string>
     <string name="title_select_heatmap_gradient">Seleccionar degradado del mapa de calor</string>
-    <string name="msg_info_searchname_nplots">{0}: {1, número, entero}</string>
+    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Seleccionado: {0, number, integer}</string>
     <string name="prompt_menu_configure_ellipsis">Configurar…</string>
     <string name="msgfmt_warning_landscape_small">El modo horizontal en pantallas pequeñas siempre usará al menos {0}</string>
@@ -789,7 +789,7 @@
     <string name="errmsg_unsupported_valrule">Regla de validación no soportada:</string>
     <string name="hdg_attachments">Adjuntos</string>
     <string name="msg_no_traits_scored">No se anotaron rasgos</string>
-    <string name="msgfmt_traits_scored_m_of_n">Rasgos puntuados: {0, número, entero} de {1, number, integer}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Rasgos puntuados: {0,number,integer} de {1,number,integer}</string>
     <string name="hdg_attributes">Atributos</string>
     <string name="msg_found">"Encontrado "</string>
     <string name="msg_no_unscored_samples">No hay muestras sin puntuar para el rasgo</string>
