@@ -4,7 +4,7 @@
 
 2
 00:00:10,400 --> 00:00:16,000
-2. Seleccione una puntuación para la instancia de rasgo. Esto también le llevará de vuelta a la pantalla anterior.
+2. Seleccione una puntuación para la instancia de característica. Esto también le llevará de vuelta a la pantalla anterior.
 
 3
 00:00:16,366 --> 00:00:21,732
