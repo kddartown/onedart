@@ -8,7 +8,7 @@
 
 3
 00:00:16,366 --> 00:00:21,732
-3. Repita este proceso para cada instancia de rasgo.
+3. Repita este proceso para cada instancia de característica.
 
 4
 00:00:22,600 --> 00:00:28,966
