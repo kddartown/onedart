@@ -24,4 +24,4 @@ Sie können auch mit der Feldansicht zu einer neuen Parzelle navigieren.
 
 7
 00:00:50,466 --> 00:00:57,066
-3. Wiederholen Sie diesen Vorgang für jede Merkmalsinstanz.
+Sie können auch zu einer neuen Parzelle navigieren, indem Sie die aktuelle Parzelle auswählen und dann eine neue Parzelle wählen.
