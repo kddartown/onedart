@@ -1,18 +1,18 @@
 ﻿1
 00:00:04,900 --> 00:00:08,900
-1. Wählen Sie eine Merkmalsausprägung auf dem Bewertungsbildschirm aus.
+1. Wählen Sie eine Merkmalsinstanz aus dem Bildschirm "Bewertung" aus.
 
 2
 00:00:10,400 --> 00:00:16,000
-2. Wählen Sie eine Punktzahl für die Merkmalsausprägung. Dies führt Sie auch zum vorherigen Bildschirm zurück.
+2. Wählen Sie eine Punktzahl für die Merkmalsinstanz aus. Dies führt Sie auch zum vorherigen Bildschirm zurück.
 
 3
 00:00:16,366 --> 00:00:21,732
-3. Wiederholen Sie diesen Vorgang für jede Merkmalsausprägung.
+3. Wiederholen Sie diesen Vorgang für jede Merkmalsinstanz.
 
 4
 00:00:22,600 --> 00:00:28,966
-4. Wählen Sie die Schaltflächen Nächster oder Vorheriger Plot, um zu einem anderen Plot zu wechseln.
+4. Wählen Sie die Schaltflächen Nächste oder Vorherige Parzelle, um zu einer anderen Parzelle zu wechseln.
 
 5
 00:00:29,566 --> 00:00:35,566
@@ -20,8 +20,8 @@
 
 6
 00:00:39,966 --> 00:00:46,432
-Sie können auch mit der Feldansicht zu einer neuen Fläche navigieren.
+Sie können auch mit der Feldansicht zu einer neuen Parzelle navigieren.
 
 7
 00:00:50,466 --> 00:00:57,066
-Sie können auch zu einer neuen Fläche navigieren, indem Sie die aktuelle Fläche auswählen und dann eine neue Fläche auswählen.
+3. Wiederholen Sie diesen Vorgang für jede Merkmalsinstanz.
