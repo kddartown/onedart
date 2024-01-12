@@ -256,7 +256,7 @@
     <string name="pref_description_lock_scored_traits">Empêcher toute modification accidentelle des caractéristiques de notation</string>
     <string name="pref_title_left_handed_layout">Notation des gauchers</string>
     <string name="pref_description_left_handed_layout">Démarrage en mode gaucher lors de la notation des caractéristiques</string>
-    <string name="pref_locale_default_value" translatable="false">SYSTÈME</string>
+    <string name="pref_locale_default_value" translatable="false">SYSTEM</string>
     <string name="pref_kddart_url_key" translatable="false">pref_kddart_url</string>
     <string name="pref_selected_kddart_url_key" translatable="false">pref_selected_kddart_url</string>
     <string name="pref_collOrder_title">Ordre de recouvrement par défaut</string>
@@ -383,52 +383,52 @@
     <string name="prompt_autoscoring_options_unscored_traits">Caractéristiques non notées</string>
     <string name="prompt_autoscoring_options_selected_traits">Caractéristiques sélectionnées</string>
     <plurals name="msg_n_tags_imported">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d étiquettes importées</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d caractéristiques importées</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d caractéristiques mises à jour</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d Exemples de caractéristiques Actif</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d projets sélectionnés pour suppression</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d Les caractéristiques seront supprimées</item>
     </plurals>
     <string name="title_export_all_traits">Exporter toutes les caractéristiques</string>
     <string name="title_please_confirm_tag_export">Veuillez confirmer l\'exportation des étiquettes</string>
     <string name="title_please_confirm_trait_export">Veuillez confirmer l\'exportation de caractéristiques</string>
     <plurals name="msg_export_n_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d caractéristiques sélectionnées pour l\'exportation</item>
     </plurals>
     <plurals name="msg_export_n_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d projets sélectionnés pour l\'exportation</item>
     </plurals>
     <string name="title_export_all_tags">Exporter toutes les étiquettes</string>
     <plurals name="msg_export_n_tags">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d Étiquettes sélectionnées pour l\'exportation</item>
     </plurals>
     <string name="title_activity_scoring_setup">Configurer</string>
@@ -566,23 +566,23 @@
     <string name="msg_import_trial_sample_counts_colon">Échantillon de mesures de comptage :</string>
     <!-- TODO check this in french, cant release before test -->
     <plurals name="msg_imported_n_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s importé</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s Mesures de l\'échantillon</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%1$d %2$s Mesures</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">Ajout de %d Nouvelles caractéristiques</item>
     </plurals>
     <string name="title_activity_export_trial">Projets d\'exportation</string>
@@ -647,7 +647,7 @@
     <string name="prompt_use_kdxchange">Utiliser KDXchange</string>
     <string name="pref_gradient_default_value" translatable="false">HEAT_5</string>
     <string name="pref_gradient_key" translatable="false">pref_heatmap_gradient</string>
-    <string name="pref_orgtype_default_value" translatable="false">GENERIQUE</string>
+    <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
     <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
     <string name="title_transitions_menu">Afficher le changement…</string>
@@ -1237,23 +1237,23 @@
     <string name="msg_last_successfull_fetch">"La dernière recherche réussie a eu lieu à "</string>
     <string name="title_fetching_trials">Récupération des projets KDDart</string>
     <plurals name="title_sub_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_delete_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string/title_activity_delete_trials</item>
     </plurals>
     <plurals name="title_delete_tags">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string/ctx_title_delete_tags</item>
     </plurals>
     <plurals name="title_delete_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string/title_activity_delete_traits</item>
     </plurals>
     <string name="msg_checkbox_text">Texte de la case à cocher</string>
@@ -1748,11 +1748,11 @@
     <string name="title_app_name">KDSmart</string>
     <string name="pref_locale_key" translatable="false">pref_application_locale</string>
     <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
-    <string name="pref_collOrder_key" translatable="false">ordre_de_visite_de_la_liste</string>
+    <string name="pref_collOrder_key" translatable="false">pref_list_visit_order</string>
     <string name="pref_collOrder_drawablesName" translatable="false">collOrder_pref_drawables</string>
     <string name="pref_gradient_drawablesName" translatable="false">gradient_pref_drawables</string>
-    <string name="msgfmt_no_sample_for_instance_of_trait">Pas d\'échantillon pour l\'exemple {0,nombre,entier} de la caractéristique \'{1}\'.</string>
-    <string name="msgfmt_found_n_plots_since">Trouvé {0,nombre,entier} %1$s noté depuis {1}</string>
+    <string name="msgfmt_no_sample_for_instance_of_trait">Pas d\'échantillon pour l\'exemple {0,number,integer} de la caractéristique \'{1}\'.</string>
+    <string name="msgfmt_found_n_plots_since">Trouvé {0,number,integer} %1$s noté depuis {1}</string>
     <string name="msg_format_n_trials_have_no_planting_date">Certains projets ({0,number,integer}) n\'ont pas de date de plantation.</string>
     <string name="msgfmt_invalid_min_value">Min invalide : {0,number,integer}</string>
     <string name="msgfmt_created_random_data_n_samples">Création de données aléatoires pour les échantillons : {0,number,integer}</string>
@@ -1763,8 +1763,8 @@
     <string name="ctx_help_manage_trial" formatted="false">&lt;p&gt;L\'écran&amp;nbsp;&lt;strong&gt;Trial Screen&lt;/strong&gt;&amp;nbsp;affiche tous les projets actuellement chargés dans KDSmart.&lt;/p&gt; &lt;p&gt;Warning :&amp;nbsp;&lt;strong&gt;Demonstration Mode&lt;/strong&gt;&amp;nbsp;should&amp;nbsp;&lt;strong&gt;NOT&lt;/strong&gt;&amp;nbsp;be used for your real trials. Il est&amp;nbsp;&lt;strong&gt;UNIQUEMENT&lt;/strong&gt;&amp;nbsp;destiné à la démonstration et à la formation. Toutes les données contenues dans&amp;nbsp;&lt;strong&gt;Demonstration Mode&lt;/strong&gt;&amp;nbsp;peuvent être perdues en cas de mise à niveau de la version ou en choisissant l\'option&amp;nbsp;&lt;em&gt;Reset Demo Data&lt;/em&gt;&amp;nbsp;dans&amp;nbsp;&lt;strong&gt;Settings&lt;/strong&gt;&amp;nbsp;qui restaure les données de démonstration.&amp;nbsp;&lt;strong&gt;Demonstration Mode&lt;/strong&gt;&amp;nbsp;est indiqué par&amp;nbsp;&lt;strong&gt;DEMO DB&lt;/strong&gt;apparaissant sur l\'écran d\'accueil&amp;nbsp;&lt;strong&gt;&lt;/strong&gt; .&lt;/p&gt; &lt;p&gt;Pour afficher les détails d\'un projet, choisissez le projet avec&amp;nbsp;&lt;em&gt;et appuyez brièvement sur&lt;/em&gt;. Vous accéderez à l\'écran&amp;nbsp;&lt;strong&gt;Détails de l\'épreuve&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Si une épreuve est mise en évidence, vous pouvez effectuer les actions suivantes sur cette épreuve ainsi que les actions générales dans le menu&amp;nbsp;&lt;strong&gt;&lt;/strong&gt; :&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Démarrer la notation&lt;/strong&gt;&amp;nbsp;- Ouvre l\'écran de&amp;nbsp;&lt;strong&gt;Configuration de la notation&lt;/strong&gt;&amp;nbsp;pour toute épreuve en surbrillance ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Importer une épreuve&lt;/strong&gt;&amp;nbsp;- Options d\'importation d\'épreuves à partir de l\'appareil ou de KDXPlore avec KDXchange ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Partager&lt;/strong&gt;&amp;nbsp;- Options de partage pour l\'épreuve en surbrillance avec le cadre d\'accès au stockage d\'Android, y compris le courrier électronique, Bluetooth et le téléphone portable.Android, y compris le courrier électronique, Bluetooth ou tout service de partage de fichiers installé sur l\'appareil ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Exporter vers&lt;/strong&gt;&amp;nbsp;- Options d\'exportation de tout essai en surbrillance pour exporter des fichiers vers l\'appareil ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Cloner l\'essai&lt;/strong&gt;&amp;nbsp;- Crée un clone de tout essai en surbrillance qui contient les mêmes données et caractéristiques ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Supprimer&lt;/strong&gt;&amp;nbsp;- Supprime tout essai en surbrillance ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Trier ...&lt;/strong&gt;&amp;nbsp;- Options de tri des projets ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Grouping&lt;/strong&gt;&amp;nbsp;- Options de regroupement des projets ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Random Demo Data&lt;/strong&gt;&amp;nbsp;- Outil permettant d\'appliquer des données de démonstration aléatoires à un projet, y compris les pièces jointes (uniquement en&amp;nbsp;&lt;strong&gt;Demonstration Mode&lt;/strong&gt;) ; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Score Samples&lt;/strong&gt;&amp;nbsp;- Génère des données d\'échantillon avec la probabilité qu\'un échantillon soit noté entre 10% et 100% ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Add Attachments&lt;/strong&gt;&amp;nbsp;- Génère des pièces jointes et des étiquettes ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Clear All Data&lt;/strong&gt;&amp;nbsp;- Efface toutes les données d\'échantillon pour l\'essai de démonstration sélectionné ;&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Add Trial&lt;/strong&gt;&amp;nbsp;- Options pour la création d\'un nouvel essai ; et&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Help&lt;/strong&gt;&amp;nbsp;- Ouvre cette page d\'aide.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Utilisez une pression longue&amp;nbsp;&lt;em&gt;&lt;/em&gt;&amp;nbsp; sur un ou plusieurs projets pour les sélectionner en vue d\'actions ultérieures. Notez que plusieurs projets peuvent être sélectionnés à la fois. Les actions supplémentaires que la sélection peut afficher sont les suivantes :&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Sélectionner/Désélectionner tout&lt;/strong&gt;&amp;nbsp;- Sélectionne ou désélectionne tous les essais ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Partager&lt;/strong&gt;&amp;nbsp;- Options de partage pour les essais en surbrillance avec le cadre d\'accès au stockage d\'Android, y compris le courrier électronique, Bluetooth ou tout service de partage de fichiers installé sur l\'appareil ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Exporter vers&lt;/strong&gt;&amp;nbsp;- Options d\'exportation de tout trait en surbrillance pour l\'exportation de fichiers vers l\'appareil ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Ajouter %2$s&lt;/strong&gt;&amp;nbsp; - Ajouter %2$s à chaque %1$s dans n\'importe quel projet. Veuillez noter qu\'il s\'agit de choisir le nombre de %2$s que chaque %1$s aura et n\'ajoutera pas la quantité sélectionnée au %1$s existant. Par exemple, si chaque %1$s d\'un essai a déjà un %2$s mais que vous voulez en ajouter un, choisissez \"2\" et non \"1\" ;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Add Trait Bundle&lt;/strong&gt;&amp;nbsp;- Ajouter un groupe de caractéristiques à un essai ; et&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Add Bundle&lt;/strong&gt;&amp;nbsp;- Créer un nouveau groupe de caractéristiques avec 2 ou plusieurs essais sélectionnés.&lt;/li&gt; &lt;/ul&gt;</string>
     <string name="title_import_as_trial_cell_name">Projet %3$s Nom</string>
     <plurals name="title_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%1$s</item>
     </plurals>
     <string name="title_import_as_sub_plot_database_id">%1$s ID de la base de données</string>
