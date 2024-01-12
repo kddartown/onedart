@@ -1745,4 +1745,36 @@
         <item quantity="many"></item>
         <item quantity="other">Novas características adicionadas %d</item>
     </plurals>
+    <string name="title_export_kdxplore">KDXplore</string>
+    <string name="title_export_kddart">KDDart</string>
+    <string name="pref_locale_key" translatable="false">pref_application_locale</string>
+    <string name="pref_locale_default_value" translatable="false">SYSTEM</string>
+    <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
+    <string name="pref_kddart_url_key" translatable="false">pref_kddart_url</string>
+    <string name="pref_selected_kddart_url_key" translatable="false">pref_selected_kddart_url</string>
+    <string name="pref_collOrder_key" translatable="false">pref_list_visit_order</string>
+    <string name="pref_collOrder_default_value" translatable="false">LL_RIGHT_SERPENTINE</string>
+    <string name="pref_collOrder_drawablesName" translatable="false">collOrder_pref_drawables</string>
+    <string name="pref_gradient_drawablesName" translatable="false">gradient_pref_drawables</string>
+    <string name="pref_gradient_default_value" translatable="false">HEAT_5</string>
+    <string name="pref_gradient_key" translatable="false">pref_heatmap_gradient</string>
+    <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
+    <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
+    <string name="msgfmt_no_sample_for_instance_of_trait">No sample for instance {0,number,integer} of Trait \'{1}\'</string>
+    <string name="msgfmt_found_n_plots_since">Found {0,number,integer} %1$s scored since {1}</string>
+    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
+    <string name="msg_info_selected_nplots">Selected: {0,number,integer}</string>
+    <string name="msg_format_n_trials_have_no_planting_date">Some trials ({0,number,integer}) do not have a Planting Date</string>
+    <string name="msgfmt_traits_scored_m_of_n">Traits scored: {0,number,integer} of {1,number,integer}</string>
+    <string name="msgfmt_tags_selected_for_delete">Tags Selected to Delete: {0,number,integer}</string>
+    <string name="msgfmt_invalid_min_value">Invalid min: {0,number,integer}</string>
+    <string name="msgfmt_invalid_max_value">Invalid max: {0,number,integer}</string>
+    <string name="msgfmt_created_random_data_n_samples">Created random data for samples: {0,number,integer}</string>
+    <string name="pref_key_scoringView" translatable="false">pref_scoring_view</string>
+    <string name="pref_default_value_scoringView" translatable="false">PATH_VIEW</string>
+    <string name="pref_drawablesName_scoringView" translatable="false">scoringView_pref_drawables</string>
+    <string name="msg_do_you_want_to_protect_numberinteger_traits">Do you want to Protect {0,number,integer} Traits?</string>
+    <string name="msg_do_you_want_to_unprotect_numberinteger_traits">Do you want to Unprotect {0,number,integer} Traits?</string>
+    <string name="title_app_name">KDSmart</string>
+    <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
 </resources>
