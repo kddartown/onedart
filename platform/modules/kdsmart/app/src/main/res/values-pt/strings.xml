@@ -377,52 +377,52 @@
     <string name="prompt_autoscoring_options_unscored_traits">Traços não pontuados</string>
     <string name="prompt_autoscoring_options_selected_traits">Traços selecionados</string>
     <plurals name="msg_n_tags_imported">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d tags importadas</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d características importadas</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d características atualizadas</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d Instâncias de características ativas</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d ensaios selecionados para exclusão</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d As características serão excluídas</item>
     </plurals>
     <string name="title_export_all_traits">Exportar todas as características</string>
     <string name="title_please_confirm_tag_export">Confirme a exportação da tag</string>
     <string name="title_please_confirm_trait_export">Por favor, confirme a exportação da característica</string>
     <plurals name="msg_export_n_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d características selecionadas para exportação</item>
     </plurals>
     <plurals name="msg_export_n_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d ensaios selecionados para exportação</item>
     </plurals>
     <string name="title_export_all_tags">Exportar todas as tags</string>
     <plurals name="msg_export_n_tags">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d tags selecionadas para exportação</item>
     </plurals>
     <string name="title_activity_scoring_setup">Configurar</string>
@@ -551,9 +551,9 @@
     <string name="msg_trial_layout_traversal_two_way">Serpentina</string>
     <string name="title_trial_layout">Layout de teste</string>
     <string name="msg_trial_has_no_plot_attributes">Trial não tem atributos %1$s</string>
-    <string name="title_import_as_sub_plot_database_id">%1$s ID do banco de dados</string>
-    <string name="title_import_as_specimen_comments">%1$s Etiquetas</string>
-    <string name="title_import_as_trait_for_specimen">Característica para %1$s</string>
+    <string name="title_import_as_sub_plot_database_id">%2$s ID do banco de dados</string>
+    <string name="title_import_as_specimen_comments">%2$s Etiquetas</string>
+    <string name="title_import_as_trait_for_specimen">Característica para %2$s</string>
     <string name="title_select_traits_for_new_specimen">Selecione características para novas %2$s</string>
     <string name="title_trait_unit_header">Unidade de características</string>
     <string name="msg_screen_orientation_direction">Selecione a origem e a direção do campo</string>
@@ -574,23 +574,23 @@
     <string name="msg_import_trial_csv_completed_colon">A importação de teste do CSV foi concluída:</string>
     <string name="msg_import_trial_sample_counts_colon">Contagens de medição de amostras:</string>
     <plurals name="msg_imported_n_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s importado</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s Medições de amostra</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%1$d %2$s Medições</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">Novas características adicionadas %d</item>
     </plurals>
     <string name="title_activity_export_trial">Configurações</string>
@@ -870,8 +870,8 @@
     <string name="msgfmt_trial_group_name_is_already_in_db">O pacote de teste já está no banco de dados</string>
     <string name="msg_app_resume_not_yet_handled">O aplicativo foi \'retomado\', mas não podemos (ainda) lidar com isso</string>
     <string name="msgfmt_invalid_min_value">Mínimo inválido: {0, número, inteiro}</string>
-    <string name="msg_hint_for_example_Column">por exemplo, %1$s</string>
-    <string name="msg_hint_for_example_Row">por exemplo, %1$s</string>
+    <string name="msg_hint_for_example_Column">por exemplo, %3$s</string>
+    <string name="msg_hint_for_example_Row">por exemplo, %4$s</string>
     <string name="msg_no_file_to_import">Sem importação do arquivo</string>
     <string name="msg_error_reading_headings">Erro ao ler os cabeçalhos:</string>
     <string name="msg_no_import_source">Sem fonte de importação</string>
@@ -955,7 +955,7 @@
     <string name="msg_no_plot_there">Não há %1$s</string>
     <string name="pref_default_value_scoringView" translatable="false">PATH_VIEW</string>
     <string name="pref_drawablesName_scoringView" translatable="false">ScoringView_PREF_DRAWABLES</string>
-    <string name="msg_missing_specimen_for_barcode">%1$s não encontrado para código de barras</string>
+    <string name="msg_missing_specimen_for_barcode">%2$s não encontrado para código de barras</string>
     <string name="msg_unable_to_find_xy_for_plot">Não foi possível encontrar X, Y para %1$s</string>
     <string name="prompt_find_plots">Encontre %1$s</string>
     <string name="msg_hint_search_dots">Pesquisar…</string>
@@ -1085,7 +1085,7 @@
     <string name="msg_undo">Desfazer</string>
     <string name="msg_must_select_1_block">Pelo menos 1 bloco deve ser selecionado</string>
     <string name="msg_hint_textfrag_use_keyboard">Insira o valor usando o teclado</string>
-    <string name="title_subplot_selected">%1$s Selecionado</string>
+    <string name="title_subplot_selected">%2$s Selecionado</string>
     <string name="msg_hint_textfrag_use_keyboard_or_scanner">Insira o valor usando o teclado ou o scanner</string>
     <string name="msg_no_barcode_found">Nenhuma amostra não pontuada encontrada para característica com código de barras</string>
     <string name="prompt_please_try_again">Por favor, tente novamente</string>
@@ -1240,23 +1240,23 @@
     <string name="msg_last_successfull_fetch">"A última busca bem-sucedida foi em "</string>
     <string name="title_fetching_trials">Buscando testes do KDDart</string>
     <plurals name="title_sub_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_delete_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string /title_activity_delete_trials</item>
     </plurals>
     <plurals name="title_delete_tags">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string /ctx_title_delete_tags</item>
     </plurals>
     <plurals name="title_delete_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string /title_activity_delete_traits</item>
     </plurals>
     <string name="msg_checkbox_text">Texto da caixa de seleção</string>
@@ -1765,11 +1765,11 @@
     <string name="ctx_help_manage_trial" formatted="false">&lt;p&gt; A tela de teste &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; exibe todos os testes que estão atualmente carregados no KDSmart. &lt;/p&gt; &lt;p&gt; Aviso: &amp;nbsp; &lt;strong&gt; O modo de demonstração &lt;/strong&gt; &amp;nbsp; deve &amp;nbsp; &lt;strong&gt; NÃO &lt;/strong&gt; &amp;nbsp; ser usado para seus testes reais. É &amp;nbsp; &lt;strong&gt; SOMENTE &lt;/strong&gt; &amp;nbsp; destinado a fins de demonstração e treinamento. Todos os dados no modo de demonstração &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; podem ser perdidos com qualquer atualização de versão ou escolhendo a opção &amp;nbsp; &lt;em&gt; Redefinir dados de demonstração &lt;/em&gt; &amp;nbsp; nas configurações &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; que restaura os dados de demonstração. &amp;nbsp; &lt;strong&gt; O modo de demonstração &lt;/strong&gt; &amp;nbsp; é indicado pelo &amp;nbsp; &lt;strong&gt; DEMO DB &lt;/strong&gt; que aparece na tela inicial &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Para exibir detalhes de um teste, escolha o teste pressionando brevemente &amp;nbsp; &lt;em&gt; &lt;/em&gt;. Isso o levará para a tela de detalhes do teste &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Se um teste estiver destacado, você poderá realizar as seguintes ações nele junto com ações gerais no menu &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Iniciar pontuação &lt;/strong&gt; &amp;nbsp; - Abre a pontuação Tela de configuração &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; para qualquer teste destacado; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Teste de importação &lt;/strong&gt; &amp;nbsp; - Opções para importar testes do dispositivo ou do KDXplore com KDXchange; &lt;/li&gt; &lt;/li&gt; [X125X] [83X] &lt;strong&gt; Compartilhar &lt;/strong&gt; &amp;nbsp; - Opções de compartilhamento para o teste destacado com o acesso ao armazenamento do Android Estrutura incluindo e-mail, Bluetooth ou qualquer serviço de compartilhamento de arquivos instalado no dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Exportar para &lt;/strong&gt; &amp;nbsp; - Opções de exportação de qualquer teste destacado para exportar arquivos para o dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Clone Trial &lt;/strong&gt; &amp;nbsp;] - Cria um clone de qualquer teste destacado que contém os mesmos dados e características; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Excluir &lt;/strong&gt; &amp;nbsp; - Exclui qualquer teste destacado; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Classificar... &lt;/strong&gt; &amp;nbsp; - Opções para classificar ensaios; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Agrupamento &lt;/strong&gt; &amp;nbsp; - Opções para ensaios em grupo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Dados de demonstração aleatórios &lt;/strong&gt; &amp;nbsp; - Uma ferramenta para aplicar dados de demonstração aleatórios a um teste, incluindo anexos (somente no modo de demonstração &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;); &lt;ul&gt; &lt;li&gt; &lt;strong&gt;] Amostras de pontuação &lt;/strong&gt; &amp;nbsp; - Gera dados de amostra com a probabilidade de uma amostra ser pontuada variando de 10% a 100%; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Adicionar anexos &lt;/strong&gt; &amp;nbsp; - Gera anexos e tags; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Limpar todos os dados &lt;/strong&gt; &amp;nbsp; - Limpa todos os dados de amostra do teste de demonstração selecionado; &lt;/li&gt; &lt;/ul&gt; [X 2444X] &lt;li&gt; &lt;strong&gt; Adicionar teste &lt;/strong&gt; &amp;nbsp; - Opções para criar um novo teste; e &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ajuda &lt;/strong&gt; &amp;nbsp; - Abre esta página de ajuda. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Use uma pressão longa em &amp;nbsp; &lt;em&gt; &lt;/em&gt; &amp;nbsp; em uma ou mais tentativas para selecioná-las para ações futuras. Observe que mais de um teste pode ser selecionado ao mesmo tempo. As ações extras que a seleção pode exibir são: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Marcar/Desmarcar tudo &lt;/strong&gt; &amp;nbsp; - Seleciona ou desmarca todos os testes; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Compartilhar &lt;/strong&gt; &amp;nbsp; - Opções de compartilhamento para os testes destacados com a Estrutura de Acesso ao Armazenamento do Android, incluindo e-mail, Bluetooth ou qualquer serviço de compartilhamento de arquivos instalado no dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Exportar para &lt;/strong&gt; &amp;nbsp; - Opções de exportação de qualquer característica destacada para exportar arquivos para o dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; &lt;strong&gt; X] Adicionar %2$s &lt;/strong&gt; &amp;nbsp; - Adicionar %2$s a cada [X] 3269X] em qualquer julgamento. Observe que isso significa escolher o número de %2$s que cada %1$s terá e não adicionará o valor selecionado ao %1$s existente atualmente. Por exemplo, se cada %1$s em um teste já tiver um %2$s, mas você quiser adicionar mais um, escolha \'2\' e não \'1\'; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Adicionar pacote de características &lt;/strong&gt; &amp;nbsp; - Adicionar um pacote de características a um teste; e &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Adicionar pacote &lt;/strong&gt; &amp;nbsp; - Crie um novo pacote de teste com 2 ou mais testes selecionados. &lt;/li&gt; &lt;/ul&gt;</string>
     <string name="title_import_as_trial_cell_name">Nome do teste %1$s</string>
     <plurals name="title_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%1$s</item>
     </plurals>
-    <string name="msg_no_sub_plot_instance_ids_selected">Nenhuma instância de característica %1$s</string>
+    <string name="msg_no_sub_plot_instance_ids_selected">Nenhuma instância de característica %2$s</string>
     <string name="title_text_size">Tamanho do texto</string>
     <string name="title_text_size_small">Texto pequeno</string>
     <string name="title_text_size_medium">Texto médio</string>
