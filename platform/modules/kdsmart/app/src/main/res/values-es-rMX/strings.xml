@@ -29,7 +29,7 @@
     <string name="prompt_btn_kill_specimen">Desactivar %2$s</string>
     <string name="prompt_btn_revive_specimen">Activar %2$s</string>
     <string name="prompt_btn_revive_plot">Activar %1$s</string>
-    <string name="prompt_btn_kill_plot">Desactivar %2$s</string>
+    <string name="prompt_btn_kill_plot">Desactivar %1$s</string>
     <string name="msg_btn_use">Utilice</string>
     <string name="msg_btn_use_folder">Utilizar la carpeta actual</string>
     <string name="hdg_plots_per_group">%1$s por Grupo</string>
@@ -458,12 +458,12 @@
     <string name="title_import_as_plot_barcode">%1$s Código de barras</string>
     <string name="title_import_as_plot_block">*** %1$s Bloque</string>
     <string name="title_import_as_plot_database_id">%1$s ID de la base de datos</string>
-    <string name="title_import_as_sub_plot_database_id">%1$s ID de la base de datos</string>
+    <string name="title_import_as_sub_plot_database_id">%2$s ID de la base de datos</string>
     <string name="title_import_as_plot_comments">%1$s Etiquetas</string>
     <string name="title_import_as_specimen_comments">%2$s Etiquetas</string>
     <string name="title_import_as_plot_attribute">%1$s Atributo</string>
     <string name="title_import_as_trait_for_plot">Rasgo para %1$s</string>
-    <string name="title_import_as_trait_for_specimen">Rasgo para %1$s</string>
+    <string name="title_import_as_trait_for_specimen">Rasgo para %2$s</string>
     <string name="title_import_as_trait">Rasgos</string>
     <string name="title_import_as_do_not_import">No importar</string>
     <string name="msg_import_as_required">Requerido</string>
@@ -1031,9 +1031,9 @@
     <string name="msg_with_traits">(Con Rasgos)</string>
     <string name="msg_bulk_score_traits">Puntuación rápida de rasgos</string>
     <string name="title_plots_selected">%1$s Selección</string>
-    <string name="title_subplot_selected">%1$s Selección</string>
+    <string name="title_subplot_selected">%2$s Selección</string>
     <string name="msg_no_plot_instance_ids_selected">No %1$s casos individuales de rasgos</string>
-    <string name="msg_no_sub_plot_instance_ids_selected">No %1$s casos individuales de rasgos</string>
+    <string name="msg_no_sub_plot_instance_ids_selected">No %2$s casos individuales de rasgos</string>
     <string name="prompt_overwrite_samples">Sobrescribir valores de rasgos</string>
     <string name="msg_samples_exists"># Puntuación</string>
     <string name="msg_bulk_score_trait">Puntuación inmediata</string>
