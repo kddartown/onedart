@@ -428,7 +428,7 @@
     <string name="title_import_as_trial_name">Nazwa próby</string>
     <string name="title_import_as_trial_acronym">Alias próby</string>
     <string name="title_import_as_trial_x_column_name">Próba %3$s Nazwa</string>
-    <string name="title_import_as_trial_cell_name">Próba %3$s Nazwa</string>
+    <string name="title_import_as_trial_cell_name">Próba %1$s Nazwa</string>
     <string name="title_import_as_trial_database_id">Identyfikator bazy danych prób</string>
     <string name="title_import_as_trial_attribute">Atrybut próby</string>
     <string name="title_import_as_plot_id">* %1$s ID</string>
@@ -1583,7 +1583,7 @@
     <string name="msg_could_not_find_trial">Nie można znaleźć próby</string>
     <string name="msg_adding_a_new_trait_instance">Dodawanie nowych instancji cech</string>
     <string name="msg_btn_text_add_tag">Dodaj</string>
-    <string name="title_import_as_sub_plot_database_id">%1$s Identyfikator bazy danych</string>
+    <string name="title_import_as_sub_plot_database_id">%2$s Identyfikator bazy danych</string>
     <string name="title_import_as_trait_for_specimen">Cechy dla %1$s</string>
     <string name="msg_could_not_add_traits">Nie można dodać cech</string>
     <string name="errMsg_adapter_error">Błąd adaptera</string>
