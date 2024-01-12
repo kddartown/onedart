@@ -242,7 +242,7 @@
     <string name="msg_cleared_scores_from">Concluiu as pontuações de</string>
     <string name="msg_unrecognised_barcode">Código de barras não reconhecido:</string>
     <string name="msg_needs_at_least_two_item">Pelo menos dois itens são necessários para características categóricas</string>
-    <string name="msg_html_trait_name_style_trailing_digits">Traço&lt;font color=0x00ddff&gt;123&lt;/font&gt;</string>
+    <string name="msg_html_trait_name_style_trailing_digits">&lt;font color=0x00ddff&gt;Traço 123&lt;/font&gt;</string>
     <string name="msg_btn_trials_as_kdx">Testes como KDX</string>
     <string name="title_trial_type">Tipo de teste</string>
     <string name="msg_could_not_create_database">Não foi possível criar o banco de dados</string>
