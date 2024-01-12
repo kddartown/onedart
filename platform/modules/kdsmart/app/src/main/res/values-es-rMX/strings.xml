@@ -750,7 +750,7 @@
     <string name="title_select_heatmap_opacity">Seleccionar la opacidad del mapa de calor</string>
     <string name="title_select_heatmap_gradient">Seleccionar gradiente del mapa de calor</string>
     <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
-    <string name="msg_info_selected_nplots">Seleccionado: {0,número,entero}</string>
+    <string name="msg_info_selected_nplots">Seleccionado: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Configurar …</string>
     <string name="msgfmt_warning_landscape_small">El modo horizontal en pantallas pequeñas siempre utilizará al menos {0}.</string>
     <string name="prompt_menu_data_score_samples">Muestras de puntuación</string>
