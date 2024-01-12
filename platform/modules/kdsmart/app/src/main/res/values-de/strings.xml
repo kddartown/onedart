@@ -379,7 +379,7 @@
     <string name="title_import_as_specimen_comments">%2$s Tags</string>
     <string name="title_import_as_plot_attribute">%1$s Attribut</string>
     <string name="title_import_as_trait_for_plot">Merkmale für %1$s</string>
-    <string name="title_import_as_trait_for_specimen">Merkmale für %1$s</string>
+    <string name="title_import_as_trait_for_specimen">Merkmale für %2$s</string>
     <string name="title_import_as_trait">Merkmale</string>
     <string name="title_import_as_do_not_import">Nicht importieren</string>
     <string name="msg_import_as_required">Erforderlich</string>
@@ -403,7 +403,7 @@
     <string name="title_import_as_trial_name">Versuch Name</string>
     <string name="title_import_as_trial_acronym">Versuch Alias</string>
     <string name="title_import_as_trial_x_column_name">Versuch %3$s Name</string>
-    <string name="title_import_as_trial_y_row_name">Versuch %3$s Name</string>
+    <string name="title_import_as_trial_y_row_name">Versuch %4$s Name</string>
     <string name="title_import_as_trial_cell_name">Versuch %1$s Name</string>
     <string name="title_import_as_trial_database_id">Versuch Datenbank-ID</string>
     <string name="title_import_as_trial_attribute">Versuch Attribut</string>
@@ -597,7 +597,7 @@
     <string name="title_desc_multi_trial_scoring">Scoring mehrerer Versuche</string>
     <string name="msg_multi_scoring_are_you_sure">Verwenden Sie diese Versuche in der Mehrfachversuchsauswertung?</string>
     <string name="msg_hdg_path_of_import_file">Pfad der Importdatei</string>
-    <string name="msg_hdg_specimens">Angaben zu den zu erhaltenden Merkmalen</string>
+    <string name="msg_hdg_specimens">%2$s</string>
     <string name="msg_prompt_enter_text">Text eingeben</string>
     <string name="msg_prompt_enter_a_number">Eine Nummer eingeben</string>
     <string name="msg_prompt_enter_decimal_value">Eingabe eines Dezimalwertes</string>
@@ -736,8 +736,8 @@
     <string name="msgfmt_invalid_max_value">Ungültige max: {0,number,integer}</string>
     <string name="title_trial_element_names">Versuche Elementnamen</string>
     <string name="msg_hint_for_example_Plot">z.B.. %1$s</string>
-    <string name="msg_hint_for_example_Column">z.B.. %1$s</string>
-    <string name="msg_hint_for_example_Row">z.B.. %1$s</string>
+    <string name="msg_hint_for_example_Column">z.B.. %3$s</string>
+    <string name="msg_hint_for_example_Row">z.B.. %4$s</string>
     <string name="msg_hint_not_available">Nicht verfügbar</string>
     <string name="title_choose_organism_type">Organismustyp wählen</string>
     <string name="title_edit_trial_note">Versuch bearbeiten Notiz</string>
@@ -968,9 +968,9 @@
     <string name="msg_with_traits">(Mit Merkmalen)</string>
     <string name="msg_bulk_score_traits">Merkmale schnell bewerten</string>
     <string name="title_plots_selected">%1$s Ausgewählte</string>
-    <string name="title_subplot_selected">%1$s Ausgewählte</string>
+    <string name="title_subplot_selected">%2$s Ausgewählte</string>
     <string name="msg_no_plot_instance_ids_selected">Keine %1$s Merkmale Instanzen</string>
-    <string name="msg_no_sub_plot_instance_ids_selected">Keine %1$s Merkmale Instanzen</string>
+    <string name="msg_no_sub_plot_instance_ids_selected">Keine %2$s Merkmale Instanzen</string>
     <string name="prompt_overwrite_samples">Merkmale überschreiben</string>
     <string name="msg_samples_exists"># Erzielt</string>
     <string name="msg_bulk_score_trait">Sofort punkten</string>
@@ -1150,8 +1150,8 @@
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_plots">
-        <item quantity="one">%2$s</item>
-        <item quantity="other">%2$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="other">%1$s</item>
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string/title_activity_delete_trial</item>
