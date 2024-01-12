@@ -506,7 +506,7 @@
     <string name="title_import_as_plot_type">%1$s Type</string>
     <string name="title_import_as_plot_barcode">%1$s Code barre</string>
     <string name="title_import_as_plot_block">*** %1$s Bloc</string>
-    <string name="title_import_as_trial_y_row_name">Projet %3$s Nom</string>
+    <string name="title_import_as_trial_y_row_name">Projet %4$s Nom</string>
     <string name="title_import_as_plot_database_id">%1$s ID de la base de données</string>
     <string name="title_import_as_plot_comments">%1$s Étiquettes</string>
     <string name="title_import_as_plot_attribute">%1$s Attribut</string>
@@ -850,8 +850,8 @@
     <string name="title_edit_trial_note">Modifier la note de procès</string>
     <string name="msgfmt_tags_selected_for_delete">Étiquettes sélectionnées à supprimer : {0,number,integer}</string>
     <string name="msgfmt_invalid_max_value">Max. non valide : {0,number,integer}</string>
-    <string name="msg_hint_for_example_Column">par exemple %1$s</string>
-    <string name="msg_hint_for_example_Row">par exemple %1$s</string>
+    <string name="msg_hint_for_example_Column">par exemple %3$s</string>
+    <string name="msg_hint_for_example_Row">par exemple %4$s</string>
     <string name="title_choose_how_to_identify_plots">Choisir comment s\'identifier %1$s</string>
     <string name="title_start_scoring">Début de la notation</string>
     <string name="title_export_to_csv">Exporter vers CSV</string>
@@ -1768,7 +1768,7 @@
         <item quantity="other">%1$s</item>
     </plurals>
     <string name="title_import_as_sub_plot_database_id">%2$s ID de la base de données</string>
-    <string name="msg_missing_specimen_for_barcode">%1$s non trouvé pour le code-barres</string>
+    <string name="msg_missing_specimen_for_barcode">%2$s non trouvé pour le code-barres</string>
     <string name="title_subplot_selected">%2$s Sélectionné</string>
     <string name="pref_title_kdxplore_barcodes">Utiliser les codes-barres de KDKplore</string>
     <string name="title_text_size_small">Petit texte</string>
