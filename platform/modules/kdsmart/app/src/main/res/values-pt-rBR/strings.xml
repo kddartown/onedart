@@ -52,53 +52,53 @@
     <string name="msg_no_previous_sample">Nenhuma amostra anterior</string>
     <string name="title_image_info">Imagem de migração</string>
     <plurals name="msg_imported_n_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s importado</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%1$d %2$s Medições</item>
     </plurals>
     <string name="drawer_list_items_2">Traços</string>
     <string name="drawer_list_items_4">Gerenciar dispositivos</string>
     <plurals name="msg_n_tags_imported">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d tags importadas</item>
     </plurals>
     <string name="title_please_confirm_trait_export">Por favor, confirme a exportação da característica</string>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s Medições de amostra</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d Instâncias de características ativas</item>
     </plurals>
     <string name="drawer_list_items_3">Etiquetas</string>
     <plurals name="msg_delete_n_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d As características serão excluídas</item>
     </plurals>
     <string name="title_export_all_traits">Exportar todas as características</string>
     <plurals name="msg_n_traits_updated">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d características atualizadas</item>
     </plurals>
     <plurals name="msg_export_n_tags">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d tags selecionadas para exportação</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d características importadas</item>
     </plurals>
     <string name="msg_no_further_details_required">não são necessários mais detalhes</string>
@@ -134,7 +134,7 @@
     <string name="msg_must_select_1_block">Pelo menos 1 bloco deve ser selecionado</string>
     <string name="title_trial_layout">Layout de teste</string>
     <string name="msg_other_value_must">Não pode ter um valor vazio</string>
-    <string name="pref_collOrder_drawablesName" translatable="false">Colorder_pref_drawables</string>
+    <string name="pref_collOrder_drawablesName" translatable="false">collOrder_pref_drawables</string>
     <string name="prompt_phone_picker_date_format_calendar">Calendário</string>
     <string name="title_import_as_do_not_import">Não importe</string>
     <string name="msg_saving_sample_failed">Falha ao salvar a amostra</string>
@@ -223,9 +223,9 @@
     <string name="msg_selected_trial_bundle">Pacote de teste selecionado</string>
     <string name="title_longer_range">Calendário</string>
     <string name="msg_connecting_to_kdxplore">Conectando-se ao KDXplore…</string>
-    <string name="msgfmt_invalid_min_value">Mínimo inválido: {0, número, inteiro}</string>
+    <string name="msgfmt_invalid_min_value">Mínimo inválido: {0,number,integer}</string>
     <string name="msg_btn_switch_GPS_on">Ative-o nas configurações ou nas opções do menu</string>
-    <string name="pref_locale_default_value" translatable="false">SISTEMA</string>
+    <string name="pref_locale_default_value" translatable="false">SYSTEM</string>
     <string name="msg_selected_sample_not_found_fmt_2">Amostra selecionada não encontrada</string>
     <string name="errMsg_export_error_trial">Erro de exportação: tentativa \'</string>
     <string name="msg_number_of">Número de</string>
@@ -242,7 +242,7 @@
     <string name="msg_cleared_scores_from">Concluiu as pontuações de</string>
     <string name="msg_unrecognised_barcode">Código de barras não reconhecido:</string>
     <string name="msg_needs_at_least_two_item">Pelo menos dois itens são necessários para características categóricas</string>
-    <string name="msg_html_trait_name_style_trailing_digits">&lt;font color=0x00ddff&gt;Traço 123&lt;/font&gt;</string>
+    <string name="msg_html_trait_name_style_trailing_digits">Traço&lt;font color=0x00ddff&gt;123&lt;/font&gt;</string>
     <string name="msg_btn_trials_as_kdx">Testes como KDX</string>
     <string name="title_trial_type">Tipo de teste</string>
     <string name="msg_could_not_create_database">Não foi possível criar o banco de dados</string>
@@ -358,7 +358,7 @@
     <string name="title_trial_plot_id">%1$s ID</string>
     <string name="msg_hdg_add_edit_tag_desciption">Descrição</string>
     <string name="title_trial_note">Nota de teste</string>
-    <string name="msg_html_trait_name_style_trailing_colon">&lt;font color=0x00ddff&gt;Traço: 123&lt;/font&gt;</string>
+    <string name="msg_html_trait_name_style_trailing_colon">Traço:&lt;font color=0x00ddff&gt;123&lt;/font&gt;</string>
     <string name="msg_couldnt_add_any_trait_to_trial">Não foi possível adicionar nenhuma característica do pacote de características selecionado. Todas as características já estão presentes no teste.</string>
     <string name="msg_must_be_selected">deve ser selecionado.</string>
     <string name="msg_no_trials_available">Não há testes disponíveis.
@@ -404,7 +404,7 @@
 \nToque novamente para ligá-lo</string>
     <string name="msg_unable_to_find_host">Não foi possível encontrar o host</string>
     <string name="prompt_edit_devop_title">Editar nomes de dispositivos e operadores</string>
-    <string name="pref_drawablesName_scoringView" translatable="false">ScoringView_PREF_DRAWABLES</string>
+    <string name="pref_drawablesName_scoringView" translatable="false">scoringView_pref_drawables</string>
     <string name="msg_the_unlocked_icon_only_appears_while_using_the_demo_database">"
 \n
 \nO ícone “desbloqueado” só aparece ao usar o banco de dados de demonstração"</string>
@@ -493,7 +493,7 @@
     <string name="msg_rediscovered">Redescoberto</string>
     <string name="msg_snapshot_taken">Instantâneo tirado</string>
     <string name="msg_choice_elapsed_days_2d_after_today">+2d</string>
-    <string name="msgfmt_traits_scored_m_of_n">Características pontuadas: {0, número, inteiro} de {1, número, inteiro}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Características pontuadas: {0,number,integer} de {1,number,integer}</string>
     <string name="msg_progress_messages">mensagens de progresso</string>
     <string name="title_import_as_specimen_comments">%2$s Etiquetas</string>
     <string name="msg_trial_layout_origin_bottom_left">Canto inferior esquerdo</string>
@@ -556,8 +556,8 @@
     <string name="title_critical_error">Erro crítico</string>
     <string name="prompt_select_group">Selecionar grupo</string>
     <plurals name="title_sub_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%2$s</item>
     </plurals>
     <string name="ctx_title_delete_tag_bundles">Excluir pacotes de tags</string>
@@ -612,7 +612,7 @@
     <string name="msg_unable_to_find_xy_for_plot">Não foi possível encontrar X, Y para %1$s</string>
     <string name="title_activity_manage_trials">Ensaios</string>
     <string name="msg_problem_during_database_init">Problema durante a inicialização do banco de dados.</string>
-    <string name="msgfmt_invalid_max_value">Máximo inválido: {0, número, inteiro}</string>
+    <string name="msgfmt_invalid_max_value">Máximo inválido: {0,number,integer}</string>
     <string name="errMsg_cant_find_trait_with_traitid">Não consigo encontrar uma característica com o TraitiD</string>
     <string name="ctx_title_simple_scoring">Pontuação da planilha</string>
     <string name="msg_server_is_offline">O servidor está off-line</string>
@@ -623,8 +623,8 @@
     <string name="errMsg_unexpected_error">Erro inesperado</string>
     <string name="msg_no_traits_to_add">Nenhuma característica selecionada para adicionar</string>
     <plurals name="title_plots">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%1$s</item>
     </plurals>
     <string name="msgfmt_trial_name_is_already_in_db">Trial {0} já está no banco de dados</string>
@@ -653,7 +653,7 @@
     <string name="msg_plot_ident_option_block_x_then_y">Bloco/campo/coluna/linha de campo</string>
     <string name="msg_l1chk_invalid_date">Data inválida</string>
     <string name="title_traits_for_trial_name">Traços para:</string>
-    <string name="msgfmt_no_sample_for_instance_of_trait">Nenhuma amostra, por exemplo, {0, number, integer} da característica \'{1}\'</string>
+    <string name="msgfmt_no_sample_for_instance_of_trait">Nenhuma amostra, por exemplo, {0,number, integer} da característica \'{1}\'</string>
     <string name="errMsg_plotvisitlist_not_ready">PlotVisitList não está pronto</string>
     <string name="prompt_action_heatmap_opacity">Escolha a opacidade</string>
     <string name="msg_hdg_specimens">%2$s</string>
@@ -688,7 +688,7 @@
     <string name="msg_btn_photo">foto</string>
     <string name="msg_trait_value_changed_to">Valor da característica alterado para \'</string>
     <string name="title_import_file_kdx">Arquivo KDX</string>
-    <string name="msg_do_you_want_to_protect_numberinteger_traits">Você quer proteger as características {0, number, integer}?</string>
+    <string name="msg_do_you_want_to_protect_numberinteger_traits">Você quer proteger as características {0,number, integer}?</string>
     <string name="ctx_help_scoring">&lt;p&gt;&lt;strong&gt;No &lt;strong&gt;Modo Path Scoring&lt;/strong&gt;, você selecionará apenas um %1$s por vez, para o qual poderá ver todas as informações do %1$s, incluindo características %1$s, %2$s, %2$s, tags etc. Esse modo foi projetado para facilitar a navegação entre %1$s enquanto você caminha fisicamente por um campo, marca as características e passa para a próxima %1$s na tela de pontuação.&lt;/strong&gt; Isso também permite que o usuário escolha o &lt;strong&gt;Modo de Avanço Automático&lt;/strong&gt;, que é a maneira mais rápida de pontuar, mas será explicado mais abaixo. Além disso, &lt;strong&gt;o Modo de Pontuação de Caminho&lt;/strong&gt; inclui o &lt;strong&gt;Field View&lt;/strong&gt;, que exibe uma visão de cima para baixo do seu&lt;/p&gt; campo. &lt;p&gt;&lt;strong&gt;O &lt;strong&gt;Modo de Pontuação de Caminho&lt;/strong&gt; foi projetado para facilitar a navegação entre %1$s à medida que o usuário percorre fisicamente um campo, pontua as características e, em seguida, passa para o próximo %1$s na tela de pontuação.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;O número de %1$s disponíveis para pontuar de uma vez dependerá do tamanho do &lt;em&gt;Grupo de Visitas&lt;/em&gt;, que será determinado na &lt;strong&gt;Configuração de Pontuação&lt;/strong&gt; e estará entre um e quatro. Se o grupo de visitas for mais de um, o %1$s atual estará em texto azul e os outros em preto. Selecione outro %1$s &lt;em&gt;pressionando rapidamente&lt;/em&gt; para exibir&lt;/p&gt; seus detalhes. &lt;p&gt;As informações %1$s, as características de nível %1$s e as características de nível %2$s do %1$s atual serão listadas.&lt;/p&gt; &lt;p&gt;&lt;a name=Scoring&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Pontuação Para &lt;h5&gt;pontuar&lt;/h5&gt; uma característica no nível %1$s ou %2$s, selecione a característica para abrir a tela de medição da característica.&lt;/strong&gt; Os dados que precisam ser inseridos dependerão do tipo de dados da característica, por exemplo, inteiro, categoria, decimal etc. Deslize entre a guia de &lt;strong&gt;características e a guia&lt;/strong&gt; de informações &lt;strong&gt;%1$s para ver mais informações sobre a %1$s&lt;/strong&gt; atual. Os seguintes botões estão disponíveis para uso na pontuação de características:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Botão Cancelar&lt;/strong&gt; - Cancela a pontuação da característica selecionada. O cancelamento retornará o usuário à&lt;/li&gt; &lt;strong&gt;tela de pontuação&lt;/strong&gt;; &lt;li&gt;&lt;strong&gt;Botão Excluir valor&lt;/strong&gt; - Exclui um valor atual e retorna o usuário à &lt;strong&gt;tela de pontuação&lt;/strong&gt;; Botão de valor ausente - aplica o&lt;/li&gt; &lt;li&gt;&lt;strong&gt;valor&lt;/strong&gt; de Ausente a uma instância de &lt;em&gt;característica&lt;/em&gt;. Isso pode ser usado se o valor real estiver ausente;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Botão Não aplicável&lt;/strong&gt; - aplica o valor de &lt;em&gt;Não aplicável&lt;/em&gt; a uma instância de característica. &lt;/li&gt;&lt;strong&gt;Isso pode ser usado quando a característica não precisa ser pontuada para o %1$s ou %2$s selecionado; Botão Aceitar valor - &lt;li&gt;&lt;strong&gt;Aceita e aplica um valor que foi inserido, como confirmar uma característica decimal; Botão&lt;/strong&gt; de data - Abre um &lt;em&gt;seletor&lt;/em&gt; de data para que uma data possa ser escolhida (disponível somente para características de dias decorridos);&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Botão Voltar&lt;/strong&gt; &lt;li&gt;&lt;strong&gt;- Navega até a instância anterior da característica (disponível somente para características de dias decorridos) no&lt;/strong&gt;&lt;/li&gt; Modo de Avanço Automático);&lt;/li&gt; e&lt;/strong&gt; &lt;li&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Botão Avançar - Navega até a próxima instância de característica ignorando a característica atual (disponível somente no Modo de Avanço Automático).&lt;/strong&gt; &lt;p&gt;&lt;a name= %1$s %2$s &gt;&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;%1$s/%2$s Junto com as características listadas, cada %1$s&lt;/h5&gt; &lt;p&gt;&lt;strong&gt;e %2$s terão um botão %1$s/%2$s.&lt;/strong&gt; &lt;/p&gt;&lt;li&gt;&lt;strong&gt;As seguintes opções estão disponíveis para um &lt;strong&gt;botão %1$s: Adicionar %2$s&lt;/strong&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;- Adiciona um único %2$s&lt;/strong&gt; ao %1$s (%2$s pode ser adicionado em massa na &lt;strong&gt;tela de testes&lt;/strong&gt;); &lt;strong&gt;Editar nota&lt;/strong&gt; - Abre uma janela na qual notas sobre o %1$s podem ser escritas;&lt;/li&gt; &lt;li&gt;e Desativar %1$s - Desativa o %1$s X]&lt;/li&gt;&lt;/ul&gt; para pontuar.&lt;/strong&gt;&lt;/li&gt; &lt;p&gt;O &lt;strong&gt;botão %2$s&lt;/strong&gt; contém as seguintes opções:&lt;/p&gt; &lt;ul&gt;&lt;li&gt;&lt;strong&gt;Editar nota&lt;/strong&gt; - Abre uma janela onde as notas no %1$s podem ser escritas; e Desativar %2$s&lt;/li&gt; &lt;li&gt;&lt;strong&gt;- Desativa o [X4108X&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;] para pontuação. &lt;p&gt;As tags que foram atribuídas a cada %1$s ou %2$s estarão visíveis sob o número %1$s ou %2$s como um botão que, quando pressionado, abrirá uma janela que exibe informações sobre a etiqueta. &lt;strong&gt;Mais tags podem ser atribuídas a %1$s e %2$s selecionando o respectivo botão de tag.&lt;/strong&gt; Isso abrirá a &lt;strong&gt;janela de tags&lt;/strong&gt;, onde todas as tags disponíveis podem ser aplicadas marcando a caixa de seleção e, em seguida, o &lt;strong&gt;botão Confirmar&lt;/strong&gt;. Selecione o &lt;strong&gt;botão Adicionar&lt;/strong&gt; para abrir uma janela na qual uma nova tag pode ser criada.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;strong&gt;Anexos para cada %1$s e %2$s também podem ser adicionados selecionando o botão Anexos para abrir a tela de anexos.&lt;/strong&gt;&lt;/strong&gt; Os anexos de áudio e imagem podem ser obtidos, visualizados e excluídos, se&lt;/p&gt; necessário. &lt;p&gt;&lt;a name=Navigation&gt;&lt;/a&gt;&lt;/p&gt;&lt;h5&gt;Navegação&lt;/h5&gt; &lt;p&gt;Depois que todas as características em um %1$s tiverem sido pontuadas, você precisará navegar até a próxima [&lt;/p&gt;X5105X]. A &lt;p&gt;navegação no &lt;strong&gt;modo Path Scoring&lt;/strong&gt; pode ser feita de quatro maneiras diferentes:&lt;/p&gt; &lt;p&gt;1. Selecione um &lt;strong&gt;botão %1$s&lt;/strong&gt; para abrir a &lt;strong&gt;janela Selecionar %1$s na qual o número %1$s&lt;/strong&gt; ou os números %3$s/%4$s podem ser inseridos para navegar até esse %1$s; 2. &lt;br /&gt; Selecione os &lt;strong&gt;botões Avançar/Recuar&lt;/strong&gt; para passar para o próximo %1$s ou para o anterior. Isso será determinado pela ordem de cobrança; &lt;br /&gt; 3. Abra o &lt;strong&gt;Field View&lt;/strong&gt; com o &lt;strong&gt;botão Field View&lt;/strong&gt; e selecione um %1$s e, em seguida, selecione o &lt;strong&gt;botão Ir para ir até&lt;/strong&gt; esse %1$s; e 4. &lt;br /&gt; O recurso &lt;strong&gt;Auto-Advance&lt;/strong&gt; permite a navegação automática até o próximo %1$s. Consulte a &lt;strong&gt;Ajuda do Auto-Advance&lt;/strong&gt; para obter mais informações sobre como usar esse recurso&lt;/p&gt;. &lt;p&gt;&lt;a name=Menu&gt;&lt;/a&gt;&lt;/p&gt;&lt;h5&gt;Menu&lt;/h5&gt; &lt;strong&gt;&lt;p&gt;As seguintes opções de menu estão disponíveis para configurar a pontuação no &lt;strong&gt;Modo de Pontuação de Caminho&lt;/strong&gt;:&lt;/p&gt; &lt;li&gt;&lt;strong&gt;Avanço Automático&lt;/strong&gt; - Abre a &lt;strong&gt;Janela de Avanço Automático que exibe as opções de avanço automático&lt;/strong&gt;;&lt;/li&gt; Visualização de &lt;strong&gt;Campo - Abre o teste na Visualização&lt;/strong&gt; de Campo.&lt;/strong&gt; &lt;ul&gt;&lt;li&gt; &lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;strong&gt;Mais informações sobre o &lt;strong&gt;Field View&lt;/strong&gt; podem ser encontradas na &lt;strong&gt;Ajuda do Field View&lt;/strong&gt;; &lt;li&gt;&lt;strong&gt;Digitalizar código de barras - Abre o scanner de código&lt;/strong&gt; &lt;strong&gt;de barras para que os códigos de barras&lt;/strong&gt; característicos ou %1$s possam ser digitalizados; Trocar de lado - Altera a orientação do retrato do KDSmart entre o modo direito e o modo esquerdo;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Scanner&lt;/strong&gt; &lt;strong&gt;ativado - Abre a janela de dispositivos emparelhados&lt;/strong&gt;&lt;strong&gt;; Configure&lt;/strong&gt;&lt;/li&gt;...&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/li&gt;&lt;li&gt;- Exibe opções de configuração: &lt;ul&gt;&lt;li&gt;Tamanho do texto do teclado numérico - Opções para o tamanho do texto do teclado na &lt;strong&gt;tela de pontuação&lt;/strong&gt;;&lt;/li&gt; &lt;li&gt;Configurar %1$s Informações - %1$s opções de exibição e tamanho do texto das informações; e&lt;/li&gt;&lt;/ul&gt; Como visualizar anexos - Escolha um aplicativo para visualizar os anexos.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Alterar orientação da tela&lt;/strong&gt; - Altera o KDSmart entre a &lt;strong&gt;orientação &lt;strong&gt;paisagem&lt;/strong&gt; e retrato&lt;/strong&gt;;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;bloqueiar/desbloquear características pontuadas&lt;/strong&gt; - As características pontuadas que estão bloqueadas exigirão uma confirmação para alterar o valor;&lt;/li&gt; Dias &lt;li&gt;&lt;strong&gt;decorridos como contagem - Altere a exibição dos dias&lt;/strong&gt; decorridos de uma data para o número de dias desde a data de plantio experimental; Ofereça N dias para a data&lt;/li&gt; &lt;li&gt;&lt;strong&gt;- Quando marcada, as características da data&lt;/strong&gt; serão pontuadas escolhendo um dia isso é até três dias antes da data de plantio. Se não estiver marcada, as características de data são pontuadas com um&lt;/li&gt; &lt;em&gt;Seletor de Data&lt;/em&gt;; &lt;li&gt;&lt;strong&gt;Localização..&lt;/strong&gt; - Fornece opções para registrar locais: &lt;ul&gt;&lt;li&gt;GPS - para maior precisão;&lt;/li&gt; &lt;li&gt;Rede - menor precisão; e&lt;/li&gt; &lt;li&gt;Não use a localização.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Ajuda&lt;/strong&gt; - Abre esta página de ajuda.&lt;/li&gt;&lt;/ul&gt;</string>
     <string name="title_quick_tags_label">Rótulo</string>
     <string name="title_add_trait">Criar característica</string>
@@ -728,7 +728,7 @@
     <string name="msg_eg_trait">por exemplo, traço</string>
     <string name="ctx_help_kddart_login_title">Ajuda para o login do KDDart</string>
     <string name="msg_attempting_to_delete_items_form_kdsmart">Tentando excluir itens do KDSmart</string>
-    <string name="msg_info_searchname_nplots">{0}: {1, número, inteiro}</string>
+    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
     <string name="msg_probability_percent_scored_samples">Probabilidade (%) da amostra ser pontuada para o ensaio</string>
     <string name="ctx_help_add_trial">&lt;p&gt; O &amp;nbsp; &lt;strong&gt; Adicionar tela de teste &lt;/strong&gt; &amp;nbsp; permite que os usuários criem um novo teste dentro do KDSmart. As seguintes opções estão disponíveis para criar um teste: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Nome do teste &lt;/strong&gt; &amp;nbsp; - O nome do novo teste. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Tipo de teste &lt;/strong&gt; &amp;nbsp; - Escolha entre um teste &amp;nbsp; &lt;em&gt; %1$s X/Y &lt;/em&gt; &amp;nbsp; em que cada %1$s tem coordenadas x/y exclusivas, ou um &amp;nbsp; &lt;em&gt; %1$s Teste de ID &lt;/em&gt; &amp;nbsp; em que cada %1$s tem um ID %1$s exclusivo. A opção escolhida aqui determinará algumas das próximas opções. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Número de %3$s &lt;/strong&gt; &amp;nbsp; (%1$s X/Y ensaios) - O número de %1$s %3$s que serão criados para o cliente. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Número de %4$s &lt;/strong&gt; &amp;nbsp; (%1$s X/Y) - O número de %4$s %3$s que serão criados para o cliente. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Primeiro ID %1$s &lt;/strong&gt; &amp;nbsp; (testes de ID %1$s) - O ID do %1$s que deve ser o primeiro %1$s no teste. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Duração da corrida &lt;/strong&gt; &amp;nbsp; (ensaios de ID %1$s) - Indica o número de %1$s em um teste que ocorreu antes da mudança de travessia. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Número de %2$s por %1$s &lt;/strong&gt; &amp;nbsp; - Cria %2$s para cada %1$s no teste. &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Trait Instance Style &lt;/strong&gt; &amp;nbsp; - Escolha a característica &amp;nbsp; &lt;em&gt;: 123 &lt;/em&gt; &amp;nbsp; ou &amp;nbsp; &lt;em&gt; :_123 &lt;/em&gt; [X8012X] X] estilo de nomenclatura para instâncias de características. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Depois de escolher todas as opções, selecione &amp;nbsp; &lt;strong&gt; ✓ &lt;/strong&gt; &amp;nbsp; para criar o teste ou o &amp;nbsp; &lt;strong&gt; ✘ &lt;/strong&gt; &amp;nbsp; para cancelar a criação do teste. &lt;/p&gt;</string>
     <string name="warning_migration_text">Aviso: Iniciando o KDSmart v3.3.0 Não exclua o KDSmart do seu dispositivo ou você perderá seus dados!</string>
@@ -751,7 +751,7 @@
     <string name="msg_kdxchange_is_still_active">O KDXchange ainda está ativo</string>
     <string name="errmsg_unsupported_valrule">Regra de validação não suportada:</string>
     <string name="msg_no_details_available">-sem detalhes disponíveis-</string>
-    <string name="msg_html_trait_name_style_2underscores_digits">&lt;font color=0x00ddff&gt;Traço __123&lt;/font&gt;</string>
+    <string name="msg_html_trait_name_style_2underscores_digits">Traço&lt;font color=0x00ddff&gt;__123&lt;/font&gt;</string>
     <string name="title_menu_trait_instance_chooser_add_trait">Adicionar características</string>
     <string name="pref_desc_organism_type">Selecione um tipo de organismo</string>
     <string name="msg_notification_channel_error_name">Erros do banco de</string>
@@ -842,8 +842,8 @@
     <string name="prompt_create_trait_bundle">Criar pacote de características</string>
     <string name="msg_hint_trait_alias">-Nenhum alias definido-</string>
     <plurals name="title_delete_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string /title_activity_delete_traits</item>
     </plurals>
     <string name="msg_in_position">"
@@ -1001,13 +1001,13 @@
     <string name="import_database_button_text"><b> 5. </b> Selecione a guia Banco de dados <b> </b> e, em seguida, o botão <b> Importar seu banco de dados </b>.</string>
     <string name="msg_lockdown_mode_is_turned_onoff_by_touching_the_lock_icon">O modo de bloqueio é ativado/desativado ao tocar no ícone de cadeado.</string>
     <string name="ctx_help_manage_traits">&lt;p&gt; A tela de teste &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &amp;nbsp; exibe todos os testes que estão atualmente carregados no KDSmart. &lt;/p&gt; &lt;p&gt; Para exibir os detalhes de uma característica, escolha a característica pressionando rapidamente. Isso o levará para a tela de detalhes das características &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;. &lt;/p&gt; &lt;p&gt; Se uma característica estiver destacada, você poderá realizar as seguintes ações nela junto com ações gerais no menu &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Editar característica &lt;/strong&gt; &amp;nbsp; - Abre essa característica &amp;nbsp; &lt;strong&gt; Tela de edição de característica &lt;/strong&gt; &amp;nbsp; para qualquer característica destacada; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Adicionar característica &lt;/strong&gt; &amp;nbsp; - Abre a tela de adição de características &amp;nbsp; &lt;strong&gt; &lt;/strong&gt; &lt;/strong&gt; 19X] onde novas características podem ser criadas; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Importar de &lt;/strong&gt; &amp;nbsp; - Opções para importar características do dispositivo ou do KDXplore com KDXchange; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Compartilhar &lt;/strong&gt; &amp;nbsp; - Opções de compartilhamento para a característica destacada com a estrutura de acesso ao armazenamento do Android, incluindo e-mail, Bluetooth ou qualquer serviço de compartilhamento de arquivos instalado no dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Exportar para &lt;/strong&gt; &amp;nbsp; - Opções de exportação de qualquer característica destacada para exportar arquivos para o dispositivo; &lt;/li&gt;] &lt;li&gt; &lt;strong&gt; Excluir &lt;/strong&gt; &amp;nbsp; - Opções para excluir a característica destacada ou removê-la de um pacote de características; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Itálico para protegida &lt;/strong&gt; &amp;nbsp; - Marque a caixa de seleção para garantir que o texto das características protegidas esteja em itálico ; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Tamanho do texto do teclado numérico &lt;/strong&gt; &amp;nbsp; - Opções para o tamanho do texto do teclado na tela de pontuação &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; no [X23X]] &amp;nbsp; - Abre a janela de dispositivos emparelhados &amp;nbsp; &lt;strong&gt; &lt;/strong&gt;; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Atualizar lista &lt;/strong&gt; &amp;nbsp; - Atualiza a lista de características; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Bluetooth ligado/desligado X1700X] &amp;nbsp; - Liga ou desliga o Bluetooth do dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ordenar... &lt;/strong&gt; &amp;nbsp; - Opções para classificar características; e &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Ajuda &lt;/strong&gt; &amp;nbsp; - Abre esta página de ajuda. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt; Pressione e segure uma ou mais características para selecioná-las para ações futuras. Observe que mais de uma característica pode ser selecionada ao mesmo tempo. As ações extras que a seleção pode exibir são: &lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt; Marcar/Desmarcar tudo &lt;/strong&gt; &amp;nbsp; - Seleciona ou desmarca todas as características; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Compartilhar &lt;/strong&gt; &amp;nbsp;] - Opções de compartilhamento para a característica destacada com a estrutura de acesso ao armazenamento do Android, incluindo e-mail, Bluetooth ou qualquer serviço de compartilhamento de arquivos instalado no dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Exportar para &lt;/strong&gt; &amp;nbsp; - Opções de exportação de qualquer característica destacada para exportar arquivos para o dispositivo; &lt;/li&gt; &lt;li&gt; &lt;strong&gt;] Criar pacote de características &lt;/strong&gt; &amp;nbsp; - Abre o &amp;nbsp; [X 2559X] Adicione a tela do pacote de características &lt;/strong&gt; &amp;nbsp;, onde você pode criar novos pacotes de características e adicionar as características selecionadas às existentes; e &lt;/li&gt; &lt;li&gt; &lt;strong&gt; Excluir &lt;/strong&gt; &amp;nbsp; - Opções para excluir a característica destacada ou removê-la de um pacote de características. &lt;/li&gt; &lt;/ul&gt;</string>
-    <string name="pref_orgtype_key" translatable="false">tipo_pref_organism_type</string>
+    <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="msg_hdg_output_to_folder">Saída para a pasta:</string>
     <string name="msg_delete_problem">Excluir problema
 \n</string>
     <string name="errMsg_error_plot_not_found_to_add_specimen">Erro: Gráfico não encontrado para adicionar amostra</string>
     <string name="msg_cant_score_trait">Não consigo marcar uma característica</string>
-    <string name="msgfmt_created_random_data_n_samples">Dados aleatórios criados para amostras: {0, number, integer}</string>
+    <string name="msgfmt_created_random_data_n_samples">Dados aleatórios criados para amostras: {0,number, integer}</string>
     <string name="msg_waiting_for_location_fix_fmt_2">Aguardando a correção da localização</string>
     <string name="title_app_name">KDSmart</string>
     <string name="prompt_choose_export_option">Escolha a opção de exportação</string>
@@ -1049,7 +1049,7 @@
     <string name="msg_sorry_trait_barcodes_are_not_implemented_in_spread_sheet_scoring_yet">Desculpe, os códigos de barras Trait ainda não foram implementados no Spread Sheet Scoring</string>
     <string name="errmsg_traits_in_use_cant_be_removed">As características usadas pelos ensaios não podem ser removidas</string>
     <string name="title_activity_trial_scoring">Pontuação</string>
-    <string name="msg_do_you_want_to_unprotect_numberinteger_traits">Você quer desproteger as características {0, number, integer}?</string>
+    <string name="msg_do_you_want_to_unprotect_numberinteger_traits">Você quer desproteger as características {0,number, integer}?</string>
     <string name="prompt_edit_trait">Editar característica</string>
     <string name="prompt_menu_configure_ellipsis">Configurar…</string>
     <string name="pref_title_date_phone_picker_format">Seletor de data para telas pequenas</string>
@@ -1106,7 +1106,7 @@
     <string name="hdg_trial_name">Nome do teste</string>
     <string name="msg_btn_trials_as_zip">Testes como Zip</string>
     <string name="prompt_menu_refresh_list">Atualizar lista</string>
-    <string name="msgfmt_found_n_plots_since">Encontrado {0, número, inteiro} %1$s pontuado desde {1}</string>
+    <string name="msgfmt_found_n_plots_since">Encontrado {0,number,integer} %1$s pontuado desde {1}</string>
     <string name="msg_no_trial_name_found">Insira o nome do teste</string>
     <string name="title_activity_csv_export_tags">Exportar tag CSV</string>
     <string name="msg_expiry_date_set_to">Data de expiração definida como</string>
@@ -1149,8 +1149,8 @@
     <string name="hdg_column_number">Coluna #</string>
     <string name="title_activity_trial_details">Detalhes do teste</string>
     <plurals name="title_delete_tags">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string /ctx_title_delete_tags</item>
     </plurals>
     <string name="msg_unable_to_finding_tags">Não é possível encontrar tags</string>
@@ -1387,7 +1387,7 @@
     <string name="msg_import_your_old_database">Importe seu banco de dados</string>
     <string name="msg_trait_value_NA">NA</string>
     <string name="title_activity_delete_trial">Excluir teste</string>
-    <string name="msg_info_selected_nplots">Selecionado: {0, número, inteiro}</string>
+    <string name="msg_info_selected_nplots">Selecionado: {0,number,integer}</string>
     <string name="msg_plot_ident_option_plot_id_then_yx">%1$s ID/Y/X</string>
     <string name="hdg_trait_name_style">Estilo do nome da característica</string>
     <string name="msg_no_file_fmt_2">!! NENHUM ARQUIVO</string>
@@ -1442,8 +1442,8 @@
     <string name="msg_help_tabtitle_about">Sobre</string>
     <string name="msg_hint_enter_unit_name">Insira o nome da unidade</string>
     <plurals name="title_delete_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">\@string /title_activity_delete_trials</item>
     </plurals>
     <string name="msg_no_traits_available_trial_title">Nenhuma característica no julgamento</string>
@@ -1458,13 +1458,13 @@
     <string name="msg_checking">Verificando</string>
     <string name="msg_cancel">Cancelar</string>
     <plurals name="msg_delete_n_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d ensaios selecionados para exclusão</item>
     </plurals>
     <string name="msg_save">Salvar</string>
     <string name="msg_organism_type_wheat">Trigo</string>
-    <string name="pref_orgtype_default_value" translatable="false">GENÉRICO</string>
+    <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
     <string name="msg_trial_layout_origin_bottom_right">No canto inferior direito</string>
     <string name="title_import_as_plot_comments">%1$s Etiquetas</string>
     <string name="msg_other">Outros</string>
@@ -1532,7 +1532,7 @@
     <string name="msg_snapshot_added">Instantâneo adicionado</string>
     <string name="prompt_origin_block_id">ID do bloco de origem:</string>
     <string name="msg_might_take_few_minutes">Isso pode levar alguns minutos</string>
-    <string name="pref_gradient_default_value" translatable="false">CALOR_5</string>
+    <string name="pref_gradient_default_value" translatable="false">HEAT_5</string>
     <string name="title_suffix_descending">Descendente</string>
     <string name="ctx_title_trait_add">Adicionando características</string>
     <string name="errMsg_database_error">Erro no banco de dados</string>
@@ -1614,14 +1614,14 @@
     <string name="hdg_trial_plot_column_row_names">%1$s e nomes dos eixos X/Y</string>
     <string name="title_sort_abbrev_descending">Abreviatura descendente</string>
     <plurals name="msg_import_trial_added_n_new_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">Novas características adicionadas %d</item>
     </plurals>
     <string name="title_please_confirm_tag_export">Confirme a exportação da tag</string>
     <plurals name="msg_export_n_traits">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d características selecionadas para exportação</item>
     </plurals>
     <string name="msg_at_least_sdk_21_is_needed">Disponível apenas no Lollipop (SDK-21) e superior</string>
@@ -1648,8 +1648,8 @@
     <string name="title_choose_keyboard_text_size">Tamanho do texto do teclado numérico</string>
     <string name="hdg_plot_ident_option">%1$s Identificação</string>
     <plurals name="msg_export_n_trials">
-        <item quantity="one"></item>
-        <item quantity="many"></item>
+        <item quantity="one"/>
+        <item quantity="many"/>
         <item quantity="other">%d ensaios selecionados para exportação</item>
     </plurals>
     <string name="msg_no_plot_types">Nenhum tipo %1$s</string>
@@ -1658,7 +1658,7 @@
     <string name="prompt_menu_data_add_tags">Adicionar tags</string>
     <string name="msg_cant_be_imported">não pode ser importado</string>
     <string name="title_trait_description"><b> Descrição: </b></string>
-    <string name="msgfmt_tags_selected_for_delete">Tags selecionadas para excluir: {0, number, integer}</string>
+    <string name="msgfmt_tags_selected_for_delete">Tags selecionadas para excluir: {0,number, integer}</string>
     <string name="msg_min">Min</string>
     <string name="msg_progress_constructing_trials">Construindo ensaios…</string>
     <string name="title_choose_trait_instance_style">Estilo de instância de traço</string>
