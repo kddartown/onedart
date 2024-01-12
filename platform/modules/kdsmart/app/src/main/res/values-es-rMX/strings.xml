@@ -184,7 +184,7 @@
     <string name="pref_title_left_handed_layout">Puntuación de los zurdos</string>
     <string name="pref_description_left_handed_layout">Inicio en modo zurdo al puntuar rasgos</string>
     <string name="pref_locale_key">pref_application_locale</string>
-    <string name="pref_locale_default_value" translatable="false">SISTEMA</string>
+    <string name="pref_locale_default_value" translatable="false">SYSTEM</string>
     <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
     <string name="pref_kddart_url_key" translatable="false">pref_kddart_url</string>
     <string name="pref_selected_kddart_url_key" translatable="false">pref_selected_kddart_url</string>
@@ -313,32 +313,32 @@
     <string name="prompt_autoscoring_options_selected_traits">Rasgos seleccionados</string>
     <plurals name="msg_n_tags_imported">
         <item quantity="one">Una etiqueta importada</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d etiquetas importadas</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
         <item quantity="one">Un rasgo importado</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d rasgos importados</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
         <item quantity="one">Un rasgo actualizado</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d Rasgos actualizados</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
         <item quantity="one">%d Rasgo Instancia Activa</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d Casos individuales de rasgos activos</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
         <item quantity="one">%d ensayo seleccionado para su eliminación</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d ensayos seleccionados para su eliminación</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
         <item quantity="one">%d Rasgo que se eliminará</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d Rasgos suprimidos</item>
     </plurals>
     <string name="title_export_all_traits">Exportar todos los Rasgos</string>
@@ -346,18 +346,18 @@
     <string name="title_please_confirm_trait_export">Confirme la exportación de rasgos</string>
     <plurals name="msg_export_n_traits">
         <item quantity="one">%d rasgos seleccionados para la exportación</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d Rasgos seleccionados para la exportación</item>
     </plurals>
     <plurals name="msg_export_n_trials">
         <item quantity="one">%d ensayos seleccionados para la exportación</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d ensayos seleccionados para la exportación</item>
     </plurals>
     <string name="title_export_all_tags">Exportar todas las etiquetas</string>
     <plurals name="msg_export_n_tags">
         <item quantity="one">%d etiqueta Seleccionada para la exportación</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%d etiquetas Seleccionadas para la exportación</item>
     </plurals>
     <string name="title_activity_scoring_setup">Configure</string>
@@ -515,22 +515,22 @@
     <string name="msg_import_trial_sample_counts_colon">Recuentos de mediciones de muestras:</string>
     <plurals name="msg_imported_n_plots">
         <item quantity="one">%2$d %1$s importado</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s importado</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
         <item quantity="one">%2$d %1$s Medición de muestras</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%2$d %1$s Mediciones de muestras</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
         <item quantity="one">%1$d %2$s Medición</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%1$d %2$s Medidas</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
         <item quantity="one">Añadido %d Nuevos Rasgos</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">Añadido %d Nuevos Rasgos</item>
     </plurals>
     <string name="title_activity_export_trial">Ensayos de exportación</string>
@@ -558,11 +558,11 @@
     <string name="pref_title_date_phone_picker_format">Selector de fecha para pantallas pequeñas</string>
     <string name="pref_title_gradient_choice">Gradiente predeterminado del mapa de calor</string>
     <string name="pref_desc_gradient_choice">Seleccionar gradiente del mapa de calor</string>
-    <string name="pref_gradient_drawablesName" translatable="false">degradado_pref_drawables</string>
-    <string name="pref_gradient_default_value" translatable="false">CALOR_5</string>
+    <string name="pref_gradient_drawablesName" translatable="false">gradient_pref_drawables</string>
+    <string name="pref_gradient_default_value" translatable="false">HEAT_5</string>
     <string name="pref_gradient_key" translatable="false">pref_heatmap_gradient</string>
-    <string name="pref_orgtype_default_value" translatable="false">GENÉRICO</string>
-    <string name="pref_orgtype_key" translatable="false">pref_tipo_organismo</string>
+    <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
+    <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
     <string name="pref_title_organism_type">Tipo de organismo</string>
     <string name="pref_desc_organism_type">Seleccione un tipo de organismo</string>
@@ -749,7 +749,7 @@
     <string name="hdg_plotview_inactive_traits">Rasgos inactivos</string>
     <string name="title_select_heatmap_opacity">Seleccionar la opacidad del mapa de calor</string>
     <string name="title_select_heatmap_gradient">Seleccionar gradiente del mapa de calor</string>
-    <string name="msg_info_searchname_nplots">{0}: {1,número,entero}</string>
+    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Seleccionado: {0,número,entero}</string>
     <string name="prompt_menu_configure_ellipsis">Configurar …</string>
     <string name="msgfmt_warning_landscape_small">El modo horizontal en pantallas pequeñas siempre utilizará al menos {0}.</string>
@@ -789,7 +789,7 @@
     <string name="errmsg_unsupported_valrule">Regla de validación no admitida:</string>
     <string name="hdg_attachments">Archivos adjuntos</string>
     <string name="msg_no_traits_scored">Rasgos no puntuados</string>
-    <string name="msgfmt_traits_scored_m_of_n">Rasgos puntuados: {0,número,entero} de {1,número,entero}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Rasgos puntuados: {0,number,integer} de {1,number,integer}</string>
     <string name="hdg_attributes">Atributos</string>
     <string name="msg_found">"Encontrado "</string>
     <string name="msg_no_unscored_samples">No hay muestras sin puntuar para el rasgo</string>
@@ -801,7 +801,7 @@
     <string name="msg_page_trait">Rasgos</string>
     <string name="msg_page_plot_info">%1$s información</string>
     <string name="msg_no_plot_info">No %1$s info</string>
-    <string name="msgfmt_tags_selected_for_delete">Etiquetas seleccionadas para eliminar: {0,número,entero}</string>
+    <string name="msgfmt_tags_selected_for_delete">Etiquetas seleccionadas para eliminar: {0,number,integer}</string>
     <string name="msg_min_must_be_lt_max">Mín debe ser menor que Máx</string>
     <string name="msgfmt_invalid_min_value">Min inválido: {0,number,integer}</string>
     <string name="msgfmt_invalid_max_value">Máximo inválido: {0,number,integer}</string>
@@ -906,7 +906,7 @@
     <string name="ctx_help_manage_database">&lt;p&gt;La pestaña&amp;nbsp;&lt;strong&gt;Database&lt;/strong&gt;&amp;nbsp;ofrece opciones para realizar copias de seguridad de ensayos y de la base de datos KDSmart. Las opciones disponibles se enumeran a continuación:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Botón Output to Folder&lt;/strong&gt;&amp;nbsp;- Seleccione este botón para abrir el dispositivo Storage Access Framework (SAF) donde se puede elegir una ubicación de carpeta para los archivos guardados;&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Botón Save&lt;/strong&gt;: &lt;ul&gt; &lt;li&gt;Ensayos como Zip - mejor para guardar archivos como CSVs;&lt;/li&gt; &lt;li&gt;Ensayos como KDX - mejor para usar con KDXplore; y&lt;/li&gt; &lt;li&gt;Archivos de Base de Datos - para hacer copias de seguridad de todos los datos.&lt;/li&gt; &lt;/ul&gt; &lt;/li&gt; &lt;li&gt;&lt;strong&gt;Botón de comprobación de integridad de la base de datos&lt;/strong&gt;&amp;nbsp;- Inicia una comprobación de integridad de la base de datos local; y&lt;/li&gt; &lt;li&gt;&lt;strong&gt; Botón de actualización de ensayos de bloques&lt;/strong&gt;&amp;nbsp;- Resuelve problemas conocidos con ensayos de bloques.&lt;/li&gt; &lt;/ul&gt;</string>
     <string name="hdg_choose_scoring_view_style">Modo de puntuación</string>
     <string name="pref_key_scoringView" translatable="false">pref_scoring_view</string>
-    <string name="pref_default_value_scoringView" translatable="false">VISTA_PISTA</string>
+    <string name="pref_default_value_scoringView" translatable="false">PATH_VIEW</string>
     <string name="pref_drawablesName_scoringView" translatable="false">scoringView_pref_drawables</string>
     <string name="msg_no_plot_there">No %1$s allí</string>
     <string name="msg_unable_to_find_xy_for_plot">No se puede encontrar X,Y para %1$s</string>
@@ -1211,27 +1211,27 @@
     <string name="title_fetching_trials">Obtención de ensayos de KDDart</string>
     <plurals name="title_sub_plots">
         <item quantity="one">%2$s</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_plots">
         <item quantity="one">%1$s</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">%1$s</item>
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string/title_activity_delete_trial</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">\@string/title_activity_delete_trials</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string/ctx_title_delete_tag</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">\@string/ctx_title_delete_tags</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string/title_activity_delete_trait</item>
-        <item quantity="many"></item>
+        <item quantity="many"/>
         <item quantity="other">\@string/title_activity_delete_traits</item>
     </plurals>
     <string name="msg_checkbox_text">Texto de la casilla</string>
