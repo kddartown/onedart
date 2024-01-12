@@ -778,7 +778,7 @@
     <string name="msgfmt_invalid_max_value">Nieprawidłowa wartość maks: {0,number,integer}</string>
     <string name="title_trial_element_names">Nazwy elementów próby</string>
     <string name="msg_hint_for_example_Plot">np. %1$s</string>
-    <string name="msg_hint_for_example_Row">np. %1$s</string>
+    <string name="msg_hint_for_example_Row">np. %4$s</string>
     <string name="msg_hint_not_available">Niedostępne</string>
     <string name="title_choose_organism_type">Wybierz typ organizmu</string>
     <string name="title_edit_trial_note">Edycja notatki z próby</string>
@@ -996,7 +996,7 @@
     <string name="msg_bulk_score_traits">Szybkie punktowanie cech</string>
     <string name="title_plots_selected">%1$s Wybrane</string>
     <string name="msg_no_plot_instance_ids_selected">Brak instancji cech %1$s.</string>
-    <string name="msg_no_sub_plot_instance_ids_selected">Brak instancji cech %1$s.</string>
+    <string name="msg_no_sub_plot_instance_ids_selected">Brak instancji cech %2$s.</string>
     <string name="prompt_overwrite_samples">Nadpisywanie wartości cech</string>
     <string name="msg_samples_exists"># Punktacja</string>
     <string name="msg_bulk_score_trait">Punktacja od razu</string>
@@ -1584,7 +1584,7 @@
     <string name="msg_adding_a_new_trait_instance">Dodawanie nowych instancji cech</string>
     <string name="msg_btn_text_add_tag">Dodaj</string>
     <string name="title_import_as_sub_plot_database_id">%2$s Identyfikator bazy danych</string>
-    <string name="title_import_as_trait_for_specimen">Cechy dla %1$s</string>
+    <string name="title_import_as_trait_for_specimen">Cechy dla %2$s</string>
     <string name="msg_could_not_add_traits">Nie można dodać cech</string>
     <string name="errMsg_adapter_error">Błąd adaptera</string>
     <string name="errMsg_couldnt_update_adapter">Nie można zaktualizować adaptera</string>
@@ -1673,14 +1673,14 @@
     <string name="msg_cant_export_this_file">Nie można wyeksportować tego pliku</string>
     <string name="title_lockdown">Blokada</string>
     <string name="msg_hint_for_example_Column">np. %3$s</string>
-    <string name="msg_missing_specimen_for_barcode">%1$s nie znaleziono kodu kreskowego</string>
-    <string name="title_subplot_selected">%1$s Wybrane</string>
+    <string name="msg_missing_specimen_for_barcode">%2$s nie znaleziono kodu kreskowego</string>
+    <string name="title_subplot_selected">%2$s Wybrane</string>
     <string name="ctx_bulk_subplot_scoring">Punktacja zbiorcza %1$s</string>
     <plurals name="title_plots">
-        <item quantity="one">%2$s</item>
-        <item quantity="few"/>
-        <item quantity="many">%2$s</item>
-        <item quantity="other">%2$s</item>
+        <item quantity="one">%1$s</item>
+        <item quantity="few"></item>
+        <item quantity="many">%1$s</item>
+        <item quantity="other">%1$s</item>
     </plurals>
     <string name="hdg_trial_acronym">Skrót</string>
     <string name="ctx_help_delete_tags">&lt;p&gt;Tagi wybrane do usunięcia zostaną wyświetlone na liście wraz z tagami, których nie można usunąć, ponieważ są używane w bieżącej próbie.&lt;/p&gt; &lt;p&gt;Wybierz&amp;nbsp;&lt;strong&gt;✓&lt;/strong&gt;&amp;nbsp;, aby usunąć wszystkie wymienione tagi, które nie są używane w próbie.&lt;/p&gt; &lt;p&gt;Wybierz&amp;nbsp;&lt;strong&gt;✘&lt;/strong&gt;&amp;nbsp;, aby anulować usuwanie tagów.&lt;/p&gt;</string>
