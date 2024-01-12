@@ -751,7 +751,7 @@
     <string name="msg_kdxchange_is_still_active">O KDXchange ainda está ativo</string>
     <string name="errmsg_unsupported_valrule">Regra de validação não suportada:</string>
     <string name="msg_no_details_available">-sem detalhes disponíveis-</string>
-    <string name="msg_html_trait_name_style_2underscores_digits">Traço&lt;font color=0x00ddff&gt;__123&lt;/font&gt;</string>
+    <string name="msg_html_trait_name_style_2underscores_digits">&lt;font color=0x00ddff&gt;Traço __123&lt;/font&gt;</string>
     <string name="title_menu_trait_instance_chooser_add_trait">Adicionar características</string>
     <string name="pref_desc_organism_type">Selecione um tipo de organismo</string>
     <string name="msg_notification_channel_error_name">Erros do banco de</string>
