@@ -185,7 +185,7 @@
     <string name="pref_collOrder_title">Standard-Inkassoauftrag</string>
     <string name="pref_collOrder_description">Standardeinzugsauftrag</string>
     <string name="pref_collOrder_key" translatable="false">pref_list_visit_order</string>
-    <string name="pref_collOrder_default_value" translatable="false">LL_RECHTS_SERPENTINE</string>
+    <string name="pref_collOrder_default_value" translatable="false">LL_RIGHT_SERPENTINE</string>
     <string name="pref_collOrder_drawablesName" translatable="false">collOrder_pref_drawables</string>
     <string name="pref_title_plots_per_group">Standard Parzellen pro Gruppe</string>
     <string name="pref_title_transition_type">Nächste Merkmale Übergang</string>
@@ -479,7 +479,7 @@
     <string name="pref_gradient_drawablesName" translatable="false">gradient_pref_drawables</string>
     <string name="pref_gradient_default_value" translatable="false">HEAT_5</string>
     <string name="pref_gradient_key" translatable="false">pref_heatmap_gradient</string>
-    <string name="pref_orgtype_default_value" translatable="false">GENERISCH</string>
+    <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
     <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
     <string name="pref_title_organism_type">Organismus Typ</string>
@@ -678,7 +678,7 @@
     <string name="hdg_plotview_inactive_traits">Inaktive Merkmale</string>
     <string name="title_select_heatmap_opacity">Deckkraft der Heatmap auswählen</string>
     <string name="title_select_heatmap_gradient">Gradient der Wärmekarte auswählen</string>
-    <string name="msg_info_searchname_nplots">{0}: {1,Zahl,Ganzzahl}</string>
+    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Ausgewählt: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Konfigurieren Sie …</string>
     <string name="msgfmt_warning_landscape_small">Der Querformatmodus auf kleinen Bildschirmen verwendet immer mindestens {0}</string>
@@ -718,7 +718,7 @@
     <string name="errmsg_unsupported_valrule">Nicht unterstützte Validierungsregel:</string>
     <string name="hdg_attachments">Anhänge</string>
     <string name="msg_no_traits_scored">Keine Merkmale bewertet</string>
-    <string name="msgfmt_traits_scored_m_of_n">Ausgewertete Merkmale: {0,Zahl,Ganzzahl} von {1,Zahl,Ganzzahl}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Ausgewertete Merkmale: {0,number,integer} von {1,number,integer}</string>
     <string name="hdg_attributes">Attribute</string>
     <string name="msg_found">"Gefunden "</string>
     <string name="msg_no_unscored_samples">Keine unbewerteten Stichproben für das Merkmal</string>
@@ -730,10 +730,10 @@
     <string name="msg_page_trait">Merkmale</string>
     <string name="msg_page_plot_info">%1$s Infos</string>
     <string name="msg_no_plot_info">Keine %1$s info</string>
-    <string name="msgfmt_tags_selected_for_delete">Zum Löschen ausgewählte Tags: {0,Zahl,Ganzzahl}</string>
+    <string name="msgfmt_tags_selected_for_delete">Zum Löschen ausgewählte Tags: {0,number,integer}</string>
     <string name="msg_min_must_be_lt_max">Min muss kleiner als Max sein</string>
-    <string name="msgfmt_invalid_min_value">Ungültiges Minimum: {0,Zahl,Ganzzahl}</string>
-    <string name="msgfmt_invalid_max_value">Ungültige max: {0,Zahl,Ganzzahl}</string>
+    <string name="msgfmt_invalid_min_value">Ungültiges Minimum: {0,number,integer}</string>
+    <string name="msgfmt_invalid_max_value">Ungültige max: {0,number,integer}</string>
     <string name="title_trial_element_names">Versuche Elementnamen</string>
     <string name="msg_hint_for_example_Plot">z.B.. %1$s</string>
     <string name="msg_hint_for_example_Column">z.B.. %1$s</string>
