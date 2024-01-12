@@ -404,7 +404,7 @@
     <string name="title_import_as_trial_acronym">Versuch Alias</string>
     <string name="title_import_as_trial_x_column_name">Versuch %3$s Name</string>
     <string name="title_import_as_trial_y_row_name">Versuch %3$s Name</string>
-    <string name="title_import_as_trial_cell_name">Versuch %3$s Name</string>
+    <string name="title_import_as_trial_cell_name">Versuch %1$s Name</string>
     <string name="title_import_as_trial_database_id">Versuch Datenbank-ID</string>
     <string name="title_import_as_trial_attribute">Versuch Attribut</string>
     <string name="title_import_as_plot_id">* %1$s ID</string>
