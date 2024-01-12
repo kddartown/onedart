@@ -1588,7 +1588,7 @@
 \n
 \nQuando o ícone \'bloqueado\' é exibido, você deve usar a senha"</string>
     <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">definido pelo KDXplore ou conecte-se ao KDXplore para permitir que ele desative o Lockdown.</string>
-    <string name="prompt_btn_revive_plot">Ativar %1$s</string>
+    <string name="prompt_btn_revive_plot">Ativar %2$s</string>
     <string name="msg_file_export_failed">Falha na exportação do arquivo</string>
     <string name="msg_add_specimen_to_plot">Adicionar amostra ao gráfico</string>
     <string name="msg_no_trial_id">Sem ID de teste</string>
