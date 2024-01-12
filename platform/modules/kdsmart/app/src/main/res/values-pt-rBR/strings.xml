@@ -358,7 +358,7 @@
     <string name="title_trial_plot_id">%1$s ID</string>
     <string name="msg_hdg_add_edit_tag_desciption">Descrição</string>
     <string name="title_trial_note">Nota de teste</string>
-    <string name="msg_html_trait_name_style_trailing_colon">Traço:&lt;font color=0x00ddff&gt;123&lt;/font&gt;</string>
+    <string name="msg_html_trait_name_style_trailing_colon">&lt;font color=0x00ddff&gt;Traço: 123&lt;/font&gt;</string>
     <string name="msg_couldnt_add_any_trait_to_trial">Não foi possível adicionar nenhuma característica do pacote de características selecionado. Todas as características já estão presentes no teste.</string>
     <string name="msg_must_be_selected">deve ser selecionado.</string>
     <string name="msg_no_trials_available">Não há testes disponíveis.
