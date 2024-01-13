@@ -2,7 +2,7 @@
 <resources>
     <string name="msg_answer_yes">sim</string>
     <string name="title_tab_kdsmart">KDSmart</string>
-    <string name="pref_locale_default_value" translatable="false">SISTEMA</string>
+    <string name="pref_locale_default_value" translatable="false">SYSTEM</string>
     <string name="msg_prefix_picture_for">Foto para</string>
     <string name="title_cbox_lock_scored_traits">Bloquear características pontuadas</string>
     <string name="title_cbox_white_background">Alta visibilidade externa</string>
@@ -187,7 +187,7 @@
     <string name="title_import_tags">Importar tags</string>
     <string name="title_export_to">Exportar para</string>
     <string name="title_export_csv">Dispositivo</string>
-    <string name="title_export_kdxplore">✓</string>
+    <string name="title_export_kdxplore">KDXplore</string>
     <string name="title_export_kddart">KDDart</string>
     <string name="title_file_chooser">Seletor de arquivos</string>
     <string name="title_import_from">Importar de</string>
@@ -278,7 +278,7 @@
     <string name="pref_kddart_url_key" translatable="false">pref_kddart_url</string>
     <string name="pref_collOrder_key" translatable="false">pref_list_visit_order</string>
     <string name="pref_collOrder_default_value" translatable="false">LL_RIGHT_SERPENTINE</string>
-    <string name="pref_collOrder_drawablesName" translatable="false">Colorder_pref_drawables</string>
+    <string name="pref_collOrder_drawablesName" translatable="false">collOrder_pref_drawables</string>
     <string name="msg_trait_value_message_value_already_set">Valor já definido</string>
     <string name="msg_trait_datatype_prefix">Tipo de dados</string>
     <string name="msg_trait_validation_prefix">Validação</string>
@@ -640,9 +640,9 @@
     <string name="msg_hint_enter_description">Insira a descrição</string>
     <string name="msg_hint_enter_unit_name">Insira o nome da unidade</string>
     <string name="msg_hint_trait_alias">-Nenhum alias definido-</string>
-    <string name="pref_gradient_default_value" translatable="false">CALOR_5</string>
-    <string name="pref_orgtype_default_value" translatable="false">GENÉRICO</string>
-    <string name="pref_orgtype_key" translatable="false">tipo_pref_organism_type</string>
+    <string name="pref_gradient_default_value" translatable="false">HEAT_5</string>
+    <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
+    <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
     <string name="msg_hint_enter_trait_alias">Insira o alias</string>
     <string name="prompt_kdxchange_started">Servidor KDXchange iniciado</string>
