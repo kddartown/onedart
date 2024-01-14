@@ -808,7 +808,7 @@
     <string name="title_active_trial">Projets actifs</string>
     <string name="msg_active_trial_choose_option">Que voulez-vous faire ?</string>
     <string name="prompt_option_active_trial_yes_start_scoring">Début de la notation</string>
-    <string name="msg_info_selected_nplots">Sélectionné : {0,number,integer}</string>
+    <string name="msg_info_selected_nplots">Selected: {0,number,integer}</string>
     <string name="prompt_option_active_trial_no_clear_active_trial">Essai de Clear Active</string>
     <string name="title_lockdown">Verrouillage</string>
     <string name="title_score_trial_preparing">Préparer …</string>
@@ -1751,8 +1751,8 @@
     <string name="pref_collOrder_key" translatable="false">pref_list_visit_order</string>
     <string name="pref_collOrder_drawablesName" translatable="false">collOrder_pref_drawables</string>
     <string name="pref_gradient_drawablesName" translatable="false">gradient_pref_drawables</string>
-    <string name="msgfmt_no_sample_for_instance_of_trait">Pas d\'échantillon pour l\'exemple {0,number,integer} de la caractéristique \'{1}\'.</string>
-    <string name="msgfmt_found_n_plots_since">Trouvé {0,number,integer} %1$s noté depuis {1}</string>
+    <string name="msgfmt_no_sample_for_instance_of_trait">No sample for instance {0,number,integer} of Trait \'{1}\'</string>
+    <string name="msgfmt_found_n_plots_since">Found {0,number,integer} %1$s scored since {1}</string>
     <string name="msg_format_n_trials_have_no_planting_date">Certains projets ({0,number,integer}) n\'ont pas de date de plantation.</string>
     <string name="msgfmt_invalid_min_value">Min invalide : {0,number,integer}</string>
     <string name="msgfmt_created_random_data_n_samples">Création de données aléatoires pour les échantillons : {0,number,integer}</string>
