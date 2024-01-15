@@ -665,7 +665,7 @@
     <string name="title_aadv_init_error">Błąd inicjalizacji automatycznego postępu</string>
     <string name="errmsg_no_plotvisitlist">No PlotVisitList</string>
     <string name="errmsg_no_current_plot">Brak aktualnej działki</string>
-    <string name="msgfmt_no_sample_for_instance_of_trait">Brak próbki dla instancji {0,number,integer} cechy \'{1}\'.</string>
+    <string name="msgfmt_no_sample_for_instance_of_trait">No sample for instance {0,number,integer} of Trait \'{1}\'</string>
     <string name="errmsg_unexpected_internal_state">Nieoczekiwany stan wewnętrzny</string>
     <string name="errmsg_missing_sampleBeingScored">brak sampleBeingScored</string>
     <string name="msg_no_more_unscored">Koniec z niezaliczonymi cechami z obecnej pozycji</string>
@@ -711,7 +711,7 @@
     <string name="prompt_action_show_when_trait_scored_summary">Pokazuje, kiedy dana cecha była ostatnio punktowana.</string>
     <string name="prompt_action_search_plots">Wyszukiwanie działek</string>
     <string name="title_choose_when">Minuty od momentu zdobycia punktu</string>
-    <string name="msgfmt_found_n_plots_since">Znaleziono {0,number,integer} %1$s punktację od {1}</string>
+    <string name="msgfmt_found_n_plots_since">Found {0,number,integer} %1$s scored since {1}</string>
     <string name="prompt_action_heatmap_settings">Ustawienia mapy cieplnej…</string>
     <string name="prompt_action_heatmap_opacity">Wybierz Krycie</string>
     <string name="prompt_action_heatmap_gradient">Wybierz Gradient</string>
@@ -723,7 +723,7 @@
     <string name="title_select_heatmap_opacity">Wybierz Krycie mapy ciepła</string>
     <string name="title_select_heatmap_gradient">Wybierz gradient mapy ciepła</string>
     <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
-    <string name="msg_info_selected_nplots">Wybrano: {0,number,integer}</string>
+    <string name="msg_info_selected_nplots">Selected: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Konfiguracja …</string>
     <string name="msgfmt_warning_landscape_small">Tryb krajobrazowy na małych ekranach zawsze będzie wykorzystywał co najmniej {0}.</string>
     <string name="prompt_menu_data_score_samples">Próbki punktacji</string>
@@ -1678,7 +1678,7 @@
     <string name="ctx_bulk_subplot_scoring">Punktacja zbiorcza %1$s</string>
     <plurals name="title_plots">
         <item quantity="one">%1$s</item>
-        <item quantity="few"></item>
+        <item quantity="few"/>
         <item quantity="many">%1$s</item>
         <item quantity="other">%1$s</item>
     </plurals>

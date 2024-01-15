@@ -691,7 +691,7 @@
     <string name="title_aadv_init_error">Error de inicialización del avance automático</string>
     <string name="errmsg_no_plotvisitlist">No PlotVisitList</string>
     <string name="errmsg_no_current_plot">Sin area actual</string>
-    <string name="msgfmt_no_sample_for_instance_of_trait">No hay muestra para el caso {0,number,integer} del Rasgo \'{1}\'.</string>
+    <string name="msgfmt_no_sample_for_instance_of_trait">No sample for instance {0,number,integer} of Trait \'{1}\'</string>
     <string name="errmsg_unexpected_internal_state">Estado interno inesperado</string>
     <string name="errmsg_missing_sampleBeingScored">missing sampleBeingScored</string>
     <string name="msg_no_more_unscored">No más rasgos no puntuados de tu posición actual.</string>
@@ -737,7 +737,7 @@
     <string name="prompt_action_show_when_trait_scored_summary">Muestra cuándo se puntuó el rasgo por última vez.</string>
     <string name="prompt_action_search_plots">Buscar areas</string>
     <string name="title_choose_when">Minutos desde que marcó</string>
-    <string name="msgfmt_found_n_plots_since">Encontrado {0,número,entero} %1$s puntuación desde {1}</string>
+    <string name="msgfmt_found_n_plots_since">Found {0,number,integer} %1$s scored since {1}</string>
     <string name="prompt_action_heatmap_settings">Ajustes del mapa de calor…</string>
     <string name="prompt_action_heatmap_opacity">Elija Opacidad</string>
     <string name="prompt_action_heatmap_gradient">Elija Gradiente</string>
@@ -750,7 +750,7 @@
     <string name="title_select_heatmap_opacity">Seleccionar la opacidad del mapa de calor</string>
     <string name="title_select_heatmap_gradient">Seleccionar gradiente del mapa de calor</string>
     <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
-    <string name="msg_info_selected_nplots">Seleccionado: {0,number,integer}</string>
+    <string name="msg_info_selected_nplots">Selected: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Configurar …</string>
     <string name="msgfmt_warning_landscape_small">El modo horizontal en pantallas pequeñas siempre utilizará al menos {0}.</string>
     <string name="prompt_menu_data_score_samples">Muestras de puntuación</string>
