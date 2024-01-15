@@ -69,7 +69,7 @@
     <string name="prompt_btn_add_new_comment">Adicionar nova etiqueta</string>
     <string name="prompt_btn_kill_specimen">Desativar %2$s</string>
     <string name="prompt_btn_revive_specimen">Ativar %2$s</string>
-    <string name="prompt_btn_revive_plot">Ativar %2$s</string>
+    <string name="prompt_btn_revive_plot">Ativar %1$s</string>
     <string name="prompt_btn_kill_plot">Desativar %1$s</string>
     <string name="msg_btn_use">Utilizar</string>
     <string name="msg_btn_use_folder">Usar Pasta Atual</string>
@@ -443,7 +443,7 @@
     <string name="title_import_as_plot_barcode">%1$s Código de barras</string>
     <string name="title_import_as_plot_block">*** %1$s Bloco</string>
     <string name="title_import_as_plot_database_id">%1$s ID do banco de dados</string>
-    <string name="title_import_as_sub_plot_database_id">%1$s ID do banco de dados</string>
+    <string name="title_import_as_sub_plot_database_id">%2$s ID do banco de dados</string>
     <string name="title_import_as_plot_comments">%1$s Etiquetas</string>
     <string name="title_import_as_specimen_comments">%2$s Etiquetas</string>
     <string name="title_import_as_plot_attribute">%1$s Atributo</string>
@@ -812,7 +812,7 @@
     <string name="msg_incorrect_passcode">Código de acesso incorreto.</string>
     <string name="title_enter_passcode_to_unlock">Digite a senha para desbloquear</string>
     <string name="msg_please_supply_a_planting_date">Por favor, forneça uma data de plantio antes da pontuação.</string>
-    <string name="msg_cannot_score_before_planting">Não é possível pontuar antes de plantar.</string>
+    <string name="msg_cannot_score_before_planting">Não é possível pontuar antes de plantar:</string>
     <string name="msg_no_scanners_defined">Nenhum scanner definido.</string>
     <string name="msg_no_scales_defined">Nenhuma escala definida.</string>
     <string name="msg_no_help_available_yet">Nenhuma ajuda disponível ainda.</string>
@@ -884,7 +884,7 @@
     <string name="msg_no_message">Sem Mensagem</string>
     <string name="msg_completed_database_upgrade">Atualização do Banco de Dados Concluída</string>
     <string name="msg_version">Versão :</string>
-    <string name="title_trait_instance">Instância de traço</string>
+    <string name="title_trait_instance">Instância de traço:</string>
     <string name="title_adding_traits_to_trial">Adicionando traços ao Projeto</string>
     <string name="msg_fix_trial">Verificação de Integridade do Banco de Dados</string>
     <string name="msg_check_database_integrity">Verificando o projeto para erros.
@@ -1513,7 +1513,7 @@
     <string name="msg_database_problem_fmt_3">Problema no banco de dados</string>
     <string name="msg_trial_names_not_available">Nomes de projetos não disponíveis.</string>
     <string name="msg_export_trial">Exportar Projeto</string>
-    <string name="msg_not_a_directory">Não é um diretório.</string>
+    <string name="msg_not_a_directory">Não é um diretório:</string>
     <string name="msg_cant_export_this_file">Não é possível exportar este arquivo.</string>
     <string name="msg_search_trials">Buscar Projetos</string>
     <string name="msg_export_to_kddart_fmt_6">Exportar para o KDDart</string>
@@ -1556,7 +1556,7 @@
     <string name="msg_export_is_in_progress_are_you_sure_you_want_to_exit">A exportação está em andamento.
 \nTem certeza de que deseja sair?</string>
     <string name="msg_export_trial_fmt_6">Exportar Projeto</string>
-    <string name="msg_not_a_directory_fmt_2">Não é um diretório.</string>
+    <string name="msg_not_a_directory_fmt_2">Não é um diretório:</string>
     <string name="errMsg_unexpected_error">Erro inesperado</string>
     <string name="msg_deactivated">Desativado</string>
     <string name="msg_all_checked">(todos marcados)</string>
@@ -1623,7 +1623,7 @@
 \nPara garantir que você esteja na versão mais recente, verifique se o número da versão na parte superior da tela inicial diz <b>3.3.0</b></string>
     <string name="ensure_correct_database"><b>3.</b> Abra o KDSmart e verifique se você está no banco de dados ativo correto. - Se você estiver importando um banco de dados de demonstração, isso será o padrão e você não precisará fazer nada. - Se você estiver importando um banco de dados de produção, vá para as <b>Configurações</b> e selecione a opção <b>Banco de Dados Ativo</b> para escolher o banco de dados de produção.</string>
     <string name="go_to_manage_devices"><b>4.</b> Em seguida, vá para a tela <b>Gerenciar Dispositivos</b>.</string>
-    <string name="import_database_button_text">Selecione a aba <b>Banco de Dados</b> e em seguida o botão <b>Importar seu Banco de Dados</b>.</string>
+    <string name="import_database_button_text"><b>5.</b>Selecione a aba <b>Banco de Dados</b> e em seguida o botão <b>Importar seu Banco de Dados</b>.</string>
     <string name="locate_database_file_as_point_1"><b>6.</b> Localize o arquivo do banco de dados em seu dispositivo (como no Passo 1) e selecione-o para importar o banco de dados. Você deverá ver uma mensagem dizendo \'Importação bem-sucedida\'.</string>
     <string name="import_error_message"><b>7.</b> Se você encontrar um erro de importação, certifique-se de selecionar o arquivo de banco de dados correto e estar no banco de dados ativo correto. Tente novamente e se tiver algum problema adicional, não hesite em entrar em contato conosco em <b>kdsmart@diversityarrays.com</b></string>
     <string name="data_migration">Migração de dados</string>
