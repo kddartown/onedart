@@ -1,87 +1,87 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Traits are the characteristics or qualities that are measured or recorded in a trial.
+Rasgos son las características o cualidades que se miden o registran en un ensayo.
 
 2
 00:00:10,533 --> 00:00:14,299
-Traits can be imported or created within the KDSmart app.
+Rasgos pueden ser importados o creados dentro de la aplicación KDSmart.
 
 3
 00:00:14,300 --> 00:00:18,300
-Go to the Traits screen and select the Add Trait button to create a new trait.
+Vaya a la pantalla Rasgos y seleccione el botón Añadir Rasgo para crear un nuevo rasgo.
 
 4
 00:00:21,000 --> 00:00:25,000
-Firstly, enter a trait name and select the Use button to see if it's available. In this example, we will create a trait for measuring plant height.
+En primer lugar, introduzca un nombre de rasgo y seleccione el botón Utilizar para ver si está disponible. En este ejemplo, crearemos un rasgo para medir la altura de la planta.
 
 5
 00:00:36,733 --> 00:00:40,733
-Next, enter an alias and description for the trait.
+A continuación, introduzca un alias y una descripción para el rasgo.
 
 6
 00:00:56,900 --> 00:01:00,900
-You also need to add a trait unit. A trait unit is the unit of measurement for the trait. For example, metres.
+También es necesario añadir una unidad de rasgo. Una unidad de rasgo es la unidad de medida del rasgo. Por ejemplo, metros.
 
 7
 00:01:03,966 --> 00:01:07,966
-You must also choose a data type. Data types constrain the value of traits. In this example we will choose decimal.
+También debe elegir un tipo de datos. Los tipos de datos limitan el valor de los rasgos. En este ejemplo elegiremos decimal.
 
 8
 00:01:11,500 --> 00:01:15,500
-You can can configure constraints for some data types.
+Puede configurar restricciones para algunos tipos de datos.
 
 9
 00:01:16,600 --> 00:01:20,600
-For this example, we will set the max to 2. 
+Para este ejemplo, estableceremos el máximo en 2. 
 
 10
 00:01:24,100 --> 00:01:28,100
-This means that when entering a value for this trait, the user will need to choose a decimal number between 0 and 2.
+Esto significa que al introducir un valor para este rasgo, el usuario tendrá que elegir un número decimal entre 0 y 2.
 
 11
 00:01:28,666 --> 00:01:32,666
-Lastly, we need to choose a trait level. We will choose subplot-level four our example trait as we are measuring the height of an individual plant.
+Por último, tenemos que elegir un nivel de rasgo. Elegiremos el nivel de subarea cuatro para nuestro rasgo de ejemplo, ya que estamos midiendo la altura de una planta individual.
 
 12
 00:01:37,233 --> 00:01:41,233
-Select the Confirm button to save the new trait.
+Seleccione el botón Confirmar para guardar el nuevo rasgo.
 
 13
 00:01:44,733 --> 00:01:48,733
-The new trait will be visible on the Traits screen.
+El nuevo rasgo será visible en la pantalla Rasgos.
 
 14
 00:01:49,700 --> 00:01:53,700
-This is what the trait would look like when scoring.
+Así se vería el rasgo en la puntuación.
 
 15
 00:01:55,266 --> 00:01:59,266
-You can look though the data types to see what other traits you can create. 
+Puedes consultar los tipos de datos para ver qué otros rasgos puedes crear. 
 
 16
 00:02:00,666 --> 00:02:04,666
-Text traits enable users to input text into a text field.
+Rasgos de texto permiten a los usuarios introducir texto en un campo de texto.
 
 17
 00:02:11,700 --> 00:02:15,700
-Categorical traits provide a list of values to choose from.
+Los rasgos categóricos proporcionan una lista de valores entre los que elegir.
 
 18
 00:02:21,933 --> 00:02:25,933
-Optionally you can add an 'other' field which lets users add a text note if a suitable option isn't available.
+Opcionalmente, puedes añadir un campo "otro" que permita a los usuarios añadir una nota de texto si no hay disponible una opción adecuada.
 
 19
 00:02:28,066 --> 00:02:32,066
-Elapsed days is the number of days since a specified date e.g. a planting date. The value is stored as a date by KDSmart.
+Los días transcurridos son el número de días transcurridos desde una fecha determinada, por ejemplo, una fecha de plantación. KDSmart almacena el valor como una fecha.
 
 20
 00:02:33,733 --> 00:02:37,733
-An integer trait is a numeric value that must be a whole number. Like the decimal trait, it can include a range.
+Un rasgo entero es un valor numérico que debe ser un número entero. Al igual que el rasgo decimal, puede incluir un rango.
 
 21
 00:02:39,566 --> 00:02:43,566
-And finally a date trait is simply a date chosen with a calendar.
+Y, por último, un rasgo de fecha es simplemente una fecha elegida con un calendario.
 
 22
 00:02:43,866 --> 00:02:47,866
-See the KDSmart User Guides for more infomation on traits.
+Consulte las Guías del usuario de KDSmart para obtener más información sobre los rasgos.
