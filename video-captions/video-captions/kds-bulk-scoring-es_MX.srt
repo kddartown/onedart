@@ -1,39 +1,39 @@
 ﻿1
 00:00:04,933 --> 00:00:08,933
-Bulk scoring is a feature that helps users score multiple plot or subplots at the same time.
+La puntuación de todos al mismo tiempo es una función que ayuda a los usuarios a puntuar varias areas o subareas al mismo tiempo.
 
 2
 00:00:11,500 --> 00:00:15,500
-First open a trial in Field Scoring mode.
+Primero abra un ensayo en Modo de puntuación de campo.
 
 3
 00:00:20,700 --> 00:00:24,700
-Select a plot to view the bulk scoring options.
+Seleccione un area para ver las opciones de puntuación de todos al mismo tiempo.
 
 4
 00:00:28,600 --> 00:00:32,600
-The Subplot button displays all subplot-level traits. 
+El botón Subplot muestra todos los rasgos a nivel de subarea. 
 
 5
 00:00:35,766 --> 00:00:39,766
-The measurement you choose will be applied to all subplots in your selected plot. In this case, two.
+La medida que elija se aplicará a todas las subareas de la area seleccionada. En este caso, dos.
 
 6
 00:00:48,800 --> 00:00:52,800
-For scoring plot-level traits, choose any number of plots and select the Plot button. 
+Para puntuar rasgos a nivel de area, elija cualquier número de areas y seleccione el botón Area. 
 
 7
 00:01:01,000 --> 00:01:05,000
-Any chosen values are applied to all selected plots.
+Los valores elegidos se aplican a todas las areas seleccionadas.
 
 8
 00:01:11,533 --> 00:01:15,533
-Continue choosing plots to bulk score.
+Continúe eligiendo areas para la puntuación de todos al mismo tiempo.
 
 9
 00:01:25,000 --> 00:01:29,000
-Select the Overwrite Trait Values checkbox if you want to bulk score a trait that already has a value
+Seleccione la casilla Sobrescribir valores de rasgos si desea puntuar en bloque un rasgo que ya tiene un valor.
 
 10
 00:01:41,233 --> 00:01:45,233
-You can also bulk score tags on any selected plot.
+También puede realizar una puntuación de todas al mismo tiempo en cualquier area seleccionada.
