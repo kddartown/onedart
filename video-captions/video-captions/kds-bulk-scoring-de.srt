@@ -1,39 +1,39 @@
 ﻿1
 00:00:04,933 --> 00:00:08,933
-Bulk scoring is a feature that helps users score multiple plot or subplots at the same time.
+Die Mehrfachauswertung ist eine Funktion, mit der Benutzer mehrere Parzellen oder Unterparzellen gleichzeitig bewerten können.
 
 2
 00:00:11,500 --> 00:00:15,500
-First open a trial in Field Scoring mode.
+Öffnen Sie zunächst einen Versuch im Modus Feldauswertung.
 
 3
 00:00:20,700 --> 00:00:24,700
-Select a plot to view the bulk scoring options.
+Wählen Sie eine Parzelle aus, um die Optionen für die Mehrfachauswertung anzuzeigen.
 
 4
 00:00:28,600 --> 00:00:32,600
-The Subplot button displays all subplot-level traits. 
+Die Schaltfläche Unterparzellen zeigt alle Merkmale auf Unterparzellen-Ebene an. 
 
 5
 00:00:35,766 --> 00:00:39,766
-The measurement you choose will be applied to all subplots in your selected plot. In this case, two.
+Die von Ihnen gewählte Messung wird auf alle Unterparzellen der ausgewählten Parzelle angewendet. In diesem Fall sind es zwei.
 
 6
 00:00:48,800 --> 00:00:52,800
-For scoring plot-level traits, choose any number of plots and select the Plot button. 
+Um Merkmale auf Parzellen-Ebene zu bewerten, wählen Sie eine beliebige Anzahl von Parzellen und klicken Sie auf die Schaltfläche Parzelle. 
 
 7
 00:01:01,000 --> 00:01:05,000
-Any chosen values are applied to all selected plots.
+Alle gewählten Werte werden auf alle ausgewählten Parzellen angewendet.
 
 8
 00:01:11,533 --> 00:01:15,533
-Continue choosing plots to bulk score.
+Fahren Sie mit der Auswahl der Parzellen für die Mehrfachauswertung fort.
 
 9
 00:01:25,000 --> 00:01:29,000
-Select the Overwrite Trait Values checkbox if you want to bulk score a trait that already has a value
+Aktivieren Sie das Kontrollkästchen Eigenschaftswerte überschreiben, wenn Sie ein Merkmal, das bereits einen Wert hat, mehrfach auswerten möchten.
 
 10
 00:01:41,233 --> 00:01:45,233
-You can also bulk score tags on any selected plot.
+Sie können auch Mehrfachauswertungen von Tags auf jeder ausgewählten Parzelle vornehmen.
