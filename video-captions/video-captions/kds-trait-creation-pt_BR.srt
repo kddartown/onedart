@@ -1,87 +1,87 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Traits are the characteristics or qualities that are measured or recorded in a trial.
+Traços são as características ou qualidades que são medidas ou registradas em um projeto.
 
 2
 00:00:10,533 --> 00:00:14,299
-Traits can be imported or created within the KDSmart app.
+Traços podem ser importados ou criados dentro do aplicativo KDSmart.
 
 3
 00:00:14,300 --> 00:00:18,300
-Go to the Traits screen and select the Add Trait button to create a new trait.
+Vá para a tela de traços e selecione o botão Adicionar Traço para criar um novo traço.
 
 4
 00:00:21,000 --> 00:00:25,000
-Firstly, enter a trait name and select the Use button to see if it's available. In this example, we will create a trait for measuring plant height.
+Primeiramente, insira um nome de traço e selecione o botão Usar para verificar se está disponível. Neste exemplo, criaremos um traço para medir a altura da planta.
 
 5
 00:00:36,733 --> 00:00:40,733
-Next, enter an alias and description for the trait.
+Em seguida, insira um alias e uma descrição para o traço.
 
 6
 00:00:56,900 --> 00:01:00,900
-You also need to add a trait unit. A trait unit is the unit of measurement for the trait. For example, metres.
+Você também precisa adicionar uma unidade de traço. Uma unidade de traço é a unidade de medida para o traço. Por exemplo, metros.
 
 7
 00:01:03,966 --> 00:01:07,966
-You must also choose a data type. Data types constrain the value of traits. In this example we will choose decimal.
+Você também deve escolher um tipo de dado. Os tipos de dados restringem o valor dos traços. Neste exemplo, escolheremos decimal.
 
 8
 00:01:11,500 --> 00:01:15,500
-You can can configure constraints for some data types.
+Você pode configurar restrições para alguns tipos de dados.
 
 9
 00:01:16,600 --> 00:01:20,600
-For this example, we will set the max to 2. 
+Para este exemplo, definiremos o máximo para 2. 
 
 10
 00:01:24,100 --> 00:01:28,100
-This means that when entering a value for this trait, the user will need to choose a decimal number between 0 and 2.
+Isso significa que ao inserir um valor para este traço, o usuário precisará escolher um número decimal entre 0 e 2.
 
 11
 00:01:28,666 --> 00:01:32,666
-Lastly, we need to choose a trait level. We will choose subplot-level four our example trait as we are measuring the height of an individual plant.
+Por fim, precisamos escolher um nível de traço. Escolheremos o subnível de subárea para o nosso traço de exemplo, pois estamos medindo a altura de uma planta individual.
 
 12
 00:01:37,233 --> 00:01:41,233
-Select the Confirm button to save the new trait.
+Selecione o botão Confirmar para salvar o novo traço.
 
 13
 00:01:44,733 --> 00:01:48,733
-The new trait will be visible on the Traits screen.
+O novo traço será visível na tela de traços.
 
 14
 00:01:49,700 --> 00:01:53,700
-This is what the trait would look like when scoring.
+É assim que o traço apareceria ao pontuar.
 
 15
 00:01:55,266 --> 00:01:59,266
-You can look though the data types to see what other traits you can create. 
+Você pode olhar através dos tipos de dados para ver quais outros traços você pode criar. 
 
 16
 00:02:00,666 --> 00:02:04,666
-Text traits enable users to input text into a text field.
+Os traços de texto permitem que os usuários insiram texto em um campo de texto.
 
 17
 00:02:11,700 --> 00:02:15,700
-Categorical traits provide a list of values to choose from.
+Traços categóricos fornecem uma lista de valores para escolher.
 
 18
 00:02:21,933 --> 00:02:25,933
-Optionally you can add an 'other' field which lets users add a text note if a suitable option isn't available.
+Opcionalmente, você pode adicionar um campo 'outro' que permite aos usuários adicionar uma nota de texto se uma opção adequada não estiver disponível.
 
 19
 00:02:28,066 --> 00:02:32,066
-Elapsed days is the number of days since a specified date e.g. a planting date. The value is stored as a date by KDSmart.
+Dias decorridos é o número de dias desde uma data especificada, por exemplo, uma data de plantio. O valor é armazenado como uma data pelo KDSmart.
 
 20
 00:02:33,733 --> 00:02:37,733
-An integer trait is a numeric value that must be a whole number. Like the decimal trait, it can include a range.
+Um traço inteiro é um valor numérico que deve ser um número inteiro. Como o traço decimal, ele pode incluir um intervalo.
 
 21
 00:02:39,566 --> 00:02:43,566
-And finally a date trait is simply a date chosen with a calendar.
+E finalmente, um traço de data é simplesmente uma data escolhida com um calendário.
 
 22
 00:02:43,866 --> 00:02:47,866
-See the KDSmart User Guides for more infomation on traits.
+Veja os Guias do Usuário KDSmart para mais informações sobre traços.
