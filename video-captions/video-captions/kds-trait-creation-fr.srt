@@ -1,87 +1,87 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Traits are the characteristics or qualities that are measured or recorded in a trial.
+Les caractéristiques sont les caractéristiques ou les qualités qui sont mesurées ou enregistrées dans un projet.
 
 2
 00:00:10,533 --> 00:00:14,299
-Traits can be imported or created within the KDSmart app.
+Les caractéristiques peuvent être importées ou créées dans l'application KDSmart.
 
 3
 00:00:14,300 --> 00:00:18,300
-Go to the Traits screen and select the Add Trait button to create a new trait.
+Accédez à l'écran Caractéristiques et sélectionnez le bouton Ajouter une caractéristique pour créer une nouvelle caractéristique.
 
 4
 00:00:21,000 --> 00:00:25,000
-Firstly, enter a trait name and select the Use button to see if it's available. In this example, we will create a trait for measuring plant height.
+Tout d'abord, saisissez le nom d'une caractéristique et sélectionnez le bouton Utiliser pour voir si elle est disponible. Dans cet exemple, nous allons créer une caractéristique pour mesurer la hauteur des plantes.
 
 5
 00:00:36,733 --> 00:00:40,733
-Next, enter an alias and description for the trait.
+Saisissez ensuite un alias et une description pour la caractéristique.
 
 6
 00:00:56,900 --> 00:01:00,900
-You also need to add a trait unit. A trait unit is the unit of measurement for the trait. For example, metres.
+Vous devez également ajouter une unité de caractéristique. L'unité de caractéristique est l'unité de mesure de la caractéristique. Par exemple, les mètres.
 
 7
 00:01:03,966 --> 00:01:07,966
-You must also choose a data type. Data types constrain the value of traits. In this example we will choose decimal.
+Vous devez également choisir un type de données. Les types de données contraignent la valeur des caractéristiques. Dans cet exemple, nous choisirons le type décimal.
 
 8
 00:01:11,500 --> 00:01:15,500
-You can can configure constraints for some data types.
+Vous pouvez configurer des contraintes pour certains types de données.
 
 9
 00:01:16,600 --> 00:01:20,600
-For this example, we will set the max to 2. 
+Pour cet exemple, nous fixerons le maximum à 2. 
 
 10
 00:01:24,100 --> 00:01:28,100
-This means that when entering a value for this trait, the user will need to choose a decimal number between 0 and 2.
+Cela signifie que lors de la saisie d'une valeur pour cette caractéristique, l'utilisateur devra choisir un nombre décimal compris entre 0 et 2.
 
 11
 00:01:28,666 --> 00:01:32,666
-Lastly, we need to choose a trait level. We will choose subplot-level four our example trait as we are measuring the height of an individual plant.
+Enfin, nous devons choisir un niveau de caractéristiques. Nous choisirons le niveau sous-parcelle pour notre caractéristique d'exemple car nous mesurons la hauteur d'une plante individuelle.
 
 12
 00:01:37,233 --> 00:01:41,233
-Select the Confirm button to save the new trait.
+Sélectionnez le bouton Confirmer pour enregistrer les nouvelles caractéristiques.
 
 13
 00:01:44,733 --> 00:01:48,733
-The new trait will be visible on the Traits screen.
+La nouvelle caractéristique sera visible dans l'écran des caractéristiques.
 
 14
 00:01:49,700 --> 00:01:53,700
-This is what the trait would look like when scoring.
+Voici à quoi ressemblerait la caractéristique lors de la notation.
 
 15
 00:01:55,266 --> 00:01:59,266
-You can look though the data types to see what other traits you can create. 
+Vous pouvez consulter les types de données pour voir quelles autres caractéristiques vous pouvez créer. 
 
 16
 00:02:00,666 --> 00:02:04,666
-Text traits enable users to input text into a text field.
+Les caractéristiques de texte permettent aux utilisateurs de saisir du texte dans un champ de texte.
 
 17
 00:02:11,700 --> 00:02:15,700
-Categorical traits provide a list of values to choose from.
+Les caractéristiques catégorielles fournissent une liste de valeurs parmi lesquelles il est possible de choisir.
 
 18
 00:02:21,933 --> 00:02:25,933
-Optionally you can add an 'other' field which lets users add a text note if a suitable option isn't available.
+En option, vous pouvez ajouter un champ "autre" qui permet aux utilisateurs d'ajouter une note de texte si aucune option appropriée n'est disponible.
 
 19
 00:02:28,066 --> 00:02:32,066
-Elapsed days is the number of days since a specified date e.g. a planting date. The value is stored as a date by KDSmart.
+Le nombre de jours écoulés est le nombre de jours écoulés depuis une date donnée, par exemple une date de plantation. La valeur est enregistrée sous forme de date par KDSmart.
 
 20
 00:02:33,733 --> 00:02:37,733
-An integer trait is a numeric value that must be a whole number. Like the decimal trait, it can include a range.
+Une caractéristique de nombre entier est une valeur numérique qui doit être un nombre entier. Tout comme la caractéristique décimale, elle peut inclure une plage.
 
 21
 00:02:39,566 --> 00:02:43,566
-And finally a date trait is simply a date chosen with a calendar.
+Enfin, une caractéristique est tout simplement une date choisie à l'aide d'un calendrier.
 
 22
 00:02:43,866 --> 00:02:47,866
-See the KDSmart User Guides for more infomation on traits.
+Voir les guides de l'utilisateur du KDSmart pour plus d'informations sur les caractéristiques.
