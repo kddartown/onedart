@@ -1,87 +1,87 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Traits are the characteristics or qualities that are measured or recorded in a trial.
+Cechy to cechy lub właściwości, które są mierzone lub rejestrowane w próbie.
 
 2
 00:00:10,533 --> 00:00:14,299
-Traits can be imported or created within the KDSmart app.
+Cechy mogą być importowane lub tworzone w aplikacji KDSmart.
 
 3
 00:00:14,300 --> 00:00:18,300
-Go to the Traits screen and select the Add Trait button to create a new trait.
+Przejdź do ekranu Cech i wybierz przycisk Dodaj cechę, aby utworzyć nową cechę.
 
 4
 00:00:21,000 --> 00:00:25,000
-Firstly, enter a trait name and select the Use button to see if it's available. In this example, we will create a trait for measuring plant height.
+Najpierw wprowadź nazwę cechy i wybierz przycisk Użyj, aby sprawdzić, czy jest ona dostępna. W tym przykładzie utworzymy cechę do pomiaru wysokości roślin.
 
 5
 00:00:36,733 --> 00:00:40,733
-Next, enter an alias and description for the trait.
+Następnie wprowadź alias i opis cechy.
 
 6
 00:00:56,900 --> 00:01:00,900
-You also need to add a trait unit. A trait unit is the unit of measurement for the trait. For example, metres.
+Należy również dodać jednostkę cechy. Jednostka cechy to jednostka miary dla danej cechy. Na przykład metry.
 
 7
 00:01:03,966 --> 00:01:07,966
-You must also choose a data type. Data types constrain the value of traits. In this example we will choose decimal.
+Należy również wybrać typ danych. Typy danych ograniczają wartość cech. W tym przykładzie wybierzemy decimal.
 
 8
 00:01:11,500 --> 00:01:15,500
-You can can configure constraints for some data types.
+Dla niektórych typów danych można skonfigurować ograniczenia.
 
 9
 00:01:16,600 --> 00:01:20,600
-For this example, we will set the max to 2. 
+W tym przykładzie ustawimy wartość maksymalną na 2. 
 
 10
 00:01:24,100 --> 00:01:28,100
-This means that when entering a value for this trait, the user will need to choose a decimal number between 0 and 2.
+Oznacza to, że wprowadzając wartość dla tej cechy, użytkownik będzie musiał wybrać liczbę dziesiętną z przedziału od 0 do 2.
 
 11
 00:01:28,666 --> 00:01:32,666
-Lastly, we need to choose a trait level. We will choose subplot-level four our example trait as we are measuring the height of an individual plant.
+Na koniec musimy wybrać poziom cechy. Wybierzemy poziom wątku podrzędnego dla naszej przykładowej cechy, ponieważ mierzymy wysokość pojedynczej rośliny.
 
 12
 00:01:37,233 --> 00:01:41,233
-Select the Confirm button to save the new trait.
+Wybierz przycisk Potwierdź, aby zapisać nową cechę.
 
 13
 00:01:44,733 --> 00:01:48,733
-The new trait will be visible on the Traits screen.
+Nowa cecha będzie widoczna na ekranie cech.
 
 14
 00:01:49,700 --> 00:01:53,700
-This is what the trait would look like when scoring.
+Tak wyglądałaby cecha podczas punktacji.
 
 15
 00:01:55,266 --> 00:01:59,266
-You can look though the data types to see what other traits you can create. 
+Możesz przejrzeć typy danych, aby zobaczyć, jakie inne cechy możesz utworzyć. 
 
 16
 00:02:00,666 --> 00:02:04,666
-Text traits enable users to input text into a text field.
+Cechy tekstowe umożliwiają użytkownikom wprowadzanie tekstu do pola tekstowego.
 
 17
 00:02:11,700 --> 00:02:15,700
-Categorical traits provide a list of values to choose from.
+Cechy kategoryczne zapewniają listę wartości do wyboru.
 
 18
 00:02:21,933 --> 00:02:25,933
-Optionally you can add an 'other' field which lets users add a text note if a suitable option isn't available.
+Opcjonalnie można dodać pole "inne", które umożliwia użytkownikom dodanie notatki tekstowej, jeśli odpowiednia opcja nie jest dostępna.
 
 19
 00:02:28,066 --> 00:02:32,066
-Elapsed days is the number of days since a specified date e.g. a planting date. The value is stored as a date by KDSmart.
+Upływające dni to liczba dni od określonej daty, np. daty sadzenia. Wartość jest przechowywana przez KDSmart jako data.
 
 20
 00:02:33,733 --> 00:02:37,733
-An integer trait is a numeric value that must be a whole number. Like the decimal trait, it can include a range.
+Cecha integer to wartość liczbowa, która musi być liczbą całkowitą. Podobnie jak cecha decimal, może zawierać zakres.
 
 21
 00:02:39,566 --> 00:02:43,566
-And finally a date trait is simply a date chosen with a calendar.
+I wreszcie cechy daty to po prostu data wybrana za pomocą kalendarza.
 
 22
 00:02:43,866 --> 00:02:47,866
-See the KDSmart User Guides for more infomation on traits.
+Więcej informacji na temat cech można znaleźć w Podręcznikach użytkownika KDSmart.
