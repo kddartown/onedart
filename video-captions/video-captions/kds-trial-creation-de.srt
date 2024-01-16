@@ -4,7 +4,7 @@ Versuche werden normalerweise importiert, aber Sie können auch neue Versuche in
 
 2
 00:00:09,633 --> 00:00:13,633
-Rufen Sie den Bildschirm Versuche auf und wählen Sie im Menü die Option Versuch erstellen aus.
+Rufen Sie den Bildschirm Versuche auf und wählen Sie im Menü die Option Versuch erstellen.
 
 3
 00:00:18,166 --> 00:00:22,166
@@ -44,7 +44,7 @@ Wählen Sie die Schaltfläche Bearbeiten für Merkmale, um dem Versuch Merkmale 
 
 12
 00:01:31,333 --> 00:01:35,333
-Fügen Sie Merkmalsinstanzen hinzu, wenn Sie dasselbe Merkmal mehrfach bewerten wollen.
+Fügen Sie Merkmalsinstanzen hinzu, wenn Sie dasselbe Merkmal mehrfach auswerten wollen.
 
 13
 00:01:49,966 --> 00:01:53,966
