@@ -1,71 +1,71 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Trials are usually imported, but you can also create new trials within the KDSmart app. 
+Les projets sont généralement importés, mais vous pouvez également créer de nouveaux projets dans l'appli KDSmart. 
 
 2
 00:00:09,633 --> 00:00:13,633
-Go to the Trials screen and choose the Create Trial option from the Menu.
+Accédez à l'écran Projets et choisissez l'option Créer un essai dans le menu.
 
 3
 00:00:18,166 --> 00:00:22,166
-Enter the details such as the trial name
+Saisissez les détails tels que le nom des projets
 
 4
 00:00:28,266 --> 00:00:32,266
-Here we are creating an X/Y trial with columns and rows and each plot has an x/y coordinate. We will demontrate Plot trials later in the video.
+Ici, nous créons un projet X/Y avec des zones et des lignes et chaque zone a une coordonnée x/y. Nous ferons la démonstration des projets de tracé plus tard dans la vidéo.
 
 5
 00:00:34,100 --> 00:00:38,100
-For X/Y trials, you need to choose the number of columns and the number of rows.
+Pour les projets X/Y, vous devez choisir le nombre de colonnes et le nombre de lignes.
 
 6
 00:00:44,266 --> 00:00:48,266
-Optionally, you can add a number of subplots.
+En option, vous pouvez ajouter un certain nombre de sous-parcelles.
 
 7
 00:00:48,633 --> 00:00:52,633
-Choosing '2' here means that each plot in the trial will contain two subplots.
+Le choix de "2" signifie que chaque zone de l'essai contiendra deux sous-parcelles.
 
 8
 00:00:55,033 --> 00:00:59,033
-Choose a trait instance style to determine how instances of the same trait are shown.
+Choisissez un style d'instance de caractéristique pour déterminer comment les exemples de la même caractéristique sont affichés.
 
 9
 00:01:01,133 --> 00:01:05,133
-Select the Confirm button when you are ready to create the trial. 
+Sélectionnez le bouton Confirmer lorsque vous êtes prêt à créer le projet. 
 
 10
 00:01:06,033 --> 00:01:10,033
-It will now appear on the Trials screen and you can select it to add more details.
+Il apparaît alors sur l'écran des projets et vous pouvez le sélectionner pour ajouter d'autres détails.
 
 11
 00:01:11,766 --> 00:01:15,766
-Select the Edit button for traits to add traits to the trial.
+Sélectionnez le bouton Modifier pour les caractéristiques afin d'ajouter des caractéristiques aux projets.
 
 12
 00:01:31,333 --> 00:01:35,333
-Add trait instances if you want to score the same trait multiple times.
+Ajoutez des exemples de caractéristiques si vous souhaitez noter plusieurs fois la même caractéristique.
 
 13
 00:01:49,966 --> 00:01:53,966
-Now we are going to create a Plot ID trial.
+Nous allons maintenant créer un essai d'identification de la zone.
 
 14
 00:01:59,266 --> 00:02:03,266
-Plot ID trials contains plots with unique identification numbers.
+Les essais d'identification des zones contiennent des zones avec des numéros d'identification uniques.
 
 15
 00:02:07,600 --> 00:02:11,600
-Choose the number of plots you want in the trial.
+Choisissez le nombre de zones que vous voulez dans le projet.
 
 16
 00:02:13,766 --> 00:02:17,766
-The Run Length can be set to vertical or horizontal.
+La longueur d'exécution peut être réglée à la verticale ou à l'horizontale.
 
 17
 00:02:27,400 --> 00:02:31,400
-No subplots were added to the Plot ID trial.
+Aucune sous-parcelle n'a été ajoutée à l'essai Plot ID.
 
 18
 00:02:31,400 --> 00:02:35,400
-Select the Add Subplot option from the Menu if you want to add them later.
+Sélectionnez l'option Ajouter sous-parcelles dans le menu si vous souhaitez les ajouter ultérieurement.
