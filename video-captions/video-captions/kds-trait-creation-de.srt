@@ -52,7 +52,7 @@ Das neue Merkmal wird auf dem Bildschirm "Merkmale" angezeigt.
 
 14
 00:01:49,700 --> 00:01:53,700
-So würde das Merkmal bei der Bewertung aussehen.
+So würde das Merkmal bei der Auswertung aussehen.
 
 15
 00:01:55,266 --> 00:01:59,266
