@@ -1,71 +1,71 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Trials are usually imported, but you can also create new trials within the KDSmart app. 
+Versuche werden normalerweise importiert, aber Sie können auch neue Versuche innerhalb der KDSmart App erstellen. 
 
 2
 00:00:09,633 --> 00:00:13,633
-Go to the Trials screen and choose the Create Trial option from the Menu.
+Rufen Sie den Bildschirm Versuche auf und wählen Sie im Menü die Option Versuch erstellen aus.
 
 3
 00:00:18,166 --> 00:00:22,166
-Enter the details such as the trial name
+Geben Sie die Details wie den Namen des Versuchs ein
 
 4
 00:00:28,266 --> 00:00:32,266
-Here we are creating an X/Y trial with columns and rows and each plot has an x/y coordinate. We will demontrate Plot trials later in the video.
+Hier erstellen wir einen X/Y-Versuch mit Spalten und Zeilen, und jede Parzelle hat eine x/y-Koordinate. Wir werden die Versuche mit Parzellen später im Video demonstrieren.
 
 5
 00:00:34,100 --> 00:00:38,100
-For X/Y trials, you need to choose the number of columns and the number of rows.
+Für X/Y Versuche müssen Sie die Anzahl der Spalten und die Anzahl der Zeilen wählen.
 
 6
 00:00:44,266 --> 00:00:48,266
-Optionally, you can add a number of subplots.
+Optional können Sie eine Reihe von Unterparzellen hinzufügen.
 
 7
 00:00:48,633 --> 00:00:52,633
-Choosing '2' here means that each plot in the trial will contain two subplots.
+Die Wahl von '2' bedeutet, dass jede Parzelle im Versuch zwei Unterparzellen enthalten wird.
 
 8
 00:00:55,033 --> 00:00:59,033
-Choose a trait instance style to determine how instances of the same trait are shown.
+Wählen Sie einen Stil für Merkmalsinstanzen, um festzulegen, wie Merkmalsinstanzen desselben Merkmals angezeigt werden sollen.
 
 9
 00:01:01,133 --> 00:01:05,133
-Select the Confirm button when you are ready to create the trial. 
+Wählen Sie die Schaltfläche Bestätigen, wenn Sie bereit sind, den Versuch zu erstellen. 
 
 10
 00:01:06,033 --> 00:01:10,033
-It will now appear on the Trials screen and you can select it to add more details.
+Sie wird nun auf dem Bildschirm Versuche angezeigt und Sie können sie auswählen, um weitere Details hinzuzufügen.
 
 11
 00:01:11,766 --> 00:01:15,766
-Select the Edit button for traits to add traits to the trial.
+Wählen Sie die Schaltfläche Bearbeiten für Merkmale, um dem Versuch Merkmale hinzuzufügen.
 
 12
 00:01:31,333 --> 00:01:35,333
-Add trait instances if you want to score the same trait multiple times.
+Fügen Sie Merkmalsinstanzen hinzu, wenn Sie dasselbe Merkmal mehrfach bewerten wollen.
 
 13
 00:01:49,966 --> 00:01:53,966
-Now we are going to create a Plot ID trial.
+Jetzt werden wir einen Parzellen-ID-Versuch erstellen.
 
 14
 00:01:59,266 --> 00:02:03,266
-Plot ID trials contains plots with unique identification numbers.
+Versuche mit Parzellen-ID enthalten Parzellen mit eindeutigen Identifikationsnummern.
 
 15
 00:02:07,600 --> 00:02:11,600
-Choose the number of plots you want in the trial.
+Wählen Sie die Anzahl der Parzellen, die Sie in den Versuch aufnehmen möchten.
 
 16
 00:02:13,766 --> 00:02:17,766
-The Run Length can be set to vertical or horizontal.
+Die Lauflänge kann auf vertikal oder horizontal eingestellt werden.
 
 17
 00:02:27,400 --> 00:02:31,400
-No subplots were added to the Plot ID trial.
+Dem Versuch Plot ID wurden keine Unterparzellen hinzugefügt.
 
 18
 00:02:31,400 --> 00:02:35,400
-Select the Add Subplot option from the Menu if you want to add them later.
+Wählen Sie die Option Unterparzellen hinzufügen aus dem Menü, wenn Sie sie später hinzufügen möchten.
