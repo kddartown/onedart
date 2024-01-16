@@ -1,27 +1,27 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Tags are short, reusable text descriptions that can be applied to plots or subplots when scoring.
+Las etiquetas son descripciones de texto breves y reutilizables que pueden aplicarse a areas o subareas en el momento de la puntuación.
 
 2
 00:00:10,366 --> 00:00:14,366
-You can create new tags by select the Add Tag button in the Tags screen.
+Puede crear nuevas etiquetas seleccionando el botón Añadir etiqueta en la pantalla Etiquetas.
 
 3
 00:00:20,866 --> 00:00:24,866
-Enter a label. This is the name of the tag.
+Introduzca una etiqueta. Es el nombre de la etiqueta.
 
 4
 00:00:28,200 --> 00:00:32,200
-Select the Use button to see if the label is already in use.
+Seleccione el botón Utilizar para ver si la etiqueta ya está en uso.
 
 5
 00:00:33,566 --> 00:00:37,566
-If the label name if free, then you can enter a short description.
+Si el nombre de la etiqueta es libre, puede introducir una breve descripción.
 
 6
 00:00:40,500 --> 00:00:44,500
-Select the Confirm button to create the tag.
+Seleccione el botón Confirmar para crear la etiqueta.
 
 7
 00:00:50,733 --> 00:00:54,733
-The tag is now available when scoring
+La etiqueta está ahora disponible cuando se puntúa
