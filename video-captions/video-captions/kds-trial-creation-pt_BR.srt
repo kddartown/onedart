@@ -1,71 +1,71 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Trials are usually imported, but you can also create new trials within the KDSmart app. 
+Os projetos geralmente são importados, mas você também pode criar novos projetos dentro do aplicativo KDSmart. 
 
 2
 00:00:09,633 --> 00:00:13,633
-Go to the Trials screen and choose the Create Trial option from the Menu.
+Vá para a tela de Projetos e escolha a opção Criar Projeto no Menu.
 
 3
 00:00:18,166 --> 00:00:22,166
-Enter the details such as the trial name
+Insira os detalhes, como o nome do projeto
 
 4
 00:00:28,266 --> 00:00:32,266
-Here we are creating an X/Y trial with columns and rows and each plot has an x/y coordinate. We will demontrate Plot trials later in the video.
+Aqui estamos criando um projeto X/Y com colunas e linhas e cada área marcada tem uma coordenada x/y. Demonstraremos os projetos de áreas marcadas mais tarde no vídeo.
 
 5
 00:00:34,100 --> 00:00:38,100
-For X/Y trials, you need to choose the number of columns and the number of rows.
+Para projetos X/Y, você precisa escolher o número de colunas e o número de linhas.
 
 6
 00:00:44,266 --> 00:00:48,266
-Optionally, you can add a number of subplots.
+Opcionalmente, você pode adicionar um número de subáreas marcadas.
 
 7
 00:00:48,633 --> 00:00:52,633
-Choosing '2' here means that each plot in the trial will contain two subplots.
+Escolher '2' aqui significa que cada área marcada no projeto conterá duas subáreas marcadas.
 
 8
 00:00:55,033 --> 00:00:59,033
-Choose a trait instance style to determine how instances of the same trait are shown.
+Escolha um estilo de instância de traço para determinar como as instâncias do mesmo traço são mostradas.
 
 9
 00:01:01,133 --> 00:01:05,133
-Select the Confirm button when you are ready to create the trial. 
+Selecione o botão Confirmar quando estiver pronto para criar o projeto. 
 
 10
 00:01:06,033 --> 00:01:10,033
-It will now appear on the Trials screen and you can select it to add more details.
+Agora ele aparecerá na tela de Projetos e você pode selecioná-lo para adicionar mais detalhes.
 
 11
 00:01:11,766 --> 00:01:15,766
-Select the Edit button for traits to add traits to the trial.
+Selecione o botão Editar para traços para adicionar traços ao projeto.
 
 12
 00:01:31,333 --> 00:01:35,333
-Add trait instances if you want to score the same trait multiple times.
+Adicione instâncias de traço se quiser pontuar o mesmo traço várias vezes.
 
 13
 00:01:49,966 --> 00:01:53,966
-Now we are going to create a Plot ID trial.
+Agora vamos criar um projeto de ID de área marcada.
 
 14
 00:01:59,266 --> 00:02:03,266
-Plot ID trials contains plots with unique identification numbers.
+O ID do projeto contém áreas marcadas com números de identificação únicos.
 
 15
 00:02:07,600 --> 00:02:11,600
-Choose the number of plots you want in the trial.
+Escolha o número de áreas marcadas que você deseja no projeto.
 
 16
 00:02:13,766 --> 00:02:17,766
-The Run Length can be set to vertical or horizontal.
+O comprimento da execução pode ser definido como vertical ou horizontal.
 
 17
 00:02:27,400 --> 00:02:31,400
-No subplots were added to the Plot ID trial.
+Nenhuma subárea marcada foi adicionada ao projeto de ID da área marcada.
 
 18
 00:02:31,400 --> 00:02:35,400
-Select the Add Subplot option from the Menu if you want to add them later.
+Selecione a opção Adicionar Subárea Marcada no Menu se você quiser adicioná-las mais tarde.
