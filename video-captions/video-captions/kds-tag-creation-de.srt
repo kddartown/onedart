@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Tags sind kurze, wiederverwendbare Textbeschreibungen, die beim Scoring auf Parzellen oder Unterparzellen angewendet werden können.
+Tags sind kurze, wiederverwendbare Textbeschreibungen, die bei der Auswertung auf Parzellen oder Unterparzellen angewendet werden können.
 
 2
 00:00:10,366 --> 00:00:14,366
@@ -24,4 +24,4 @@ Wählen Sie die Schaltfläche Bestätigen, um den Tag zu erstellen.
 
 7
 00:00:50,733 --> 00:00:54,733
-Der Tag ist jetzt bei der Wertung verfügbar
+Der Tag ist jetzt bei der Auswertung verfügbar
