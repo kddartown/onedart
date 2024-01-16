@@ -52,7 +52,7 @@ Ahora vamos a crear un ensayo de ID de parcela.
 
 14
 00:01:59,266 --> 00:02:03,266
-Plot ID trials contains plots with unique identification numbers.
+El ID de ensayos de áreas contiene áreas con números de identificación únicos.
 
 15
 00:02:07,600 --> 00:02:11,600
