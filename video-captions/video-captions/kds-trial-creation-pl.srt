@@ -1,71 +1,71 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Trials are usually imported, but you can also create new trials within the KDSmart app. 
+Próby są zazwyczaj importowane, ale można również tworzyć nowe próby w aplikacji KDSmart. 
 
 2
 00:00:09,633 --> 00:00:13,633
-Go to the Trials screen and choose the Create Trial option from the Menu.
+Przejdź do ekranu prób i wybierz z menu opcję Utwórz próbę.
 
 3
 00:00:18,166 --> 00:00:22,166
-Enter the details such as the trial name
+Wprowadź szczegóły, takie jak nazwa próby
 
 4
 00:00:28,266 --> 00:00:32,266
-Here we are creating an X/Y trial with columns and rows and each plot has an x/y coordinate. We will demontrate Plot trials later in the video.
+Tutaj tworzymy próbę X/Y z kolumnami i wierszami, a każda działka ma współrzędną x/y. W dalszej części filmu przedstawimy próby działek.
 
 5
 00:00:34,100 --> 00:00:38,100
-For X/Y trials, you need to choose the number of columns and the number of rows.
+W przypadku prób X/Y należy wybrać liczbę kolumn i liczbę wierszy.
 
 6
 00:00:44,266 --> 00:00:48,266
-Optionally, you can add a number of subplots.
+Opcjonalnie można dodać kilka podrozdziałów.
 
 7
 00:00:48,633 --> 00:00:52,633
-Choosing '2' here means that each plot in the trial will contain two subplots.
+Wybór "2" oznacza, że każda działka w próbie będzie zawierać dwa podrozdziały.
 
 8
 00:00:55,033 --> 00:00:59,033
-Choose a trait instance style to determine how instances of the same trait are shown.
+Wybierz styl instancji cechy, aby określić sposób wyświetlania instancji tej samej cechy.
 
 9
 00:01:01,133 --> 00:01:05,133
-Select the Confirm button when you are ready to create the trial. 
+Wybierz przycisk Potwierdź, gdy będziesz gotowy do utworzenia próby. 
 
 10
 00:01:06,033 --> 00:01:10,033
-It will now appear on the Trials screen and you can select it to add more details.
+Pojawi się on teraz na ekranie prób i można go wybrać, aby dodać więcej szczegółów.
 
 11
 00:01:11,766 --> 00:01:15,766
-Select the Edit button for traits to add traits to the trial.
+Wybierz przycisk Edytuj cechy, aby dodać cechy do próby.
 
 12
 00:01:31,333 --> 00:01:35,333
-Add trait instances if you want to score the same trait multiple times.
+Dodaj instancje cech, jeśli chcesz wielokrotnie punktować tę samą cechę.
 
 13
 00:01:49,966 --> 00:01:53,966
-Now we are going to create a Plot ID trial.
+Teraz utworzymy próbę identyfikatora działki.
 
 14
 00:01:59,266 --> 00:02:03,266
-Plot ID trials contains plots with unique identification numbers.
+Próby Plot ID zawierają działki z unikalnymi numerami identyfikacyjnymi.
 
 15
 00:02:07,600 --> 00:02:11,600
-Choose the number of plots you want in the trial.
+Wybierz liczbę działek w próbie.
 
 16
 00:02:13,766 --> 00:02:17,766
-The Run Length can be set to vertical or horizontal.
+Długość przebiegu można ustawić na pionową lub poziomą.
 
 17
 00:02:27,400 --> 00:02:31,400
-No subplots were added to the Plot ID trial.
+Do próby Plot ID nie dodano żadnych podrozdziałów.
 
 18
 00:02:31,400 --> 00:02:35,400
-Select the Add Subplot option from the Menu if you want to add them later.
+Wybierz opcję Dodaj podrozdziały z menu, jeśli chcesz dodać je później.
