@@ -1,27 +1,27 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Tags are short, reusable text descriptions that can be applied to plots or subplots when scoring.
+Tags sind kurze, wiederverwendbare Textbeschreibungen, die beim Scoring auf Parzellen oder Unterparzellen angewendet werden können.
 
 2
 00:00:10,366 --> 00:00:14,366
-You can create new tags by select the Add Tag button in the Tags screen.
+Sie können neue Tags erstellen, indem Sie im Bildschirm Tags auf die Schaltfläche Tag hinzufügen klicken.
 
 3
 00:00:20,866 --> 00:00:24,866
-Enter a label. This is the name of the tag.
+Geben Sie eine Bezeichnung ein. Dies ist der Name des Tags.
 
 4
 00:00:28,200 --> 00:00:32,200
-Select the Use button to see if the label is already in use.
+Wählen Sie die Schaltfläche Verwenden, um zu sehen, ob das Etikett bereits verwendet wird.
 
 5
 00:00:33,566 --> 00:00:37,566
-If the label name if free, then you can enter a short description.
+Wenn der Name des Etiketts frei ist, können Sie eine kurze Beschreibung eingeben.
 
 6
 00:00:40,500 --> 00:00:44,500
-Select the Confirm button to create the tag.
+Wählen Sie die Schaltfläche Bestätigen, um den Tag zu erstellen.
 
 7
 00:00:50,733 --> 00:00:54,733
-The tag is now available when scoring
+Der Tag ist jetzt bei der Wertung verfügbar
