@@ -1,6 +1,6 @@
 ﻿1
 00:00:05,100 --> 00:00:09,100
-Die normale Bewertungsmethode beginnt mit der Auswahl der einzelnen Merkmale, die bewertet werden sollen.
+Die normale Auswertung beginnt mit der Auswahl der einzelnen Merkmale, die bewertet werden sollen.
 
 2
 00:00:20,800 --> 00:00:24,800
@@ -12,7 +12,7 @@ Wählen Sie ein Merkmal, um mit der Bewertung zu beginnen.
 
 4
 00:00:41,733 --> 00:00:45,733
-Nachdem jedes Merkmal bewertet wurde, wird das nächste Merkmal angezeigt. 
+Nachdem jedes Merkmal ausgewertet wurde, wird das nächste Merkmal angezeigt. 
 
 5
 00:00:49,600 --> 00:00:53,600
@@ -28,4 +28,4 @@ Wählen Sie die Schaltfläche Pause, um die Funktion zu deaktivieren.
 
 8
 00:01:15,833 --> 00:01:19,833
-Sie befinden sich nun im normalen Wertungsmodus.
+Sie befinden sich nun im normalen Auswertungsmodus.
