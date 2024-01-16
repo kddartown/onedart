@@ -32,9 +32,8 @@ Continue choosing plots to bulk score.
 
 9
 00:01:25,000 --> 00:01:29,000
-Select the Overwrite Trait Values checkbox if you want to bulk score a trait that already has a value
+Select the Overwrite Trait Values checkbox if you want to bulk score a trait that already has a value.
 
 10
 00:01:41,233 --> 00:01:45,233
 You can also bulk score tags on any selected plot.
-
