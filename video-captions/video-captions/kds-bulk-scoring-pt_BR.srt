@@ -1,39 +1,39 @@
 ﻿1
 00:00:04,933 --> 00:00:08,933
-Bulk scoring is a feature that helps users score multiple plot or subplots at the same time.
+A pontuação em massa é um recurso que ajuda os usuários a pontuar várias áreas marcadas ou subáreas marcadas ao mesmo tempo.
 
 2
 00:00:11,500 --> 00:00:15,500
-First open a trial in Field Scoring mode.
+Primeiro abra um projeto no Modo de pontuação pela área.
 
 3
 00:00:20,700 --> 00:00:24,700
-Select a plot to view the bulk scoring options.
+Selecione uma área marcada para visualizar as opções de pontuação em massa.
 
 4
 00:00:28,600 --> 00:00:32,600
-The Subplot button displays all subplot-level traits. 
+O botão Subárea marcada exibe todos os traços de subnível de subárea. 
 
 5
 00:00:35,766 --> 00:00:39,766
-The measurement you choose will be applied to all subplots in your selected plot. In this case, two.
+A medição que você escolher será aplicada a todas as subáreas marcadas na sua área marcada selecionada. Neste caso, duas.
 
 6
 00:00:48,800 --> 00:00:52,800
-For scoring plot-level traits, choose any number of plots and select the Plot button. 
+Para pontuar traços no nível de área marcada, escolha qualquer número de áreas marcadas e selecione o botão Área Marcada. 
 
 7
 00:01:01,000 --> 00:01:05,000
-Any chosen values are applied to all selected plots.
+Quaisquer valores escolhidos são aplicados a todas as áreas marcadas selecionadas.
 
 8
 00:01:11,533 --> 00:01:15,533
-Continue choosing plots to bulk score.
+Continue escolhendo áreas marcadas para pontuação em massa.
 
 9
 00:01:25,000 --> 00:01:29,000
-Select the Overwrite Trait Values checkbox if you want to bulk score a trait that already has a value
+Selecione a caixa de seleção Substituir Valores de Traço se você deseja fazer uma pontuação em massa de um traço que já possui um valor.
 
 10
 00:01:41,233 --> 00:01:45,233
-You can also bulk score tags on any selected plot.
+Você também pode pontuar em massa as etiquetas em qualquer área marcada selecionada.
