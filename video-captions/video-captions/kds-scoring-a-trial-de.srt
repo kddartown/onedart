@@ -1,10 +1,10 @@
 ﻿1
 00:00:03,400 --> 00:00:07,400
-Wählen Sie ein Merkmal aus dem Bewertungsbildschirm aus.
+Wählen Sie ein Merkmal aus dem Bildschirm Auswertung aus.
 
 2
 00:00:09,566 --> 00:00:13,566
-Wählen Sie eine Messung für das Merkmal aus. Dies führt Sie zurück zum Bildschirm "Bewertung".
+Wählen Sie eine Messung für das Merkmal aus. Dadurch gelangen Sie zurück zur Auswertung.
 
 3
 00:00:14,633 --> 00:00:18,633
@@ -24,4 +24,4 @@ Sie können eine Parzelle auch in der Feldansicht auswählen.
 
 7
 00:00:59,033 --> 00:01:03,033
-Fahren Sie fort, bis das Ergebnis vollständig ist.
+Fahren Sie fort, bis die Auswertung abgeschlossen ist.
