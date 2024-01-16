@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,933 --> 00:00:08,933
-Die Mehrfachauswertung ist eine Funktion, mit der Benutzer mehrere Parzellen oder Unterparzellen gleichzeitig bewerten können.
+Die Mehrfachauswertung ist eine Funktion, mit der Benutzer mehrere Parzellen oder Unterparzellen gleichzeitig auswerten können.
 
 2
 00:00:11,500 --> 00:00:15,500
@@ -20,7 +20,7 @@ Die von Ihnen gewählte Messung wird auf alle Unterparzellen der ausgewählten P
 
 6
 00:00:48,800 --> 00:00:52,800
-Um Merkmale auf Parzellen-Ebene zu bewerten, wählen Sie eine beliebige Anzahl von Parzellen und klicken Sie auf die Schaltfläche Parzelle. 
+Wählen Sie für die Auswertung von Merkmalen auf Parzellenebene eine beliebige Anzahl von Parzellen aus und klicken Sie auf die Schaltfläche Parzelle. 
 
 7
 00:01:01,000 --> 00:01:05,000
@@ -32,7 +32,7 @@ Fahren Sie mit der Auswahl der Parzellen für die Mehrfachauswertung fort.
 
 9
 00:01:25,000 --> 00:01:29,000
-Aktivieren Sie das Kontrollkästchen Eigenschaftswerte überschreiben, wenn Sie ein Merkmal, das bereits einen Wert hat, mehrfach auswerten möchten.
+Aktivieren Sie das Kontrollkästchen Merkmalswerte überschreiben, wenn Sie eine Mehrfachauswertung für ein Merkmal vornehmen möchten, das bereits einen Wert hat.
 
 10
 00:01:41,233 --> 00:01:45,233
