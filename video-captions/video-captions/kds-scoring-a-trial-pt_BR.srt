@@ -1,27 +1,27 @@
 ﻿1
 00:00:03,400 --> 00:00:07,400
-Select a trait from the Scoring screen.
+Selecione um traço na tela de Pontuação.
 
 2
 00:00:09,566 --> 00:00:13,566
-Select a measurement for the trait. This will take you back to the Scoring screen.
+Selecione uma medida para o traço. Isso o levará de volta à tela de Pontuação.
 
 3
 00:00:14,633 --> 00:00:18,633
-Repeat this process for each trait.
+Repita este processo para cada traço.
 
 4
 00:00:26,300 --> 00:00:30,300
-Select the Next or Previous Plot buttons to navigate to the next or previous plot.
+Selecione os botões Próxima ou Anterior Área Marcada para navegar para a próxima ou anterior área marcada.
 
 5
 00:00:38,633 --> 00:00:42,633
-You can select a specific plot to move to.
+Você pode selecionar uma área marcada específica para se mover.
 
 6
 00:00:50,433 --> 00:00:54,433
-You can also choose a plot from the Field view.
+Você também pode escolher uma área marcada na vista da área.
 
 7
 00:00:59,033 --> 00:01:03,033
-Continue until scoring is complete.
+Continue até que a pontuação esteja completa.
