@@ -1,27 +1,27 @@
 ﻿1
 00:00:03,400 --> 00:00:07,400
-Select a trait from the Scoring screen.
+Sélectionnez une caractéristique dans l'écran de notation.
 
 2
 00:00:09,566 --> 00:00:13,566
-Select a measurement for the trait. This will take you back to the Scoring screen.
+Sélectionnez une mesure pour la caractéristique. Vous revenez ainsi à l'écran de notation.
 
 3
 00:00:14,633 --> 00:00:18,633
-Repeat this process for each trait.
+Répétez ce processus pour chaque caractéristique.
 
 4
 00:00:26,300 --> 00:00:30,300
-Select the Next or Previous Plot buttons to navigate to the next or previous plot.
+Sélectionnez les boutons Tracé suivant ou Tracé précédent pour naviguer vers le tracé suivant ou précédent.
 
 5
 00:00:38,633 --> 00:00:42,633
-You can select a specific plot to move to.
+Vous pouvez sélectionner une zone spécifique vers laquelle vous déplacer.
 
 6
 00:00:50,433 --> 00:00:54,433
-You can also choose a plot from the Field view.
+Vous pouvez également choisir une zone dans la Vue du terrain.
 
 7
 00:00:59,033 --> 00:01:03,033
-Continue until scoring is complete.
+Continuer jusqu'à ce que la notation soit terminée.
