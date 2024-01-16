@@ -1,0 +1,31 @@
+﻿1
+00:00:05,100 --> 00:00:09,100
+The normal scoring method starts with choosing each trait to score.
+
+2
+00:00:20,800 --> 00:00:24,800
+The Auto-advance feature will advance to the next trait automatically. Start by turning it on.
+
+3
+00:00:30,966 --> 00:00:34,966
+Choose a trait to start scoring.
+
+4
+00:00:41,733 --> 00:00:45,733
+After each trait is scored, the next trait is shown. 
+
+5
+00:00:49,600 --> 00:00:53,600
+You will automatically advance to the next plot or subplot. 
+
+6
+00:01:00,100 --> 00:01:04,100
+Select the Back button to exit Auto-advance mode.
+
+7
+00:01:06,666 --> 00:01:10,666
+Select the Pause button to turn the feature off.
+
+8
+00:01:15,833 --> 00:01:19,833
+You will now be in the normal scoring mode.
