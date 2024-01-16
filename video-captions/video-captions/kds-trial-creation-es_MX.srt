@@ -1,54 +1,54 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Trials are usually imported, but you can also create new trials within the KDSmart app. 
+Por lo general, los ensayos se importan, pero también se pueden crear ensayos nuevos dentro de la aplicación KDSmart. 
 
 2
 00:00:09,633 --> 00:00:13,633
-Go to the Trials screen and choose the Create Trial option from the Menu.
+Vaya a la pantalla Ensayos y elija la opción Crear ensayo del Menú.
 
 3
 00:00:18,166 --> 00:00:22,166
-Enter the details such as the trial name
+Introduzca datos como el nombre del ensayo
 
 4
 00:00:28,266 --> 00:00:32,266
-Here we are creating an X/Y trial with columns and rows and each plot has an x/y coordinate. We will demontrate Plot trials later in the video.
+Aquí estamos creando un ensayo X/Y con columnas y filas y cada area tiene una coordenada x/y. Demostraremos los ensayos de areas mas adelante en el video.
 
 5
 00:00:34,100 --> 00:00:38,100
-For X/Y trials, you need to choose the number of columns and the number of rows.
+Para los ensayos X/Y, debe elegir el número de columnas y el número de filas.
 
 6
 00:00:44,266 --> 00:00:48,266
-Optionally, you can add a number of subplots.
+Si lo desea, puede añadir varias subareas.
 
 7
 00:00:48,633 --> 00:00:52,633
-Choosing '2' here means that each plot in the trial will contain two subplots.
+Elegir "2" significa que cada area del ensayo contendrá dos subareas.
 
 8
 00:00:55,033 --> 00:00:59,033
-Choose a trait instance style to determine how instances of the same trait are shown.
+Elija un estilo de caso individual de rasgo para determinar cómo se muestran los casos individuales del mismo rasgo.
 
 9
 00:01:01,133 --> 00:01:05,133
-Select the Confirm button when you are ready to create the trial. 
+Seleccione el botón Confirmar cuando esté listo para crear el ensayo. 
 
 10
 00:01:06,033 --> 00:01:10,033
-It will now appear on the Trials screen and you can select it to add more details.
+Ahora aparecerá en la pantalla de ensayos y podrá seleccionarlo para añadir más detalles.
 
 11
 00:01:11,766 --> 00:01:15,766
-Select the Edit button for traits to add traits to the trial.
+Seleccione el botón Editar rasgos para añadir rasgos al ensayo.
 
 12
 00:01:31,333 --> 00:01:35,333
-Add trait instances if you want to score the same trait multiple times.
+Añada casos individuales de rasgos si desea puntuar el mismo rasgo varias veces.
 
 13
 00:01:49,966 --> 00:01:53,966
-Now we are going to create a Plot ID trial.
+Ahora vamos a crear un ensayo de ID de parcela.
 
 14
 00:01:59,266 --> 00:02:03,266
@@ -56,16 +56,16 @@ Plot ID trials contains plots with unique identification numbers.
 
 15
 00:02:07,600 --> 00:02:11,600
-Choose the number of plots you want in the trial.
+Elija el número de areas que desea en el ensayo.
 
 16
 00:02:13,766 --> 00:02:17,766
-The Run Length can be set to vertical or horizontal.
+La longitud del recorrido puede ajustarse en vertical u horizontal.
 
 17
 00:02:27,400 --> 00:02:31,400
-No subplots were added to the Plot ID trial.
+No se añadieron subareas al ensayo de identificación de parcelas.
 
 18
 00:02:31,400 --> 00:02:35,400
-Select the Add Subplot option from the Menu if you want to add them later.
+Seleccione la opción Añadir subarea del Menú si desea añadirlas más tarde.
