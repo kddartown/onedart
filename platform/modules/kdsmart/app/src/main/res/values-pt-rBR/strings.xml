@@ -1154,28 +1154,28 @@
     <string name="msg_last_successfull_fetch">"A última busca bem-sucedida foi em "</string>
     <string name="title_fetching_trials">Buscando projetos KDDart</string>
     <plurals name="title_sub_plots">
-        <item quantity="one"/>
-        <item quantity="many"/>
+        <item quantity="one">%2$s</item>
+        <item quantity="many"></item>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_plots">
-        <item quantity="one"/>
-        <item quantity="many"/>
+        <item quantity="one">%1$s</item>
+        <item quantity="many"></item>
         <item quantity="other">%1$s</item>
     </plurals>
     <plurals name="title_delete_trials">
-        <item quantity="one"/>
-        <item quantity="many"/>
+        <item quantity="one">\@string/title_activity_delete_trial</item>
+        <item quantity="many"></item>
         <item quantity="other">\@string /title_activity_delete_trials</item>
     </plurals>
     <plurals name="title_delete_tags">
-        <item quantity="one"/>
-        <item quantity="many"/>
+        <item quantity="one">\@string/ctx_title_delete_tag</item>
+        <item quantity="many"></item>
         <item quantity="other">\@string /ctx_title_delete_tags</item>
     </plurals>
     <plurals name="title_delete_traits">
-        <item quantity="one"/>
-        <item quantity="many"/>
+        <item quantity="one">\@string/title_activity_delete_trait</item>
+        <item quantity="many"></item>
         <item quantity="other">\@string /title_activity_delete_traits</item>
     </plurals>
     <string name="msg_checkbox_text">Texto da caixa de seleção</string>
@@ -1689,69 +1689,69 @@
     <string name="title_please_confirm_tag_export">Por favor, confirme a exportação de etiquetas.</string>
     <string name="title_please_confirm_trait_export">Por favor, confirme a exportação de traços.</string>
     <plurals name="msg_n_tags_imported">
-        <item quantity="one"/>
-        <item quantity="many"/>
-        <item quantity="other">%d tags importadas</item>
+        <item quantity="one">%d etiqueta importada</item>
+        <item quantity="many"></item>
+        <item quantity="other">%d etiquetas importadas</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
-        <item quantity="one"/>
-        <item quantity="many"/>
-        <item quantity="other">%d características importadas</item>
+        <item quantity="one">%d traço importado</item>
+        <item quantity="many"></item>
+        <item quantity="other">%d traços importados</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
-        <item quantity="one"/>
-        <item quantity="many"/>
-        <item quantity="other">%d características atualizadas</item>
+        <item quantity="one">%d traço atualizado</item>
+        <item quantity="many"></item>
+        <item quantity="other">%d traços atualizados</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
-        <item quantity="one"/>
-        <item quantity="many"/>
-        <item quantity="other">%d Instâncias de características ativas</item>
+        <item quantity="one">%d Instância de Traços Ativa</item>
+        <item quantity="many"></item>
+        <item quantity="other">%d Instâncias de Traço Ativas</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
-        <item quantity="one"/>
-        <item quantity="many"/>
-        <item quantity="other">%d ensaios selecionados para exclusão</item>
+        <item quantity="one">%d projeto selecionado para exclusão</item>
+        <item quantity="many"></item>
+        <item quantity="other">%d projetos selecionados para exclusão</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
-        <item quantity="one"/>
-        <item quantity="many"/>
-        <item quantity="other">%d As características serão excluídas</item>
+        <item quantity="one">%d Traço Será Excluído</item>
+        <item quantity="many"></item>
+        <item quantity="other">%d Traços Serão Excluídos</item>
     </plurals>
     <plurals name="msg_export_n_traits">
-        <item quantity="one"/>
-        <item quantity="many"/>
-        <item quantity="other">%d características selecionadas para exportação</item>
+        <item quantity="one">%d traço selecionado para exportação</item>
+        <item quantity="many"></item>
+        <item quantity="other">%d traços selecionados para exportação</item>
     </plurals>
     <plurals name="msg_export_n_trials">
-        <item quantity="one"/>
-        <item quantity="many"/>
-        <item quantity="other">%d ensaios selecionados para exportação</item>
+        <item quantity="one">%d projeto selecionado para exportação</item>
+        <item quantity="many"></item>
+        <item quantity="other">%d projetos selecionados para exportação</item>
     </plurals>
     <plurals name="msg_export_n_tags">
-        <item quantity="one"/>
-        <item quantity="many"/>
-        <item quantity="other">%d tags selecionadas para exportação</item>
+        <item quantity="one">%d etiqueta selecionada para exportação</item>
+        <item quantity="many"></item>
+        <item quantity="other">%d etiquetas selecionadas para exportação</item>
     </plurals>
     <plurals name="msg_imported_n_plots">
-        <item quantity="one"/>
-        <item quantity="many"/>
+        <item quantity="one">%2$d %1$s importado</item>
+        <item quantity="many"></item>
         <item quantity="other">%2$d %1$s importado</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
-        <item quantity="one"/>
-        <item quantity="many"/>
+        <item quantity="one">%2$d %1$s Medição de amostra</item>
+        <item quantity="many"></item>
         <item quantity="other">%2$d %1$s Medições de amostra</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
-        <item quantity="one"/>
-        <item quantity="many"/>
+        <item quantity="one">%1$d %2$s Measurement</item>
+        <item quantity="many"></item>
         <item quantity="other">%1$d %2$s Medições</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
-        <item quantity="one"/>
-        <item quantity="many"/>
-        <item quantity="other">Novas características adicionadas %d</item>
+        <item quantity="one">Adicionada %d nova traço</item>
+        <item quantity="many"></item>
+        <item quantity="other">Adicionados %d Novos Traços</item>
     </plurals>
     <string name="title_export_kdxplore">KDXplore</string>
     <string name="title_export_kddart">KDDart</string>
