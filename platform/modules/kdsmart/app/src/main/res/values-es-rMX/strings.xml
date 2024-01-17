@@ -313,32 +313,32 @@
     <string name="prompt_autoscoring_options_selected_traits">Rasgos seleccionados</string>
     <plurals name="msg_n_tags_imported">
         <item quantity="one">Una etiqueta importada</item>
-        <item quantity="many"/>
+        <item quantity="many">%d etiquetas importadas</item>
         <item quantity="other">%d etiquetas importadas</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
         <item quantity="one">Un rasgo importado</item>
-        <item quantity="many"/>
+        <item quantity="many">%d rasgos importados</item>
         <item quantity="other">%d rasgos importados</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
         <item quantity="one">Un rasgo actualizado</item>
-        <item quantity="many"/>
+        <item quantity="many">%d Rasgos actualizados</item>
         <item quantity="other">%d Rasgos actualizados</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
         <item quantity="one">%d Rasgo Instancia Activa</item>
-        <item quantity="many"/>
+        <item quantity="many">%d Casos individuales de rasgos activos</item>
         <item quantity="other">%d Casos individuales de rasgos activos</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
         <item quantity="one">%d ensayo seleccionado para su eliminación</item>
-        <item quantity="many"/>
+        <item quantity="many">%d ensayos seleccionados para su eliminación</item>
         <item quantity="other">%d ensayos seleccionados para su eliminación</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
         <item quantity="one">%d Rasgo que se eliminará</item>
-        <item quantity="many"/>
+        <item quantity="many">%d Rasgos suprimidos</item>
         <item quantity="other">%d Rasgos suprimidos</item>
     </plurals>
     <string name="title_export_all_traits">Exportar todos los Rasgos</string>
@@ -346,18 +346,18 @@
     <string name="title_please_confirm_trait_export">Confirme la exportación de rasgos</string>
     <plurals name="msg_export_n_traits">
         <item quantity="one">%d rasgos seleccionados para la exportación</item>
-        <item quantity="many"/>
+        <item quantity="many">%d Rasgos seleccionados para la exportación</item>
         <item quantity="other">%d Rasgos seleccionados para la exportación</item>
     </plurals>
     <plurals name="msg_export_n_trials">
         <item quantity="one">%d ensayos seleccionados para la exportación</item>
-        <item quantity="many"/>
+        <item quantity="many">%d ensayos seleccionados para la exportación</item>
         <item quantity="other">%d ensayos seleccionados para la exportación</item>
     </plurals>
     <string name="title_export_all_tags">Exportar todas las etiquetas</string>
     <plurals name="msg_export_n_tags">
         <item quantity="one">%d etiqueta Seleccionada para la exportación</item>
-        <item quantity="many"/>
+        <item quantity="many">%d etiquetas Seleccionadas para la exportación</item>
         <item quantity="other">%d etiquetas Seleccionadas para la exportación</item>
     </plurals>
     <string name="title_activity_scoring_setup">Configure</string>
@@ -515,22 +515,22 @@
     <string name="msg_import_trial_sample_counts_colon">Recuentos de mediciones de muestras:</string>
     <plurals name="msg_imported_n_plots">
         <item quantity="one">%2$d %1$s importado</item>
-        <item quantity="many"/>
+        <item quantity="many">%2$d %1$s importado</item>
         <item quantity="other">%2$d %1$s importado</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
         <item quantity="one">%2$d %1$s Medición de muestras</item>
-        <item quantity="many"/>
+        <item quantity="many">%2$d %1$s Mediciones de muestras</item>
         <item quantity="other">%2$d %1$s Mediciones de muestras</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
         <item quantity="one">%1$d %2$s Medición</item>
-        <item quantity="many"/>
+        <item quantity="many">%1$d %2$s Medidas</item>
         <item quantity="other">%1$d %2$s Medidas</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
         <item quantity="one">Añadido %d Nuevos Rasgos</item>
-        <item quantity="many"/>
+        <item quantity="many">Añadido %d Nuevos Rasgos</item>
         <item quantity="other">Añadido %d Nuevos Rasgos</item>
     </plurals>
     <string name="title_activity_export_trial">Ensayos de exportación</string>
@@ -1211,27 +1211,27 @@
     <string name="title_fetching_trials">Obtención de ensayos de KDDart</string>
     <plurals name="title_sub_plots">
         <item quantity="one">%2$s</item>
-        <item quantity="many"/>
+        <item quantity="many">%2$s</item>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_plots">
         <item quantity="one">%1$s</item>
-        <item quantity="many"/>
+        <item quantity="many">%1$s</item>
         <item quantity="other">%1$s</item>
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string/title_activity_delete_trial</item>
-        <item quantity="many"/>
+        <item quantity="many">\@string/title_activity_delete_trials</item>
         <item quantity="other">\@string/title_activity_delete_trials</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string/ctx_title_delete_tag</item>
-        <item quantity="many"/>
+        <item quantity="many">\@string/ctx_title_delete_tags</item>
         <item quantity="other">\@string/ctx_title_delete_tags</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string/title_activity_delete_trait</item>
-        <item quantity="many"/>
+        <item quantity="many">\@string/title_activity_delete_traits</item>
         <item quantity="other">\@string/title_activity_delete_traits</item>
     </plurals>
     <string name="msg_checkbox_text">Texto de la casilla</string>
