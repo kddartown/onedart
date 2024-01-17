@@ -384,32 +384,32 @@
     <string name="prompt_autoscoring_options_selected_traits">Caractéristiques sélectionnées</string>
     <plurals name="msg_n_tags_imported">
         <item quantity="one">%d étiquette importée</item>
-        <item quantity="many"></item>
+        <item quantity="many">%d étiquettes importées</item>
         <item quantity="other">%d étiquettes importées</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
         <item quantity="one">%d caractéristique importée</item>
-        <item quantity="many"></item>
+        <item quantity="many">%d caractéristiques importées</item>
         <item quantity="other">%d caractéristiques importées</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
         <item quantity="one">%d caractéristique mise à jour</item>
-        <item quantity="many"></item>
+        <item quantity="many">%d caractéristiques mises à jour</item>
         <item quantity="other">%d caractéristiques mises à jour</item>
     </plurals>
     <plurals name="msg_n_trait_instances_selected">
         <item quantity="one">%d Exemple de caractéristique actif</item>
-        <item quantity="many"></item>
+        <item quantity="many">%d Exemples de caractéristique actifs</item>
         <item quantity="other">%d Exemples de caractéristique actifs</item>
     </plurals>
     <plurals name="msg_delete_n_trials">
         <item quantity="one">%d projet sélectionné pour suppression</item>
-        <item quantity="many"></item>
+        <item quantity="many">%d projets sélectionnés pour suppression</item>
         <item quantity="other">%d projets sélectionnés pour suppression</item>
     </plurals>
     <plurals name="msg_delete_n_traits">
         <item quantity="one">%d caractéristique sera supprimée</item>
-        <item quantity="many"></item>
+        <item quantity="many">%d Les caractéristiques seront supprimées</item>
         <item quantity="other">%d Les caractéristiques seront supprimées</item>
     </plurals>
     <string name="title_export_all_traits">Exporter toutes les caractéristiques</string>
@@ -417,18 +417,18 @@
     <string name="title_please_confirm_trait_export">Veuillez confirmer l\'exportation de caractéristiques</string>
     <plurals name="msg_export_n_traits">
         <item quantity="one">%d caractéristique sélectionnée pour l\'importation</item>
-        <item quantity="many"></item>
+        <item quantity="many">%d caractéristiques sélectionnées pour l\'exportation</item>
         <item quantity="other">%d caractéristiques sélectionnées pour l\'exportation</item>
     </plurals>
     <plurals name="msg_export_n_trials">
         <item quantity="one">%d projet sélectionné pour l\'importation</item>
-        <item quantity="many"></item>
+        <item quantity="many">%d projets sélectionnés pour l\'exportation</item>
         <item quantity="other">%d projets sélectionnés pour l\'exportation</item>
     </plurals>
     <string name="title_export_all_tags">Exporter toutes les étiquettes</string>
     <plurals name="msg_export_n_tags">
         <item quantity="one">%d étiquette sélectionnée pour l\'importation</item>
-        <item quantity="many"></item>
+        <item quantity="many">%d Étiquettes sélectionnées pour l\'exportation</item>
         <item quantity="other">%d Étiquettes sélectionnées pour l\'exportation</item>
     </plurals>
     <string name="title_activity_scoring_setup">Configurer</string>
@@ -567,22 +567,22 @@
     <!-- TODO check this in french, cant release before test -->
     <plurals name="msg_imported_n_plots">
         <item quantity="one">%2$d %1$s importé</item>
-        <item quantity="many"></item>
+        <item quantity="many">%2$d %1$s importé</item>
         <item quantity="other">%2$d %1$s importé</item>
     </plurals>
     <plurals name="msg_import_trial_n_plot_sample_measurements">
         <item quantity="one">%2$d %1$s Mesure de l\'échantillon</item>
-        <item quantity="many"></item>
+        <item quantity="many">%2$d %1$s Mesures de l\'échantillon</item>
         <item quantity="other">%2$d %1$s Mesures de l\'échantillon</item>
     </plurals>
     <plurals name="msg_import_trial_n_specimen_sample_measurements">
         <item quantity="one">%1$d %2$s Mesure</item>
-        <item quantity="many"></item>
+        <item quantity="many">%1$d %2$s Mesures</item>
         <item quantity="other">%1$d %2$s Mesures</item>
     </plurals>
     <plurals name="msg_import_trial_added_n_new_traits">
         <item quantity="one">ajout %d nouvelle caractéristique</item>
-        <item quantity="many"></item>
+        <item quantity="many">Ajout de %d Nouvelles caractéristiques</item>
         <item quantity="other">Ajout de %d Nouvelles caractéristiques</item>
     </plurals>
     <string name="title_activity_export_trial">Projets d\'exportation</string>
@@ -1238,22 +1238,22 @@
     <string name="title_fetching_trials">Récupération des projets KDDart</string>
     <plurals name="title_sub_plots">
         <item quantity="one">%2$s</item>
-        <item quantity="many"></item>
+        <item quantity="many">%2$s</item>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string/title_activity_delete_trial</item>
-        <item quantity="many"></item>
+        <item quantity="many">\@string/title_activity_delete_trials</item>
         <item quantity="other">\@string/title_activity_delete_trials</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string/ctx_title_delete_tag</item>
-        <item quantity="many"></item>
+        <item quantity="many">\@string/ctx_title_delete_tags</item>
         <item quantity="other">\@string/ctx_title_delete_tags</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string/title_activity_delete_trait</item>
-        <item quantity="many"></item>
+        <item quantity="many">\@string/title_activity_delete_traits</item>
         <item quantity="other">\@string/title_activity_delete_traits</item>
     </plurals>
     <string name="msg_checkbox_text">Texte de la case à cocher</string>
@@ -1764,7 +1764,7 @@
     <string name="title_import_as_trial_cell_name">Projet %1$s Nom</string>
     <plurals name="title_plots">
         <item quantity="one">%1$s</item>
-        <item quantity="many"></item>
+        <item quantity="many">%1$s</item>
         <item quantity="other">%1$s</item>
     </plurals>
     <string name="title_import_as_sub_plot_database_id">%2$s ID de la base de données</string>
