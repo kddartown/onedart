@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,933 --> 00:00:08,933
-Bulk scoring is a feature that helps users score multiple plot or subplots at the same time.
+Bulk scoring is a feature that helps users score multiple plots or subplots at the same time.
 
 2
 00:00:11,500 --> 00:00:15,500
