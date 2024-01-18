@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,933 --> 00:00:08,933
-Punktacja zbiorcza to funkcja, która pomaga użytkownikom punktować wiele działek lub podrozdziałów w tym samym czasie.
+Punktacja zbiorcza to funkcja, która pomaga użytkownikom w punktacji wielu działek lub podrozdziałów w tym samym czasie.
 
 2
 00:00:11,500 --> 00:00:15,500
