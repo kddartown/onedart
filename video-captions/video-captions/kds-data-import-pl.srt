@@ -1,39 +1,39 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-To import a trial into KDSmart, go to the Trials screen and select the Import button.
+Aby zaimportować próbę do KDSmart, przejdź do ekranu Próby i wybierz przycisk Importuj.
 
 2
 00:00:09,800 --> 00:00:13,800
-Select the Device option to choose a file on your KDSmart device.
+Wybierz opcję Urządzenie, aby wybrać plik na urządzeniu KDSmart.
 
 3
 00:00:22,866 --> 00:00:26,866
-Here you can select a file to import. In this example, we are importing a KDX file.
+Tutaj można wybrać plik do zaimportowania. W tym przykładzie importujemy plik KDX.
 
 4
 00:00:28,966 --> 00:00:32,966
-A KDX file can include a trial with any traits, tags, and scored data.
+Plik KDX może zawierać próbę z dowolnymi cechami, tagami i punktacją.
 
 5
 00:00:34,366 --> 00:00:38,366
-The trial will now be available on the Trials screen.
+Próba będzie teraz dostępna na ekranie Prób.
 
 6
 00:00:41,466 --> 00:00:45,466
-You can also import trials in CSV format.
+Można również importować próby w formacie CSV.
 
 7
 00:00:59,900 --> 00:01:03,900
-KDSmart will guess what to import each column as. You will need to correct any errors.
+KDSmart zgadnie, jako co zaimportować każdą kolumnę. Będziesz musiał poprawić wszelkie błędy.
 
 8
 00:01:19,333 --> 00:01:23,333
-When importing CSV trials, you will need to choose a trait instance style.
+Podczas importowania prób CSV należy wybrać styl instancji cech.
 
 9
 00:01:25,933 --> 00:01:29,933
-Select the Import button to import the trial. It will now be available on the Trials screen.
+Wybierz przycisk Importuj, aby zaimportować próbę. Będzie on teraz dostępny na ekranie Prób.
 
 10
 00:01:31,633 --> 00:01:35,633
-You can also import traits and tags from CSV files with the same method. See the KDSmart User Guides for more information about importing data.
+W ten sam sposób można również importować cechy i tagi z plików CSV. Więcej informacji na temat importowania danych można znaleźć w Podręcznikach użytkownika KDSmart.
