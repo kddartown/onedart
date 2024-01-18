@@ -1,39 +1,39 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-To import a trial into KDSmart, go to the Trials screen and select the Import button.
+Para importar um projeto para o KDSmart, vá para a tela de Projetos e selecione o botão Importar.
 
 2
 00:00:09,800 --> 00:00:13,800
-Select the Device option to choose a file on your KDSmart device.
+Selecione a opção Dispositivo para escolher um arquivo no seu dispositivo KDSmart.
 
 3
 00:00:22,866 --> 00:00:26,866
-Here you can select a file to import. In this example, we are importing a KDX file.
+Aqui você pode selecionar um arquivo para importar. Neste exemplo, estamos importando um arquivo KDX.
 
 4
 00:00:28,966 --> 00:00:32,966
-A KDX file can include a trial with any traits, tags, and scored data.
+Um arquivo KDX pode incluir um projeto com quaisquer traços, etiquetas e dados pontuados.
 
 5
 00:00:34,366 --> 00:00:38,366
-The trial will now be available on the Trials screen.
+O projeto agora estará disponível na tela de Projetos.
 
 6
 00:00:41,466 --> 00:00:45,466
-You can also import trials in CSV format.
+Você também pode importar projetos no formato CSV.
 
 7
 00:00:59,900 --> 00:01:03,900
-KDSmart will guess what to import each column as. You will need to correct any errors.
+O KDSmart tentará adivinhar o que importar em cada coluna. Você precisará corrigir quaisquer erros.
 
 8
 00:01:19,333 --> 00:01:23,333
-When importing CSV trials, you will need to choose a trait instance style.
+Ao importar projetos CSV, você precisará escolher um estilo de instância de traço.
 
 9
 00:01:25,933 --> 00:01:29,933
-Select the Import button to import the trial. It will now be available on the Trials screen.
+Selecione o botão Importar para importar o projeto. Ele agora estará disponível na tela de Projetos.
 
 10
 00:01:31,633 --> 00:01:35,633
-You can also import traits and tags from CSV files with the same method. See the KDSmart User Guides for more information about importing data.
+Você também pode importar traços e etiquetas de arquivos CSV com o mesmo método. Consulte os Guias do Usuário KDSmart para obter mais informações sobre a importação de dados.
