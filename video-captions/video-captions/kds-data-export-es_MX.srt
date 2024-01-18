@@ -1,51 +1,51 @@
 ﻿1
 00:00:07,300 --> 00:00:11,300
-To export a trial, go to the Trials screen and select the Export option from the Menu.
+Para exportar un ensayo, vaya a la pantalla Ensayos y seleccione la opción Exportar del Menú.
 
 2
 00:00:15,366 --> 00:00:19,366
-Select the Device option to save a file to your device.
+Selecciona la opción Dispositivo para guardar un archivo en tu dispositivo.
 
 3
 00:00:21,166 --> 00:00:25,166
-You can save your data in in CSV or Zip formats, 
+Puedes guardar tus datos en formato CSV o Zip, 
 
 4
 00:00:25,733 --> 00:00:29,733
-but in this demo we will choose the Full Data for KDXplore option. This will save the selected trial as a KDX file, including all traits and tags.
+pero en esta demostración elegiremos la opción Datos completos para KDXplore. Esto guardará el ensayo seleccionado como un archivo KDX, incluyendo todos los rasgos y etiquetas.
 
 5
 00:00:31,266 --> 00:00:35,266
-Select a save location on your device.
+Selecciona una ubicación de guardado en tu dispositivo.
 
 6
 00:00:40,100 --> 00:00:44,100
-The export will now be completed.
+La exportación se habrá completado.
 
 7
 00:00:45,466 --> 00:00:49,466
-You can also share data with apps installed on your device such as Google Drive or Dropbox.
+También puedes compartir datos con aplicaciones instaladas en tu dispositivo como Google Drive o Dropbox.
 
 8
 00:00:50,066 --> 00:00:54,066
-Choose a trial and select the Share option from the Menu, then an export option.
+Elija un ensayo y seleccione en el menú la opción Compartir y, a continuación, una opción de exportación.
 
 9
 00:00:54,966 --> 00:00:58,966
-Then you can select an app to share your data with. 
+A continuación, puedes seleccionar una aplicación con la que compartir tus datos. 
 
 10
 00:01:00,066 --> 00:01:04,066
-In this example, we will save the exported data to a Google Drive folder.
+En este ejemplo, guardaremos los datos exportados en una carpeta de Google Drive.
 
 11
 00:01:15,066 --> 00:01:19,066
-The export process is the same for traits.
+El proceso de exportación es el mismo para los rasgos.
 
 12
 00:01:34,400 --> 00:01:38,400
-You can also export tags.
+También puedes exportar etiquetas.
 
 13
 00:01:43,500 --> 00:01:47,500
-See the KDSmart User Guides for more information about exporting data.
+Consulte las Guías del usuario de KDSmart para obtener más información sobre la exportación de datos.
