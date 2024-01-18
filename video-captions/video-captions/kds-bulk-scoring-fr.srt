@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,933 --> 00:00:08,933
-La notation en bloc est une fonction qui aide les utilisateurs à noter plusieurs zones ou sous-parcelles en même temps.
+La notation en bloc est une fonction qui permet aux utilisateurs de noter plusieurs zones ou sous-parcelles en même temps.
 
 2
 00:00:11,500 --> 00:00:15,500
