@@ -1785,4 +1785,18 @@
     <string name="msg_do_you_want_to_unprotect_numberinteger_traits">Do you want to Unprotect {0,number,integer} Traits?</string>
     <string name="title_app_name">KDSmart</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
+    <string name="ctx_bulk_scoring">Pontuação em massa</string>
+    <string name="ctx_title_path_scoring_mode">Modo de pontuação pela caminho</string>
+    <string name="ctx_data_management">Gestão de dados</string>
+    <string name="title_kdshelpvideos_1_en">Vídeos de ajuda em inglês</string>
+    <string name="title_kdshelpvideos_1_mex_sp">Vídeos de Ajuda em Espanhol Mexicano</string>
+    <string name="left_chevron">&lt;</string>
+    <string name="ctx_data_exchange">Troca de Dados</string>
+    <string name="ctx_data_exchange_import">Importação de Dados</string>
+    <string name="ctx_data_exchange_export">Exportação de Dados</string>
+    <string name="title_kdshelpvideos_1_pol">Vídeos de Ajuda em Polonês</string>
+    <string name="title_kdshelpvideos_1_fr">Vídeos de Ajuda em Francês</string>
+    <string name="title_downloading_module">Baixando vídeos</string>
+    <string name="title_kdshelpvideos_1_de">Vídeos de Ajuda em Alemão</string>
+    <string name="title_kdshelpvideos_1_pt_br">Vídeos de Ajuda em Português</string>
 </resources>
