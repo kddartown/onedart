@@ -1778,4 +1778,18 @@
     <string name="pref_auto_scoring_show_plot_info_above_trait">Configuration de l\'écran d\'avance automatique</string>
     <string name="title_text_size">Taille du texte</string>
     <string name="msg_no_further_details_required">aucun détail supplémentaire n\'est requis</string>
+    <string name="title_kdshelpvideos_1_en">Aide en anglais Vidéos</string>
+    <string name="title_kdshelpvideos_1_mex_sp">Vidéos d\'aide pour l\'espagnol mexicain</string>
+    <string name="title_kdshelpvideos_1_de">Vidéos d\'aide en allemand</string>
+    <string name="title_kdshelpvideos_1_pt_br">Vidéos d\'aide en portugais</string>
+    <string name="ctx_title_path_scoring_mode">Mode de notation par trajet</string>
+    <string name="ctx_bulk_scoring">Notation en bloc</string>
+    <string name="ctx_data_management">Gestion des données</string>
+    <string name="left_chevron">&lt;</string>
+    <string name="ctx_data_exchange">Échange de données</string>
+    <string name="ctx_data_exchange_import">Importation de données</string>
+    <string name="ctx_data_exchange_export">Exportation de données</string>
+    <string name="title_kdshelpvideos_1_pol">Vidéos d\'aide sur le polonais</string>
+    <string name="title_kdshelpvideos_1_fr">Vidéos d\'aide en français</string>
+    <string name="title_downloading_module">Téléchargement de vidéos</string>
 </resources>
