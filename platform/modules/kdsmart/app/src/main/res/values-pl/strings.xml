@@ -739,7 +739,7 @@
     <string name="msg_active_trial_choose_option">Co chcesz zrobić?</string>
     <string name="prompt_option_active_trial_yes_start_scoring">Rozpoczęcie punktacji</string>
     <string name="prompt_option_active_trial_no_clear_active_trial">Próba Clear Active</string>
-    <string name="msg_format_n_trials_have_no_planting_date">Niektóre próby ({0,number,integer}) nie mają daty sadzenia (Planting Date).</string>
+    <string name="msg_format_n_trials_have_no_planting_date">Some trials ({0,number,integer}) do not have a Planting Date</string>
     <string name="title_score_trial_preparing">Przygotowanie …</string>
     <string name="msg_progress_gathering_plots">Zbieranie %1$s</string>
     <string name="msg_progress_gathering_samples">Gromadzenie próbek</string>
@@ -772,10 +772,10 @@
     <string name="msg_page_trait">Cechy</string>
     <string name="msg_page_plot_info">%1$s info</string>
     <string name="msg_no_plot_info">Brak informacji %1$s</string>
-    <string name="msgfmt_tags_selected_for_delete">Tagi wybrane do usunięcia: {0,number,integer}</string>
+    <string name="msgfmt_tags_selected_for_delete">Tags Selected to Delete: {0,number,integer}</string>
     <string name="msg_min_must_be_lt_max">Min musi być mniejsze niż Max</string>
-    <string name="msgfmt_invalid_min_value">Nieprawidłowa wartość min: {0,number,integer}</string>
-    <string name="msgfmt_invalid_max_value">Nieprawidłowa wartość maks: {0,number,integer}</string>
+    <string name="msgfmt_invalid_min_value">Invalid min: {0,number,integer}</string>
+    <string name="msgfmt_invalid_max_value">Invalid max: {0,number,integer}</string>
     <string name="title_trial_element_names">Nazwy elementów próby</string>
     <string name="msg_hint_for_example_Plot">np. %1$s</string>
     <string name="msg_hint_for_example_Row">np. %4$s</string>
@@ -813,7 +813,7 @@
     <string name="title_paired_devices">Sparowane urządzenia</string>
     <string name="msg_no_paired_bt_devices">Nie sparowano żadnych urządzeń Bluetooth</string>
     <string name="title_generating_data">Generowanie danych …</string>
-    <string name="msgfmt_created_random_data_n_samples">Utworzono losowe dane dla próbek: {0,number,integer}</string>
+    <string name="msgfmt_created_random_data_n_samples">Created random data for samples: {0,number,integer}</string>
     <string name="hdg_heading_size">Rozmiar nagłówka</string>
     <string name="hdg_value_size">Wartość Rozmiar</string>
     <string name="hdg_plot_attribute">%1$s Atrybut</string>
@@ -1452,8 +1452,8 @@
     <string name="msg_export_bundle_to_kddart_fmt_2">Eksport pakietu do Kddart</string>
     <string name="msg_export_to_kddart_fmt_3">Eksport do KDDart</string>
     <string name="msg_traits_are_already_unprotected">Cechy są już niechronione</string>
-    <string name="msg_do_you_want_to_protect_numberinteger_traits">Czy chcesz chronić {0,number,integer} Cechy?</string>
-    <string name="msg_do_you_want_to_unprotect_numberinteger_traits">Czy chcesz usunąć ochronę {0,number,integer} Cechy?</string>
+    <string name="msg_do_you_want_to_protect_numberinteger_traits">Do you want to Protect {0,number,integer} Traits?</string>
+    <string name="msg_do_you_want_to_unprotect_numberinteger_traits">Do you want to Unprotect {0,number,integer} Traits?</string>
     <string name="msg_traits_are_now">Cechy są teraz</string>
     <string name="msg_protected_fmt_2">Chroniony</string>
     <string name="msg_unprotected">Bez ochrony</string>
@@ -1638,7 +1638,7 @@
     <string name="msg_export_for_kdxplore">Pełne dane dla KDXplore</string>
     <string name="msg_hdg_instance_numbers">Numery instancji</string>
     <string name="prompt_edit_devop_title">Edycja nazw urządzeń i operatorów</string>
-    <string name="msgfmt_traits_scored_m_of_n">Cechy punktowane: {0,number,integer} z {1,number,integer}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Traits scored: {0,number,integer} of {1,number,integer}</string>
     <string name="msg_btn_trials_as_kdx">Próby jako KDX</string>
     <string name="title_heatmap_colour_values">Wartości kolorów mapy ciepła</string>
     <string name="ctx_title_manage_database">Zarządzanie bazą danych</string>
