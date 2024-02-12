@@ -298,19 +298,19 @@
     <string name="prompt_autoscoring_options_selected_traits">Wybrane cechy</string>
     <plurals name="msg_n_tags_imported">
         <item quantity="one">Jeden importowany tag</item>
-        <item quantity="few"/>
+        <item quantity="few">%d tagi importowane</item>
         <item quantity="many">%d tagi importowane</item>
         <item quantity="other">%d tagi importowane</item>
     </plurals>
     <plurals name="msg_n_traits_imported">
         <item quantity="one">Jedna cecha importowana</item>
-        <item quantity="few"/>
+        <item quantity="few">%d importowane cechy</item>
         <item quantity="many">%d importowane cechy</item>
         <item quantity="other">%d importowane cechy</item>
     </plurals>
     <plurals name="msg_n_traits_updated">
         <item quantity="one">Zaktualizowano jedną cechę</item>
-        <item quantity="few"/>
+        <item quantity="few">%d Cechy zaktualizowane</item>
         <item quantity="many">%d Cechy zaktualizowane</item>
         <item quantity="other">%d Cechy zaktualizowane</item>
     </plurals>
@@ -1167,25 +1167,25 @@
     <string name="title_fetching_trials">Pobieranie eksperymentów KDDart</string>
     <plurals name="title_sub_plots">
         <item quantity="one">%2$s</item>
-        <item quantity="few"/>
+        <item quantity="few">%2$s</item>
         <item quantity="many">%2$s</item>
         <item quantity="other">%2$s</item>
     </plurals>
     <plurals name="title_delete_trials">
         <item quantity="one">\@string/title_activity_delete_trial</item>
-        <item quantity="few"/>
+        <item quantity="few">\@string/title_activity_delete_trial</item>
         <item quantity="many">\@string/title_activity_delete_trials</item>
         <item quantity="other">\@string/title_activity_delete_trials</item>
     </plurals>
     <plurals name="title_delete_tags">
         <item quantity="one">\@string/ctx_title_delete_tag</item>
-        <item quantity="few"/>
+        <item quantity="few">\@string/ctx_title_delete_tag</item>
         <item quantity="many">\@string/ctx_title_delete_tags</item>
         <item quantity="other">\@string/ctx_title_delete_tags</item>
     </plurals>
     <plurals name="title_delete_traits">
         <item quantity="one">\@string/title_activity_delete_trait</item>
-        <item quantity="few"/>
+        <item quantity="few">\@string/title_activity_delete_traits</item>
         <item quantity="many">\@string/title_activity_delete_traits</item>
         <item quantity="other">\@string/title_activity_delete_traits</item>
     </plurals>
@@ -1678,7 +1678,7 @@
     <string name="ctx_bulk_subplot_scoring">Ocena zbiorcza %1$s Ewaluacja</string>
     <plurals name="title_plots">
         <item quantity="one">%1$s</item>
-        <item quantity="few"/>
+        <item quantity="few">%1$s</item>
         <item quantity="many">%1$s</item>
         <item quantity="other">%1$s</item>
     </plurals>
