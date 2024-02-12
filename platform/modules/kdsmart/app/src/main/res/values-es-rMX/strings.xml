@@ -1777,4 +1777,18 @@
     <string name="title_text_size_medium">Texto medio</string>
     <string name="title_text_size_large">Texto grande</string>
     <string name="msg_no_further_details_required">no se requieren más detalles</string>
+    <string name="ctx_data_management">Gestión de datos</string>
+    <string name="ctx_title_path_scoring_mode">Modo de puntuación de ruta</string>
+    <string name="ctx_bulk_scoring">Puntuación de todos al mismo tiempo</string>
+    <string name="title_kdshelpvideos_1_en">Vídeos de ayuda en inglés</string>
+    <string name="title_kdshelpvideos_1_mex_sp">Vídeos de ayuda en español mexicano</string>
+    <string name="left_chevron">&lt;</string>
+    <string name="ctx_data_exchange">Intercambio de datos</string>
+    <string name="ctx_data_exchange_import">Importación de datos</string>
+    <string name="ctx_data_exchange_export">Exportación de datos</string>
+    <string name="title_kdshelpvideos_1_pol">Vídeos de ayuda en polaco</string>
+    <string name="title_kdshelpvideos_1_fr">Vídeos de ayuda en francés</string>
+    <string name="title_downloading_module">Descargar vídeos</string>
+    <string name="title_kdshelpvideos_1_de">Vídeos de ayuda en alemán</string>
+    <string name="title_kdshelpvideos_1_pt_br">Vídeos de ayuda en portugués</string>
 </resources>
