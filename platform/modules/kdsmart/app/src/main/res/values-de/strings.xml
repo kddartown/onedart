@@ -612,7 +612,7 @@
     <string name="title_aadv_init_error">Automatisches Vorrücken Initialisierungsfehler</string>
     <string name="errmsg_no_plotvisitlist">Keine PlotVisitList</string>
     <string name="errmsg_no_current_plot">Keine aktuelle Parzelle</string>
-    <string name="msgfmt_no_sample_for_instance_of_trait">No sample for instance {0,number,integer} of Trait \'{1}\'</string>
+    <string name="msgfmt_no_sample_for_instance_of_trait">Keine Probe für die Instanz {0,number,integer} des Merkmals \'{1}\'</string>
     <string name="errmsg_unexpected_internal_state">Unerwarteter interner Zustand</string>
     <string name="errmsg_missing_sampleBeingScored">fehlende sampleBeingScored</string>
     <string name="msg_no_more_unscored">Keine unbewerteten Merkmale mehr von Ihrer aktuellen Position aus</string>
@@ -666,7 +666,7 @@
     <string name="prompt_action_show_when_trait_scored_summary">Zeigt an, wann das Merkmal zuletzt bewertet wurde</string>
     <string name="prompt_action_search_plots">Parzellen suchen</string>
     <string name="title_choose_when">Minuten seit Torerfolg</string>
-    <string name="msgfmt_found_n_plots_since">Found {0,number,integer} %1$s scored since {1}</string>
+    <string name="msgfmt_found_n_plots_since">Gefunden {0,number,integer} %1$s ausgewertet seit {1}</string>
     <string name="prompt_action_heatmap_settings">Einstellungen der Heatmap…</string>
     <string name="prompt_action_heatmap_opacity">Deckkraft wählen</string>
     <string name="prompt_action_heatmap_gradient">Farbverlauf wählen</string>
@@ -679,7 +679,7 @@
     <string name="title_select_heatmap_opacity">Deckkraft der Heatmap auswählen</string>
     <string name="title_select_heatmap_gradient">Gradient der Wärmekarte auswählen</string>
     <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
-    <string name="msg_info_selected_nplots">Selected: {0,number,integer}</string>
+    <string name="msg_info_selected_nplots">Ausgewählt: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Konfigurieren Sie …</string>
     <string name="msgfmt_warning_landscape_small">Der Querformatmodus auf kleinen Bildschirmen verwendet immer mindestens {0}</string>
     <string name="prompt_menu_data_score_samples">Partitur-Proben</string>
