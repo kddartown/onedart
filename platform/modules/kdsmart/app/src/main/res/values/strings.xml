@@ -1,6 +1,4 @@
-<resources
-    xmlns:tools="http://schemas.android.com/tools"
-    tools:ignore="MissingTranslation" >
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!-- TODO Reorder, Group and use more prefixing to make it easier for a translator -->
     <!-- TODO- Not a TODO just using IDE yellow color change, %1$s -> Name For Plot, %2$s -> Name For Sub-Plot %3$s ->  Name For Column, %4$s -> Name for Row -->
@@ -313,8 +311,8 @@
     <string name="pref_locale_default_value" translatable="false">SYSTEM</string>
     <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
 
-    <string name="pref_kddart_url_key" translatable="false" >pref_kddart_url</string>
-    <string name="pref_selected_kddart_url_key" translatable="false" >pref_selected_kddart_url</string>
+    <string name="pref_kddart_url_key" translatable="false">pref_kddart_url</string>
+    <string name="pref_selected_kddart_url_key" translatable="false">pref_selected_kddart_url</string>
 
     <!-- = = = = = = = = = = = = = = = = = = = -->
     <string name="pref_collOrder_title">Default Collection Order</string>
@@ -889,6 +887,7 @@ Cancel using the "tick" in the left of the <i>Action Bar</i>.
     </li> <li><strong>Date</strong>&nbsp;e.g. 10/08/2019</li> <li><strong>Elapsed Days</strong>&nbsp;- A value for days before or after the trial\'s planting date.</li> <li><strong>Integer</strong>&nbsp;e.g. 4</li> <li><strong>Decimal</strong>&nbsp;e.g. 4.4</li> </ul> </li> </ul> <p>Once all options have been chosen, select the&nbsp;<strong>\u2713</strong>&nbsp;to create the tag or the&nbsp;<strong>\u2718</strong>&nbsp;to cancel the tag creation.</p>]]></string>
 
     <string name="ctx_title_scoring">Scoring</string>
+    <string name="ctx_title_path_scoring_mode">Path-scoring mode</string>
     <string name="ctx_help_scoring"><![CDATA[<p>In&nbsp;<strong>Path Scoring Mode</strong>, you will only select one %1$s at a time, for which you will be able to see all %1$s info, including %1$s traits, %2$s, %2$s traits, tags, etc. This mode is designed for easy navigation between %1$s as you physically walk through a field, score the traits, then move to the next %1$s on the&nbsp;<strong>Scoring Screen</strong>. This also allows the user to choose the&nbsp;<strong>Auto-Advance Mode</strong>&nbsp;which is the quickest way to score but will be explained further below. Additionally,&nbsp;<strong>Path Scoring Mode</strong>&nbsp;includes&nbsp;<strong>Field View</strong>&nbsp;which displays a top-down view of your field.</p>
 <p><strong>Path Scoring Mode</strong>&nbsp;is designed for easy navigation between %1$s as the user physically walks through a field, scores the traits, and then moves to the next %1$s on the&nbsp;<strong>Scoring Screen</strong>.</p>
 <p>The number of %1$s available to score at once will depend on the size of the&nbsp;<em>Visit Group</em>&nbsp;that will be determined in the&nbsp;<strong>Scoring Configuration</strong>&nbsp;and will be between one and four. If the visit group is more than one, then the current %1$s will be in blue text and the others will be in black. Select another %1$s with a&nbsp;<em>short press</em>&nbsp;to display its details.</p>
@@ -1988,6 +1987,7 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="msg_from">from</string>
     <string name="prompt_action_bulk_tag">Add or Remove Tags</string>
     <string name="ctx_title_help_field_mode_scoring">Scoring - Field Scoring Mode</string>
+    <string name="ctx_bulk_scoring">Bulk scoring</string>
     <string name="ctx_help_field_view_mode"><![CDATA[<p><strong>Field Scoring Mode</strong>&nbsp;uses the&nbsp;<strong>Field View</strong>&nbsp;as the primary view for scoring. It also has more options for bulk scoring that the other scoring modes do not have. To navigate to a %1$s in this mode, one or more %1$s can also be selected to score with a&nbsp;<strong>Spreadsheet View</strong>.</p>
 <p><a name="Scoring"></a></p>
 <h5>Scoring</h5>
@@ -2129,9 +2129,11 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="ctx_help_scoring_setup_tag_bundle"><![CDATA[<p>Any listed tag bundle can be added with the checkboxes. More tag bundles can be imported or created in the&nbsp;<strong>Tags Screen</strong>.</p>]]></string>
     <string name="ctx_title_scoring_setup_select_blocks">Scoring Configuration - Select Blocks</string>
     <string name="ctx_help_scoring_setup_select_blocks"><![CDATA[<p>Any block trial will have all blocks listed and selectable with the checkboxes. At least one must be chosen. This option will only be available for block trials.</p>]]></string>
+    <string name="ctx_data_management">Data management</string>
     <string name="ctx_add_trial_bundle">Add Trial Bundle</string>
     <string name="ctx_help_add_trial_bundle"><![CDATA[<p>The&nbsp;<strong>Add Trial Bundle Screen</strong>&nbsp;allows for the creation of new trait bundles or the addition of trials to existing bundles. Ensure that all trials to be added or bundled are selected and then select the&nbsp;<strong>Create Trial Bundle Button</strong>.
     </p> <p>The&nbsp;<strong>Add Trial Bundle Screen</strong>&nbsp;will list all selected tags and all previously created bundles. A text field for the bundle name will also be left blank. To create a new trial bundle, enter a bundle name in the blank field and then select the&nbsp;<strong>Create Button</strong>.</p> <p>To add the selected trials to an existing bundle, either type the name of that bundle in the text field or select a listed bundle with a&nbsp;<em>short press</em>&nbsp;then select the&nbsp;<strong>Add Button</strong>.</p>]]></string>
+
     <string name="ctx_help_add_trial"><![CDATA[<p>The&nbsp;<strong>Add Trial Screen</strong>&nbsp;allows users to create a new trial within KDSmart. The following options are available for creating a trial:</p> <ul> <li><strong>Trial Name</strong>&nbsp;- The name for the new trial.</li> <li><strong>Trial Type</strong>&nbsp;- Choose between either a&nbsp;<em>%1$s X/Y</em>&nbsp;trial where each %1$s has unique x/y coordinates, or a&nbsp;<em>%1$s Id</em>&nbsp;trial where each %1$s as a unique %1$s Id. The option that is chosen here will determine some of the next options.
     </li> <li><strong>Number of %3$s</strong>&nbsp;(%1$s X/Y trials) - The number of %1$s %3$s that will be created for the client.</li> <li><strong>Number of %4$s</strong>&nbsp;(%1$s X/Y trials) - The number of %4$s %3$s that will be created for the client.</li> <li><strong>First %1$s Id</strong>&nbsp;(%1$s ID trials) - The ID of the %1$s that should be the first %1$s in the trial.</li> <li><strong>Run Length</strong>&nbsp;(%1$s ID trials) - Indicates the number of %1$s within a trial occurring before changing traversal.
     </li> <li><strong>Number of %2$s per %1$s</strong>&nbsp;- Creates %2$s for each %1$s in the trial.</li> <li><strong>Trait Instance Style</strong>&nbsp;- Choose either the&nbsp;<em>Trait:123</em>&nbsp;or&nbsp;<em>Trait:_123</em>&nbsp;naming style for trait instances.</li> </ul> <p>Once all options have been chosen, select the&nbsp;<strong>\u2713</strong>&nbsp;to create the trial or the&nbsp;<strong>\u2718</strong>&nbsp;to cancel the trial creation.</p>]]></string>
@@ -2206,7 +2208,7 @@ and allow Storage permission. <br><\br></p>]]>
 <p>Enter the username and password provided to you by your KDDart administrator and select the&nbsp;<strong>Login Button</strong>&nbsp;to connect to KDDart. The&nbsp;<strong>Show/Hide Password Button</strong>&nbsp;can be used to toggle password visibility. Contact your KDDart administrator if you are having trouble logging in with your username or password, or contact&nbsp;<a class="email" href="mailto:kdsmart@diversityarrays.com">kdsmart@diversityarrays.com</a>&nbsp;for any other login related issues.</p>
 <p>If you log into KDDart with a username that <span class="s1">is associated with multiple groups, an additional </span><strong>Group Selection Screen</strong> will be displayed. Select the group that you want to log in to from the dropdown menu and then select the <strong>Select Group Button</strong> to complete the login process.</p>]]></string>
     <string name="ctx_help_kddart_login_title">Help for KDDart Login</string>
-    <string name="msg_trait_already_scored" >Trait already scored</string>
+    <string name="msg_trait_already_scored">Trait already scored</string>
     <string name="title_exit_without_saving">Exit Without Saving</string>
     <string name="msg_exit_without_saving">Do you want to exit without saving?</string>
     <string name="title_trait_definition_error">Trait definition error</string>
@@ -2815,4 +2817,16 @@ and allow Storage permission. <br><\br></p>]]>
         <item quantity="one">Added %d New Traits</item>
         <item quantity="other">Added %d New Traits</item>
     </plurals>
+    <string name="title_kdshelpvideos_1_en">English help Videos</string>
+    <string name="title_kdshelpvideos_1_mex_sp">Mexican Spanish Help Videos</string>
+    <string name="left_chevron"><![CDATA[<]]></string>
+    <string name="ctx_data_exchange">Data Exchange</string>
+    <string name="ctx_data_exchange_import">Data Import</string>
+    <string name="ctx_data_exchange_export">Data Export</string>
+    <string name="title_kdshelpvideos_1_pol">Polish Help Videos</string>
+    <string name="title_kdshelpvideos_1_fr">French Help Videos</string>
+    <string name="title_downloading_module">Downloading videos</string>
+    <string name="title_kdshelpvideos_1_de">German Help Videos</string>
+    <string name="title_kdshelpvideos_1_pt_br">Portuguese Help Videos</string>
+
 </resources>
