@@ -12,11 +12,11 @@ Répétez ce processus pour chaque caractéristique.
 
 4
 00:00:26,300 --> 00:00:30,300
-Sélectionnez les boutons Tracé suivant ou Tracé précédent pour naviguer vers le tracé suivant ou précédent.
+Sélectionnez les boutons Parcelle suivante ou Parcelle précédente pour naviguer vers la parcelle suivante ou précédente.
 
 5
 00:00:38,633 --> 00:00:42,633
-Vous pouvez sélectionner une zone spécifique vers laquelle vous déplacer.
+Vous pouvez sélectionner une parcelle spécifique vers laquelle vous déplacer.
 
 6
 00:00:50,433 --> 00:00:54,433
