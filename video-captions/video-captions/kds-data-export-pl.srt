@@ -1,6 +1,6 @@
 ﻿1
 00:00:07,300 --> 00:00:11,300
-Aby wyeksportować próbę, przejdź do ekranu Prób i wybierz opcję Eksportuj z menu.
+Aby wyeksportować eksperyment, przejdź do ekranu Eksperymenty i wybierz opcję Eksportuj z menu.
 
 2
 00:00:15,366 --> 00:00:19,366
@@ -12,7 +12,7 @@ Dane można zapisywać w formatach CSV lub Zip,
 
 4
 00:00:25,733 --> 00:00:29,733
-ale w tym demo wybierzemy opcję Full Data for KDXplore. Spowoduje to zapisanie wybranej próby jako pliku KDX, w tym wszystkich cech i tagów.
+ale w tym demo wybierzemy opcję Full Data for KDXplore. Spowoduje to zapisanie wybranego eksperymentu jako pliku KDX, w tym wszystkich cech i tagów.
 
 5
 00:00:31,266 --> 00:00:35,266
@@ -28,7 +28,7 @@ Dane można również udostępniać aplikacjom zainstalowanym na urządzeniu, ta
 
 8
 00:00:50,066 --> 00:00:54,066
-Wybierz próbę i wybierz opcję Udostępnij z menu, a następnie opcję eksportu.
+Wybierz ekperyment i wybierz opcję Udostępnij z menu, a następnie opcję eksportu.
 
 9
 00:00:54,966 --> 00:00:58,966
