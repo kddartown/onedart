@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Les étiquettes sont des descriptions textuelles courtes et réutilisables qui peuvent être appliquées aux zones ou sous-parcelles lors de la notation.
+Les étiquettes sont des descriptions textuelles courtes et réutilisables qui peuvent être appliquées aux parcelles ou sous-parcelles lors de la notation.
 
 2
 00:00:10,366 --> 00:00:14,366
