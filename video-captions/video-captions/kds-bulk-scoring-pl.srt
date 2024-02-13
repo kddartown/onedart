@@ -1,38 +1,38 @@
 ﻿1
 00:00:04,933 --> 00:00:08,933
-Punktacja zbiorcza to funkcja, która pomaga użytkownikom w punktacji wielu działek lub podrozdziałów w tym samym czasie.
+Ocena zbiorcza to funkcja, która pomaga użytkownikom oceniać wiele działów lub poddziałów w tym samym czasie.
 
 2
 00:00:11,500 --> 00:00:15,500
-Najpierw otwórz próbę w trybie punktacji w terenie.
+Najpierw otwórz eksperyment w trybie oceny pola.
 
 3
 00:00:20,700 --> 00:00:24,700
-Wybierz działkę, aby wyświetlić opcje punktacji zbiorczej.
+Wybierz dział, aby wyświetlić opcje oceny zbiorczej.
 
 4
 00:00:28,600 --> 00:00:32,600
-Przycisk Subplot wyświetla wszystkie cechy na poziomie wątku podrzędnego. 
+Przycisk Poddział wyświetla wszystkie cechy na poziomie poddziału. 
 
 5
 00:00:35,766 --> 00:00:39,766
-Wybrany pomiar zostanie zastosowany do wszystkich podrozdziałów w wybranej działce. W tym przypadku do dwóch.
+Wybrany pomiar zostanie zastosowany do wszystkich poddziałów w wybranym dziale. W tym przypadku do dwóch.
 
 6
 00:00:48,800 --> 00:00:52,800
-Aby uzyskać punktację cech na poziomie fabuły, wybierz dowolną liczbę działek i wybierz przycisk Działka. 
+Aby uzyskać ewaluację cech na poziomie działu, wybierz dowolną liczbę działów i wybierz przycisk Dział. 
 
 7
 00:01:01,000 --> 00:01:05,000
-Wybrane wartości są stosowane do wszystkich wybranych działek.
+Wybrane wartości są stosowane do wszystkich wybranych działów.
 
 8
 00:01:11,533 --> 00:01:15,533
-Kontynuuj wybieranie działek do punktacji zbiorczej.
+Kontynuuj wybieranie działów do oceny zbiorczej.
 
 9
 00:01:25,000 --> 00:01:29,000
-Zaznacz pole wyboru Overwrite Trait Values (Nadpisz wartości cech), jeśli chcesz dokonać zbiorczej punktacji cechy, która ma już swoją wartość.
+Zaznacz pole wyboru Nadpisz wartości cech, jeśli chcesz dokonać zbiorczej oceny cechy, która ma już swoją wartość.
 
 10
 00:01:41,233 --> 00:01:45,233
