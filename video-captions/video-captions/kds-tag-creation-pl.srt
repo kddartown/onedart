@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Tagi to krótkie opisy tekstowe wielokrotnego użytku, które można zastosować do działek lub podrozdziałów podczas punktacji.
+Tagi to krótkie opisy tekstowe wielokrotnego użytku, które można zastosować do działów lub poddziałów podczas ewaluacji.
 
 2
 00:00:10,366 --> 00:00:14,366
@@ -24,4 +24,4 @@ Wybierz przycisk Potwierdź, aby utworzyć tagi.
 
 7
 00:00:50,733 --> 00:00:54,733
-Tag jest teraz dostępny podczas punktacji
+Tag jest teraz dostępny podczas ewaluacji
