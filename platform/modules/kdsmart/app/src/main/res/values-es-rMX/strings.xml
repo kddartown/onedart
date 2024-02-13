@@ -691,7 +691,7 @@
     <string name="title_aadv_init_error">Error de inicialización del avance automático</string>
     <string name="errmsg_no_plotvisitlist">No PlotVisitList</string>
     <string name="errmsg_no_current_plot">Sin area actual</string>
-    <string name="msgfmt_no_sample_for_instance_of_trait">No sample for instance {0,number,integer} of Trait \'{1}\'</string>
+    <string name="msgfmt_no_sample_for_instance_of_trait">Ninguna muestra por ejemplo {0,number,integer} de rasgo \'{1}\'</string>
     <string name="errmsg_unexpected_internal_state">Estado interno inesperado</string>
     <string name="errmsg_missing_sampleBeingScored">missing sampleBeingScored</string>
     <string name="msg_no_more_unscored">No más rasgos no puntuados de tu posición actual.</string>
@@ -750,7 +750,7 @@
     <string name="title_select_heatmap_opacity">Seleccionar la opacidad del mapa de calor</string>
     <string name="title_select_heatmap_gradient">Seleccionar gradiente del mapa de calor</string>
     <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
-    <string name="msg_info_selected_nplots">Selected: {0,number,integer}</string>
+    <string name="msg_info_selected_nplots">Selección: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Configurar …</string>
     <string name="msgfmt_warning_landscape_small">El modo horizontal en pantallas pequeñas siempre utilizará al menos {0}.</string>
     <string name="prompt_menu_data_score_samples">Muestras de puntuación</string>
@@ -766,7 +766,7 @@
     <string name="msg_active_trial_choose_option">¿Qué quieres hacer\?</string>
     <string name="prompt_option_active_trial_yes_start_scoring">Inicio Puntuación</string>
     <string name="prompt_option_active_trial_no_clear_active_trial">Ensayos activos claros</string>
-    <string name="msg_format_n_trials_have_no_planting_date">Some trials ({0,number,integer}) do not have a Planting Date</string>
+    <string name="msg_format_n_trials_have_no_planting_date">Algunos ensayos ({0,number,integer}) no tienen fecha de siembra</string>
     <string name="title_lockdown">Bloqueo</string>
     <string name="title_score_trial_preparing">Preparación …</string>
     <string name="msg_progress_gathering_plots">Recopilación %1$s</string>
@@ -789,7 +789,7 @@
     <string name="errmsg_unsupported_valrule">Regla de validación no admitida:</string>
     <string name="hdg_attachments">Archivos adjuntos</string>
     <string name="msg_no_traits_scored">Rasgos no puntuados</string>
-    <string name="msgfmt_traits_scored_m_of_n">Traits scored: {0,number,integer} of {1,number,integer}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Rasgos puntuados: {0,number,integer} de {1,number,integer}</string>
     <string name="hdg_attributes">Atributos</string>
     <string name="msg_found">"Encontrado "</string>
     <string name="msg_no_unscored_samples">No hay muestras sin puntuar para el rasgo</string>
@@ -801,10 +801,10 @@
     <string name="msg_page_trait">Rasgos</string>
     <string name="msg_page_plot_info">%1$s información</string>
     <string name="msg_no_plot_info">No %1$s info</string>
-    <string name="msgfmt_tags_selected_for_delete">Tags Selected to Delete: {0,number,integer}</string>
+    <string name="msgfmt_tags_selected_for_delete">Etiquetas seleccionadas para eliminar: {0,number,integer}</string>
     <string name="msg_min_must_be_lt_max">Mín debe ser menor que Máx</string>
-    <string name="msgfmt_invalid_min_value">Invalid min: {0,number,integer}</string>
-    <string name="msgfmt_invalid_max_value">Invalid max: {0,number,integer}</string>
+    <string name="msgfmt_invalid_min_value">Mínimo inválido: {0,number,integer}</string>
+    <string name="msgfmt_invalid_max_value">Máximo no válido: {0,number,integer}</string>
     <string name="title_trial_element_names">Nombres de los elementos del ensayo</string>
     <string name="msg_hint_for_example_Plot">Por ejemplo %1$s</string>
     <string name="msg_hint_for_example_Column">Por ejemplo %3$s</string>
@@ -844,7 +844,7 @@
     <string name="title_paired_devices">Dispositivos emparejados</string>
     <string name="msg_no_paired_bt_devices">No se ha emparejado ningún dispositivo Bluetooth</string>
     <string name="title_generating_data">Generación de datos …</string>
-    <string name="msgfmt_created_random_data_n_samples">Created random data for samples: {0,number,integer}</string>
+    <string name="msgfmt_created_random_data_n_samples">Creación de datos aleatorios para las muestras: {0,number,integer}</string>
     <string name="hdg_heading_size">Tamaño de la rúbrica</string>
     <string name="hdg_value_size">Valor Tamaño</string>
     <string name="hdg_plot_attribute">%1$s Atributo</string>
@@ -1497,8 +1497,8 @@
     <string name="msg_export_bundle_to_kddart_fmt_2">Exportar conjuntos a Kddart</string>
     <string name="msg_export_to_kddart_fmt_3">Exportar a KDDart</string>
     <string name="msg_traits_are_already_unprotected">Rasgos ya Desprotegidos</string>
-    <string name="msg_do_you_want_to_protect_numberinteger_traits">Do you want to Protect {0,number,integer} Traits?</string>
-    <string name="msg_do_you_want_to_unprotect_numberinteger_traits">Do you want to Unprotect {0,number,integer} Traits?</string>
+    <string name="msg_do_you_want_to_protect_numberinteger_traits">¿Desea Proteger {0,number,integer} Rasgos?</string>
+    <string name="msg_do_you_want_to_unprotect_numberinteger_traits">¿Desea Desproteger {0,number,integer} rasgos?</string>
     <string name="msg_traits_are_now">Rasgos son ahora</string>
     <string name="msg_protected_fmt_2">Protegido</string>
     <string name="msg_unprotected">Sin protección</string>
