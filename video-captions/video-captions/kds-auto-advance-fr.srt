@@ -1,10 +1,10 @@
 ﻿1
 00:00:05,100 --> 00:00:09,100
-La méthode de notation normale commence par le choix de chaque caractéristique à noter.
+La méthode normale de notation commence par le choix de chaque caractéristique à noter.
 
 2
 00:00:20,800 --> 00:00:24,800
-La fonction d'avance automatique permet de passer automatiquement aux caractéristiques suivantes. Commencez par l'activer.
+La fonction de Progression automatique permet de passer automatiquement aux caractéristiques suivantes. Commencez par l'activer.
 
 3
 00:00:30,966 --> 00:00:34,966
@@ -16,11 +16,11 @@ Après la notation de chaque caractéristique, la caractéristique suivante est 
 
 5
 00:00:49,600 --> 00:00:53,600
-Vous passerez automatiquement à la zone ou sous-parcelle suivante. 
+Vous passerez automatiquement à la parcelle ou sous-parcelle suivante. 
 
 6
 00:01:00,100 --> 00:01:04,100
-Sélectionnez le bouton Retour pour quitter le mode avance automatique.
+Sélectionnez le bouton Retour pour quitter le mode progression automatique.
 
 7
 00:01:06,666 --> 00:01:10,666
