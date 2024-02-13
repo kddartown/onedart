@@ -1,10 +1,10 @@
 ﻿1
 00:00:03,400 --> 00:00:07,400
-Wybierz cechy na ekranie punktacji.
+Wybierz cechę na ekranie ewaluacji.
 
 2
 00:00:09,566 --> 00:00:13,566
-Wybierz pomiar dla cechy. Spowoduje to powrót do ekranu punktacji.
+Wybierz pomiar dla cechy. Spowoduje to powrót do ekranu ewaluacji.
 
 3
 00:00:14,633 --> 00:00:18,633
@@ -12,11 +12,11 @@ Powtórz ten proces dla każdej cechy.
 
 4
 00:00:26,300 --> 00:00:30,300
-Wybierz przyciski Następna lub Poprzednia działka, aby przejść do następnej lub poprzedniej działki.
+Wybierz przyciski Następny lub Poprzedni dział, aby przejść do następnego lub poprzedniego działu.
 
 5
 00:00:38,633 --> 00:00:42,633
-Możesz wybrać konkretną działkę, do której chcesz się przenieść.
+Możesz wybrać konkretny dział, do którego chcesz się przenieść.
 
 6
 00:00:50,433 --> 00:00:54,433
@@ -24,4 +24,4 @@ Można również wybrać działkę z Widoku terenowego.
 
 7
 00:00:59,033 --> 00:01:03,033
-Kontynuuj aż do zakończenia punktacji.
+Kontynuuj aż do zakończenia ewaluacji.
