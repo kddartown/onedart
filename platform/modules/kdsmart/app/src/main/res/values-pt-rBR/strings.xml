@@ -1768,15 +1768,15 @@
     <string name="pref_gradient_key" translatable="false">pref_heatmap_gradient</string>
     <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
     <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
-    <string name="msgfmt_no_sample_for_instance_of_trait">Nenhuma amostra para a instância {0,number,integer} do Traço \'{1}\'</string>
-    <string name="msgfmt_found_n_plots_since">Encontrado {0,number,integer} %1$s pontuado desde {1}</string>
+    <string name="msgfmt_no_sample_for_instance_of_trait">No sample for instance {0,number,integer} of Trait \'{1}\'</string>
+    <string name="msgfmt_found_n_plots_since">Found {0,number,integer} %1$s scored since {1}</string>
     <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
-    <string name="msg_info_selected_nplots">Selecionado: {0,number,integer}</string>
-    <string name="msg_format_n_trials_have_no_planting_date">Alguns projetos ({0,number,integer}) não têm uma Data de Plantio</string>
-    <string name="msgfmt_traits_scored_m_of_n">Traços pontuados: {0,number,integer} de {1,number,integer}</string>
-    <string name="msgfmt_tags_selected_for_delete">Etiquetas selecionadas para excluir: {0,number,integer}</string>
-    <string name="msgfmt_invalid_min_value">Mínimo inválido: {0,number,integer}</string>
-    <string name="msgfmt_invalid_max_value">Máximo inválido: {0,number,integer}</string>
+    <string name="msg_info_selected_nplots">Selected: {0,number,integer}</string>
+    <string name="msg_format_n_trials_have_no_planting_date">Some trials ({0,number,integer}) do not have a Planting Date</string>
+    <string name="msgfmt_traits_scored_m_of_n">Traits scored: {0,number,integer} of {1,number,integer}</string>
+    <string name="msgfmt_tags_selected_for_delete">Tags Selected to Delete: {0,number,integer}</string>
+    <string name="msgfmt_invalid_min_value">Invalid min: {0,number,integer}</string>
+    <string name="msgfmt_invalid_max_value">Invalid max: {0,number,integer}</string>
     <string name="msgfmt_created_random_data_n_samples">Created random data for samples: {0,number,integer}</string>
     <string name="pref_key_scoringView" translatable="false">pref_scoring_view</string>
     <string name="pref_default_value_scoringView" translatable="false">PATH_VIEW</string>
