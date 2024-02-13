@@ -12,15 +12,15 @@ Tutaj można wybrać plik do zaimportowania. W tym przykładzie importujemy plik
 
 4
 00:00:28,966 --> 00:00:32,966
-Plik KDX może zawierać próbę z dowolnymi cechami, tagami i punktacją.
+Plik KDX może zawierać ekperyment z dowolnymi cechami, tagami i danymi ewaluacji.
 
 5
 00:00:34,366 --> 00:00:38,366
-Próba będzie teraz dostępna na ekranie Prób.
+Ekperyment będzie teraz dostępny na ekranie Eksperymenty.
 
 6
 00:00:41,466 --> 00:00:45,466
-Można również importować próby w formacie CSV.
+Można również importować eksperymenty w formacie CSV.
 
 7
 00:00:59,900 --> 00:01:03,900
@@ -28,11 +28,11 @@ KDSmart zgadnie, jako co zaimportować każdą kolumnę. Będziesz musiał popra
 
 8
 00:01:19,333 --> 00:01:23,333
-Podczas importowania prób CSV należy wybrać styl instancji cech.
+Podczas importowania eksperymentów CSV należy wybrać styl wartości cechy.
 
 9
 00:01:25,933 --> 00:01:29,933
-Wybierz przycisk Importuj, aby zaimportować próbę. Będzie on teraz dostępny na ekranie Prób.
+Wybierz przycisk Importuj, aby zaimportować eksperyment. Będzie on teraz dostępny na ekranie eksperymentów.
 
 10
 00:01:31,633 --> 00:01:35,633
