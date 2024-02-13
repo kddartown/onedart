@@ -1,42 +1,42 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Próby są zazwyczaj importowane, ale można również tworzyć nowe próby w aplikacji KDSmart. 
+Eksperymenty są zazwyczaj importowane, ale można również tworzyć nowe eksperymenty w aplikacji KDSmart. 
 
 2
 00:00:09,633 --> 00:00:13,633
-Przejdź do ekranu prób i wybierz z menu opcję Utwórz próbę.
+Przejdź do ekranu eksperymentów i wybierz z menu opcję Utwórz eksperyment.
 
 3
 00:00:18,166 --> 00:00:22,166
-Wprowadź szczegóły, takie jak nazwa próby
+Wprowadź szczegóły, takie jak nazwa eksperymentu
 
 4
 00:00:28,266 --> 00:00:32,266
-Tutaj tworzymy próbę X/Y z kolumnami i wierszami, a każda działka ma współrzędną x/y. W dalszej części filmu przedstawimy próby działek.
+Tutaj tworzymy eksperymenty X/Y z kolumnami i wierszami, a każdy dział ma współrzędną x/y. W dalszej części filmu przedstawimy eksperymenty typu Plot.
 
 5
 00:00:34,100 --> 00:00:38,100
-W przypadku prób X/Y należy wybrać liczbę kolumn i liczbę wierszy.
+W przypadku eksperymentów X/Y należy wybrać liczbę kolumn i liczbę wierszy.
 
 6
 00:00:44,266 --> 00:00:48,266
-Opcjonalnie można dodać kilka podrozdziałów.
+Opcjonalnie można dodać kilka poddziałów.
 
 7
 00:00:48,633 --> 00:00:52,633
-Wybór "2" oznacza, że każda działka w próbie będzie zawierać dwa podrozdziały.
+Wybór "2" oznacza, że każdy dział w eksperymencie będzie zawierał dwa poddziały.
 
 8
 00:00:55,033 --> 00:00:59,033
-Wybierz styl instancji cechy, aby określić sposób wyświetlania instancji tej samej cechy.
+Wybierz styl wartości cechy, aby określić sposób wyświetlania instancji tej samej cechy.
 
 9
 00:01:01,133 --> 00:01:05,133
-Wybierz przycisk Potwierdź, gdy będziesz gotowy do utworzenia próby. 
+Wybierz przycisk Potwierdź, gdy będziesz gotowy do utworzenia ekperymentu. 
 
 10
 00:01:06,033 --> 00:01:10,033
-Pojawi się on teraz na ekranie prób i można go wybrać, aby dodać więcej szczegółów.
+Pojawi się on teraz na ekranie eksperymentów i można go wybrać, aby dodać więcej szczegółów.
 
 11
 00:01:11,766 --> 00:01:15,766
@@ -44,19 +44,19 @@ Wybierz przycisk Edytuj cechy, aby dodać cechy do próby.
 
 12
 00:01:31,333 --> 00:01:35,333
-Dodaj instancje cech, jeśli chcesz wielokrotnie punktować tę samą cechę.
+Dodaj wartości cech, jeśli chcesz wielokrotnie punktować tę samą cechę.
 
 13
 00:01:49,966 --> 00:01:53,966
-Teraz utworzymy próbę identyfikatora działki.
+Teraz utworzymy ekperyment Plot ID.
 
 14
 00:01:59,266 --> 00:02:03,266
-Próby Plot ID zawierają działki z unikalnymi numerami identyfikacyjnymi.
+Eksperymenty Plot ID zawierają działy z unikalnymi numerami identyfikacyjnymi.
 
 15
 00:02:07,600 --> 00:02:11,600
-Wybierz liczbę działek w próbie.
+Wybierz liczbę działów w eksperymencie.
 
 16
 00:02:13,766 --> 00:02:17,766
@@ -64,8 +64,8 @@ Długość przebiegu można ustawić na pionową lub poziomą.
 
 17
 00:02:27,400 --> 00:02:31,400
-Do próby Plot ID nie dodano żadnych podrozdziałów.
+Do eksperymentu Plot ID nie dodano żadnych poddziałów.
 
 18
 00:02:31,400 --> 00:02:35,400
-Wybierz opcję Dodaj podrozdziały z menu, jeśli chcesz dodać je później.
+Wybierz opcję Dodaj poddziały z menu, jeśli chcesz dodać je później.
