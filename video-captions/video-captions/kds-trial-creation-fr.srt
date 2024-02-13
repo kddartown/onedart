@@ -12,7 +12,7 @@ Saisissez les détails tels que le nom des projets
 
 4
 00:00:28,266 --> 00:00:32,266
-Ici, nous créons un projet X/Y avec des zones et des lignes et chaque zone a une coordonnée x/y. Nous ferons la démonstration des projets de tracé plus tard dans la vidéo.
+Ici, nous créons un projet X/Y avec des parcelles et des lignes et chaque parcelle a une coordonnée x/y. Nous ferons la démonstration des projets de parcelles plus tard dans la vidéo.
 
 5
 00:00:34,100 --> 00:00:38,100
@@ -24,7 +24,7 @@ En option, vous pouvez ajouter un certain nombre de sous-parcelles.
 
 7
 00:00:48,633 --> 00:00:52,633
-Le choix de "2" signifie que chaque zone de l'essai contiendra deux sous-parcelles.
+Le choix de "2" signifie que chaque parcelle de l'essai contiendra deux sous-parcelles.
 
 8
 00:00:55,033 --> 00:00:59,033
@@ -48,15 +48,15 @@ Ajoutez des exemples de caractéristiques si vous souhaitez noter plusieurs fois
 
 13
 00:01:49,966 --> 00:01:53,966
-Nous allons maintenant créer un essai d'identification de la zone.
+Nous allons maintenant créer un projet d'identification de parcelle.
 
 14
 00:01:59,266 --> 00:02:03,266
-Les essais d'identification des zones contiennent des zones avec des numéros d'identification uniques.
+Les essais d'identification des parcelles contiennent des parcelles avec des numéros d'identification uniques.
 
 15
 00:02:07,600 --> 00:02:11,600
-Choisissez le nombre de zones que vous voulez dans le projet.
+Choisissez le nombre de parcelles que vous voulez dans le projet.
 
 16
 00:02:13,766 --> 00:02:17,766
