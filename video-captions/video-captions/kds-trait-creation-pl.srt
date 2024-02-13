@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Cechy to cechy lub właściwości, które są mierzone lub rejestrowane w próbie.
+Cechy to cechy lub właściwości, które są mierzone lub rejestrowane w eksperymentach.
 
 2
 00:00:10,533 --> 00:00:14,299
@@ -40,7 +40,7 @@ Oznacza to, że wprowadzając wartość dla tej cechy, użytkownik będzie musia
 
 11
 00:01:28,666 --> 00:01:32,666
-Na koniec musimy wybrać poziom cechy. Wybierzemy poziom wątku podrzędnego dla naszej przykładowej cechy, ponieważ mierzymy wysokość pojedynczej rośliny.
+Na koniec musimy wybrać poziom cechy. Wybierzemy poziom poddziału dla naszej przykładowej cechy, ponieważ mierzymy wysokość pojedynczej rośliny.
 
 12
 00:01:37,233 --> 00:01:41,233
@@ -52,7 +52,7 @@ Nowa cecha będzie widoczna na ekranie cech.
 
 14
 00:01:49,700 --> 00:01:53,700
-Tak wyglądałaby cecha podczas punktacji.
+Tak wyglądałaby cecha podczas ewaluacji.
 
 15
 00:01:55,266 --> 00:01:59,266
