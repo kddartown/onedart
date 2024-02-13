@@ -1,10 +1,10 @@
 ﻿1
 00:00:05,100 --> 00:00:09,100
-Normalna metoda punktacji rozpoczyna się od wybrania każdej cechy do punktacji.
+Normalna metoda ewaluacji rozpoczyna się od wybrania każdej cechy do oceny.
 
 2
 00:00:20,800 --> 00:00:24,800
-Funkcja automatycznego postępu spowoduje automatyczne przejście do następnej cechy. Zacznij od jej włączenia.
+Funkcja Automatyczne przyśpieszenie spowoduje automatyczne przejście do następnej cechy. Zacznij od jej włączenia.
 
 3
 00:00:30,966 --> 00:00:34,966
@@ -12,15 +12,15 @@ Wybierz cechy, aby rozpocząć punktację.
 
 4
 00:00:41,733 --> 00:00:45,733
-Po punktacji każdej cechy wyświetlana jest kolejna cecha. 
+Po ewaluacji każdej cechy wyświetlana jest kolejna cecha. 
 
 5
 00:00:49,600 --> 00:00:53,600
-Automatycznie przejdziesz do następnej działki lub podrozdziału. 
+Automatycznie przejdziesz do następnego działu lub poddziału. 
 
 6
 00:01:00,100 --> 00:01:04,100
-Wybierz przycisk Wstecz, aby wyjść z trybu automatycznego postępu.
+Wybierz przycisk Wstecz, aby wyjść z trybu automatycznego przyspieszenia.
 
 7
 00:01:06,666 --> 00:01:10,666
@@ -28,4 +28,4 @@ Wybierz przycisk Pauza, aby wyłączyć tę funkcję.
 
 8
 00:01:15,833 --> 00:01:19,833
-Znajdziesz się teraz w normalnym trybie punktacji.
+Będziesz teraz w trybie normalnej ewaluacji.
