@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,933 --> 00:00:08,933
-La notation en bloc est une fonction qui permet aux utilisateurs de noter plusieurs zones ou sous-parcelles en même temps.
+La notation en bloc est une fonction qui permet aux utilisateurs de noter plusieurs parcelles ou sous-parcelles en même temps.
 
 2
 00:00:11,500 --> 00:00:15,500
@@ -8,27 +8,27 @@ Ouvrez d'abord un projet en mode notation par terrain.
 
 3
 00:00:20,700 --> 00:00:24,700
-Sélectionnez une zone pour afficher les options de notation en bloc.
+Sélectionnez une parcelle pour afficher les options de notation en bloc.
 
 4
 00:00:28,600 --> 00:00:32,600
-Le bouton Sous-parcelle permet d'afficher toutes les caractéristiques au niveau sous-parcelle. 
+Le bouton Sous-parcelle affiche toutes les caractéristiques au niveau sous-parcelle. 
 
 5
 00:00:35,766 --> 00:00:39,766
-La mesure choisie sera appliquée à toutes les sous-parcelles de la zone sélectionnée. Dans ce cas, deux.
+La mesure choisie sera appliquée à toutes les sous-parcelles de la parcelle sélectionnée. Dans ce cas, deux.
 
 6
 00:00:48,800 --> 00:00:52,800
-Pour la notation des caractéristiques au niveau terrain, choisissez un nombre quelconque de zones et sélectionnez le bouton Parcelle. 
+Pour la notation des caractéristiques au niveau de la parcelle, choisissez un nombre quelconque de parcelles et sélectionnez le bouton Parcelle. 
 
 7
 00:01:01,000 --> 00:01:05,000
-Les valeurs choisies sont appliquées à toutes les zones sélectionnées.
+Les valeurs choisies sont appliquées à toutes les parcelles sélectionnées.
 
 8
 00:01:11,533 --> 00:01:15,533
-Continuez à choisir des zones pour la notation en bloc.
+Continuez à choisir des parcelles pour la notation en bloc.
 
 9
 00:01:25,000 --> 00:01:29,000
