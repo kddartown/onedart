@@ -665,7 +665,7 @@
     <string name="title_aadv_init_error">Błąd inicjalizacji automatycznego przyśpieszenia</string>
     <string name="errmsg_no_plotvisitlist">No PlotVisitList</string>
     <string name="errmsg_no_current_plot">Brak aktualnych działów</string>
-    <string name="msgfmt_no_sample_for_instance_of_trait">No sample for instance {0,number,integer} of Trait \'{1}\'</string>
+    <string name="msgfmt_no_sample_for_instance_of_trait">Brak próbki dla instancji {0,number,integer} cechy \"{1}\".</string>
     <string name="errmsg_unexpected_internal_state">Nieoczekiwany stan wewnętrzny</string>
     <string name="errmsg_missing_sampleBeingScored">brak sampleBeingScored</string>
     <string name="msg_no_more_unscored">Koniec z niezaliczonymi cechami z obecnej pozycji</string>
@@ -711,7 +711,7 @@
     <string name="prompt_action_show_when_trait_scored_summary">Pokazuje, kiedy dana cecha została ostatnio oceniona.</string>
     <string name="prompt_action_search_plots">Działy wyszukiwania</string>
     <string name="title_choose_when">Minuty od momentu zdobycia ewaluacji</string>
-    <string name="msgfmt_found_n_plots_since">Found {0,number,integer} %1$s scored since {1}</string>
+    <string name="msgfmt_found_n_plots_since">Znaleziono {0,number,integer} %1$s ewaluacja od {1}</string>
     <string name="prompt_action_heatmap_settings">Ustawienia mapy cieplnej…</string>
     <string name="prompt_action_heatmap_opacity">Wybierz Krycie</string>
     <string name="prompt_action_heatmap_gradient">Wybierz Gradient</string>
@@ -723,7 +723,7 @@
     <string name="title_select_heatmap_opacity">Wybierz Krycie mapy ciepła</string>
     <string name="title_select_heatmap_gradient">Wybierz gradient mapy ciepła</string>
     <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
-    <string name="msg_info_selected_nplots">Selected: {0,number,integer}</string>
+    <string name="msg_info_selected_nplots">Wybrano: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Konfiguracja …</string>
     <string name="msgfmt_warning_landscape_small">Tryb krajobrazowy na małych ekranach zawsze będzie wykorzystywał co najmniej {0}.</string>
     <string name="prompt_menu_data_score_samples">Próbki ewaluacji</string>
@@ -739,7 +739,7 @@
     <string name="msg_active_trial_choose_option">Co chcesz zrobić?</string>
     <string name="prompt_option_active_trial_yes_start_scoring">Rozpoczęcie ewaluacji</string>
     <string name="prompt_option_active_trial_no_clear_active_trial">Clear Active Trial</string>
-    <string name="msg_format_n_trials_have_no_planting_date">Some trials ({0,number,integer}) do not have a Planting Date</string>
+    <string name="msg_format_n_trials_have_no_planting_date">Niektóre eksperymenty ({0,number,integer}) nie mają daty sadzenia (Planting Date).</string>
     <string name="title_score_trial_preparing">Przygotowanie …</string>
     <string name="msg_progress_gathering_plots">Zbieranie %1$s</string>
     <string name="msg_progress_gathering_samples">Gromadzenie próbek</string>
@@ -772,10 +772,10 @@
     <string name="msg_page_trait">Cechy</string>
     <string name="msg_page_plot_info">%1$s info</string>
     <string name="msg_no_plot_info">Brak informacji %1$s</string>
-    <string name="msgfmt_tags_selected_for_delete">Tags Selected to Delete: {0,number,integer}</string>
+    <string name="msgfmt_tags_selected_for_delete">Tagi wybrane do usunięcia: {0,number,integer}</string>
     <string name="msg_min_must_be_lt_max">Min musi być mniejsze niż Max</string>
-    <string name="msgfmt_invalid_min_value">Invalid min: {0,number,integer}</string>
-    <string name="msgfmt_invalid_max_value">Invalid max: {0,number,integer}</string>
+    <string name="msgfmt_invalid_min_value">Nieprawidłowa wartość min: {0,number,integer}</string>
+    <string name="msgfmt_invalid_max_value">Nieprawidłowa wartość maks: {0,number,integer}</string>
     <string name="title_trial_element_names">Nazwy elementów eksperymentów</string>
     <string name="msg_hint_for_example_Plot">np. %1$s</string>
     <string name="msg_hint_for_example_Row">np. %4$s</string>
@@ -1638,7 +1638,7 @@
     <string name="msg_export_for_kdxplore">Pełne dane dla KDXplore</string>
     <string name="msg_hdg_instance_numbers">Numery instancji</string>
     <string name="prompt_edit_devop_title">Edycja nazw urządzeń i operatorów</string>
-    <string name="msgfmt_traits_scored_m_of_n">Traits scored: {0,number,integer} of {1,number,integer}</string>
+    <string name="msgfmt_traits_scored_m_of_n">Cechy punktowane: {0,number,integer} z {1,number,integer}</string>
     <string name="msg_btn_trials_as_kdx">Eksperymenty jako KDX</string>
     <string name="title_heatmap_colour_values">Wartości kolorów mapy ciepła</string>
     <string name="ctx_title_manage_database">Zarządzanie bazą danych</string>
