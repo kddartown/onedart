@@ -1777,11 +1777,11 @@
     <string name="msgfmt_tags_selected_for_delete">Etiquetas selecionadas para excluir: {0,number,integer}</string>
     <string name="msgfmt_invalid_min_value">Mínimo inválido: {0,number,integer}</string>
     <string name="msgfmt_invalid_max_value">Máximo inválido: {0,number,integer}</string>
-    <string name="msgfmt_created_random_data_n_samples">Dados aleatórios criados para amostras: {0,number, integer}</string>
+    <string name="msgfmt_created_random_data_n_samples">Dados aleatórios criados para amostras: {0,number,integer}</string>
     <string name="pref_key_scoringView" translatable="false">pref_scoring_view</string>
     <string name="pref_default_value_scoringView" translatable="false">PATH_VIEW</string>
     <string name="pref_drawablesName_scoringView" translatable="false">scoringView_pref_drawables</string>
-    <string name="msg_do_you_want_to_protect_numberinteger_traits">Você quer proteger as características {0,number, integer}?</string>
+    <string name="msg_do_you_want_to_protect_numberinteger_traits">Você quer proteger as características {0,number,integer}?</string>
     <string name="msg_do_you_want_to_unprotect_numberinteger_traits">Você quer desproteger as características {0,number, integer}?</string>
     <string name="title_app_name">KDSmart</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
