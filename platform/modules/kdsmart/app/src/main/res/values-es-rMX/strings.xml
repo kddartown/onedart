@@ -737,7 +737,7 @@
     <string name="prompt_action_show_when_trait_scored_summary">Muestra cuándo se puntuó el rasgo por última vez.</string>
     <string name="prompt_action_search_plots">Buscar areas</string>
     <string name="title_choose_when">Minutos desde que marcó</string>
-    <string name="msgfmt_found_n_plots_since">Se ha encontrado {0, number, integer} %1$s puntuado desde {1}</string>
+    <string name="msgfmt_found_n_plots_since">Se ha encontrado {0, number,integer} %1$s puntuado desde {1}</string>
     <string name="prompt_action_heatmap_settings">Ajustes del mapa de calor…</string>
     <string name="prompt_action_heatmap_opacity">Elija Opacidad</string>
     <string name="prompt_action_heatmap_gradient">Elija Gradiente</string>
