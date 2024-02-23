@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="title_app_name">KDSmart</string>
-    <string name="msg_app_the_smart_way_to_score">Inteligentny sposób na ewaluację</string>
+    <string name="msg_app_the_smart_way_to_score">Inteligentny sposób pomiaru</string>
     <string name="title_action_take_snapshot">Migawka</string>
     <string name="title_action_field_view">Widok pola</string>
     <string name="title_action_settings">Ustawienia</string>
-    <string name="prompt_action_swap_sides">Zamiana stron</string>
-    <string name="prompt_action_change_visit_order">Zmiana kolejności wizyt</string>
-    <string name="prompt_action_lock_scored_traits">Cechy punktowane przez blokadę</string>
-    <string name="prompt_action_unlock_scored_traits">Odblokowywanie ewaluacji cech</string>
+    <string name="prompt_action_swap_sides">Zmień stronę</string>
+    <string name="prompt_action_change_visit_order">Zmiana kolejności na trasie</string>
+    <string name="prompt_action_lock_scored_traits">Zablokuj już zmierzone cechy</string>
+    <string name="prompt_action_unlock_scored_traits">Odblokuj już zmierzone cechy</string>
     <string name="prompt_action_activate_scanner">Skaner</string>
-    <string name="prompt_action_config_plot_info">Konfiguracja %1$s Info</string>
+    <string name="prompt_action_config_plot_info">Info o konfiguracji %1$s</string>
     <string name="msg_answer_no">Nie</string>
     <string name="msg_answer_yes">Tak</string>
     <string name="msg_not_a_directory_fmt_2">Nie katalog:</string>
@@ -34,17 +34,17 @@
     <string name="hdg_plots_per_group">%1$s na grupę</string>
     <string name="hdg_visit_order">Kolejność odbioru</string>
     <string name="hdg_organism_type">Typ organizmu</string>
-    <string name="prompt_btn_start_scoring">Rozpoczęcie ewaluacji</string>
+    <string name="prompt_btn_start_scoring">Rozpocznij pomiar</string>
     <string name="hdg_trial_name">Nazwa eksperymentu</string>
     <string name="hdg_current_plot">Aktualny %1$s</string>
     <string name="hdg_trial_planting_date">Data sadzenia</string>
     <string name="hdg_trial_plot_column_row_names">%1$s i nazwy osi X/Y</string>
     <string name="hdg_plot_ident_option">%1$s Identyfikacja</string>
     <string name="hdg_trial_note">Uwaga</string>
-    <string name="hdg_trait_name_style">Cechy Nazwa Styl</string>
+    <string name="hdg_trait_name_style">Styl Nazwy Cechy</string>
     <string name="hdg_trial_traits">Cechy</string>
     <string name="hdg_trial_details">Szczegóły eksperymentu</string>
-    <string name="hdg_trial_progress">Postęp eksperymentów</string>
+    <string name="hdg_trial_progress">Postęp eksperymentu</string>
     <string name="msg_html_trait_name_style_no_instances">Brak instancji</string>
     <string name="msg_html_trait_name_style_2underscores_digits">Cechy&lt;font color=0x00ddff&gt;__123&lt;/font&gt;</string>
     <string name="msg_html_trait_name_style_trailing_colon">Cechy:&lt;font color=0x00ddff&gt;123&lt;/font&gt;</string>
@@ -1501,7 +1501,7 @@
     <string name="msg_trials_were_deleted_successfully">Eksperymenty zostały pomyślnie usunięte</string>
     <string name="msg_deleting_trials">Usuwanie eksperymentów…</string>
     <string name="msg_deleting_trial">Usuwanie ekperymentów…</string>
-    <string name="msg_attempting_to_delete_items_form_kdsmart">Próba usunięcia elementów z KDSmart</string>
+    <string name="msg_attempting_to_delete_items_form_kdsmart">Próbuję usunąć elementy z KDSmart</string>
     <string name="errMsg_error_during_export">Błąd podczas eksportu</string>
     <string name="msg_trial_exported">Eksport eksperymentów</string>
     <string name="errMsg_export_error_trial">Błąd eksportu: Ekperymenty \'</string>
