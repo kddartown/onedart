@@ -1743,8 +1743,8 @@
     <string name="drawer_list_items_2">caractéristiques</string>
     <string name="drawer_list_items_3">Étiquettes</string>
     <string name="drawer_list_items_4">Gérer les appareils</string>
-    <string name="drawer_list_items_5">Paramètres</string>
-    <string name="drawer_list_items_6">Info</string>
+    <string name="drawer_list_items_5">KDDart</string>
+    <string name="drawer_list_items_6">Paramètres</string>
     <string name="title_app_name">KDSmart</string>
     <string name="pref_locale_key" translatable="false">pref_application_locale</string>
     <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
@@ -1792,4 +1792,5 @@
     <string name="title_kdshelpvideos_1_pol">Vidéos d\'aide sur le polonais</string>
     <string name="title_kdshelpvideos_1_fr">Vidéos d\'aide en français</string>
     <string name="title_downloading_module">Téléchargement de vidéos</string>
+    <string name="msg_kddart_url">URL de KDDart</string>
 </resources>
