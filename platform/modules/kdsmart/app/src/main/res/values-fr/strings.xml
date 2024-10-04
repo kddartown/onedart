@@ -1774,7 +1774,7 @@
     <string name="title_text_size_small">Petit texte</string>
     <string name="title_text_size_medium">Texte moyen</string>
     <string name="title_text_size_large">Grand texte</string>
-    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">Les informations sur les parcelles s\'affichent au-dessus de la notation des caractéristiques si la case n\'est pas cochée.</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">Décochez cette case pour afficher les informations relatives aux parcelles au-dessus de la notation des caractéristiques.</string>
     <string name="pref_auto_scoring_show_plot_info_above_trait">Configuration de l\'écran de Progression automatique</string>
     <string name="title_text_size">Taille du texte</string>
     <string name="msg_no_further_details_required">aucun détail supplémentaire n\'est requis</string>
@@ -1793,4 +1793,11 @@
     <string name="title_kdshelpvideos_1_fr">Vidéos d\'aide en français</string>
     <string name="title_downloading_module">Téléchargement de vidéos</string>
     <string name="msg_kddart_url">URL de KDDart</string>
+    <string name="drawer_list_items_7">Info</string>
+    <string name="msg_kdc_url">URL DU KDC</string>
+    <string name="msg_logout">Déconnexion</string>
+    <string name="msg_upload_file">Télécharger le fichier</string>
+    <string name="msg_switch_group">Groupe de commutateurs</string>
+    <string name="msg_kddart_url_cant_be_left_empty">L\'URL de KDDart ne peut pas être laissée vide</string>
+    <string name="msg_kdc_url_cant_be_left_empty">L\'URL du KDC ne peut pas être laissée vide</string>
 </resources>
