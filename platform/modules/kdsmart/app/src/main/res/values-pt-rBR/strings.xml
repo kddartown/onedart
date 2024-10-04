@@ -1681,8 +1681,8 @@
     <string name="drawer_list_items_2">Traços</string>
     <string name="drawer_list_items_3">Etiquetas</string>
     <string name="drawer_list_items_4">Gerenciar Dispositivos</string>
-    <string name="drawer_list_items_5">Configurações</string>
-    <string name="drawer_list_items_6">Informações</string>
+    <string name="drawer_list_items_5">KDDart</string>
+    <string name="drawer_list_items_6">Configurações</string>
     <string name="msg_no_further_details_required">Sem mais detalhes necessários.</string>
     <string name="title_export_all_tags">Exportar todas as etiquetas</string>
     <string name="title_export_all_traits">Exportar todos os traços</string>
@@ -1799,4 +1799,12 @@
     <string name="title_downloading_module">Baixando vídeos</string>
     <string name="title_kdshelpvideos_1_de">Vídeos de Ajuda em Alemão</string>
     <string name="title_kdshelpvideos_1_pt_br">Vídeos de Ajuda em Português</string>
+    <string name="msg_kddart_url">KDDart URL</string>
+    <string name="msg_kdc_url">KDC URL</string>
+    <string name="msg_logout">Sair</string>
+    <string name="msg_upload_file">Enviar Arquivo</string>
+    <string name="msg_switch_group">Mudar Grupo</string>
+    <string name="msg_kddart_url_cant_be_left_empty">A URL do KDDart não pode ficar vazia</string>
+    <string name="msg_kdc_url_cant_be_left_empty">A URL do KDC não pode ficar vazia</string>
+    <string name="drawer_list_items_7">Informações</string>
 </resources>
