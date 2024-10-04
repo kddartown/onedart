@@ -1750,11 +1750,11 @@
     <string name="drawer_list_items_2">Merkmale</string>
     <string name="drawer_list_items_3">Tags</string>
     <string name="drawer_list_items_4">Geräte verwalten</string>
-    <string name="drawer_list_items_5">Einstellungen</string>
-    <string name="drawer_list_items_6">Infos</string>
+    <string name="drawer_list_items_5">KDDart</string>
+    <string name="drawer_list_items_6">Einstellungen</string>
     <string name="msg_no_further_details_required">keine weiteren Angaben erforderlich</string>
     <string name="pref_auto_scoring_show_plot_info_above_trait">Automatisches Vorrücken der Bildschirmkonfiguration</string>
-    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">Parzelleninformationen werden oberhalb der Merkmale angezeigt, wenn sie nicht markiert sind.</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">Deaktivieren Sie das Kontrollkästchen, um Parzelleninformationen über der Auswertung der Merkmale anzuzeigen.</string>
     <string name="title_text_size">Textgröße</string>
     <string name="title_text_size_small">Kleiner Text</string>
     <string name="title_text_size_medium">Mittlerer Text</string>
@@ -1773,4 +1773,12 @@
     <string name="ctx_data_exchange_import">Datenimport</string>
     <string name="ctx_data_exchange_export">Datenexport</string>
     <string name="title_kdshelpvideos_1_pol">Polnische Hilfe Videos</string>
+    <string name="msg_kdc_url">KDC URL</string>
+    <string name="msg_switch_group">Gruppe wechseln</string>
+    <string name="msg_kdc_url_cant_be_left_empty">KDC-URL kann nicht leer gelassen werden</string>
+    <string name="msg_kddart_url">KDDart URL</string>
+    <string name="msg_logout">Abmeldung</string>
+    <string name="drawer_list_items_7">Infos</string>
+    <string name="msg_upload_file">Datei hochladen</string>
+    <string name="msg_kddart_url_cant_be_left_empty">KDDart URL kann nicht leer gelassen werden</string>
 </resources>
