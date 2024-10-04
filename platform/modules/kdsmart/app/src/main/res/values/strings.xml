@@ -425,9 +425,9 @@
 
     <string name="pref_plot_change_title_confirm_plot_skipped">Confirm When Plot is Skipped</string>
 
-    <string name="pref_auto_scoring_show_plot_info_above_trait">Auto-advance screen configuration</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait">Auto-advance Screen Configuration</string>
 
-    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">Plot information will show above Trait Scoring when left unchecked.</string>
+    <string name="pref_auto_scoring_show_plot_info_above_trait_summary">Uncheck to display plot information above trait scoring.</string>
 
     <string name="pref_plot_change_summary">Check to confirm location and uncheck for a brief message.</string>
 
@@ -2184,11 +2184,18 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="title_plot_subplot">%1$s/%2$s</string>
     <string name="title_knowledge_discovery"><![CDATA[Knowledge Discovery & Delivery System]]></string>
     <string name="msg_kddart_url_section">Nothing here</string>
+    <string name="msg_kddart_url">KDDart URL</string>
+    <string name="msg_kdc_url">KDC URL</string>
     <string name="msg_username">Username</string>
     <string name="msg_password">Password</string>
     <string name="msg_login">Login</string>
+    <string name="msg_logout">Logout</string>
+    <string name="msg_upload_file">Upload File</string>
+    <string name="msg_switch_group">Switch Group</string>
     <string name="msg_invalid_username_and_password">Incorrect username or password.</string>
     <string name="msg_cant_login"><u>Can\'t log in?</u></string>
+    <string name="msg_kddart_url_cant_be_left_empty">KDDart URL can\'t be left empty</string>
+    <string name="msg_kdc_url_cant_be_left_empty">KDC URL can\'t be left empty</string>
     <string name="msg_username_cant_be_left_empty">Username can\'t be left empty</string>
     <string name="msg_password_cant_be_left_empty">Password can\'t be left empty</string>
     <string name="pref_kddart_locale_title">Default KDDart URL</string>
@@ -2737,8 +2744,9 @@ and allow Storage permission. <br><\br></p>]]>
     <string name="drawer_list_items_2">Traits</string>
     <string name="drawer_list_items_3">Tags</string>
     <string name="drawer_list_items_4">Manage Devices</string>
-    <string name="drawer_list_items_5">Settings</string>
-    <string name="drawer_list_items_6">Info</string>
+    <string name="drawer_list_items_5">KDDart</string>
+    <string name="drawer_list_items_6">Settings</string>
+    <string name="drawer_list_items_7">Info</string>
     <string name="msg_no_further_details_required">no further details required</string>
     <string name="title_export_all_tags">Export All Tags</string>
     <string name="title_export_all_traits">Export All Traits</string>
