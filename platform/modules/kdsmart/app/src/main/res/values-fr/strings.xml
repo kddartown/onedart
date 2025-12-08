@@ -200,8 +200,8 @@
     <string name="title_import_tags">Étiquettes d\'importation</string>
     <string name="title_export_to">Exporter vers</string>
     <string name="title_export_csv">Dispositif</string>
-    <string name="title_export_kdxplore">KDXplore</string>
-    <string name="title_export_kddart">KDDart</string>
+    <string name="title_export_kdxplore" translatable="false">KDXplore</string>
+    <string name="title_export_kddart" translatable="false">KDDart</string>
     <string name="title_file_chooser">Sélecteur de fichiers</string>
     <string name="title_import_from">Importer de</string>
     <string name="title_import_file_csv">Fichier CSV</string>
@@ -371,10 +371,8 @@
     <string name="msg_hdg_add_edit_tag_label">Étiquette</string>
     <string name="msg_hdg_add_edit_tag_desciption">Description</string>
     <string name="prompt_action_toggle_auto_advance">Progression automatique</string>
-    <string name="prompt_auto_advance_on">La Progression automatique est activée.
-\nTouchez à nouveau pour la désactiver</string>
-    <string name="prompt_auto_advance_off">La Progression automatique est désactivée.
-\nToucher à nouveau pour l\'activer</string>
+    <string name="prompt_auto_advance_on">La Progression automatique est activée.\nTouchez à nouveau pour la désactiver</string>
+    <string name="prompt_auto_advance_off">La Progression automatique est désactivée.\nToucher à nouveau pour l\'activer</string>
     <string name="msg_btn_goto_plot">✓</string>
     <string name="msg_run_validation_check">Il est possible que vous souhaitiez effectuer un contrôle de validation des projets de notation.</string>
     <string name="hdg_warnings">= = = Avertissements :</string>
@@ -1417,8 +1415,7 @@
     <string name="errMsg_show_attachments_fmt_2">Afficher les pièces jointes</string>
     <string name="errMsg_database_error_fmt_7">Erreur de base de données :
 \n</string>
-    <string name="msg_delete_problem">Supprimer le problème
-\n</string>
+    <string name="msg_delete_problem">Supprimer le problème\n</string>
     <string name="errMsg_database_error_fmt_8">Erreur de base de données</string>
     <string name="msg_unable_to_assign_barcode">Impossible d\'attribuer un code-barres (1)</string>
     <string name="msg_unable_to_assign_barcode_fmt_2">Impossible d\'attribuer un code-barres (2)</string>
@@ -1438,11 +1435,8 @@
     <string name="errMsg_no_scoring_navigation_controller">Pas de notation Contrôleur de navigation</string>
     <string name="errMsg_already_defined">Déjà défini</string>
     <string name="errMsg_search_error">Erreur de recherche</string>
-    <string name="msg_unable_to_find_sample">Impossible de trouver l\'échantillon
-\n</string>
-    <string name="msg_in_position">"
-\nen position
-\n"</string>
+    <string name="msg_unable_to_find_sample">Impossible de trouver l\'échantillon\n</string>
+    <string name="msg_in_position">\n\nen position\n\n</string>
     <string name="msg_internal_error">ERREUR INTERNE</string>
     <string name="msg_missing_plotvisitlist">Manquant PlotVisitList</string>
     <string name="msg_internal_error_fmt_2">ERREUR INTERNE</string>
@@ -1553,8 +1547,7 @@
     <string name="msg_removed_tags_from">"
 \nSuppression des étiquettes de"</string>
     <string name="msg_plotsspecimens">Parcelles/Spécimens</string>
-    <string name="msg_removed">"
-\nSupprimé"</string>
+    <string name="msg_removed">\n\nSupprimé</string>
     <string name="msg_attachments">Pièces jointes</string>
     <string name="errMsg_error_clearing_sample_data">Erreur dans l\'effacement des données de l\'échantillon</string>
     <string name="msg_delete_unsuccessful">Suppression d\'un échec</string>
