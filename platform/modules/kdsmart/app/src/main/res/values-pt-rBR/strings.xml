@@ -1704,8 +1704,8 @@
         <item quantity="many">Adicionados %d Novos Traços</item>
         <item quantity="other">Adicionados %d Novos Traços</item>
     </plurals>
-    <string name="title_export_kdxplore">KDXplore</string>
-    <string name="title_export_kddart">KDDart</string>
+    <string name="title_export_kdxplore" translatable="false">KDXplore</string>
+    <string name="title_export_kddart" translatable="false">KDDart</string>
     <string name="pref_locale_key" translatable="false">pref_application_locale</string>
     <string name="pref_locale_default_value" translatable="false">SYSTEM</string>
     <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
@@ -1721,7 +1721,7 @@
     <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="msgfmt_no_sample_for_instance_of_trait">Nenhuma amostra para a instância {0,number,integer} do Traço \'{1}\'</string>
     <string name="msgfmt_found_n_plots_since">Encontrado {0,number,integer} %1$s pontuado desde {1}</string>
-    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
+    <string name="msg_info_searchname_nplots" translatable="false">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Selecionado: {0,number,integer}</string>
     <string name="msg_format_n_trials_have_no_planting_date">Alguns projetos ({0,number,integer}) não têm uma Data de Plantio</string>
     <string name="msgfmt_traits_scored_m_of_n">Traços pontuados: {0,number,integer} de {1,number,integer}</string>
@@ -1734,7 +1734,7 @@
     <string name="pref_drawablesName_scoringView" translatable="false">scoringView_pref_drawables</string>
     <string name="msg_do_you_want_to_protect_numberinteger_traits">Você quer proteger as características {0,number,integer}?</string>
     <string name="msg_do_you_want_to_unprotect_numberinteger_traits">Você quer desproteger as características {0,number, integer}?</string>
-    <string name="title_app_name">KDSmart</string>
+    <string name="title_app_name" translatable="false">KDSmart</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
     <string name="ctx_bulk_scoring">Pontuação em massa</string>
     <string name="ctx_title_path_scoring_mode">Modo de pontuação pela caminho</string>
