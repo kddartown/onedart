@@ -57,8 +57,7 @@
     <string name="msg_trial_is_not_editable">Dieser Versuch ist nicht editierbar</string>
     <string name="msg_no_trials_available">Keine Versuche verfügbar.\nVerwenden Sie Import, um einige zu laden.</string>
     <string name="msg_no_traits_available">Keine Merkmale verfügbar.\nVerwenden Sie Import, um einige zu laden.</string>
-    <string name="msg_no_tags_available">Keine Tags verfügbar.
-\nVerwenden Sie Import, um einige zu laden.</string>
+    <string name="msg_no_tags_available">Keine Tags verfügbar.\nVerwenden Sie Import, um einige zu laden.</string>
     <string name="msg_option_choose_folder">Mappe</string>
     <string name="msg_option_choose_parentDirectory">Verzeichnis der Eltern</string>
     <string name="msg_option_fileSize">Größe der Datei</string>
@@ -97,7 +96,7 @@
     <string name="title_export_to">Exportieren nach</string>
     <string name="title_export_csv">Gerät</string>
     <string name="title_export_kdxplore" translatable="false">KDXplore</string>
-    <string name="title_export_kddart">KDDart</string>
+    <string name="title_export_kddart" translatable="false">KDDart</string>
     <string name="title_file_chooser">Datei-Auswahl</string>
     <string name="title_import_from">Importieren von</string>
     <string name="title_import_file_csv">Datei CSV</string>
@@ -628,14 +627,14 @@
     <string name="msg_switch_on_location_and_network">Schalten Sie Standort und Netzwerk ein, um diesen Dienst zu nutzen</string>
     <string name="prompt_btn_switch_on">Einschalten</string>
     <string name="title_inactive_trait">Inaktive Merkmale</string>
-    <string name="msg_question_do_you_want_to_change">Möchten Sie den Wert ändern\?</string>
+    <string name="msg_question_do_you_want_to_change">Möchten Sie den Wert ändern?</string>
     <string name="pref_title_allow_inactive_trait_edit">Bearbeitung inaktiver Merkmale zulassen</string>
     <string name="pref_title_kdxplore_barcodes">KDKplore Barcodes verwenden</string>
     <string name="pref_title_alphabetical_trait_order_title">Alphabetische Reihenfolge der Merkmale verwenden</string>
     <string name="pref_title_alphabetical_trait_order">Alphabetische Reihenfolge der Merkmale im CSV-Export verwenden</string>
     <string name="pref_desc_allow_inactive_trait_edit">Prüfen, ob Werte oder inaktive Merkmale geändert werden können</string>
     <string name="msg_prefix_some_trial_exports_failed">Einige Versuche zur Ausfuhr sind gescheitert:</string>
-    <string name="title_do_you_want_to_retry">Möchten Sie es erneut versuchen\?</string>
+    <string name="title_do_you_want_to_retry">Möchten Sie es erneut versuchen?</string>
     <string name="msg_l1chk_must_be_non_blank">Muss nicht leer sein</string>
     <string name="msg_l1chk_invalid_date">Ungültiges Datum</string>
     <string name="msg_l1chk_invalid_integer">Ungültige Ganzzahl</string>
@@ -673,7 +672,7 @@
     <string name="hdg_plotview_inactive_traits">Inaktive Merkmale</string>
     <string name="title_select_heatmap_opacity">Deckkraft der Heatmap auswählen</string>
     <string name="title_select_heatmap_gradient">Gradient der Wärmekarte auswählen</string>
-    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
+    <string name="msg_info_searchname_nplots" translatable="false">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Ausgewählte: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Konfigurieren Sie …</string>
     <string name="msgfmt_warning_landscape_small">Der Querformatmodus auf kleinen Bildschirmen verwendet immer mindestens {0}</string>
@@ -759,9 +758,7 @@
     <string name="title_importing_trial">Versuch importieren</string>
     <string name="title_error_exporting">Fehler beim Exportieren</string>
     <string name="title_export_completed">Export abgeschlossen</string>
-    <string name="msgfmt_file_is_in_folder">{0}
-\nist im Ordner:
-\n{1}</string>
+    <string name="msgfmt_file_is_in_folder">{0}\nist im Ordner:\n{1}</string>
     <string name="pref_locale_title">Sprache</string>
     <string name="pref_locale_description">Sprache</string>
     <string name="msg_btn_trials_as_zip">Versuche als Zip</string>
@@ -1210,7 +1207,7 @@
     <string name="msg_csv_export_not_available">CSV-Export nicht verfügbar</string>
     <string name="msg_csv_import_not_available">CSV-Import nicht verfügbar</string>
     <string name="msg_active_database_is_demo">Aktive Datenbank ist Demo</string>
-    <string name="msg_do_you_wish_to_continue_with_the_data_import">Möchten Sie mit dem Datenimport fortfahren\?</string>
+    <string name="msg_do_you_wish_to_continue_with_the_data_import">Möchten Sie mit dem Datenimport fortfahren?</string>
     <string name="msg_it_will_be_removed_on_a_demo_db_reset">(Sie wird bei einem \'Demo Database Reset\' entfernt)</string>
     <string name="msg_trials_available_for_scoring">Für die Bewertung verfügbare Versuche</string>
     <string name="msg_unexpected_button_id_value">Unerwartete Schaltfläche id, Wert</string>
@@ -1242,7 +1239,7 @@
     <string name="msg_choose_export_option">Wählen Sie die Exportoption</string>
     <string name="msg_export_to_kddart">Nach KDDart exportieren</string>
     <string name="msg_must_implement_bundlefragmentonitemselected">muss BundleFragmentOnItemSelected implementieren</string>
-    <string name="msg_continue_with_save">Weiter mit Speichern\?</string>
+    <string name="msg_continue_with_save">Weiter mit Speichern?</string>
     <string name="msg_explore_database">Datenbank erkunden</string>
     <string name="msg_not_yet_available">Noch nicht verfügbar</string>
     <string name="msg_select_a_block_trial">Wählen Sie einen Blockversuch</string>
@@ -1259,11 +1256,9 @@
     <string name="msg_database_saved_fmt_4">Gespeicherte Datenbank</string>
     <string name="msg_database_saved_fmt_5">Gespeicherte Datenbank</string>
     <string name="msg_backing_up">Sichern von Daten</string>
-    <string name="msg_to_fmt_3">"
-\n\tzu"</string>
+    <string name="msg_to_fmt_3">\n\n\tzu</string>
     <string name="msg_backing_up_fmt_2">Sichern von Daten</string>
-    <string name="msg_to_fmt_4">"
-\n\tzu"</string>
+    <string name="msg_to_fmt_4">\n\n\tzu</string>
     <string name="msg_import_from_kddart">Aus KDDart importieren</string>
     <string name="html_attachments">&lt;br&gt;&lt;b&gt;Attachments:&lt;/b&gt;</string>
     <string name="html_specimens">&lt;br&gt;&lt;b&gt;Exemplare:&lt;/b&gt;</string>
@@ -1356,8 +1351,7 @@
     <string name="errMsg_database_error_fmt_6">Datenbank-Fehler:\n</string>
     <string name="errMsg_show_attachments_fmt_2">Datenbank-Fehler:</string>
     <string name="errMsg_database_error_fmt_7">Datenbank-Fehler:\n</string>
-    <string name="msg_delete_problem">Problem löschen
-\n</string>
+    <string name="msg_delete_problem">Problem löschen\n</string>
     <string name="errMsg_database_error_fmt_8">Datenbank-Fehler</string>
     <string name="msg_unable_to_assign_barcode">Barcode kann nicht zugewiesen werden (1)</string>
     <string name="msg_unable_to_assign_barcode_fmt_2">Barcode kann nicht zugewiesen werden (2)</string>
@@ -1405,7 +1399,7 @@
     <string name="msg_exit_autoadvance">Beenden Automatisches Vorrücken?</string>
     <string name="msg_not_yet_supported">: Noch nicht unterstützt</string>
     <string name="errMsg_internal_error_fmt_2">Interner Fehler</string>
-    <string name="msg_save_tag_details">Tag-Details speichern\?</string>
+    <string name="msg_save_tag_details">Tag-Details speichern?</string>
     <string name="msg_confirm_save">Bestätigen Sie Speichern</string>
     <string name="msg_unable_to_save_tag">Tag kann nicht gespeichert werden</string>
     <string name="msg_can_t_save_tag">Tag kann nicht gespeichert werden</string>
@@ -1490,8 +1484,7 @@
     <string name="msg_samples">Proben</string>
     <string name="msg_removed_tags_from">\n\nEntfernte Tags von</string>
     <string name="msg_plotsspecimens">Parzellen/Exemplare</string>
-    <string name="msg_removed">"
-\nEntfernt"</string>
+    <string name="msg_removed">\n\nEntfernt</string>
     <string name="msg_attachments">Anhänge</string>
     <string name="errMsg_error_clearing_sample_data">Fehler beim Löschen von Probendaten</string>
     <string name="msg_delete_unsuccessful">Löschen Erfolglos</string>
