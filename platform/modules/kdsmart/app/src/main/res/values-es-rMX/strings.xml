@@ -123,7 +123,7 @@
     <string name="title_export_to">Exportar a</string>
     <string name="title_export_csv">Dispositivo</string>
     <string name="title_export_kdxplore" translatable="false">KDXplore</string>
-    <string name="title_export_kddart">KDDart</string>
+    <string name="title_export_kddart" translatable="false">KDDart</string>
     <string name="title_file_chooser">Selector de archivos</string>
     <string name="title_import_from">Importar desde</string>
     <string name="title_import_file_csv">Archivo CSV</string>
@@ -598,9 +598,9 @@
     <string name="prompt_use_kdxchange">Utilice KDXchange</string>
     <string name="title_transitions_menu">Mostrar cambio…</string>
     <string name="title_stop_scoring">¿Dejar de puntuar?</string>
-    <string name="title_exit_trait_manager">¿Rasgos de salida\?</string>
-    <string name="title_exit_trial_manager">¿Senderos de salida\?</string>
-    <string name="title_exit_tag_manager">¿Etiquetas de salida\?</string>
+    <string name="title_exit_trait_manager">¿Rasgos de salida?</string>
+    <string name="title_exit_trial_manager">¿Senderos de salida?</string>
+    <string name="title_exit_tag_manager">¿Etiquetas de salida?</string>
     <string name="msg_no_traits">Sin rasgos</string>
     <string name="prompt_action_show_edays_as_count">Días transcurridos como recuento</string>
     <string name="title_trial_abbreviation">Abreviatura del ensayo</string>
@@ -713,7 +713,7 @@
     <string name="pref_title_alphabetical_trait_order">Utilizar el orden alfabético de los rasgos en la exportación CSV</string>
     <string name="pref_desc_allow_inactive_trait_edit">Comprobar para permitir el cambio de valores o rasgos inactivos</string>
     <string name="msg_prefix_some_trial_exports_failed">Algunos ensayos de exportación fracasaron:</string>
-    <string name="title_do_you_want_to_retry">¿Quieres volver a intentarlo\?</string>
+    <string name="title_do_you_want_to_retry">¿Quieres volver a intentarlo?</string>
     <string name="msg_l1chk_must_be_non_blank">No debe estar en blanco</string>
     <string name="msg_l1chk_invalid_date">Fecha no válida</string>
     <string name="msg_l1chk_invalid_integer">Número entero no válido</string>
@@ -743,7 +743,7 @@
     <string name="hdg_plotview_inactive_traits">Rasgos inactivos</string>
     <string name="title_select_heatmap_opacity">Seleccionar la opacidad del mapa de calor</string>
     <string name="title_select_heatmap_gradient">Seleccionar gradiente del mapa de calor</string>
-    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
+    <string name="msg_info_searchname_nplots" translatable="false">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Seleccionado: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Configurar …</string>
     <string name="msgfmt_warning_landscape_small">El modo horizontal en pantallas pequeñas siempre utilizará al menos {0}.</string>
@@ -757,7 +757,7 @@
     <string name="title_confirm_delete_attachment">¿Borrar archivo adjunto?</string>
     <string name="msg_no_attachments_in_database">No hay archivos adjuntos en la base de datos</string>
     <string name="title_active_trial">Ensayo activo</string>
-    <string name="msg_active_trial_choose_option">¿Qué quieres hacer\?</string>
+    <string name="msg_active_trial_choose_option">¿Qué quieres hacer?</string>
     <string name="prompt_option_active_trial_yes_start_scoring">Inicio Puntuación</string>
     <string name="prompt_option_active_trial_no_clear_active_trial">Ensayos activos claros</string>
     <string name="msg_format_n_trials_have_no_planting_date">Algunos ensayos ({0,number,integer}) no tienen fecha de siembra</string>
@@ -822,9 +822,7 @@
     <string name="title_importing_trial">Importación de ensayos</string>
     <string name="title_error_exporting">Error de exportación</string>
     <string name="title_export_completed">Exportación completada</string>
-    <string name="msgfmt_file_is_in_folder">{0}
-\nestá en la carpeta:
-\n{1}</string>
+    <string name="msgfmt_file_is_in_folder">{0}\nestá en la carpeta:\n{1}</string>
     <string name="pref_locale_title">Idioma</string>
     <string name="pref_locale_description">Idioma</string>
     <string name="msg_btn_trials_as_zip">Ensayos en formato Zip</string>
@@ -1262,14 +1260,13 @@
     <string name="msg_choose_export_option">Elija la opción de exportación</string>
     <string name="msg_export_to_kddart">Exportar a KDDart</string>
     <string name="msg_must_implement_bundlefragmentonitemselected">debe implementar BundleFragmentOnItemSelected</string>
-    <string name="msg_continue_with_save">¿Continuar con Guardar\?</string>
+    <string name="msg_continue_with_save">¿Continuar con Guardar?</string>
     <string name="msg_explore_database">Explorar la base de datos</string>
     <string name="msg_not_yet_available">Aún no disponible</string>
     <string name="msg_select_a_block_trial">Seleccione un ensayo de bloques</string>
     <string name="msg_saving_trials">Ensayos de salvamento:</string>
     <string name="msg_save_database">Guardar base de datos</string>
-    <string name="msg_unable_to_create_folder">No se puede crear la carpeta:
-\n</string>
+    <string name="msg_unable_to_create_folder">No se puede crear la carpeta:\n</string>
     <string name="msg_database_saved_to">Base de datos guardada en</string>
     <string name="msg_database_saved">Base de datos guardada</string>
     <string name="msg_database_saved_fmt_2">Base de datos guardada</string>
@@ -1280,11 +1277,9 @@
     <string name="msg_database_saved_fmt_4">Base de datos guardada</string>
     <string name="msg_database_saved_fmt_5">Base de datos guardada</string>
     <string name="msg_backing_up">Copia de seguridad</string>
-    <string name="msg_to_fmt_3">"
-\n\ta"</string>
+    <string name="msg_to_fmt_3">\n\n\ta</string>
     <string name="msg_backing_up_fmt_2">Copia de seguridad</string>
-    <string name="msg_to_fmt_4">"
-\n\ta"</string>
+    <string name="msg_to_fmt_4">\n\n\ta</string>
     <string name="msg_import_from_kddart">Importar desde KDDart</string>
     <string name="html_attachments">&lt;br&gt;&lt;b&gt;Anexos:&lt;/b&gt;</string>
     <string name="html_specimens">&lt;br&gt;&lt;b&gt;Especímenes:&lt;/b&gt;</string>
@@ -1357,10 +1352,10 @@
     <string name="msg_stopping_kdxchange_service">Detención del servicio KDXchange</string>
     <string name="msg_state_is">El Estado es</string>
     <string name="msg_kdxplore_connect">Conexión KDXplore</string>
-    <string name="msg_continue">¿Continuar\?</string>
+    <string name="msg_continue">¿Continuar?</string>
     <string name="msg_autoscan_not_supported">(No se admite la exploración automática)</string>
     <string name="msg_kdxchange_is_still_active">KDXchange sigue activo</string>
-    <string name="msg_do_you_still_want_to_exit">¿Todavía quieres salir\?</string>
+    <string name="msg_do_you_still_want_to_exit">¿Todavía quieres salir?</string>
     <string name="msg_port_number_must_be_to">El número de puerto debe ser de 1 a 65535</string>
     <string name="msg_invalid_port">Puerto no válido:</string>
     <string name="msg_invalid_host_address">Dirección de host no válida</string>
@@ -1374,11 +1369,9 @@
     <string name="msg_no_file">¡¡!! NO FILE</string>
     <string name="msg_no_file_fmt_2">¡¡!! NO FILE</string>
     <string name="errMsg_show_attachments">Mostrar anexos</string>
-    <string name="errMsg_database_error_fmt_6">Error de base de datos:
-\n</string>
+    <string name="errMsg_database_error_fmt_6">Error de base de datos:\n</string>
     <string name="errMsg_show_attachments_fmt_2">Mostrar anexos</string>
-    <string name="errMsg_database_error_fmt_7">Error de base de datos:
-\n</string>
+    <string name="errMsg_database_error_fmt_7">Error de base de datos:\n</string>
     <string name="msg_delete_problem">Borrar problema\n</string>
     <string name="errMsg_database_error_fmt_8">Error de base de datos</string>
     <string name="msg_unable_to_assign_barcode">No se puede asignar el código de barras (1)</string>
@@ -1399,11 +1392,8 @@
     <string name="errMsg_no_scoring_navigation_controller">Controlador de navegación sin puntuación</string>
     <string name="errMsg_already_defined">Ya definido</string>
     <string name="errMsg_search_error">Error de búsqueda</string>
-    <string name="msg_unable_to_find_sample">No se puede encontrar la muestra
-\n</string>
-    <string name="msg_in_position">"
-\nen posición
-\n"</string>
+    <string name="msg_unable_to_find_sample">No se puede encontrar la muestra\n</string>
+    <string name="msg_in_position">\n\nen posición\n\n</string>
     <string name="msg_internal_error">ERROR INTERNO</string>
     <string name="msg_missing_plotvisitlist">Falta PlotVisitList</string>
     <string name="msg_internal_error_fmt_2">ERROR INTERNO</string>
@@ -1513,8 +1503,7 @@
     <string name="msg_no_samples_were_scored">No se han puntuado las muestras</string>
     <string name="msg_cleared_scores_from">Puntuaciones despejadas de</string>
     <string name="msg_samples">Muestras</string>
-    <string name="msg_removed_tags_from">"
-\nEtiquetas eliminadas de"</string>
+    <string name="msg_removed_tags_from">\n\nEtiquetas eliminadas de</string>
     <string name="msg_plotsspecimens">Parcelas/Especimenes</string>
     <string name="msg_attachments">Archivos adjuntos</string>
     <string name="errMsg_error_clearing_sample_data">Error al borrar los datos de la muestra</string>
@@ -1571,7 +1560,7 @@
     <string name="msg_trials_from">Ensayos de</string>
     <string name="errMsg_cant_remove_traits_from_bundle_fmt_2">No se pueden eliminar rasgos del conjunto</string>
     <string name="msg_trial_import_in_progress">Ensayos de importación en curso</string>
-    <string name="msg_stop_it_and_exit">¿Detenerlo y salir\?</string>
+    <string name="msg_stop_it_and_exit">¿Detenerlo y salir?</string>
     <string name="msg_change_trait_name_style_to">Cambiar el estilo de los nombres de rasgos a\n</string>
     <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">El bloque de parcelas no está permitido para la puntuación de ensayos múltiples.</string>
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">El valor Nombre del ensayo es necesario para cada area cuando se utiliza</string>
@@ -1663,8 +1652,7 @@
     <string name="msg_btn_ok_import">Importar</string>
     <string name="msg_error">Error</string>
     <string name="msg_add">Añadir</string>
-    <string name="msg_removed">"
-\nEliminado"</string>
+    <string name="msg_removed">\n\nEliminado</string>
     <string name="msg_choices">Opciones</string>
     <string name="msg_clear">Claro</string>
     <string name="msg_column_heading">Encabezamiento de columna</string>
