@@ -787,7 +787,7 @@
     <string name="hdg_plotview_inactive_traits">Caractéristiques inactives</string>
     <string name="title_select_heatmap_opacity">Sélectionner l\'opacité de la carte thermique</string>
     <string name="title_select_heatmap_gradient">Sélectionner le dégradé de la carte thermique</string>
-    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
+    <string name="msg_info_searchname_nplots" translatable="false">{0}: {1,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Configurer …</string>
     <string name="msgfmt_warning_landscape_small">Le mode paysage sur les petits écrans utilisera toujours au moins {0}</string>
     <string name="prompt_menu_data_score_samples">Échantillons de notation</string>
