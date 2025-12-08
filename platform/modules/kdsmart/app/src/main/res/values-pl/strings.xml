@@ -686,7 +686,7 @@
     <string name="msg_switch_on_location_and_network">Włącz lokalizację i sieć, aby korzystać z tej usługi</string>
     <string name="prompt_btn_switch_on">Włączanie</string>
     <string name="title_inactive_trait">Cechy nieaktywne</string>
-    <string name="msg_question_do_you_want_to_change">Czy chcesz zmienić wartość\?</string>
+    <string name="msg_question_do_you_want_to_change">Czy chcesz zmienić wartość?</string>
     <string name="pref_title_allow_inactive_trait_edit">Zezwalaj na edycję nieaktywnych cech</string>
     <string name="pref_title_kdxplore_barcodes">Korzystanie z kodów kreskowych KDKplore</string>
     <string name="pref_title_alphabetical_trait_order_title">Użyj alfabetycznej kolejności cech</string>
@@ -733,7 +733,7 @@
     <string name="prompt_menu_select_all">Wybierz wszystko</string>
     <string name="prompt_menu_delete">Usuń</string>
     <string name="title_confirm_clear_all">Wyczyść wszystkie dane próbki</string>
-    <string name="title_confirm_delete_attachment">Usunąć załącznik\?</string>
+    <string name="title_confirm_delete_attachment">Usunąć załącznik?</string>
     <string name="msg_no_attachments_in_database">Brak załączników w bazie danych</string>
     <string name="title_active_trial">Aktywny ekperyment</string>
     <string name="msg_active_trial_choose_option">Co chcesz zrobić?</string>
@@ -800,9 +800,7 @@
     <string name="title_importing_trial">Importowanie eksperymentów</string>
     <string name="title_error_exporting">Błąd eksportu</string>
     <string name="title_export_completed">Eksport zakończony</string>
-    <string name="msgfmt_file_is_in_folder">{0}
-\nznajduje się w folderze:
-\n{1}</string>
+    <string name="msgfmt_file_is_in_folder">{0}\nznajduje się w folderze:\n{1}</string>
     <string name="pref_locale_title">Język</string>
     <string name="pref_locale_description">Język</string>
     <string name="msg_btn_trials_as_zip">Eksperymenty jako Zip</string>
@@ -1232,8 +1230,7 @@
     <string name="msg_not_yet_available">Jeszcze niedostępne</string>
     <string name="msg_select_a_block_trial">Wybór próby blokowej</string>
     <string name="msg_save_database">Zapisz bazę danych</string>
-    <string name="msg_unable_to_create_folder">Nie można utworzyć folderu:
-\n</string>
+    <string name="msg_unable_to_create_folder">Nie można utworzyć folderu:\n</string>
     <string name="msg_database_saved_to">Baza danych zapisana w</string>
     <string name="msg_database_saved">Zapisana baza danych</string>
     <string name="msg_database_saved_fmt_2">Zapisana baza danych</string>
@@ -1323,7 +1320,7 @@
     <string name="msg_stopping_kdxchange_service">Zatrzymanie usługi KDXchange</string>
     <string name="msg_state_is">Stan to</string>
     <string name="msg_kdxplore_connect">KDXplore Connect</string>
-    <string name="msg_continue">Kontynuować\?</string>
+    <string name="msg_continue">Kontynuować?</string>
     <string name="msg_autoscan_not_supported">(AutoScan nie jest obsługiwany)</string>
     <string name="msg_kdxchange_is_still_active">KDXchange jest nadal aktywne</string>
     <string name="msg_do_you_still_want_to_exit">Czy nadal chcesz wyjść?</string>
@@ -1340,13 +1337,10 @@
     <string name="msg_no_file">!! BRAK PLIKU</string>
     <string name="msg_no_file_fmt_2">!! BRAK PLIKU</string>
     <string name="errMsg_show_attachments">Pokaż załączniki</string>
-    <string name="errMsg_database_error_fmt_6">Błąd bazy danych:
-\n</string>
+    <string name="errMsg_database_error_fmt_6">Błąd bazy danych:\n</string>
     <string name="errMsg_show_attachments_fmt_2">Pokaż załączniki</string>
-    <string name="errMsg_database_error_fmt_7">Błąd bazy danych:
-\n</string>
-    <string name="msg_delete_problem">Usuń problem
-\n</string>
+    <string name="errMsg_database_error_fmt_7">Błąd bazy danych:\n</string>
+    <string name="msg_delete_problem">Usuń problem\n</string>
     <string name="errMsg_database_error_fmt_8">Błąd bazy danych</string>
     <string name="msg_unable_to_assign_barcode">Nie można przypisać kodu kreskowego (1)</string>
     <string name="msg_unable_to_assign_barcode_fmt_2">Nie można przypisać kodu kreskowego (2)</string>
@@ -1366,8 +1360,7 @@
     <string name="errMsg_no_scoring_navigation_controller">Kontroler nawigacyjny bez ewaluacji</string>
     <string name="errMsg_already_defined">Już zdefiniowane</string>
     <string name="errMsg_search_error">Błąd wyszukiwania</string>
-    <string name="msg_unable_to_find_sample">Nie można znaleźć próbki
-\n</string>
+    <string name="msg_unable_to_find_sample">Nie można znaleźć próbki\n</string>
     <string name="msg_in_position">"
 \nw pozycji
 \n"</string>
@@ -1533,9 +1526,8 @@
     <string name="msg_trials_from">Eksperymenty z</string>
     <string name="errMsg_cant_remove_traits_from_bundle_fmt_2">Nie można usunąć cech z zestawu.</string>
     <string name="msg_trial_import_in_progress">Import eksperymentów w toku</string>
-    <string name="msg_stop_it_and_exit">Zatrzymać i wyjść\?</string>
-    <string name="msg_change_trait_name_style_to">Zmień styl nazwy cechy na
-\n</string>
+    <string name="msg_stop_it_and_exit">Zatrzymać i wyjść?</string>
+    <string name="msg_change_trait_name_style_to">Zmień styl nazwy cechy na\n</string>
     <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">Blok działek nie jest dozwolony w przypadku punktacji za wiele prób.</string>
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">Wartość Trial Name jest wymagana dla każdego z działów, gdy używana jest funkcja</string>
     <string name="msg_subplot_count_column_is_required_if_for_all_subplot_is_used">Kolumna Liczba poddziałów jest wymagana, jeśli użyto #* (dla wszystkich poddziałów).</string>
@@ -1545,8 +1537,7 @@
     <string name="msg_traitnamesubplotnumber_format_eg_anthesis">\\ Format \"raitName#Sub-PlotNumber\", np. Anthesis#1</string>
     <string name="msg_must_be_selected">musi zostać wybrana.</string>
     <string name="action_errMsg_no_interaction">Brak interakcji</string>
-    <string name="errMsg_error_reading_headings">Błąd odczytu nagłówków:
-\n</string>
+    <string name="errMsg_error_reading_headings">Błąd odczytu nagłówków:\n</string>
     <string name="msg_incorrect_target_class">Nieprawidłowa klasa docelowa:</string>
     <string name="msg_file_not_found">Nie znaleziono pliku</string>
     <string name="msg_trial_name_is_not_found">Nazwa eksperymentu nie została znaleziona</string>
