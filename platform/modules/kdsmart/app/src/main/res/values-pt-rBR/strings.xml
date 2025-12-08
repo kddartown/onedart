@@ -35,8 +35,7 @@
     <string name="msg_username">Nome de usuário</string>
     <string name="msg_password">Senha</string>
     <string name="msg_to_fmt_2">para</string>
-    <string name="msg_to_fmt_3">"
-\n\tpara"</string>
+    <string name="msg_to_fmt_3">\n\n\tpara</string>
     <string name="errMsg_no_tags">Sem etiquetas</string>
     <string name="msg_or">ou</string>
     <string name="msg_protected_trait">(Traço protegido)</string>
@@ -784,9 +783,7 @@
     <string name="title_importing_trial">Importando projeto</string>
     <string name="title_error_exporting">Erro ao Exportar</string>
     <string name="title_export_completed">Exportação Concluída</string>
-    <string name="msgfmt_file_is_in_folder">{0}
-\nestá na pasta:
-\n{1}</string>
+    <string name="msgfmt_file_is_in_folder">{0}\nestá na pasta:\n{1}</string>
     <string name="pref_locale_title">Idioma</string>
     <string name="pref_locale_description">Idioma</string>
     <string name="msg_btn_trials_as_zip">Projetos como Zip</string>
@@ -1240,8 +1237,7 @@
     <string name="msg_database_saved_fmt_5">Banco de Dados Salvo</string>
     <string name="msg_backing_up">Fazendo backup</string>
     <string name="msg_backing_up_fmt_2">Fazendo backup</string>
-    <string name="msg_to_fmt_4">"
-\n\tpara"</string>
+    <string name="msg_to_fmt_4">\n\n\tpara</string>
     <string name="msg_import_from_kddart">Importar do KDDart</string>
     <string name="html_attachments">&lt;br&gt;&lt;b&gt;Anexos:&lt;/b&gt;</string>
     <string name="html_specimens">&lt;br&gt;&lt;b&gt;Espécimes:&lt;/b&gt;</string>
@@ -1331,13 +1327,11 @@
     <string name="msg_no_file">!! SEM ARQUIVO</string>
     <string name="msg_no_file_fmt_2">!! SEM ARQUIVO</string>
     <string name="errMsg_show_attachments">Mostrar Anexos</string>
-    <string name="errMsg_database_error_fmt_6">Erro no banco de dados:
-\n</string>
+    <string name="errMsg_database_error_fmt_6">Erro no banco de dados:\n</string>
     <string name="errMsg_show_attachments_fmt_2">Mostrar Anexos</string>
     <string name="errMsg_database_error_fmt_7">Erro no Banco de Dados:
 \n</string>
-    <string name="msg_delete_problem">Excluir problema
-\n</string>
+    <string name="msg_delete_problem">Excluir problema\n</string>
     <string name="errMsg_database_error_fmt_8">Erro no Banco de Dados</string>
     <string name="msg_unable_to_assign_barcode">Incapaz de atribuir código de barras (1)</string>
     <string name="msg_unable_to_assign_barcode_fmt_2">Incapaz de atribuir código de barras (2)</string>
@@ -1468,11 +1462,9 @@
     <string name="msg_no_samples_were_scored">Nenhuma amostra foi pontuada</string>
     <string name="msg_cleared_scores_from">Pontuações limpas de</string>
     <string name="msg_samples">Amostras</string>
-    <string name="msg_removed_tags_from">"
-\nEtiquetas removidas de"</string>
+    <string name="msg_removed_tags_from">\n\nEtiquetas removidas de</string>
     <string name="msg_plotsspecimens">Áreas marcadas/Espécimes</string>
-    <string name="msg_removed">"
-\nRemovido"</string>
+    <string name="msg_removed">\n\nRemovido</string>
     <string name="msg_attachments">Anexos</string>
     <string name="errMsg_error_clearing_sample_data">Erro ao Limpar Dados de Amostra</string>
     <string name="msg_delete_unsuccessful">Exclusão não bem sucedida</string>
@@ -1540,8 +1532,7 @@
     <string name="msg_traitnamesubplotnumber_format_eg_anthesis">Formato \'NomeDoTraço#NúmeroDaSubárea\' por exemplo, Anthesis#1</string>
     <string name="msg_must_be_selected">Deve ser selecionado.</string>
     <string name="action_errMsg_no_interaction">Sem interação</string>
-    <string name="errMsg_error_reading_headings">Erro ao ler os cabeçalhos:
-\n</string>
+    <string name="errMsg_error_reading_headings">Erro ao ler os cabeçalhos:\n</string>
     <string name="msg_incorrect_target_class">Classe de destino incorreta:</string>
     <string name="msg_file_not_found">Arquivo não encontrado</string>
     <string name="msg_trial_name_is_not_found">Nome do projeto não encontrado.</string>
