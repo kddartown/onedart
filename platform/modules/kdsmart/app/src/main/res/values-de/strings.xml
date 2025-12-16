@@ -2,7 +2,7 @@
 <resources>
     <string name="prompt_action_lock_scored_traits">Sperren Bewertete Merkmale</string>
     <string name="msg_btn_set_values">Werte einstellen</string>
-    <string name="title_app_name">KDSmart</string>
+    <string name="title_app_name" translatable="false">KDSmart</string>
     <string name="msg_app_the_smart_way_to_score">Die intelligente Art zu punkten</string>
     <string name="title_action_take_snapshot">Schnappschuss</string>
     <string name="title_action_field_view">Feldansicht</string>
@@ -34,10 +34,8 @@
     <string name="msg_hdg_add_edit_tag_label">Etikett</string>
     <string name="msg_hdg_add_edit_tag_desciption">Etikett</string>
     <string name="prompt_action_toggle_auto_advance">Automatisches Vorrücken</string>
-    <string name="prompt_auto_advance_on">Automatisches Vorrücken ist EIN
-\nErneut berühren, um sie auszuschalten</string>
-    <string name="prompt_auto_advance_off">Automatisches Vorrücken ist AUS
-\nErneut berühren, um sie einzuschalten</string>
+    <string name="prompt_auto_advance_on">Automatisches Vorrücken ist EIN\nErneut berühren, um sie auszuschalten</string>
+    <string name="prompt_auto_advance_off">Automatisches Vorrücken ist AUS\nErneut berühren, um sie einzuschalten</string>
     <string name="msg_btn_goto_plot">✓</string>
     <string name="msg_run_validation_check">Möglicherweise möchten Sie einen Versuch zur Validierung der Ergebnisse durchführen</string>
     <string name="hdg_warnings">= = = Warnungen:</string>
@@ -57,12 +55,9 @@
     <string name="title_edit_trial">Versuch bearbeiten</string>
     <string name="msg_no_trial_selected">Kein Versuch ausgewählt</string>
     <string name="msg_trial_is_not_editable">Dieser Versuch ist nicht editierbar</string>
-    <string name="msg_no_trials_available">Keine Versuche verfügbar.
-\nVerwenden Sie Import, um einige zu laden.</string>
-    <string name="msg_no_traits_available">Keine Merkmale verfügbar.
-\nVerwenden Sie Import, um einige zu laden.</string>
-    <string name="msg_no_tags_available">Keine Tags verfügbar.
-\nVerwenden Sie Import, um einige zu laden.</string>
+    <string name="msg_no_trials_available">Keine Versuche verfügbar.\nVerwenden Sie Import, um einige zu laden.</string>
+    <string name="msg_no_traits_available">Keine Merkmale verfügbar.\nVerwenden Sie Import, um einige zu laden.</string>
+    <string name="msg_no_tags_available">Keine Tags verfügbar.\nVerwenden Sie Import, um einige zu laden.</string>
     <string name="msg_option_choose_folder">Mappe</string>
     <string name="msg_option_choose_parentDirectory">Verzeichnis der Eltern</string>
     <string name="msg_option_fileSize">Größe der Datei</string>
@@ -100,8 +95,8 @@
     <string name="title_import_tags">Tags importieren</string>
     <string name="title_export_to">Exportieren nach</string>
     <string name="title_export_csv">Gerät</string>
-    <string name="title_export_kdxplore">KDXplore</string>
-    <string name="title_export_kddart">KDDart</string>
+    <string name="title_export_kdxplore" translatable="false">KDXplore</string>
+    <string name="title_export_kddart" translatable="false">KDDart</string>
     <string name="title_file_chooser">Datei-Auswahl</string>
     <string name="title_import_from">Importieren von</string>
     <string name="title_import_file_csv">Datei CSV</string>
@@ -131,8 +126,7 @@
     <string name="pref_description_show_first_importAsOption">Immer oben auf der Liste anzeigen</string>
     <string name="pref_category_trait_scoring_options">Merkmale Scoring-Optionen</string>
     <string name="pref_title_enable_barcode_scan">Aktivieren der Merkmale Barcode-Scannen</string>
-    <string name="pref_help_enable_barcode_scan">Leer für NO, * für alle Merkmale,
-\noder Fragment eines Merkmalsnamens</string>
+    <string name="pref_help_enable_barcode_scan">Leer für NO, * für alle Merkmale,\noder Fragment eines Merkmalsnamens</string>
     <string name="pref_title_trait_date_format">Anzeigeformat für Datumsmerkmale</string>
     <string name="pref_title_trial_group_setting">Optionen zur Gruppierung von Versuchen</string>
     <string name="prompt_autoscoring_options_selected_traits">Ausgewählte Merkmale</string>
@@ -179,7 +173,7 @@
     <string name="pref_description_lock_scored_traits">Verhinderung versehentlicher Änderungen bei bewerteten Merkmalen</string>
     <string name="pref_title_left_handed_layout">Linkshändiges Scoring</string>
     <string name="pref_description_left_handed_layout">Start im Linkshändermodus bei der Bewertung von Merkmalen</string>
-    <string name="pref_locale_key">pref_application_locale</string>
+    <string name="pref_locale_key" translatable="false">pref_application_locale</string>
     <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
     <string name="pref_selected_kddart_url_key" translatable="false">pref_selected_kddart_url</string>
     <string name="pref_collOrder_title">Standard-Inkassoauftrag</string>
@@ -633,14 +627,14 @@
     <string name="msg_switch_on_location_and_network">Schalten Sie Standort und Netzwerk ein, um diesen Dienst zu nutzen</string>
     <string name="prompt_btn_switch_on">Einschalten</string>
     <string name="title_inactive_trait">Inaktive Merkmale</string>
-    <string name="msg_question_do_you_want_to_change">Möchten Sie den Wert ändern\?</string>
+    <string name="msg_question_do_you_want_to_change">Möchten Sie den Wert ändern?</string>
     <string name="pref_title_allow_inactive_trait_edit">Bearbeitung inaktiver Merkmale zulassen</string>
     <string name="pref_title_kdxplore_barcodes">KDKplore Barcodes verwenden</string>
     <string name="pref_title_alphabetical_trait_order_title">Alphabetische Reihenfolge der Merkmale verwenden</string>
     <string name="pref_title_alphabetical_trait_order">Alphabetische Reihenfolge der Merkmale im CSV-Export verwenden</string>
     <string name="pref_desc_allow_inactive_trait_edit">Prüfen, ob Werte oder inaktive Merkmale geändert werden können</string>
     <string name="msg_prefix_some_trial_exports_failed">Einige Versuche zur Ausfuhr sind gescheitert:</string>
-    <string name="title_do_you_want_to_retry">Möchten Sie es erneut versuchen\?</string>
+    <string name="title_do_you_want_to_retry">Möchten Sie es erneut versuchen?</string>
     <string name="msg_l1chk_must_be_non_blank">Muss nicht leer sein</string>
     <string name="msg_l1chk_invalid_date">Ungültiges Datum</string>
     <string name="msg_l1chk_invalid_integer">Ungültige Ganzzahl</string>
@@ -678,7 +672,7 @@
     <string name="hdg_plotview_inactive_traits">Inaktive Merkmale</string>
     <string name="title_select_heatmap_opacity">Deckkraft der Heatmap auswählen</string>
     <string name="title_select_heatmap_gradient">Gradient der Wärmekarte auswählen</string>
-    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
+    <string name="msg_info_searchname_nplots" translatable="false">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Ausgewählte: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Konfigurieren Sie …</string>
     <string name="msgfmt_warning_landscape_small">Der Querformatmodus auf kleinen Bildschirmen verwendet immer mindestens {0}</string>
@@ -707,9 +701,7 @@
     <string name="prompt_menu_scanner_off">Scanner aus</string>
     <string name="prompt_menu_scanner_on">Scanner ein</string>
     <string name="msg_hint_at_least_1_digit_required">Mindestens 1 Ziffer erforderlich</string>
-    <string name="msgfmt_settings_contains_passcode_confirm_lockdown">Die Einstellungen enthalten einen Lockdown-Passcode:
-\n{0}
-\nMöchten Sie Lockdown aktivieren?</string>
+    <string name="msgfmt_settings_contains_passcode_confirm_lockdown">Die Einstellungen enthalten einen Lockdown-Passcode:\n{0}\nMöchten Sie Lockdown aktivieren?</string>
     <string name="prompt_btn_clear_passcode">Passcode löschen</string>
     <string name="title_confirm_lockdown_mode">Abriegelungsmodus bestätigen</string>
     <string name="errmsg_choice_with_no_choices">CHOICE ohne Wahlmöglichkeiten</string>
@@ -766,9 +758,7 @@
     <string name="title_importing_trial">Versuch importieren</string>
     <string name="title_error_exporting">Fehler beim Exportieren</string>
     <string name="title_export_completed">Export abgeschlossen</string>
-    <string name="msgfmt_file_is_in_folder">{0}
-\nist im Ordner:
-\n{1}</string>
+    <string name="msgfmt_file_is_in_folder">{0}\nist im Ordner:\n{1}</string>
     <string name="pref_locale_title">Sprache</string>
     <string name="pref_locale_description">Sprache</string>
     <string name="msg_btn_trials_as_zip">Versuche als Zip</string>
@@ -865,9 +855,7 @@
     <string name="title_trait_instance">Merkmale Instanz:</string>
     <string name="title_adding_traits_to_trial">Hinzufügen von Merkmalen zum Versuch</string>
     <string name="msg_fix_trial">Integritätsprüfung der Datenbank</string>
-    <string name="msg_check_database_integrity">Überprüfung des Versuchs auf Fehler.
-\nDies wird einige Minuten dauern.
-\nBitte beenden Sie die Anwendung nicht</string>
+    <string name="msg_check_database_integrity">Überprüfung des Versuchs auf Fehler.\nDies wird einige Minuten dauern.\nBitte beenden Sie die Anwendung nicht</string>
     <string name="msg_db_check_completed">Datenbankprüfung abgeschlossen</string>
     <string name="msg_couldnot_complete_db_check">Datenbankprüfung konnte nicht abgeschlossen werden</string>
     <string name="msg_couldnot_complete_trait_addition">Das Hinzufügen von Merkmalen konnte nicht abgeschlossen werden</string>
@@ -1219,7 +1207,7 @@
     <string name="msg_csv_export_not_available">CSV-Export nicht verfügbar</string>
     <string name="msg_csv_import_not_available">CSV-Import nicht verfügbar</string>
     <string name="msg_active_database_is_demo">Aktive Datenbank ist Demo</string>
-    <string name="msg_do_you_wish_to_continue_with_the_data_import">Möchten Sie mit dem Datenimport fortfahren\?</string>
+    <string name="msg_do_you_wish_to_continue_with_the_data_import">Möchten Sie mit dem Datenimport fortfahren?</string>
     <string name="msg_it_will_be_removed_on_a_demo_db_reset">(Sie wird bei einem \'Demo Database Reset\' entfernt)</string>
     <string name="msg_trials_available_for_scoring">Für die Bewertung verfügbare Versuche</string>
     <string name="msg_unexpected_button_id_value">Unerwartete Schaltfläche id, Wert</string>
@@ -1235,18 +1223,12 @@
     <string name="msg_please_check_permissions">Bitte überprüfen Sie die Berechtigungen</string>
     <string name="msg_unable_to_get_trials">Keine Versuche möglich</string>
     <string name="msg_lockdown_mode_is_turned_onoff_by_touching_the_lock_icon">Der Sperrmodus wird durch Berühren des Schlosssymbols ein- und ausgeschaltet.</string>
-    <string name="msg_the_unlocked_icon_only_appears_while_using_the_demo_database">"
-\n
-\nDas Symbol \"Unlocked\" erscheint nur bei der Verwendung der Demo-Datenbank"</string>
+    <string name="msg_the_unlocked_icon_only_appears_while_using_the_demo_database">\n\n\n\nDas Symbol \"Unlocked\" erscheint nur bei der Verwendung der Demo-Datenbank</string>
     <string name="msg_for_demonstration_of_this_feature">zur Demonstration dieser Funktion.</string>
-    <string name="msg_with_the_production_database_the_icon_is_not_present_until">"
-\n
-\nIn der Produktionsdatenbank wird das Symbol erst angezeigt, wenn"</string>
+    <string name="msg_with_the_production_database_the_icon_is_not_present_until">\n\n\n\nIn der Produktionsdatenbank wird das Symbol erst angezeigt, wenn</string>
     <string name="msg_you_use_kdxplore_to_activate_lockdown_mode_and_to_set_a">verwenden Sie KDXplore, um den Lockdown-Modus zu aktivieren (und um eine</string>
     <string name="msg_passcode_for_deactivation">Passcode für die Deaktivierung).</string>
-    <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">"
-\n
-\nWenn das Symbol \"Gesperrt\" angezeigt wird, müssen Sie den Passcode verwenden."</string>
+    <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">\n\n\n\nWenn das Symbol \"Gesperrt\" angezeigt wird, müssen Sie den Passcode verwenden.</string>
     <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">von KDXplore eingestellt oder mit KDXplore verbunden werden, damit es die Sperre deaktiviert.</string>
     <string name="errMsg_database_error_fmt_3">Datenbank-Fehler</string>
     <string name="msg_storage_access_not_available">Speicherzugang nicht verfügbar</string>
@@ -1257,14 +1239,13 @@
     <string name="msg_choose_export_option">Wählen Sie die Exportoption</string>
     <string name="msg_export_to_kddart">Nach KDDart exportieren</string>
     <string name="msg_must_implement_bundlefragmentonitemselected">muss BundleFragmentOnItemSelected implementieren</string>
-    <string name="msg_continue_with_save">Weiter mit Speichern\?</string>
+    <string name="msg_continue_with_save">Weiter mit Speichern?</string>
     <string name="msg_explore_database">Datenbank erkunden</string>
     <string name="msg_not_yet_available">Noch nicht verfügbar</string>
     <string name="msg_select_a_block_trial">Wählen Sie einen Blockversuch</string>
     <string name="msg_saving_trials">Versuche zu retten:</string>
     <string name="msg_save_database">Datenbank speichern</string>
-    <string name="msg_unable_to_create_folder">Ordner kann nicht erstellt werden:
-\n</string>
+    <string name="msg_unable_to_create_folder">Ordner kann nicht erstellt werden:\n</string>
     <string name="msg_database_saved_to">Datenbank Gesichert in</string>
     <string name="msg_database_saved">Gespeicherte Datenbank</string>
     <string name="msg_database_saved_fmt_2">Gespeicherte Datenbank</string>
@@ -1275,11 +1256,9 @@
     <string name="msg_database_saved_fmt_4">Gespeicherte Datenbank</string>
     <string name="msg_database_saved_fmt_5">Gespeicherte Datenbank</string>
     <string name="msg_backing_up">Sichern von Daten</string>
-    <string name="msg_to_fmt_3">"
-\n\tzu"</string>
+    <string name="msg_to_fmt_3">\n\n\tzu</string>
     <string name="msg_backing_up_fmt_2">Sichern von Daten</string>
-    <string name="msg_to_fmt_4">"
-\n\tzu"</string>
+    <string name="msg_to_fmt_4">\n\n\tzu</string>
     <string name="msg_import_from_kddart">Aus KDDart importieren</string>
     <string name="html_attachments">&lt;br&gt;&lt;b&gt;Attachments:&lt;/b&gt;</string>
     <string name="html_specimens">&lt;br&gt;&lt;b&gt;Exemplare:&lt;/b&gt;</string>
@@ -1369,13 +1348,10 @@
     <string name="msg_no_file">!! KEINE DATEI</string>
     <string name="msg_no_file_fmt_2">!! KEINE DATEI</string>
     <string name="errMsg_show_attachments">Datenbank-Fehler:</string>
-    <string name="errMsg_database_error_fmt_6">Datenbank-Fehler:
-\n</string>
+    <string name="errMsg_database_error_fmt_6">Datenbank-Fehler:\n</string>
     <string name="errMsg_show_attachments_fmt_2">Datenbank-Fehler:</string>
-    <string name="errMsg_database_error_fmt_7">Datenbank-Fehler:
-\n</string>
-    <string name="msg_delete_problem">Problem löschen
-\n</string>
+    <string name="errMsg_database_error_fmt_7">Datenbank-Fehler:\n</string>
+    <string name="msg_delete_problem">Problem löschen\n</string>
     <string name="errMsg_database_error_fmt_8">Datenbank-Fehler</string>
     <string name="msg_unable_to_assign_barcode">Barcode kann nicht zugewiesen werden (1)</string>
     <string name="msg_unable_to_assign_barcode_fmt_2">Barcode kann nicht zugewiesen werden (2)</string>
@@ -1395,11 +1371,8 @@
     <string name="errMsg_no_scoring_navigation_controller">Kein Scoring Navigation Controller</string>
     <string name="errMsg_already_defined">Bereits definiert</string>
     <string name="errMsg_search_error">Suchfehler</string>
-    <string name="msg_unable_to_find_sample">Probe kann nicht gefunden werden
-\n</string>
-    <string name="msg_in_position">"
-\nam Platz
-\n"</string>
+    <string name="msg_unable_to_find_sample">Probe kann nicht gefunden werden\n</string>
+    <string name="msg_in_position">\n\nam Platz\n\n</string>
     <string name="msg_internal_error">INTERNER FEHLER</string>
     <string name="msg_missing_plotvisitlist">Fehlende PlotVisitList</string>
     <string name="msg_internal_error_fmt_2">INTERNER FEHLER</string>
@@ -1426,7 +1399,7 @@
     <string name="msg_exit_autoadvance">Beenden Automatisches Vorrücken?</string>
     <string name="msg_not_yet_supported">: Noch nicht unterstützt</string>
     <string name="errMsg_internal_error_fmt_2">Interner Fehler</string>
-    <string name="msg_save_tag_details">Tag-Details speichern\?</string>
+    <string name="msg_save_tag_details">Tag-Details speichern?</string>
     <string name="msg_confirm_save">Bestätigen Sie Speichern</string>
     <string name="msg_unable_to_save_tag">Tag kann nicht gespeichert werden</string>
     <string name="msg_can_t_save_tag">Tag kann nicht gespeichert werden</string>
@@ -1509,11 +1482,9 @@
     <string name="msg_no_samples_were_scored">Keine Proben wurden bewertet</string>
     <string name="msg_cleared_scores_from">Gelöschte Noten von</string>
     <string name="msg_samples">Proben</string>
-    <string name="msg_removed_tags_from">"
-\nEntfernte Tags von"</string>
+    <string name="msg_removed_tags_from">\n\nEntfernte Tags von</string>
     <string name="msg_plotsspecimens">Parzellen/Exemplare</string>
-    <string name="msg_removed">"
-\nEntfernt"</string>
+    <string name="msg_removed">\n\nEntfernt</string>
     <string name="msg_attachments">Anhänge</string>
     <string name="errMsg_error_clearing_sample_data">Fehler beim Löschen von Probendaten</string>
     <string name="msg_delete_unsuccessful">Löschen Erfolglos</string>
@@ -1569,8 +1540,7 @@
     <string name="errMsg_cant_remove_traits_from_bundle_fmt_2">Merkmale können nicht aus der Sammlung entfernt werden</string>
     <string name="msg_trial_import_in_progress">Versuch Import im Gange</string>
     <string name="msg_stop_it_and_exit">Anhalten und aussteigen?</string>
-    <string name="msg_change_trait_name_style_to">Ändern Sie den Stil der Merkmale in
-\n</string>
+    <string name="msg_change_trait_name_style_to">Ändern Sie den Stil der Merkmale in\n</string>
     <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">Parzellen Blöcke sind für die Auswertung von mehreren Versuchen nicht zulässig.</string>
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">Der Wert Versuchsname ist für jede Parzelle erforderlich, wenn Sie</string>
     <string name="msg_subplot_count_column_is_required_if_for_all_subplot_is_used">Die Spalte \"Anzahl der Unterparzellen\" ist erforderlich, wenn #* (für alle Unterparzellen) verwendet wird.</string>
@@ -1581,8 +1551,7 @@
     <string name="msg_or">oder</string>
     <string name="msg_must_be_selected">muss ausgewählt werden.</string>
     <string name="action_errMsg_no_interaction">Keine Interaktion</string>
-    <string name="errMsg_error_reading_headings">Fehler beim Lesen von Überschriften:
-\n</string>
+    <string name="errMsg_error_reading_headings">Fehler beim Lesen von Überschriften:\n</string>
     <string name="msg_incorrect_target_class">Falsche Zielklasse:</string>
     <string name="msg_file_not_found">Datei nicht gefunden</string>
     <string name="msg_trial_name_is_not_found">Versuch Name wird nicht gefunden</string>
@@ -1594,8 +1563,7 @@
     <string name="msg_export_trial_activity">Exportversuche Aktivität</string>
     <string name="msg_not_yet_completed">Noch nicht abgeschlossen</string>
     <string name="msg_export_trial_fmt_5">Versuch Note (fakultativ)</string>
-    <string name="msg_export_is_in_progress_are_you_sure_you_want_to_exit">Der Export ist im Gange.
-\nSind Sie sicher, dass Sie den Vorgang beenden möchten?</string>
+    <string name="msg_export_is_in_progress_are_you_sure_you_want_to_exit">Der Export ist im Gange.\nSind Sie sicher, dass Sie den Vorgang beenden möchten?</string>
     <string name="msg_export_trial_fmt_6">Versuch Note (fakultativ)</string>
     <string name="msg_not_a_directory_fmt_2">Kein Verzeichnis:</string>
     <string name="errMsg_unexpected_error">Unerwarteter Fehler</string>
@@ -1668,25 +1636,16 @@
         <item quantity="other">%2$d %1$s Beispielhafte Messungen</item>
     </plurals>
     <string name="msg_import_your_old_database">Importieren Sie Ihre Datenbank</string>
-    <string name="warning_moving_old_data">Seien Sie vorsichtig!
-\n
-\nSie sind dabei, Daten aus der alten Datenbankdatei in die Datenbank %1$s zu kopieren.
-\n
-\nAlle Ihre aktuellen Daten gehen dabei verloren.</string>
+    <string name="warning_moving_old_data">Seien Sie vorsichtig!\n\nSie sind dabei, Daten aus der alten Datenbankdatei in die Datenbank %1$s zu kopieren.\n\nAlle Ihre aktuellen Daten gehen dabei verloren.</string>
     <string name="msg_trial_name">Versuch Name</string>
     <string name="msg_trials_to_export">Versuche zum Export</string>
     <string name="msg_use_plotid">Parzellen-ID verwenden</string>
-    <string name="msg_could_not_import_data">Wir konnten keine Daten aus der alten Datenbankdatei verschieben.
-\nFür die Datenbank %1$s benötigen wir den Dateinamen %2$s, um erfolgreich zu importieren.</string>
+    <string name="msg_could_not_import_data">Wir konnten keine Daten aus der alten Datenbankdatei verschieben.\nFür die Datenbank %1$s benötigen wir den Dateinamen %2$s, um erfolgreich zu importieren.</string>
     <string name="msg_import_data">Der Import der alten Datenbankdatei war erfolgreich.</string>
     <string name="title_migration">Wir möchten Sie darüber informieren, dass die Google-Speicherrichtlinie aktualisiert wurde, um die Art und Weise zu ändern, wie Play Store-Apps Daten auf Geräten speichern. Diese Änderungen bedeuten, dass Sie Ihre KDSmart Daten an einen neuen Ort auf Ihrem Gerät migrieren müssen.</string>
     <string name="warning_migration_text">Warnung: Starten von KDSmart v3.3.0 Löschen Sie KDSmart nicht von Ihrem Gerät, sonst verlieren Sie Ihre Daten!</string>
-    <string name="locate_database_file"><b>1.</b> Suchen Sie die Datenbankdatei auf Ihrem Gerät.
-\n
-\n- Wenn Sie Ihre Demo-Datenbank migrieren möchten, befindet sie sich unter KDSmart &gt; Demo_Databse &gt; DemoDb.sqlite
-\n- Wenn Sie Ihre Produktionsdatenbank migrieren möchten, finden Sie diese unter KDSmart &gt; Prod_Database &gt; KDSDB.sqlite</string>
-    <string name="update_kdsmart_to_latest_version"><b>2.</b> Aktualisieren Sie KDSmart auf die neueste Version, falls Sie dies noch nicht getan haben. Das neueste Update enthält eine Importfunktion.
-\nUm sicherzustellen, dass Sie die neueste Version verwenden, überprüfen Sie die Versionsnummer oben auf dem Startbildschirm: <b>3.3.0</b></string>
+    <string name="locate_database_file"><b>1.</b> Suchen Sie die Datenbankdatei auf Ihrem Gerät.\n\n- Wenn Sie Ihre Demo-Datenbank migrieren möchten, befindet sie sich unter KDSmart &gt; Demo_Databse &gt; DemoDb.sqlite\n- Wenn Sie Ihre Produktionsdatenbank migrieren möchten, finden Sie diese unter KDSmart &gt; Prod_Database &gt; KDSDB.sqlite</string>
+    <string name="update_kdsmart_to_latest_version"><b>2.</b> Aktualisieren Sie KDSmart auf die neueste Version, falls Sie dies noch nicht getan haben. Das neueste Update enthält eine Importfunktion.\nUm sicherzustellen, dass Sie die neueste Version verwenden, überprüfen Sie die Versionsnummer oben auf dem Startbildschirm: <b>3.3.0</b></string>
     <string name="ensure_correct_database"><b>3.</b> Öffnen Sie KDSmart und stellen Sie sicher, dass Sie sich in der richtigen aktiven Datenbank befinden. - Wenn Sie eine Demo-Datenbank importieren, ist dies die Standardeinstellung und Sie brauchen nichts zu tun. - Wenn Sie eine Produktionsdatenbank importieren, gehen Sie zu <b>Einstellungen</b> und wählen Sie die Option <b>Aktive Datenbank</b>, um die Produktionsdatenbank auszuwählen.</string>
     <string name="go_to_manage_devices"><b>4.</b> Gehen Sie anschließend zum Bildschirm <b>Geräte verwalten</b>.</string>
     <string name="import_database_button_text"><b>5.</b> Wählen Sie die Registerkarte <b>Datenbank</b> und dann die Schaltfläche <b>Importieren Sie Ihre Datenbank</b>.</string>

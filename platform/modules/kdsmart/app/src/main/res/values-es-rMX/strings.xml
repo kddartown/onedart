@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_app_name">KDSmart</string>
+    <string name="title_app_name" translatable="false">KDSmart</string>
     <string name="msg_app_the_smart_way_to_score">La forma inteligente de puntuar</string>
     <string name="title_action_take_snapshot">Instantánea</string>
     <string name="title_action_field_view">Vista de campo</string>
@@ -65,12 +65,9 @@
     <string name="title_edit_trial">Editar ensayo</string>
     <string name="msg_no_trial_selected">Ningún ensayo seleccionado</string>
     <string name="msg_trial_is_not_editable">Este ensayo no se puede editar</string>
-    <string name="msg_no_trials_available">No hay ensayos disponibles.
-\nUtilice Importar para cargar algunas.</string>
-    <string name="msg_no_traits_available">No hay Rasgos disponibles.
-\nUtilice Importar para cargar algunos.</string>
-    <string name="msg_no_tags_available">No hay etiquetas disponibles.
-\nUtilice Importar para cargar algunas.</string>
+    <string name="msg_no_trials_available">No hay ensayos disponibles.\nUtilice Importar para cargar algunas.</string>
+    <string name="msg_no_traits_available">No hay Rasgos disponibles.\nUtilice Importar para cargar algunos.</string>
+    <string name="msg_no_tags_available">No hay etiquetas disponibles.\nUtilice Importar para cargar algunas.</string>
     <string name="msg_option_choose_folder">Carpeta</string>
     <string name="msg_option_choose_parentDirectory">Directorio de padres</string>
     <string name="msg_option_fileSize">Tamaño del archivo</string>
@@ -125,8 +122,8 @@
     <string name="title_import_tags">Importar etiquetas</string>
     <string name="title_export_to">Exportar a</string>
     <string name="title_export_csv">Dispositivo</string>
-    <string name="title_export_kdxplore">KDXplore</string>
-    <string name="title_export_kddart">KDDart</string>
+    <string name="title_export_kdxplore" translatable="false">KDXplore</string>
+    <string name="title_export_kddart" translatable="false">KDDart</string>
     <string name="title_file_chooser">Selector de archivos</string>
     <string name="title_import_from">Importar desde</string>
     <string name="title_import_file_csv">Archivo CSV</string>
@@ -164,8 +161,7 @@
     <string name="pref_description_show_first_importAsOption">Mostrar siempre al principio de la lista</string>
     <string name="pref_category_trait_scoring_options">Opciones de puntuación de rasgos</string>
     <string name="pref_title_enable_barcode_scan">Activar la lectura de códigos de barras de rasgos</string>
-    <string name="pref_help_enable_barcode_scan">En blanco para NO, * para todos los Rasgos,
-\no fragmento del Nombre del Rasgo</string>
+    <string name="pref_help_enable_barcode_scan">En blanco para NO, * para todos los Rasgos,\no fragmento del Nombre del Rasgo</string>
     <string name="pref_title_trait_date_format">Formato de visualización de rasgos de fecha</string>
     <string name="pref_title_trial_group_setting">Opciones de agrupación de ensayos</string>
     <string name="pref_hint_max_choice_items">Utilice al menos 10</string>
@@ -183,7 +179,7 @@
     <string name="pref_description_lock_scored_traits">Evitar cambios accidentales en rasgos puntuados</string>
     <string name="pref_title_left_handed_layout">Puntuación de los zurdos</string>
     <string name="pref_description_left_handed_layout">Inicio en modo zurdo al puntuar rasgos</string>
-    <string name="pref_locale_key">pref_application_locale</string>
+    <string name="pref_locale_key" translatable="false">pref_application_locale</string>
     <string name="pref_locale_default_value" translatable="false">SYSTEM</string>
     <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
     <string name="pref_kddart_url_key" translatable="false">pref_kddart_url</string>
@@ -300,10 +296,8 @@
     <string name="msg_hdg_add_edit_tag_label">Etiqueta</string>
     <string name="msg_hdg_add_edit_tag_desciption">Descripción</string>
     <string name="prompt_action_toggle_auto_advance">Avance automático</string>
-    <string name="prompt_auto_advance_on">Avance automático activado
-\nToca de nuevo para desactivarlo</string>
-    <string name="prompt_auto_advance_off">El avance automático está desactivado.
-\nToca de nuevo para activarlo</string>
+    <string name="prompt_auto_advance_on">Avance automático activado\nToca de nuevo para desactivarlo</string>
+    <string name="prompt_auto_advance_off">El avance automático está desactivado.\nToca de nuevo para activarlo</string>
     <string name="msg_btn_goto_plot">✓</string>
     <string name="msg_run_validation_check">Puede que desee realizar una comprobación de validación de puntuaciones de ensayos</string>
     <string name="hdg_warnings">= = = Advertencias:</string>
@@ -604,9 +598,9 @@
     <string name="prompt_use_kdxchange">Utilice KDXchange</string>
     <string name="title_transitions_menu">Mostrar cambio…</string>
     <string name="title_stop_scoring">¿Dejar de puntuar?</string>
-    <string name="title_exit_trait_manager">¿Rasgos de salida\?</string>
-    <string name="title_exit_trial_manager">¿Senderos de salida\?</string>
-    <string name="title_exit_tag_manager">¿Etiquetas de salida\?</string>
+    <string name="title_exit_trait_manager">¿Rasgos de salida?</string>
+    <string name="title_exit_trial_manager">¿Senderos de salida?</string>
+    <string name="title_exit_tag_manager">¿Etiquetas de salida?</string>
     <string name="msg_no_traits">Sin rasgos</string>
     <string name="prompt_action_show_edays_as_count">Días transcurridos como recuento</string>
     <string name="title_trial_abbreviation">Abreviatura del ensayo</string>
@@ -719,7 +713,7 @@
     <string name="pref_title_alphabetical_trait_order">Utilizar el orden alfabético de los rasgos en la exportación CSV</string>
     <string name="pref_desc_allow_inactive_trait_edit">Comprobar para permitir el cambio de valores o rasgos inactivos</string>
     <string name="msg_prefix_some_trial_exports_failed">Algunos ensayos de exportación fracasaron:</string>
-    <string name="title_do_you_want_to_retry">¿Quieres volver a intentarlo\?</string>
+    <string name="title_do_you_want_to_retry">¿Quieres volver a intentarlo?</string>
     <string name="msg_l1chk_must_be_non_blank">No debe estar en blanco</string>
     <string name="msg_l1chk_invalid_date">Fecha no válida</string>
     <string name="msg_l1chk_invalid_integer">Número entero no válido</string>
@@ -749,7 +743,7 @@
     <string name="hdg_plotview_inactive_traits">Rasgos inactivos</string>
     <string name="title_select_heatmap_opacity">Seleccionar la opacidad del mapa de calor</string>
     <string name="title_select_heatmap_gradient">Seleccionar gradiente del mapa de calor</string>
-    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
+    <string name="msg_info_searchname_nplots" translatable="false">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Seleccionado: {0,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Configurar …</string>
     <string name="msgfmt_warning_landscape_small">El modo horizontal en pantallas pequeñas siempre utilizará al menos {0}.</string>
@@ -763,7 +757,7 @@
     <string name="title_confirm_delete_attachment">¿Borrar archivo adjunto?</string>
     <string name="msg_no_attachments_in_database">No hay archivos adjuntos en la base de datos</string>
     <string name="title_active_trial">Ensayo activo</string>
-    <string name="msg_active_trial_choose_option">¿Qué quieres hacer\?</string>
+    <string name="msg_active_trial_choose_option">¿Qué quieres hacer?</string>
     <string name="prompt_option_active_trial_yes_start_scoring">Inicio Puntuación</string>
     <string name="prompt_option_active_trial_no_clear_active_trial">Ensayos activos claros</string>
     <string name="msg_format_n_trials_have_no_planting_date">Algunos ensayos ({0,number,integer}) no tienen fecha de siembra</string>
@@ -778,9 +772,7 @@
     <string name="prompt_menu_scanner_off">Escáner apagado</string>
     <string name="prompt_menu_scanner_on">Escáner activado</string>
     <string name="msg_hint_at_least_1_digit_required">Se requiere al menos 1 dígito</string>
-    <string name="msgfmt_settings_contains_passcode_confirm_lockdown">La configuración contiene un código de acceso de bloqueo:
-\n{0}
-\n¿Desea activar el bloqueo?</string>
+    <string name="msgfmt_settings_contains_passcode_confirm_lockdown">La configuración contiene un código de acceso de bloqueo:\n{0}\n¿Desea activar el bloqueo?</string>
     <string name="prompt_btn_clear_passcode">Borrar contraseña</string>
     <string name="title_confirm_lockdown_mode">Confirmar modo de bloqueo</string>
     <string name="errmsg_choice_with_no_choices">ELECCIÓN sin opciones</string>
@@ -830,9 +822,7 @@
     <string name="title_importing_trial">Importación de ensayos</string>
     <string name="title_error_exporting">Error de exportación</string>
     <string name="title_export_completed">Exportación completada</string>
-    <string name="msgfmt_file_is_in_folder">{0}
-\nestá en la carpeta:
-\n{1}</string>
+    <string name="msgfmt_file_is_in_folder">{0}\nestá en la carpeta:\n{1}</string>
     <string name="pref_locale_title">Idioma</string>
     <string name="pref_locale_description">Idioma</string>
     <string name="msg_btn_trials_as_zip">Ensayos en formato Zip</string>
@@ -930,9 +920,7 @@
     <string name="title_trait_instance">Rasgo Instancia:</string>
     <string name="title_adding_traits_to_trial">Añadir rasgos al ensayo</string>
     <string name="msg_fix_trial">Comprobación de la integridad de la base de datos</string>
-    <string name="msg_check_database_integrity">Comprobación de errores en el ensayo.
-\nEsto llevará unos minutos.
-\nPor favor, no salga de la aplicación</string>
+    <string name="msg_check_database_integrity">Comprobación de errores en el ensayo.\nEsto llevará unos minutos.\nPor favor, no salga de la aplicación</string>
     <string name="msg_db_check_completed">Comprobación de la base de datos finalizada</string>
     <string name="msg_couldnot_complete_db_check">No se ha podido completar la comprobación de la base de datos</string>
     <string name="msg_couldnot_complete_trait_addition">No se ha podido terminar de añadir rasgos</string>
@@ -1256,18 +1244,12 @@
     <string name="msg_please_check_permissions">Compruebe los permisos</string>
     <string name="msg_unable_to_get_trials">Imposible obtener ensayos</string>
     <string name="msg_lockdown_mode_is_turned_onoff_by_touching_the_lock_icon">El modo de bloqueo se activa/desactiva tocando el icono de bloqueo.</string>
-    <string name="msg_the_unlocked_icon_only_appears_while_using_the_demo_database">"
-\n
-\nEl icono \"desbloqueado\" sólo aparece cuando se utiliza la base de datos Demo"</string>
+    <string name="msg_the_unlocked_icon_only_appears_while_using_the_demo_database">\n\n\n\nEl icono \"desbloqueado\" sólo aparece cuando se utiliza la base de datos Demo</string>
     <string name="msg_for_demonstration_of_this_feature">para la demostración de esta función.</string>
-    <string name="msg_with_the_production_database_the_icon_is_not_present_until">"
-\n
-\nCon la base de datos de Producción, el icono no está presente hasta que"</string>
+    <string name="msg_with_the_production_database_the_icon_is_not_present_until">\n\n\n\nCon la base de datos de Producción, el icono no está presente hasta que</string>
     <string name="msg_you_use_kdxplore_to_activate_lockdown_mode_and_to_set_a">utilice KDXplore para activar el modo Lockdown (y para establecer un</string>
     <string name="msg_passcode_for_deactivation">para desactivarlo).</string>
-    <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">"
-\n
-\nCuando aparezca el icono de \"bloqueado\", deberá utilizar el código de acceso."</string>
+    <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">\n\n\n\nCuando aparezca el icono de \"bloqueado\", deberá utilizar el código de acceso.</string>
     <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">establecido por KDXplore o conéctese a KDXplore para que desactive el bloqueo.</string>
     <string name="errMsg_database_error_fmt_3">Error de base de datos</string>
     <string name="msg_storage_access_not_available">Almacenamiento Acceso no disponible</string>
@@ -1278,14 +1260,13 @@
     <string name="msg_choose_export_option">Elija la opción de exportación</string>
     <string name="msg_export_to_kddart">Exportar a KDDart</string>
     <string name="msg_must_implement_bundlefragmentonitemselected">debe implementar BundleFragmentOnItemSelected</string>
-    <string name="msg_continue_with_save">¿Continuar con Guardar\?</string>
+    <string name="msg_continue_with_save">¿Continuar con Guardar?</string>
     <string name="msg_explore_database">Explorar la base de datos</string>
     <string name="msg_not_yet_available">Aún no disponible</string>
     <string name="msg_select_a_block_trial">Seleccione un ensayo de bloques</string>
     <string name="msg_saving_trials">Ensayos de salvamento:</string>
     <string name="msg_save_database">Guardar base de datos</string>
-    <string name="msg_unable_to_create_folder">No se puede crear la carpeta:
-\n</string>
+    <string name="msg_unable_to_create_folder">No se puede crear la carpeta:\n</string>
     <string name="msg_database_saved_to">Base de datos guardada en</string>
     <string name="msg_database_saved">Base de datos guardada</string>
     <string name="msg_database_saved_fmt_2">Base de datos guardada</string>
@@ -1296,11 +1277,9 @@
     <string name="msg_database_saved_fmt_4">Base de datos guardada</string>
     <string name="msg_database_saved_fmt_5">Base de datos guardada</string>
     <string name="msg_backing_up">Copia de seguridad</string>
-    <string name="msg_to_fmt_3">"
-\n\ta"</string>
+    <string name="msg_to_fmt_3">\n\n\ta</string>
     <string name="msg_backing_up_fmt_2">Copia de seguridad</string>
-    <string name="msg_to_fmt_4">"
-\n\ta"</string>
+    <string name="msg_to_fmt_4">\n\n\ta</string>
     <string name="msg_import_from_kddart">Importar desde KDDart</string>
     <string name="html_attachments">&lt;br&gt;&lt;b&gt;Anexos:&lt;/b&gt;</string>
     <string name="html_specimens">&lt;br&gt;&lt;b&gt;Especímenes:&lt;/b&gt;</string>
@@ -1373,10 +1352,10 @@
     <string name="msg_stopping_kdxchange_service">Detención del servicio KDXchange</string>
     <string name="msg_state_is">El Estado es</string>
     <string name="msg_kdxplore_connect">Conexión KDXplore</string>
-    <string name="msg_continue">¿Continuar\?</string>
+    <string name="msg_continue">¿Continuar?</string>
     <string name="msg_autoscan_not_supported">(No se admite la exploración automática)</string>
     <string name="msg_kdxchange_is_still_active">KDXchange sigue activo</string>
-    <string name="msg_do_you_still_want_to_exit">¿Todavía quieres salir\?</string>
+    <string name="msg_do_you_still_want_to_exit">¿Todavía quieres salir?</string>
     <string name="msg_port_number_must_be_to">El número de puerto debe ser de 1 a 65535</string>
     <string name="msg_invalid_port">Puerto no válido:</string>
     <string name="msg_invalid_host_address">Dirección de host no válida</string>
@@ -1390,13 +1369,10 @@
     <string name="msg_no_file">¡¡!! NO FILE</string>
     <string name="msg_no_file_fmt_2">¡¡!! NO FILE</string>
     <string name="errMsg_show_attachments">Mostrar anexos</string>
-    <string name="errMsg_database_error_fmt_6">Error de base de datos:
-\n</string>
+    <string name="errMsg_database_error_fmt_6">Error de base de datos:\n</string>
     <string name="errMsg_show_attachments_fmt_2">Mostrar anexos</string>
-    <string name="errMsg_database_error_fmt_7">Error de base de datos:
-\n</string>
-    <string name="msg_delete_problem">Borrar problema
-\n</string>
+    <string name="errMsg_database_error_fmt_7">Error de base de datos:\n</string>
+    <string name="msg_delete_problem">Borrar problema\n</string>
     <string name="errMsg_database_error_fmt_8">Error de base de datos</string>
     <string name="msg_unable_to_assign_barcode">No se puede asignar el código de barras (1)</string>
     <string name="msg_unable_to_assign_barcode_fmt_2">No se puede asignar el código de barras (2)</string>
@@ -1416,11 +1392,8 @@
     <string name="errMsg_no_scoring_navigation_controller">Controlador de navegación sin puntuación</string>
     <string name="errMsg_already_defined">Ya definido</string>
     <string name="errMsg_search_error">Error de búsqueda</string>
-    <string name="msg_unable_to_find_sample">No se puede encontrar la muestra
-\n</string>
-    <string name="msg_in_position">"
-\nen posición
-\n"</string>
+    <string name="msg_unable_to_find_sample">No se puede encontrar la muestra\n</string>
+    <string name="msg_in_position">\n\nen posición\n\n</string>
     <string name="msg_internal_error">ERROR INTERNO</string>
     <string name="msg_missing_plotvisitlist">Falta PlotVisitList</string>
     <string name="msg_internal_error_fmt_2">ERROR INTERNO</string>
@@ -1530,8 +1503,7 @@
     <string name="msg_no_samples_were_scored">No se han puntuado las muestras</string>
     <string name="msg_cleared_scores_from">Puntuaciones despejadas de</string>
     <string name="msg_samples">Muestras</string>
-    <string name="msg_removed_tags_from">"
-\nEtiquetas eliminadas de"</string>
+    <string name="msg_removed_tags_from">\n\nEtiquetas eliminadas de</string>
     <string name="msg_plotsspecimens">Parcelas/Especimenes</string>
     <string name="msg_attachments">Archivos adjuntos</string>
     <string name="errMsg_error_clearing_sample_data">Error al borrar los datos de la muestra</string>
@@ -1588,9 +1560,8 @@
     <string name="msg_trials_from">Ensayos de</string>
     <string name="errMsg_cant_remove_traits_from_bundle_fmt_2">No se pueden eliminar rasgos del conjunto</string>
     <string name="msg_trial_import_in_progress">Ensayos de importación en curso</string>
-    <string name="msg_stop_it_and_exit">¿Detenerlo y salir\?</string>
-    <string name="msg_change_trait_name_style_to">Cambiar el estilo de los nombres de rasgos a
-\n</string>
+    <string name="msg_stop_it_and_exit">¿Detenerlo y salir?</string>
+    <string name="msg_change_trait_name_style_to">Cambiar el estilo de los nombres de rasgos a\n</string>
     <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">El bloque de parcelas no está permitido para la puntuación de ensayos múltiples.</string>
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">El valor Nombre del ensayo es necesario para cada area cuando se utiliza</string>
     <string name="msg_subplot_count_column_is_required_if_for_all_subplot_is_used">La columna de recuento de sub-parcelas es necesaria si se utiliza #* (para todas las sub-parcelas).</string>
@@ -1601,8 +1572,7 @@
     <string name="msg_or">o</string>
     <string name="msg_must_be_selected">debe seleccionarse.</string>
     <string name="action_errMsg_no_interaction">Ninguna interacción</string>
-    <string name="errMsg_error_reading_headings">Error al leer los encabezamientos:
-\n</string>
+    <string name="errMsg_error_reading_headings">Error al leer los encabezamientos:\n</string>
     <string name="msg_incorrect_target_class">Clase de destino incorrecta:</string>
     <string name="msg_file_not_found">Archivo no encontrado</string>
     <string name="msg_trial_name_is_not_found">No se encuentra el nombre del ensayo</string>
@@ -1614,8 +1584,7 @@
     <string name="msg_export_trial_activity">Actividad de ensayos de exportación</string>
     <string name="msg_not_yet_completed">Aún no se ha completado</string>
     <string name="msg_export_trial_fmt_5">Ensayos de exportación</string>
-    <string name="msg_export_is_in_progress_are_you_sure_you_want_to_exit">La exportación está en curso.
-\n¿Está seguro de que desea salir?</string>
+    <string name="msg_export_is_in_progress_are_you_sure_you_want_to_exit">La exportación está en curso.\n¿Está seguro de que desea salir?</string>
     <string name="msg_export_trial_fmt_6">Ensayos de exportación</string>
     <string name="msg_not_a_directory_fmt_2">No es un directorio:</string>
     <string name="errMsg_unexpected_error">Error inesperado</string>
@@ -1683,33 +1652,23 @@
     <string name="msg_btn_ok_import">Importar</string>
     <string name="msg_error">Error</string>
     <string name="msg_add">Añadir</string>
-    <string name="msg_removed">"
-\nEliminado"</string>
+    <string name="msg_removed">\n\nEliminado</string>
     <string name="msg_choices">Opciones</string>
     <string name="msg_clear">Claro</string>
     <string name="msg_column_heading">Encabezamiento de columna</string>
     <string name="msg_dates_in_iso_format">Fechas en formato ISO-8601</string>
     <string name="msg_description">Descripción</string>
     <string name="msg_import_your_old_database">Importe su base de datos</string>
-    <string name="warning_moving_old_data">Proceda con precaución.
-\n
-\nEstá a punto de copiar datos del archivo de base de datos antiguo a la base de datos %1$s.
-\n
-\nTodos sus datos actuales se perderán.</string>
+    <string name="warning_moving_old_data">Proceda con precaución.\n\nEstá a punto de copiar datos del archivo de base de datos antiguo a la base de datos %1$s.\n\nTodos sus datos actuales se perderán.</string>
     <string name="restore_old_data">Restaurar datos antiguos</string>
     <string name="title_error_importing">Error de importación</string>
     <string name="title_success_importing">Importación correcta</string>
-    <string name="msg_could_not_import_data">No hemos podido mover los datos del archivo de base de datos antiguo.
-\nPara %1$s base de datos que necesitamos un nombre de archivo %2$s para importar con éxito</string>
+    <string name="msg_could_not_import_data">No hemos podido mover los datos del archivo de base de datos antiguo.\nPara %1$s base de datos que necesitamos un nombre de archivo %2$s para importar con éxito</string>
     <string name="msg_import_data">La importación del archivo de base de datos antiguo se ha realizado correctamente.</string>
     <string name="title_migration">Nos gustaría informarle de que la política de almacenamiento de Google se ha actualizado para cambiar la forma en que las aplicaciones de Play Store almacenan los datos en los dispositivos. Estos cambios implican que tendrás que migrar tus datos de KDSmart a una nueva ubicación en tu dispositivo.</string>
     <string name="warning_migration_text">Advertencia: Iniciando KDSmart v3.3.0 ¡No borre KDSmart de su dispositivo o perderá sus datos!</string>
-    <string name="locate_database_file"><b>1.</b> Localice el archivo de base de datos en su dispositivo.
-\n
-\n- Si desea migrar su base de datos de demostración, se encontrará en KDSmart &gt; Demo_Databse &gt; DemoDb.sqlite
-\n- Si desea migrar su base de datos de producción, se encuentra en KDSmart &gt; Prod_Database &gt; KDSDB.sqlite</string>
-    <string name="update_kdsmart_to_latest_version"><b>2.</b> Actualice KDSmart a la última versión si aún no lo ha hecho. La actualización más reciente incluye una función de importación.
-\nPara asegurarse de que está en la versión más reciente, compruebe el número de versión en la parte superior de la pantalla de inicio dice <b>3.3.0</b></string>
+    <string name="locate_database_file"><b>1.</b> Localice el archivo de base de datos en su dispositivo.\n\n- Si desea migrar su base de datos de demostración, se encontrará en KDSmart &gt; Demo_Databse &gt; DemoDb.sqlite\n- Si desea migrar su base de datos de producción, se encuentra en KDSmart &gt; Prod_Database &gt; KDSDB.sqlite</string>
+    <string name="update_kdsmart_to_latest_version"><b>2.</b> Actualice KDSmart a la última versión si aún no lo ha hecho. La actualización más reciente incluye una función de importación.\nPara asegurarse de que está en la versión más reciente, compruebe el número de versión en la parte superior de la pantalla de inicio dice <b>3.3.0</b></string>
     <string name="ensure_correct_database"><b>3.</b> Abra KDSmart y asegúrese de que se encuentra en la base de datos activa correcta. - Si está importando una base de datos Demo, entonces esta es la predeterminada y no necesitará hacer nada. - Si está importando una base de datos de Producción, entonces vaya a <b>Settings</b> y seleccione la opción <b>Active Database</b> para elegir la base de datos de Producción.</string>
     <string name="go_to_manage_devices"><b>4.</b> A continuación, vaya a la pantalla <b>Manage Devices</b>.</string>
     <string name="import_database_button_text"><b>5.</b> Seleccione la pestaña <b>Base de datos</b> y, a continuación, el botón <b>Importar su base de datos</b>.</string>
