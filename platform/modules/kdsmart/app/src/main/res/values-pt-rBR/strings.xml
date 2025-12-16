@@ -35,8 +35,7 @@
     <string name="msg_username">Nome de usuário</string>
     <string name="msg_password">Senha</string>
     <string name="msg_to_fmt_2">para</string>
-    <string name="msg_to_fmt_3">"
-\n\tpara"</string>
+    <string name="msg_to_fmt_3">\n\n\tpara</string>
     <string name="errMsg_no_tags">Sem etiquetas</string>
     <string name="msg_or">ou</string>
     <string name="msg_protected_trait">(Traço protegido)</string>
@@ -106,12 +105,9 @@
     <string name="title_edit_trial">Editar Projeto</string>
     <string name="msg_no_trial_selected">Nenhum projeto selecionado</string>
     <string name="msg_trial_is_not_editable">Este projeto não é editável.</string>
-    <string name="msg_no_trials_available">Nenhum projeto disponível.
-\nUse Importar para carregar alguns.</string>
-    <string name="msg_no_traits_available">Nenhum traço disponível.
-\nUse Importar para carregar alguns.</string>
-    <string name="msg_no_tags_available">Nenhuma etiqueta disponível.
-\nUse Importar para carregar algumas.</string>
+    <string name="msg_no_trials_available">Nenhum projeto disponível.\nUse Importar para carregar alguns.</string>
+    <string name="msg_no_traits_available">Nenhum traço disponível.\nUse Importar para carregar alguns.</string>
+    <string name="msg_no_tags_available">Nenhuma etiqueta disponível.\nUse Importar para carregar algumas.</string>
     <string name="msg_option_choose_parentDirectory">Diretório Pai</string>
     <string name="msg_option_fileSize">Tamanho do Arquivo</string>
     <string name="msg_selected_prefix">Selecionado:</string>
@@ -202,8 +198,7 @@
     <string name="pref_description_show_first_importAsOption">Sempre mostrar o topo da lista</string>
     <string name="pref_category_trait_scoring_options">Opções de Pontuação de Traços</string>
     <string name="pref_title_enable_barcode_scan">Ative a Leitura de Código de Barras de Traços</string>
-    <string name="pref_help_enable_barcode_scan">Em branco para NÃO, * para todos os traços,
-\nou fragmento do nome do traço.</string>
+    <string name="pref_help_enable_barcode_scan">Em branco para NÃO, * para todos os traços,\nou fragmento do nome do traço.</string>
     <string name="pref_title_trait_date_format">Formato de Exibição para Traços de Data</string>
     <string name="pref_title_trial_group_setting">Opções de Agrupamento de Projetos</string>
     <string name="pref_hint_max_choice_items">Utilize pelo menos 10.</string>
@@ -338,10 +333,8 @@
     <string name="msg_hdg_add_edit_tag_label">Rótulo</string>
     <string name="msg_hdg_add_edit_tag_desciption">Descrição</string>
     <string name="prompt_action_toggle_auto_advance">Avanço automático</string>
-    <string name="prompt_auto_advance_on">O avanço automático está ATIVADO
-\nToque novamente para DESATIVAR</string>
-    <string name="prompt_auto_advance_off">O avanço automático está DESLIGADO
-\nToque novamente para LIGAR</string>
+    <string name="prompt_auto_advance_on">O avanço automático está ATIVADO\nToque novamente para DESATIVAR</string>
+    <string name="prompt_auto_advance_off">O avanço automático está DESLIGADO\nToque novamente para LIGAR</string>
     <string name="msg_btn_goto_plot">✓</string>
     <string name="msg_run_validation_check">Você pode querer realizar uma verificação de Validação de Pontuações do Projeto.</string>
     <string name="hdg_warnings">Avisos:</string>
@@ -736,9 +729,7 @@
     <string name="prompt_menu_scanner_off">Scanner Desligado</string>
     <string name="prompt_menu_scanner_on">Scanner Ligado</string>
     <string name="msg_hint_at_least_1_digit_required">É necessário pelo menos 1 dígito</string>
-    <string name="msgfmt_settings_contains_passcode_confirm_lockdown">As configurações contêm um código de bloqueio:
-\n{0}
-\nVocê deseja ativar o Bloqueio?</string>
+    <string name="msgfmt_settings_contains_passcode_confirm_lockdown">As configurações contêm um código de bloqueio:\n{0}\nVocê deseja ativar o Bloqueio?</string>
     <string name="prompt_btn_clear_passcode">Limpar Senha</string>
     <string name="title_confirm_lockdown_mode">Confirmar Modo de Bloqueio</string>
     <string name="errmsg_choice_with_no_choices">ESCOLHA sem opções</string>
@@ -784,9 +775,7 @@
     <string name="title_importing_trial">Importando projeto</string>
     <string name="title_error_exporting">Erro ao Exportar</string>
     <string name="title_export_completed">Exportação Concluída</string>
-    <string name="msgfmt_file_is_in_folder">{0}
-\nestá na pasta:
-\n{1}</string>
+    <string name="msgfmt_file_is_in_folder">{0}\nestá na pasta:\n{1}</string>
     <string name="pref_locale_title">Idioma</string>
     <string name="pref_locale_description">Idioma</string>
     <string name="msg_btn_trials_as_zip">Projetos como Zip</string>
@@ -816,15 +805,7 @@
     <string name="msg_no_scanners_defined">Nenhum scanner definido.</string>
     <string name="msg_no_scales_defined">Nenhuma escala definida.</string>
     <string name="msg_no_help_available_yet">Nenhuma ajuda disponível ainda.</string>
-    <string name="msg_cant_use_application_storage_permission">KDSmart não funcionará sem permissão de armazenamento.
-\n
-\nA aplicação precisa de permissão de armazenamento para armazenar dados de amostra e importar/exportar projetos, traços e etiquetas.
-\n
-\nPara permitir as permissões de armazenamento, selecione ✓ e depois selecione PERMITIR na caixa de diálogo pop-up.
-\n
-\nPara sair, selecione ✘.
-\n
-\nAviso: Se você selecionou \"Nunca perguntar novamente\", vá para Configurações -&gt; Apps -&gt; KDSmart -&gt; Permissões e permita a permissão de armazenamento.</string>
+    <string name="msg_cant_use_application_storage_permission">KDSmart não funcionará sem permissão de armazenamento.\n\nA aplicação precisa de permissão de armazenamento para armazenar dados de amostra e importar/exportar projetos, traços e etiquetas.\n\nPara permitir as permissões de armazenamento, selecione ✓ e depois selecione PERMITIR na caixa de diálogo pop-up.\n\nPara sair, selecione ✘.\n\nAviso: Se você selecionou \"Nunca perguntar novamente\", vá para Configurações -&gt; Apps -&gt; KDSmart -&gt; Permissões e permita a permissão de armazenamento.</string>
     <string name="msg_cant_use_camera_permission">Preciso de permissão para acessar a câmera e tirar uma foto. &lt;br&gt;&lt;r&gt;&lt;br&gt;&lt;r&gt; &lt;b&gt;Aviso:&lt;/b&gt; Se você selecionou \"Nunca perguntar novamente\", por favor vá para &lt;br&gt;&lt;r&gt; Configurações -&amp;gt; Apps -&amp;gt; KDSmart -&amp;gt; Permissões e permita a permissão de Armazenamento. &lt;br&gt;&lt;r&gt;&lt;/p&gt;</string>
     <string name="msg_cant_use_location_permission">Preciso das permissões de localização para marcar dados de amostra com Geo Tag. &lt;br&gt;&lt;r&gt;&lt;br&gt;&lt;r&gt; &lt;b&gt;Aviso:&lt;/b&gt; Se você selecionou Nunca perguntar novamente, por favor vá para &lt;br&gt;&lt;r&gt; Configurações -&amp;gt; Apps -&amp;gt; KDSmart -&amp;gt; Permissões e permita a permissão de Armazenamento. &lt;br&gt;&lt;r&gt;&lt;/p&gt;</string>
     <string name="msg_cant_use_audio_permission">Preciso de permissões de microfone para gravar áudio. &lt;br&gt;&lt;r&gt;&lt;br&gt;&lt;r&gt; &lt;b&gt;Aviso:&lt;/b&gt; Se você selecionou Nunca perguntar novamente, por favor vá para &lt;br&gt;&lt;r&gt; Configurações -&amp;gt; Apps -&amp;gt; KDSmart -&amp;gt; Permissões e permita a permissão de Armazenamento. &lt;br&gt;&lt;r&gt;&lt;/p&gt;</string>
@@ -887,9 +868,7 @@
     <string name="title_trait_instance">Instância de traço:</string>
     <string name="title_adding_traits_to_trial">Adicionando traços ao Projeto</string>
     <string name="msg_fix_trial">Verificação de Integridade do Banco de Dados</string>
-    <string name="msg_check_database_integrity">Verificando o projeto para erros.
-\nIsso levará alguns minutos.
-\nPor favor, não saia do aplicativo.</string>
+    <string name="msg_check_database_integrity">Verificando o projeto para erros.\nIsso levará alguns minutos.\nPor favor, não saia do aplicativo.</string>
     <string name="msg_db_check_completed">Verificação de Banco de Dados Concluída</string>
     <string name="msg_couldnot_complete_db_check">Não foi possível completar a verificação do banco de dados</string>
     <string name="msg_couldnot_complete_trait_addition">Não conseguiu terminar de adicionar traços</string>
@@ -1199,18 +1178,12 @@
     <string name="msg_please_check_permissions">Por favor, verifique as permissões</string>
     <string name="msg_unable_to_get_trials">Incapaz de obter Projetos</string>
     <string name="msg_lockdown_mode_is_turned_onoff_by_touching_the_lock_icon">O modo de bloqueio é ativado/desativado ao tocar no ícone de bloqueio.</string>
-    <string name="msg_the_unlocked_icon_only_appears_while_using_the_demo_database">"
-\n
-\nO ícone \'desbloqueado\' só aparece ao usar o banco de dados Demo"</string>
+    <string name="msg_the_unlocked_icon_only_appears_while_using_the_demo_database">\n\n\n\nO ícone \'desbloqueado\' só aparece ao usar o banco de dados Demo</string>
     <string name="msg_for_demonstration_of_this_feature">para demonstração deste recurso.</string>
-    <string name="msg_with_the_production_database_the_icon_is_not_present_until">"
-\n
-\nCom o banco de dados de Produção, o ícone não está presente até"</string>
+    <string name="msg_with_the_production_database_the_icon_is_not_present_until">\n\n\n\nCom o banco de dados de Produção, o ícone não está presente até</string>
     <string name="msg_you_use_kdxplore_to_activate_lockdown_mode_and_to_set_a">você usa o KDXplore para ativar o Modo de Bloqueio (e para definir um</string>
     <string name="msg_passcode_for_deactivation">senha para desativação).</string>
-    <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">"
-\n
-\nQuando o ícone \'travado\' é exibido, você deve usar o código de acesso"</string>
+    <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">\n\n\n\nQuando o ícone \'travado\' é exibido, você deve usar o código de acesso</string>
     <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">definido por KDXplore ou conecte-se ao KDXplore para permitir que ele desative o Lockdown.</string>
     <string name="errMsg_database_error_fmt_3">Erro no Banco de Dados</string>
     <string name="msg_storage_access_not_available">Acesso ao armazenamento não disponível</string>
@@ -1227,8 +1200,7 @@
     <string name="msg_select_a_block_trial">Selecione um Bloco do projeto</string>
     <string name="msg_saving_trials">Salvando Projetos:</string>
     <string name="msg_save_database">Salvar Banco de Dados</string>
-    <string name="msg_unable_to_create_folder">Incapaz de criar pasta:
-\n</string>
+    <string name="msg_unable_to_create_folder">Incapaz de criar pasta:\n</string>
     <string name="msg_database_saved_to">Banco de dados salvo em</string>
     <string name="msg_database_saved">Banco de Dados Salvo</string>
     <string name="msg_database_saved_fmt_2">Banco de Dados Salvo</string>
@@ -1240,8 +1212,7 @@
     <string name="msg_database_saved_fmt_5">Banco de Dados Salvo</string>
     <string name="msg_backing_up">Fazendo backup</string>
     <string name="msg_backing_up_fmt_2">Fazendo backup</string>
-    <string name="msg_to_fmt_4">"
-\n\tpara"</string>
+    <string name="msg_to_fmt_4">\n\n\tpara</string>
     <string name="msg_import_from_kddart">Importar do KDDart</string>
     <string name="html_attachments">&lt;br&gt;&lt;b&gt;Anexos:&lt;/b&gt;</string>
     <string name="html_specimens">&lt;br&gt;&lt;b&gt;Espécimes:&lt;/b&gt;</string>
@@ -1331,13 +1302,10 @@
     <string name="msg_no_file">!! SEM ARQUIVO</string>
     <string name="msg_no_file_fmt_2">!! SEM ARQUIVO</string>
     <string name="errMsg_show_attachments">Mostrar Anexos</string>
-    <string name="errMsg_database_error_fmt_6">Erro no banco de dados:
-\n</string>
+    <string name="errMsg_database_error_fmt_6">Erro no banco de dados:\n</string>
     <string name="errMsg_show_attachments_fmt_2">Mostrar Anexos</string>
-    <string name="errMsg_database_error_fmt_7">Erro no Banco de Dados:
-\n</string>
-    <string name="msg_delete_problem">Excluir problema
-\n</string>
+    <string name="errMsg_database_error_fmt_7">Erro no Banco de Dados:\n</string>
+    <string name="msg_delete_problem">Excluir problema\n</string>
     <string name="errMsg_database_error_fmt_8">Erro no Banco de Dados</string>
     <string name="msg_unable_to_assign_barcode">Incapaz de atribuir código de barras (1)</string>
     <string name="msg_unable_to_assign_barcode_fmt_2">Incapaz de atribuir código de barras (2)</string>
@@ -1357,11 +1325,8 @@
     <string name="errMsg_no_scoring_navigation_controller">Sem Controlador de Navegação de Pontuação</string>
     <string name="errMsg_already_defined">Já definido</string>
     <string name="errMsg_search_error">Erro de Pesquisa</string>
-    <string name="msg_unable_to_find_sample">Incapaz de encontrar Amostra
-\n</string>
-    <string name="msg_in_position">"
-\nna posição
-\n"</string>
+    <string name="msg_unable_to_find_sample">Incapaz de encontrar Amostra\n</string>
+    <string name="msg_in_position">\n\nna posição\n\n</string>
     <string name="msg_internal_error">ERRO INTERNO</string>
     <string name="msg_missing_plotvisitlist">Lista de Visitas à Área Marcada Ausente</string>
     <string name="msg_internal_error_fmt_2">ERRO INTERNO</string>
@@ -1468,11 +1433,9 @@
     <string name="msg_no_samples_were_scored">Nenhuma amostra foi pontuada</string>
     <string name="msg_cleared_scores_from">Pontuações limpas de</string>
     <string name="msg_samples">Amostras</string>
-    <string name="msg_removed_tags_from">"
-\nEtiquetas removidas de"</string>
+    <string name="msg_removed_tags_from">\n\nEtiquetas removidas de</string>
     <string name="msg_plotsspecimens">Áreas marcadas/Espécimes</string>
-    <string name="msg_removed">"
-\nRemovido"</string>
+    <string name="msg_removed">\n\nRemovido</string>
     <string name="msg_attachments">Anexos</string>
     <string name="errMsg_error_clearing_sample_data">Erro ao Limpar Dados de Amostra</string>
     <string name="msg_delete_unsuccessful">Exclusão não bem sucedida</string>
@@ -1529,8 +1492,7 @@
     <string name="errMsg_cant_remove_traits_from_bundle_fmt_2">Não é possível remover traços da coleção.</string>
     <string name="msg_trial_import_in_progress">Importação do Projeto em Andamento</string>
     <string name="msg_stop_it_and_exit">Parar e sair?</string>
-    <string name="msg_change_trait_name_style_to">Alterar o estilo do nome do traço para
-\n</string>
+    <string name="msg_change_trait_name_style_to">Alterar o estilo do nome do traço para\n</string>
     <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">Bloco de área marcada não é permitido para pontuação de múltiplos projetos.</string>
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">O valor do nome do projeto é obrigatório para cada área marcada ao usar.</string>
     <string name="msg_subplot_count_column_is_required_if_for_all_subplot_is_used">A coluna de Contagem de Subáreas Marcadas é necessária se #* (para todas as Subáreas Marcadas) for usado.</string>
@@ -1540,8 +1502,7 @@
     <string name="msg_traitnamesubplotnumber_format_eg_anthesis">Formato \'NomeDoTraço#NúmeroDaSubárea\' por exemplo, Anthesis#1</string>
     <string name="msg_must_be_selected">Deve ser selecionado.</string>
     <string name="action_errMsg_no_interaction">Sem interação</string>
-    <string name="errMsg_error_reading_headings">Erro ao ler os cabeçalhos:
-\n</string>
+    <string name="errMsg_error_reading_headings">Erro ao ler os cabeçalhos:\n</string>
     <string name="msg_incorrect_target_class">Classe de destino incorreta:</string>
     <string name="msg_file_not_found">Arquivo não encontrado</string>
     <string name="msg_trial_name_is_not_found">Nome do projeto não encontrado.</string>
@@ -1553,8 +1514,7 @@
     <string name="msg_export_trial_activity">Exportar Atividade do Projeto</string>
     <string name="msg_not_yet_completed">Ainda não concluído.</string>
     <string name="msg_export_trial_fmt_5">Exportar Projeto</string>
-    <string name="msg_export_is_in_progress_are_you_sure_you_want_to_exit">A exportação está em andamento.
-\nTem certeza de que deseja sair?</string>
+    <string name="msg_export_is_in_progress_are_you_sure_you_want_to_exit">A exportação está em andamento.\nTem certeza de que deseja sair?</string>
     <string name="msg_export_trial_fmt_6">Exportar Projeto</string>
     <string name="msg_not_a_directory_fmt_2">Não é um diretório:</string>
     <string name="errMsg_unexpected_error">Erro inesperado</string>
@@ -1602,25 +1562,16 @@
     <string name="msg_unable_to_get_trial">Não foi possível obter o número do projeto.</string>
     <string name="msg_please_submit_a_problem_report">Por favor, envie um relatório de problema.</string>
     <string name="errMsg_error_fmt_6">Erro:</string>
-    <string name="warning_moving_old_data">Prossiga com cautela!
-\n
-\nVocê está prestes a copiar dados do arquivo de banco de dados antigo para o banco de dados %1$s.
-\n
-\nTodos os seus dados atuais serão perdidos.</string>
+    <string name="warning_moving_old_data">Prossiga com cautela!\n\nVocê está prestes a copiar dados do arquivo de banco de dados antigo para o banco de dados %1$s.\n\nTodos os seus dados atuais serão perdidos.</string>
     <string name="restore_old_data">Restaurar dados antigos</string>
     <string name="title_error_importing">Erro ao importar</string>
     <string name="title_success_importing">Importação bem-sucedida.</string>
-    <string name="msg_could_not_import_data">Não foi possível mover os dados do arquivo de banco de dados antigo.
-\nPara o banco de dados %1$s, precisamos de um nome de arquivo %2$s para importar com sucesso.</string>
+    <string name="msg_could_not_import_data">Não foi possível mover os dados do arquivo de banco de dados antigo.\nPara o banco de dados %1$s, precisamos de um nome de arquivo %2$s para importar com sucesso.</string>
     <string name="msg_import_data">A importação do arquivo antigo do banco de dados foi bem-sucedida.</string>
     <string name="title_migration">Gostaríamos de informar que a política de armazenamento do Google foi atualizada para alterar a forma como os aplicativos da Play Store armazenam dados nos dispositivos. Essas mudanças significam que você precisará migrar seus dados do KDSmart para um novo local em seu dispositivo.</string>
     <string name="warning_migration_text">Aviso: Iniciando o KDSmart v3.3.0. Não exclua o KDSmart do seu dispositivo ou você perderá seus dados!</string>
-    <string name="locate_database_file"><b>1.</b> Localize o arquivo de banco de dados em seu dispositivo.
-\n
-\n- Se você deseja migrar seu banco de dados de demonstração, ele estará localizado em KDSmart &gt; Demo_Databse &gt; DemoDb.sqlite
-\n- Se você deseja migrar seu banco de dados de produção, ele estará localizado em KDSmart &gt; Prod_Database &gt; KDSDB.sqlite</string>
-    <string name="update_kdsmart_to_latest_version"><b>2.</b> Atualize o KDSmart para a versão mais recente, se ainda não o fez. A nova atualização inclui um recurso de Importação.
-\nPara garantir que você esteja na versão mais recente, verifique se o número da versão na parte superior da tela inicial diz <b>3.3.0</b></string>
+    <string name="locate_database_file"><b>1.</b> Localize o arquivo de banco de dados em seu dispositivo.\n\n- Se você deseja migrar seu banco de dados de demonstração, ele estará localizado em KDSmart &gt; Demo_Databse &gt; DemoDb.sqlite\n- Se você deseja migrar seu banco de dados de produção, ele estará localizado em KDSmart &gt; Prod_Database &gt; KDSDB.sqlite</string>
+    <string name="update_kdsmart_to_latest_version"><b>2.</b> Atualize o KDSmart para a versão mais recente, se ainda não o fez. A nova atualização inclui um recurso de Importação.\nPara garantir que você esteja na versão mais recente, verifique se o número da versão na parte superior da tela inicial diz <b>3.3.0</b></string>
     <string name="ensure_correct_database"><b>3.</b> Abra o KDSmart e verifique se você está no banco de dados ativo correto. - Se você estiver importando um banco de dados de demonstração, isso será o padrão e você não precisará fazer nada. - Se você estiver importando um banco de dados de produção, vá para as <b>Configurações</b> e selecione a opção <b>Banco de Dados Ativo</b> para escolher o banco de dados de produção.</string>
     <string name="go_to_manage_devices"><b>4.</b> Em seguida, vá para a tela <b>Gerenciar Dispositivos</b>.</string>
     <string name="import_database_button_text"><b>5.</b>Selecione a aba <b>Banco de Dados</b> e em seguida o botão <b>Importar seu Banco de Dados</b>.</string>
@@ -1753,8 +1704,8 @@
         <item quantity="many">Adicionados %d Novos Traços</item>
         <item quantity="other">Adicionados %d Novos Traços</item>
     </plurals>
-    <string name="title_export_kdxplore">KDXplore</string>
-    <string name="title_export_kddart">KDDart</string>
+    <string name="title_export_kdxplore" translatable="false">KDXplore</string>
+    <string name="title_export_kddart" translatable="false">KDDart</string>
     <string name="pref_locale_key" translatable="false">pref_application_locale</string>
     <string name="pref_locale_default_value" translatable="false">SYSTEM</string>
     <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
@@ -1770,7 +1721,7 @@
     <string name="pref_orgtype_key" translatable="false">pref_organism_type</string>
     <string name="msgfmt_no_sample_for_instance_of_trait">Nenhuma amostra para a instância {0,number,integer} do Traço \'{1}\'</string>
     <string name="msgfmt_found_n_plots_since">Encontrado {0,number,integer} %1$s pontuado desde {1}</string>
-    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
+    <string name="msg_info_searchname_nplots" translatable="false">{0}: {1,number,integer}</string>
     <string name="msg_info_selected_nplots">Selecionado: {0,number,integer}</string>
     <string name="msg_format_n_trials_have_no_planting_date">Alguns projetos ({0,number,integer}) não têm uma Data de Plantio</string>
     <string name="msgfmt_traits_scored_m_of_n">Traços pontuados: {0,number,integer} de {1,number,integer}</string>
@@ -1783,7 +1734,7 @@
     <string name="pref_drawablesName_scoringView" translatable="false">scoringView_pref_drawables</string>
     <string name="msg_do_you_want_to_protect_numberinteger_traits">Você quer proteger as características {0,number,integer}?</string>
     <string name="msg_do_you_want_to_unprotect_numberinteger_traits">Você quer desproteger as características {0,number, integer}?</string>
-    <string name="title_app_name">KDSmart</string>
+    <string name="title_app_name" translatable="false">KDSmart</string>
     <string name="pref_orgtype_drawablesName" translatable="false">orgtype_pref_drawables</string>
     <string name="ctx_bulk_scoring">Pontuação em massa</string>
     <string name="ctx_title_path_scoring_mode">Modo de pontuação pela caminho</string>

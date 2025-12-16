@@ -144,12 +144,9 @@
     <string name="title_edit_trial">Éditer les projets</string>
     <string name="msg_no_trial_selected">Pas de projets sélectionnés</string>
     <string name="msg_trial_is_not_editable">Ce projet n\'est pas modifiable.</string>
-    <string name="msg_no_trials_available">Pas de projets disponibles.
-\nUtilisez l\'importation pour en charger.</string>
-    <string name="msg_no_traits_available">Pas de caractéristiques disponibles.
-\nUtilisez l\'importation pour en charger.</string>
-    <string name="msg_no_tags_available">Pas d\'étiquettes disponibles.
-\nUtilisez l\'importation pour en charger.</string>
+    <string name="msg_no_trials_available">Pas de projets disponibles.\nUtilisez l\'importation pour en charger.</string>
+    <string name="msg_no_traits_available">Pas de caractéristiques disponibles.\nUtilisez l\'importation pour en charger.</string>
+    <string name="msg_no_tags_available">Pas d\'étiquettes disponibles.\nUtilisez l\'importation pour en charger.</string>
     <string name="msg_option_choose_folder">Dossier</string>
     <string name="msg_option_choose_parentDirectory">Annuaire des parents</string>
     <string name="msg_option_fileSize">Taille du fichier</string>
@@ -200,8 +197,8 @@
     <string name="title_import_tags">Étiquettes d\'importation</string>
     <string name="title_export_to">Exporter vers</string>
     <string name="title_export_csv">Dispositif</string>
-    <string name="title_export_kdxplore">KDXplore</string>
-    <string name="title_export_kddart">KDDart</string>
+    <string name="title_export_kdxplore" translatable="false">KDXplore</string>
+    <string name="title_export_kddart" translatable="false">KDDart</string>
     <string name="title_file_chooser">Sélecteur de fichiers</string>
     <string name="title_import_from">Importer de</string>
     <string name="title_import_file_csv">Fichier CSV</string>
@@ -237,8 +234,7 @@
     <string name="pref_description_show_first_importAsOption">Toujours en tête de liste</string>
     <string name="pref_category_trait_scoring_options">Options de notation des caractéristiques</string>
     <string name="pref_title_enable_barcode_scan">Activer la lecture des codes-barres caractéristiques</string>
-    <string name="pref_help_enable_barcode_scan">Blanc pour NON, * pour toutes les caractéristiques,
-\nou un fragment du nom des caractéristiques</string>
+    <string name="pref_help_enable_barcode_scan">Blanc pour NON, * pour toutes les caractéristiques,\nou un fragment du nom des caractéristiques</string>
     <string name="pref_title_trait_date_format">Format d\'affichage des caractéristiques de la date</string>
     <string name="pref_title_trial_group_setting">Options de regroupement des projets</string>
     <string name="pref_hint_max_choice_items">Utiliser au moins 10</string>
@@ -371,10 +367,8 @@
     <string name="msg_hdg_add_edit_tag_label">Étiquette</string>
     <string name="msg_hdg_add_edit_tag_desciption">Description</string>
     <string name="prompt_action_toggle_auto_advance">Progression automatique</string>
-    <string name="prompt_auto_advance_on">La Progression automatique est activée.
-\nTouchez à nouveau pour la désactiver</string>
-    <string name="prompt_auto_advance_off">La Progression automatique est désactivée.
-\nToucher à nouveau pour l\'activer</string>
+    <string name="prompt_auto_advance_on">La Progression automatique est activée.\nTouchez à nouveau pour la désactiver</string>
+    <string name="prompt_auto_advance_off">La Progression automatique est désactivée.\nToucher à nouveau pour l\'activer</string>
     <string name="msg_btn_goto_plot">✓</string>
     <string name="msg_run_validation_check">Il est possible que vous souhaitiez effectuer un contrôle de validation des projets de notation.</string>
     <string name="hdg_warnings">= = = Avertissements :</string>
@@ -793,7 +787,7 @@
     <string name="hdg_plotview_inactive_traits">Caractéristiques inactives</string>
     <string name="title_select_heatmap_opacity">Sélectionner l\'opacité de la carte thermique</string>
     <string name="title_select_heatmap_gradient">Sélectionner le dégradé de la carte thermique</string>
-    <string name="msg_info_searchname_nplots">{0}: {1,number,integer}</string>
+    <string name="msg_info_searchname_nplots" translatable="false">{0}: {1,number,integer}</string>
     <string name="prompt_menu_configure_ellipsis">Configurer …</string>
     <string name="msgfmt_warning_landscape_small">Le mode paysage sur les petits écrans utilisera toujours au moins {0}</string>
     <string name="prompt_menu_data_score_samples">Échantillons de notation</string>
@@ -820,9 +814,7 @@
     <string name="prompt_menu_scanner_off">Scanner désactivé</string>
     <string name="prompt_menu_scanner_on">Scanner en marche</string>
     <string name="msg_hint_at_least_1_digit_required">Au moins 1 chiffre requis</string>
-    <string name="msgfmt_settings_contains_passcode_confirm_lockdown">Les paramètres contiennent un code de verrouillage :
-\n{0}
-\nVoulez-vous activer le verrouillage ?</string>
+    <string name="msgfmt_settings_contains_passcode_confirm_lockdown">Les paramètres contiennent un code de verrouillage :\n{0}\nVoulez-vous activer le verrouillage ?</string>
     <string name="prompt_btn_clear_passcode">Effacer le code d\'accès</string>
     <string name="title_confirm_lockdown_mode">Confirmer le mode verrouillage</string>
     <string name="errmsg_choice_with_no_choices">CHOIX sans choix</string>
@@ -870,9 +862,7 @@
     <string name="title_importing_trial">Importation de projets</string>
     <string name="title_error_exporting">Erreur d\'exportation</string>
     <string name="title_export_completed">Exportation terminée</string>
-    <string name="msgfmt_file_is_in_folder">{0}
-\nest dans le dossier :
-\n{1}</string>
+    <string name="msgfmt_file_is_in_folder">{0}\nest dans le dossier :\n{1}</string>
     <string name="pref_locale_title">Langue</string>
     <string name="pref_locale_description">Langue</string>
     <string name="msg_btn_trials_as_zip">Les projets comme Zip</string>
@@ -966,9 +956,7 @@
     <string name="title_trait_instance">Exemple de caractéristiques :</string>
     <string name="title_adding_traits_to_trial">Ajout de caractéristiques aux projets</string>
     <string name="msg_fix_trial">Contrôle de l\'intégrité de la base de données</string>
-    <string name="msg_check_database_integrity">Vérifier que les projets ne comportent pas d\'erreurs.
-\nCela prendra quelques minutes.
-\nNe quittez pas l\'application</string>
+    <string name="msg_check_database_integrity">Vérifier que les projets ne comportent pas d\'erreurs.\nCela prendra quelques minutes.\nNe quittez pas l\'application</string>
     <string name="msg_db_check_completed">Vérification de la base de données terminée</string>
     <string name="msg_couldnot_complete_db_check">La vérification de la base de données n\'a pas pu être achevée</string>
     <string name="msg_couldnot_complete_trait_addition">Impossible de terminer l\'ajout de caractéristiques</string>
@@ -1278,18 +1266,12 @@
     <string name="msg_please_check_permissions">Veuillez vérifier les autorisations</string>
     <string name="msg_unable_to_get_trials">Impossible d\'obtenir des projets</string>
     <string name="msg_lockdown_mode_is_turned_onoff_by_touching_the_lock_icon">Le mode verrouillage est activé/désactivé en touchant l\'icône de verrouillage.</string>
-    <string name="msg_the_unlocked_icon_only_appears_while_using_the_demo_database">"
-\n
-\nL\'icône \"déverrouillé\" n\'apparaît que lors de l\'utilisation de la base de données de démonstration."</string>
+    <string name="msg_the_unlocked_icon_only_appears_while_using_the_demo_database">\n\n\n\nL\'icône \"déverrouillé\" n\'apparaît que lors de l\'utilisation de la base de données de démonstration.</string>
     <string name="msg_for_demonstration_of_this_feature">pour une démonstration de cette fonctionnalité.</string>
-    <string name="msg_with_the_production_database_the_icon_is_not_present_until">"
-\n
-\nAvec la base de données Production, l\'icône n\'est pas présente jusqu\'à ce que"</string>
+    <string name="msg_with_the_production_database_the_icon_is_not_present_until">\n\n\n\nAvec la base de données Production, l\'icône n\'est pas présente jusqu\'à ce que</string>
     <string name="msg_you_use_kdxplore_to_activate_lockdown_mode_and_to_set_a">vous utilisez KDXplore pour activer le mode verrouillage (et pour définir une</string>
     <string name="msg_passcode_for_deactivation">pour la désactivation).</string>
-    <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">"
-\n
-\nLorsque l\'icône \"verrouillé\" s\'affiche, vous devez utiliser le code d\'accès."</string>
+    <string name="msg_when_the_locked_icon_is_displayed_you_must_use_the_passcode">\n\n\n\nLorsque l\'icône \"verrouillé\" s\'affiche, vous devez utiliser le code d\'accès.</string>
     <string name="msg_set_by_kdxplore_or_connect_to_kdxplore_to_let_it_deactivate_lockdown">défini par KDXplore ou se connecter à KDXplore pour lui permettre de désactiver le verrouillage.</string>
     <string name="errMsg_database_error_fmt_3">Erreur de base de données</string>
     <string name="msg_storage_access_not_available">Accès au stockage non disponible</string>
@@ -1306,8 +1288,7 @@
     <string name="msg_select_a_block_trial">Sélectionner un bloc des projets</string>
     <string name="msg_saving_trials">Sauver les projets :</string>
     <string name="msg_save_database">Sauvegarder la base de données</string>
-    <string name="msg_unable_to_create_folder">Impossible de créer un dossier :
-\n</string>
+    <string name="msg_unable_to_create_folder">Impossible de créer un dossier :\n</string>
     <string name="msg_database_saved_to">Base de données enregistrée dans</string>
     <string name="msg_database_saved">Base de données sauvegardée</string>
     <string name="msg_database_saved_fmt_2">Base de données sauvegardée</string>
@@ -1318,11 +1299,9 @@
     <string name="msg_database_saved_fmt_4">Base de données sauvegardée</string>
     <string name="msg_database_saved_fmt_5">Base de données sauvegardée</string>
     <string name="msg_backing_up">Sauvegarde</string>
-    <string name="msg_to_fmt_3">"
-\n\tà"</string>
+    <string name="msg_to_fmt_3">\n\n\tà</string>
     <string name="msg_backing_up_fmt_2">Sauvegarde</string>
-    <string name="msg_to_fmt_4">"
-\n\tà"</string>
+    <string name="msg_to_fmt_4">\n\n\tà</string>
     <string name="msg_import_from_kddart">Importer de KDDart</string>
     <string name="html_attachments">&lt;br&gt;&lt;b&gt;Pièces jointes:&lt;/b&gt;</string>
     <string name="html_specimens">&lt;br&gt;&lt;b&gt;Spécimens:&lt;/b&gt;</string>
@@ -1412,13 +1391,10 @@
     <string name="msg_no_file">! ! PAS DE FICHIER</string>
     <string name="msg_no_file_fmt_2">! ! PAS DE FICHIER</string>
     <string name="errMsg_show_attachments">Afficher les pièces jointes</string>
-    <string name="errMsg_database_error_fmt_6">Erreur de base de données :
-\n</string>
+    <string name="errMsg_database_error_fmt_6">Erreur de base de données :\n</string>
     <string name="errMsg_show_attachments_fmt_2">Afficher les pièces jointes</string>
-    <string name="errMsg_database_error_fmt_7">Erreur de base de données :
-\n</string>
-    <string name="msg_delete_problem">Supprimer le problème
-\n</string>
+    <string name="errMsg_database_error_fmt_7">Erreur de base de données :\n</string>
+    <string name="msg_delete_problem">Supprimer le problème\n</string>
     <string name="errMsg_database_error_fmt_8">Erreur de base de données</string>
     <string name="msg_unable_to_assign_barcode">Impossible d\'attribuer un code-barres (1)</string>
     <string name="msg_unable_to_assign_barcode_fmt_2">Impossible d\'attribuer un code-barres (2)</string>
@@ -1438,11 +1414,8 @@
     <string name="errMsg_no_scoring_navigation_controller">Pas de notation Contrôleur de navigation</string>
     <string name="errMsg_already_defined">Déjà défini</string>
     <string name="errMsg_search_error">Erreur de recherche</string>
-    <string name="msg_unable_to_find_sample">Impossible de trouver l\'échantillon
-\n</string>
-    <string name="msg_in_position">"
-\nen position
-\n"</string>
+    <string name="msg_unable_to_find_sample">Impossible de trouver l\'échantillon\n</string>
+    <string name="msg_in_position">\n\nen position\n\n</string>
     <string name="msg_internal_error">ERREUR INTERNE</string>
     <string name="msg_missing_plotvisitlist">Manquant PlotVisitList</string>
     <string name="msg_internal_error_fmt_2">ERREUR INTERNE</string>
@@ -1550,11 +1523,9 @@
     <string name="msg_no_samples_were_scored">Aucun échantillon n\'a été noté.</string>
     <string name="msg_cleared_scores_from">Les notations effacées de</string>
     <string name="msg_samples">Échantillons</string>
-    <string name="msg_removed_tags_from">"
-\nSuppression des étiquettes de"</string>
+    <string name="msg_removed_tags_from">\n\nSuppression des étiquettes de</string>
     <string name="msg_plotsspecimens">Parcelles/Spécimens</string>
-    <string name="msg_removed">"
-\nSupprimé"</string>
+    <string name="msg_removed">\n\nSupprimé</string>
     <string name="msg_attachments">Pièces jointes</string>
     <string name="errMsg_error_clearing_sample_data">Erreur dans l\'effacement des données de l\'échantillon</string>
     <string name="msg_delete_unsuccessful">Suppression d\'un échec</string>
@@ -1611,8 +1582,7 @@
     <string name="errMsg_cant_remove_traits_from_bundle_fmt_2">Impossible de supprimer des caractéristiques du groupe</string>
     <string name="msg_trial_import_in_progress">Importation de projets en cours</string>
     <string name="msg_stop_it_and_exit">L\'arrêter et sortir ?</string>
-    <string name="msg_change_trait_name_style_to">Modifier le style du nom de la caractéristique en
-\n</string>
+    <string name="msg_change_trait_name_style_to">Modifier le style du nom de la caractéristique en\n</string>
     <string name="msg_plot_block_is_not_allowed_for_multi_trial_scoring">Le bloc des parcelles n\'est pas autorisé pour la notation des épreuves multiples.</string>
     <string name="msg_trial_name_value_is_required_for_every_plot_when_using">La valeur du nom du projet est requise pour chaque parcelle lors de l\'utilisation de l\'option</string>
     <string name="msg_subplot_count_column_is_required_if_for_all_subplot_is_used">La parcelle du nombre de sous-parcelles est nécessaire si #* (pour toutes les sous-parcelles) est utilisé.</string>
@@ -1623,8 +1593,7 @@
     <string name="msg_or">ou</string>
     <string name="msg_must_be_selected">doit être sélectionné.</string>
     <string name="action_errMsg_no_interaction">Pas d\'interaction</string>
-    <string name="errMsg_error_reading_headings">Erreur de lecture des titres :
-\n</string>
+    <string name="errMsg_error_reading_headings">Erreur de lecture des titres :\n</string>
     <string name="msg_incorrect_target_class">Classe cible incorrecte :</string>
     <string name="msg_file_not_found">Fichier non trouvé</string>
     <string name="msg_trial_name_is_not_found">Le nom des projets n\'est pas trouvé</string>
@@ -1636,8 +1605,7 @@
     <string name="msg_export_trial_activity">Activités d\'exportation des projets</string>
     <string name="msg_not_yet_completed">Pas encore terminé</string>
     <string name="msg_export_trial_fmt_5">Projets d\'exportation</string>
-    <string name="msg_export_is_in_progress_are_you_sure_you_want_to_exit">L\'exportation est en cours.
-\nÊtes-vous sûr de vouloir quitter ?</string>
+    <string name="msg_export_is_in_progress_are_you_sure_you_want_to_exit">L\'exportation est en cours.\nÊtes-vous sûr de vouloir quitter ?</string>
     <string name="msg_export_trial_fmt_6">Projets d\'exportation</string>
     <string name="msg_not_a_directory_fmt_2">Pas un annuaire :</string>
     <string name="errMsg_unexpected_error">Erreur inattendue</string>
@@ -1685,25 +1653,16 @@
     <string name="msg_unable_to_get_trial">Impossible d\'obtenir le numéro de téléphone des projets</string>
     <string name="msg_please_submit_a_problem_report">Veuillez soumettre un rapport de problème</string>
     <string name="errMsg_error_fmt_6">Erreur :</string>
-    <string name="warning_moving_old_data">Procédez avec prudence !
-\n
-\nVous êtes sur le point de copier les données de l\'ancien fichier de base de données dans la base de données %1$s.
-\n
-\nToutes vos données actuelles seront perdues.</string>
+    <string name="warning_moving_old_data">Procédez avec prudence !\n\nVous êtes sur le point de copier les données de l\'ancien fichier de base de données dans la base de données %1$s.\n\nToutes vos données actuelles seront perdues.</string>
     <string name="restore_old_data">Restaurer d\'anciennes données</string>
     <string name="title_error_importing">Erreur d\'importation</string>
     <string name="title_success_importing">Importation réussie</string>
-    <string name="msg_could_not_import_data">Nous n\'avons pas pu transférer les données de l\'ancien fichier de base de données.
-\nPour la base de données %1$s, nous avons besoin d\'un fichier portant le nom %2$s pour réussir l\'importation.</string>
+    <string name="msg_could_not_import_data">Nous n\'avons pas pu transférer les données de l\'ancien fichier de base de données.\nPour la base de données %1$s, nous avons besoin d\'un fichier portant le nom %2$s pour réussir l\'importation.</string>
     <string name="msg_import_data">L\'importation de l\'ancien fichier de base de données a réussi.</string>
     <string name="title_migration">Nous vous informons que les règles de stockage de Google ont été mises à jour afin de modifier la manière dont les applications Play Store stockent les données sur les appareils. Ces changements signifient que vous devrez migrer vos données KDSmart vers un nouvel emplacement sur votre appareil.</string>
     <string name="warning_migration_text">Avertissement : Démarrage de KDSmart v3.3.0 Ne supprimez pas KDSmart de votre appareil ou vous perdrez vos données !</string>
-    <string name="locate_database_file"><b>1.</b> Localisez le fichier de la base de données sur votre appareil.
-\n
-\n- Si vous souhaitez migrer votre base de données de démonstration, elle se trouve dans KDSmart &gt; Demo_Databse &gt; DemoDb.sqlite.
-\n- Si vous souhaitez migrer votre base de données de production, elle se trouve dans KDSmart &gt; Prod_Database &gt; KDSDB.sqlite.</string>
-    <string name="update_kdsmart_to_latest_version"><b>2.</b> Mettez à jour KDSmart à la dernière version si vous ne l\'avez pas encore fait. La dernière mise à jour comprend une fonction d\'importation.
-\nPour vous assurer que vous disposez de la version la plus récente, vérifiez le numéro de version en haut de l\'écran d\'accueil, qui indique <b>3.3.0.</b></string>
+    <string name="locate_database_file"><b>1.</b> Localisez le fichier de la base de données sur votre appareil.\n\n- Si vous souhaitez migrer votre base de données de démonstration, elle se trouve dans KDSmart &gt; Demo_Databse &gt; DemoDb.sqlite.\n- Si vous souhaitez migrer votre base de données de production, elle se trouve dans KDSmart &gt; Prod_Database &gt; KDSDB.sqlite.</string>
+    <string name="update_kdsmart_to_latest_version"><b>2.</b> Mettez à jour KDSmart à la dernière version si vous ne l\'avez pas encore fait. La dernière mise à jour comprend une fonction d\'importation.\nPour vous assurer que vous disposez de la version la plus récente, vérifiez le numéro de version en haut de l\'écran d\'accueil, qui indique <b>3.3.0.</b></string>
     <string name="ensure_correct_database"><b>3.</b> Ouvrez KDSmart et assurez-vous que vous êtes sur la bonne base de données active. - Si vous importez une base de données de démonstration, il s\'agit de la base par défaut et vous n\'avez rien à faire. - Si vous importez une base de données de production, allez sur <b>Settings</b> et sélectionnez l\'option <b>Active Database</b> pour choisir la base de données de production.</string>
     <string name="go_to_manage_devices"><b>4.</b> Allez ensuite à l\'écran <b>Manage Devices</b>.</string>
     <string name="import_database_button_text"><b>5.</b> Sélectionnez l\'onglet <b>Database</b> puis le bouton <b>Import Your Database</b>.</string>
@@ -1745,7 +1704,7 @@
     <string name="drawer_list_items_4">Gérer les appareils</string>
     <string name="drawer_list_items_5">KDDart</string>
     <string name="drawer_list_items_6">Paramètres</string>
-    <string name="title_app_name">KDSmart</string>
+    <string name="title_app_name" translatable="false">KDSmart</string>
     <string name="pref_locale_key" translatable="false">pref_application_locale</string>
     <string name="pref_locale_drawablesName" translatable="false">pref_application_locale_drawables</string>
     <string name="pref_collOrder_key" translatable="false">pref_list_visit_order</string>
