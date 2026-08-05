@@ -21,4 +21,5 @@
     <string name="pref_collOrder_default_value" translatable="false">LL_RIGHT_SERPENTINE</string>
     <string name="pref_orgtype_default_value" translatable="false">GENERIC</string>
     <string name="pref_gradient_default_value" translatable="false">HEAT_5</string>
+    <string name="pref_kdc_title_key" translatable="false">pref_kdc_title</string>
 </resources>
