@@ -1320,4 +1320,6 @@ và cho phép quyền Bộ nhớ. <br><\br></p>]]></string>
     <string name="title_desc_tns_no_instances">Tính trạng</string>
     <string name="hdg_plotview_active_traits">Tính trạng</string>
     <string name="title_trait_instance">Lần đánh giá tính trạng</string>
+    <string name="hdg_plot_ident_option">%1$s Định danh</string>
+    <string name="hdg_trial_note">Ghi chú</string>
 </resources>
