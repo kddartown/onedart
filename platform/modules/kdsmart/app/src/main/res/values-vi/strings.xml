@@ -2042,4 +2042,6 @@ và công thức chuyển đổi là:
     <string name="prompt_action_heatmap_settings">Cài đặt bản đồ nhiệt…</string>
     <string name="errmsg_choice_with_no_choices">CHOICE không có lựa chọn nào</string>
     <string name="errmsg_must_have_at_least_2">Phải có ít nhất 2 lựa chọn</string>
+    <string name="hdg_edit_trait_trait_name">Tên tính trạng</string>
+    <string name="hdg_edit_trait_alias">Bí danh</string>
 </resources>
