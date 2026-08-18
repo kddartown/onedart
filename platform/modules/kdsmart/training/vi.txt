@@ -1,19 +1,19 @@
-This is the KDSmart Home Screen
+Đây là Màn hình chính của KDSmart
 
-Basic Trial details and options are displayed
+Hiển thị các chi tiết và tùy chọn cơ bản của Thí nghiệm
 
-You can scroll through the Trials from left to right
+Bạn có thể cuộn qua các Thí nghiệm từ trái sang phải
 
-Select the Trials Button to view a list of all Trials and extra options
+Chọn Nút Thí nghiệm để xem danh sách tất cả các Thí nghiệm và các tùy chọn khác
 
-You can get to more options with the Navigation Bar on the left e.g. the Traits Screen
+Bạn có thể truy cập thêm các tùy chọn khác bằng Thanh điều hướng bên trái, ví dụ: Màn hình Tính trạng
 
-Or the Tags Screen
+Hoặc Màn hình Nhãn
 
-The Devices Screen provides options for connecting various devices e.g. Scanners
+Màn hình Thiết bị cung cấp các tùy chọn để kết nối với nhiều thiết bị khác nhau, ví dụ: Máy quét
 
-Settings are general settings for KDSmart
+Cài đặt là các cài đặt chung cho KDSmart
 
-Trial details can be viewed from the Home Screen or the Trial Screen
+Có thể xem chi tiết Thí nghiệm từ Màn hình chính hoặc Màn hình Thí nghiệm
 
-Select the Home Button to get back to the Home Screen
+Chọn Nút Trang chủ để quay lại Màn hình chính
