@@ -1322,4 +1322,426 @@ và cho phép quyền Bộ nhớ. <br><\br></p>]]></string>
     <string name="title_trait_instance">Lần đánh giá tính trạng</string>
     <string name="hdg_plot_ident_option">%1$s Định danh</string>
     <string name="hdg_trial_note">Ghi chú</string>
+    <string name="msg_password">Mật khẩu</string>
+    <string name="msg_login">Đăng nhập</string>
+    <string name="prompt_select_group">Chọn nhóm</string>
+    <string name="msg_switching_group">Đang chuyển nhóm</string>
+    <string name="ctx_help_kddart_login"><![CDATA[<p>Màn hình&nbsp;<strong>đăng nhập KDDart</strong>&nbsp;cho phép người dùng KDSmart có kết nối internet kết nối tới cơ sở dữ liệu KDDart. Trước khi bạn có thể kết nối tới cơ sở dữ liệu, bạn cần thiết lập URL KDDart bằng cách chọn&nbsp;<strong><ins>Chưa đặt URL KDDart</ins></strong>&nbsp; liên kết. Điều này sẽ dẫn bạn đến&nbsp;<strong>Cài đặt KDSmart</strong>&nbsp; nơi có thể chọn URL KDDart mới hoặc hiện có. Sau khi URL được thiết lập, nó sẽ được hiển thị trong&nbsp;<strong>Màn hình đăng nhập KDDart</strong>&nbsp; nhưng liên kết vẫn có thể được chọn để thay đổi URL.</p>
+<p>Nhập tên người dùng và mật khẩu do quản trị viên KDDart cung cấp cho bạn và chọn&nbsp;<strong>Nút Đăng nhập</strong>&nbsp; để kết nối với KDDart. &nbsp;<strong>Nút Hiện/Ẩn mật khẩu</strong>&nbsp; có thể dùng để chuyển đổi hiển thị mật khẩu. Liên hệ quản trị viên KDDart của bạn nếu bạn gặp khó khăn khi đăng nhập bằng tên người dùng hoặc mật khẩu, hoặc liên hệ&nbsp;<a class="email" href="mailto:kdsmart@diversityarrays.com">kdsmart@diversityarrays.com</a>&nbsp; cho các vấn đề khác liên quan đến đăng nhập.</p>
+<p>Nếu bạn đăng nhập vào KDDart bằng tên người dùng <span class="s1">liên kết với nhiều nhóm, sẽ hiển thị thêm </span><strong>Màn hình chọn nhóm</strong> sẽ được hiển thị. Chọn nhóm mà bạn muốn đăng nhập từ menu thả xuống rồi chọn <strong>Nút Chọn nhóm</strong> để hoàn tất quá trình đăng nhập.</p>]]></string>
+    <string name="ctx_help_kddart_login_title">Trợ giúp cho KDDart Login</string>
+    <string name="msg_trait_already_scored">Tính trạng đã được chấm</string>
+    <string name="title_exit_without_saving">Thoát mà không lưu</string>
+    <string name="msg_exit_without_saving">Bạn có muốn thoát mà không lưu không?</string>
+    <string name="title_trait_definition_error">Lỗi định nghĩa Tính trạng</string>
+    <string name="msg_choose_trait_level">Chọn mức độ Tính trạng</string>
+    <string name="errmsg_unit_required">Đơn vị là bắt buộc trừ khi là TEXT hoặc DATE</string>
+    <string name="msg_kdx_barcode_not_found">Vui lòng đảm bảo rằng mã vạch KDXplore đang được quét, hoặc tắt tùy chọn \'Sử dụng mã vạch KDXplore\' trong cài đặt</string>
+    <string name="msg_file_export_failed">Xuất tệp thất bại</string>
+    <string name="msg_fetching_trial_from_kddart">Đang truy xuất Thí nghiệm từ KDDart</string>
+    <string name="msg_user_is_not_logged_in">Vui lòng đăng nhập</string>
+    <string name="msg_user_must_belong_to_group">Người dùng phải thuộc một nhóm hệ thống</string>
+    <string name="msg_unknown_error_occurred">Đã xảy ra lỗi không xác định</string>
+    <string name="msg_invalid_definition">Định nghĩa không hợp lệ</string>
+    <string name="msg_intdec_mismatch">Không khớp INT/DEC</string>
+    <string name="msg_not_yet_supported_fmt_2">: Chưa được hỗ trợ</string>
+    <string name="warning_moving_old_data">Hãy thận trọng! \n\nBạn sắp sao chép dữ liệu từ tệp cơ sở dữ liệu cũ sang cơ sở dữ liệu %1$s. \n\nTất cả dữ liệu hiện tại của bạn sẽ bị mất.</string>
+    <string name="restore_old_data">Khôi phục dữ liệu cũ</string>
+    <string name="title_error_importing">Lỗi khi nhập</string>
+    <string name="title_success_importing">Nhập thành công</string>
+    <string name="msg_could_not_import_data">Chúng tôi không thể chuyển dữ liệu từ tệp cơ sở dữ liệu cũ.\nĐối với %1$s cơ sở dữ liệu, chúng tôi cần tên tệp %2$s để nhập thành công</string>
+    <string name="msg_import_data">Nhập tệp cơ sở dữ liệu cũ thành công.</string>
+    <string name="title_migration">Chúng tôi xin thông báo rằng chính sách Google Storage đã được cập nhật nhằm thay đổi cách các ứng dụng trên Play Store lưu trữ dữ liệu trên thiết bị. Những thay đổi này đồng nghĩa bạn sẽ cần chuyển dữ liệu KDSmart của mình đến vị trí mới trên thiết bị.</string>
+    <string name="warning_migration_text">Cảnh báo: Bắt đầu từ KDSmart v3.3.0, không gỡ cài đặt KDSmart khỏi thiết bị của bạn nếu không bạn sẽ mất dữ liệu!</string>
+    <string name="locate_database_file"><![CDATA[<b>1.</b> Xác định tệp cơ sở dữ liệu trên thiết bị của bạn.\n\n- Nếu bạn muốn di chuyển cơ sở dữ liệu Demo, nó sẽ nằm tại KDSmart > Demo_Databse > DemoDb.sqlite\n- Nếu bạn muốn di chuyển cơ sở dữ liệu Production, nó sẽ nằm tại KDSmart > Prod_Database > KDSDB.sqlite]]></string>
+    <string name="update_kdsmart_to_latest_version"><![CDATA[<b>2.</b> Cập nhật KDSmart lên phiên bản mới nhất nếu bạn chưa thực hiện. Bản cập nhật mới nhất bao gồm tính năng Nhập.\nĐể đảm bảo bạn đang ở phiên bản mới nhất, kiểm tra số phiên bản ở đầu màn hình Trang chủ có hiển thị <b>3.3.0</b>]]></string>
+    <string name="ensure_correct_database"><![CDATA[<b>3.</b> Mở KDSmart và đảm bảo bạn đang ở đúng cơ sở dữ liệu đang hoạt động. - Nếu bạn đang nhập cơ sở dữ liệu Demo, đây là mặc định và bạn không cần làm gì. - Nếu bạn đang nhập cơ sở dữ liệu Production, hãy vào <b>Cài đặt</b> và chọn <b>Tùy chọn cơ sở dữ liệu đang hoạt động</b> để chọn cơ sở dữ liệu Production.]]></string>
+    <string name="go_to_manage_devices"><![CDATA[<b>4.</b> Tiếp theo, vào <b>Màn hình Quản lý thiết bị</b>.]]></string>
+    <string name="import_database_button_text"><![CDATA[<b>5.</b> Chọn <b>Tab Cơ sở dữ liệu</b> và sau đó <b>nút Nhập cơ sở dữ liệu</b>.]]></string>
+    <string name="locate_database_file_as_point_1"><![CDATA[<b>6.</b> Xác định tệp cơ sở dữ liệu trên thiết bị của bạn (như trong Bước 1) và chọn nó để nhập cơ sở dữ liệu. Bạn sẽ thấy thông báo 'Nhập thành công'.]]></string>
+    <string name="import_error_message"><![CDATA[<b>7.</b> Nếu bạn thấy lỗi khi nhập, hãy chắc chắn rằng bạn đã chọn đúng tệp cơ sở dữ liệu và đang ở đúng cơ sở dữ liệu đang hoạt động. Thử lại và nếu bạn gặp thêm vấn đề, xin đừng ngần ngại liên hệ với chúng tôi tại <b>kdsmart@diversityarrays.com</b>]]></string>
+    <string name="data_migration">Di chuyển dữ liệu</string>
+    <string name="title_image_info">Hình ảnh di chuyển</string>
+    <string name="migration_steps"><![CDATA[<b> Các bước di chuyển:</b>]]></string>
+    <string name="migration_link"><![CDATA[Một video về quá trình di chuyển có thể được tìm thấy ở đây: <a href=\'https://youtu.be/KGaRiKsqlWg\'>Video hướng dẫn di chuyển</a>]]></string>
+    <string name="msg_from">từ</string>
+    <string name="prompt_action_bulk_tag">Thêm hoặc xóa Nhãn</string>
+    <string name="ctx_title_help_field_mode_scoring">Đánh giá - Chế độ đánh giá hiện trường</string>
+    <string name="ctx_help_field_view_mode"><![CDATA[<p><strong>Chế độ đánh giá hiện trường</strong>&nbsp;sử dụng&nbsp;<strong>Chế độ xem đồng ruộng</strong>&nbsp;làm chế độ xem chính để đánh giá. Chế độ này cũng có nhiều tùy chọn Đánh giá hàng loạt hơn các chế độ đánh giá khác. Để điều hướng đến %1$s trong chế độ này, cũng có thể chọn một hoặc nhiều %1$s để đánh giá bằng&nbsp;<strong>Chế độ xem bảng tính</strong>.</p>
+<p><a name="Scoring"></a></p>
+<h5>Đánh giá</h5>
+<p>Việc đánh giá trong&nbsp;<strong>Chế độ đánh giá hiện trường</strong>&nbsp;có thể được thực hiện bằng cách Đánh giá hàng loạt %1$s/%2$s hoặc sử dụng&nbsp;<strong>Chế độ xem bảng tính</strong>&nbsp;để đánh giá bằng&nbsp;<strong>Màn hình đo Tính trạng</strong>. Với cả hai phương pháp, cần chọn %1$s.</p>
+<p>Thao tác&nbsp;<em>nhấn ngắn</em>&nbsp;sẽ mở&nbsp;<strong>%1$s Cửa sổ thông tin</strong>&nbsp;với thông tin về %1$s đó. Ngoài ra còn có Nút ++ để chọn (đánh dấu) %1$s đó. Chọn lại %1$s rồi chọn Nút — để bỏ chọn %1$s. Có thể chọn thêm %1$s bằng cùng phương pháp. Cách nhanh hơn để chọn %1$s là vào&nbsp;<strong>Chế độ chọn</strong>&nbsp;bằng cách&nbsp;<em>nhấn giữ</em>&nbsp;trên bất kỳ %1$s nào; mọi thao tác&nbsp;<em>nhấn ngắn</em>&nbsp;tiếp theo trên một %1$s sẽ thêm mục đó vào %1$s đã chọn. Chọn&nbsp;<strong>Nút Hủy</strong>&nbsp;để thoát&nbsp;<strong>Chế độ chọn</strong>.</p>
+<p>Sau khi chọn %1$s mong muốn, chọn&nbsp;<strong>Nút Bắt đầu đánh giá</strong>&nbsp;để mở&nbsp;<strong>Chế độ xem bảng tính</strong>&nbsp;chỉ với %1$s đã chọn. Có thêm thông tin trong trang trợ giúp của chế độ xem này.</p>
+<p>Nếu chỉ chọn một %1$s,&nbsp;<strong>Nút Đánh giá hàng loạt %2$s</strong>&nbsp;sẽ khả dụng. Nút này sẽ mở&nbsp;<strong>Màn hình Đánh giá hàng loạt %2$s</strong>&nbsp;, nơi có thêm thông tin về Đánh giá hàng loạt %2$s.</p>
+<p>Nếu chọn một hoặc nhiều %1$s,&nbsp;<strong>Nút Đánh giá hàng loạt %1$s</strong>&nbsp;sẽ khả dụng. Nút này cũng mở&nbsp;<strong>Màn hình Đánh giá hàng loạt %1$s</strong>&nbsp;, nơi có thêm thông tin về Đánh giá hàng loạt %1$s.</p>
+<p>Tương tự, có thể gắn Nhãn hàng loạt khi chọn %1$s/s bằng cách chọn&nbsp;<strong>Nút Nhãn hàng loạt</strong>&nbsp;; nút này sẽ mở&nbsp;<strong>Màn hình Nhãn hàng loạt</strong>. Có thêm trợ giúp trên màn hình đó.</p>
+<p><a name="%1$s%2$s"></a></p>
+<h5>%1$s/%2$s</h5>
+<p>Các mức thông tin khác nhau sẽ khả dụng tùy theo mức thu phóng. Khi thu phóng tối đa, có các thông tin sau:</p>
+<ul>
+<li>Mũi tên cho biết hướng của thứ tự thu thập;</li>
+<li>Thanh màu xám cho biết tỷ lệ Tính trạng hiện đã được đánh giá trong %1$s;</li>
+<li>%1$s số hoặc tọa độ x/y;</li>
+<li>%1$s loại;</li>
+<li>Các vòng tròn đen có số cho biết số Nhãn hiện được gán cho %1$s. Các Nhãn được liệt kê ở mức thu phóng cao hơn;</li>
+<li>Các vòng tròn trắng có số cho biết số %2$s được gán cho %1$s; và</li>
+<li>%1$s thuộc tính.</li>
+</ul>
+<p>Thao tác&nbsp;<em>nhấn ngắn</em>&nbsp;trên một %1$s cũng sẽ mở cửa sổ cung cấp thông tin %1$s. Các&nbsp;<strong>%1$s/%2$s Nút</strong>&nbsp;để thêm ghi chú, vô hiệu hóa %1$s/%2$s, thêm tệp đính kèm và gắn Nhãn có trong&nbsp;<strong>Chế độ xem bảng tính</strong>.</p>
+<p><a name="Menu"></a></p>
+<h5>Trình đơn</h5>
+<p>Các tùy chọn trình đơn sau đây có thể dùng để cấu hình đánh giá trong&nbsp;<strong>Chế độ đánh giá hiện trường</strong>&nbsp;khi chưa chọn (đánh dấu) %1$s:</p>
+<ul>
+<li><strong>Tìm kiếm</strong>&nbsp;- Mở&nbsp;<strong>Cửa sổ tìm kiếm</strong>;</li>
+<li><strong>Thu nhỏ</strong>&nbsp;- Thu nhỏ đồng ruộng;</li>
+<li><strong>Phóng to</strong>&nbsp;- Phóng to đồng ruộng;</li>
+<li><strong>Tìm điểm đánh giá gần đây</strong>&nbsp;- Các tùy chọn tìm %1$s đã được đánh giá gần đây;</li>
+<li><strong>Hiển thị Tính trạng khi đánh giá</strong>;</li>
+<li><strong>Cài đặt bản đồ nhiệt</strong>&nbsp;- Các tùy chọn cấu hình bản đồ nhiệt;</li>
+<li><strong>Cấu hình …</strong>&nbsp;- Hiển thị các tùy chọn cấu hình:
+<ul>
+<li>Kích thước văn bản bàn phím số - Các tùy chọn kích thước văn bản của bàn phím trong&nbsp;<strong>Màn hình đánh giá</strong>;</li>
+<li>Cấu hình thông tin %1$s - Kích thước văn bản thông tin %1$s và các tùy chọn hiển thị; và</li>
+<li>Cách xem tệp đính kèm - Chọn một ứng dụng để xem tệp đính kèm.</li>
+</ul>
+</li>
+<li><strong>Số ngày đã trôi qua</strong>&nbsp;- Thay đổi cách hiển thị số ngày đã trôi qua từ ngày thành số ngày kể từ ngày gieo trồng Thí nghiệm;</li>
+<li><strong>Thay đổi hướng màn hình</strong>&nbsp;- Chuyển KDSmart giữa&nbsp;<strong>Ngang</strong>&nbsp;và&nbsp;<strong>Dọc</strong>; và</li>
+<li><strong>Trợ giúp</strong>&nbsp;- Mở trang trợ giúp này.</li>
+</ul>
+<p>Khi chọn %1$s trong&nbsp;<strong>Chế độ đánh giá hiện trường</strong>, các tùy chọn trình đơn khác sẽ như sau:</p>
+<ul>
+<li><strong>Đánh giá hàng loạt %1$s</strong>&nbsp;- Mở&nbsp;<strong>Màn hình Đánh giá hàng loạt %1$s</strong>&nbsp;để Đánh giá hàng loạt các Tính trạng trên một hoặc nhiều %1$s;</li>
+<li><strong>Đánh giá hàng loạt %2$s</strong>&nbsp;- Mở&nbsp;<strong>Màn hình Đánh giá hàng loạt %2$s</strong>&nbsp;để Đánh giá hàng loạt các Tính trạng của mọi %2$s trong một %1$s (chỉ khả dụng khi chọn một %1$s;</li>
+<li><strong>Nhãn hàng loạt</strong>&nbsp;- Mở&nbsp;<strong>Màn hình gắn Nhãn hàng loạt</strong>&nbsp;để gắn Nhãn cho nhiều %1$s cùng lúc;</li>
+<li><strong>Hủy Chế độ chọn</strong>&nbsp;- Thoát&nbsp;<strong>Chế độ chọn</strong>&nbsp;để có thể%1$s&nbsp;<em>nhấn ngắn</em>&nbsp;mà không chọn %1$s.</li>
+<li><strong>Bắt đầu đánh giá</strong>&nbsp;- Mở %1$s đã chọn trong&nbsp;<strong>Chế độ xem bảng tính</strong>; và</li>
+<li><strong>Thay đổi hướng màn hình</strong>&nbsp;- Chuyển KDSmart giữa&nbsp;<strong>Ngang</strong>&nbsp;và&nbsp;<strong>Dọc</strong></li>
+</ul>]]></string>
+    <string name="ctx_help_delete_traits"><![CDATA[<p>Các Tính trạng được chọn để xóa sẽ được liệt kê, cùng với bất kỳ Tính trạng nào không thể xóa vì chúng đang được sử dụng trong một Thí nghiệm hiện tại.</p>
+<p>Chọn&nbsp;<strong>\u2713</strong>&nbsp;để xóa các Tính trạng được liệt kê không được sử dụng trong Thí nghiệm.</p>
+<p>Chọn&nbsp;<strong>\u2718</strong>&nbsp;để hủy việc xóa Tính trạng.</p>
+]]></string>
+    <string name="ctx_title_manage_trial">Quản lý Thí nghiệm</string>
+    <string name="ctx_title_scoring_setup">Cấu hình đánh giá</string>
+    <string name="ctx_title_trial_detail">Chi tiết Thí nghiệm</string>
+    <string name="ctx_title_csv_import">Nhập CSV</string>
+    <string name="hdg_edit_trait_description">Mô tả</string>
+    <string name="hdg_edit_trait_unit">Đơn vị</string>
+    <string name="hdg_edit_trait_datatype">Kiểu dữ liệu</string>
+    <string name="errmsg_trait_scored">Không thể thay đổi kiểu dữ liệu vì Tính trạng đã được đánh giá trước đó</string>
+    <string name="ctx_help_delete_tags"><![CDATA[<p>Các Nhãn được chọn để xóa sẽ được liệt kê, cùng với bất kỳ Nhãn nào không thể xóa vì chúng đang được sử dụng trong một Thí nghiệm hiện tại.</p>
+<p>Chọn&nbsp;<strong>\u2713</strong>&nbsp;để xóa các Nhãn được liệt kê không được sử dụng trong Thí nghiệm.</p>
+<p>Chọn&nbsp;<strong>\u2718</strong>&nbsp;để hủy việc xóa Nhãn.</p>
+]]></string>
+    <string name="ctx_help_delete_trials"><![CDATA[<p>Các Thí nghiệm được chọn để xóa sẽ được liệt kê.</p>
+<p>Chọn&nbsp;<strong>\u2713</strong>&nbsp;để xóa các Thí nghiệm được liệt kê.</p>
+<p>Chọn&nbsp;<strong>\u2718</strong>&nbsp;để hủy việc xóa Thí nghiệm.</p>]]></string>
+    <string name="ctx_help_add_tags_to_bundle"><![CDATA[<p>Màn hình&nbsp;<strong>Thêm nhóm Nhãn</strong>&nbsp;cho phép tạo Nhóm Nhãn mới hoặc thêm Nhãn vào Nhóm hiện có. Đảm bảo đã chọn tất cả Nhãn cần thêm hoặc nhóm, rồi chọn&nbsp;<strong>nút Tạo nhóm Nhãn</strong>.</p>
+<p>Màn hình&nbsp;<strong>Thêm nhóm Nhãn</strong>&nbsp;sẽ liệt kê tất cả Nhãn đã chọn và tất cả Nhóm đã tạo trước đó. Một trường văn bản cho tên Nhóm cũng sẽ để trống. Để tạo Nhóm Nhãn mới, nhập tên Nhóm vào trường trống rồi chọn&nbsp;<strong>nút Tạo</strong>.</p>
+<p>Để thêm các Nhãn đã chọn vào Nhóm hiện có, hãy nhập tên Nhóm đó vào trường văn bản hoặc chọn một Nhóm được liệt kê bằng&nbsp;<em>nhấn ngắn</em>&nbsp;rồi chọn&nbsp;<strong>nút Thêm</strong>.</p>]]></string>
+    <string name="ctx_help_add_traits_to_bundle"><![CDATA[<p>Màn hình&nbsp;<strong>Thêm Nhóm tính trạng</strong>&nbsp;cho phép tạo Nhóm tính trạng mới hoặc thêm Tính trạng vào Nhóm hiện có. Đảm bảo đã chọn tất cả Tính trạng cần thêm hoặc nhóm, rồi chọn&nbsp;<strong>nút Tạo Nhóm tính trạng</strong>.</p>
+<p>Màn hình&nbsp;<strong>Thêm Nhóm tính trạng</strong>&nbsp;sẽ liệt kê tất cả Nhãn đã chọn và tất cả Nhóm đã tạo trước đó. Một trường văn bản cho tên Nhóm cũng sẽ để trống. Để tạo Nhóm tính trạng mới, nhập tên Nhóm vào trường trống rồi chọn&nbsp;<strong>nút Tạo</strong>.</p>
+<p>Để thêm các Tính trạng đã chọn vào Nhóm hiện có, hãy nhập tên Nhóm đó vào trường văn bản hoặc chọn một Nhóm được liệt kê bằng&nbsp;<em>nhấn ngắn</em>&nbsp;rồi chọn&nbsp;<strong>nút Thêm</strong>.</p>]]></string>
+    <string name="ctx_help_remove_traits_from_bundle"><![CDATA[<p>Các Tính trạng được chọn để xóa khỏi Nhóm tính trạng được liệt kê trên màn hình này và cần xác nhận việc xóa.</p>
+<p>Chọn&nbsp;<strong>\u2713</strong>&nbsp;để xác nhận xóa Tính trạng khỏi Nhóm.</p>
+<p>Chọn&nbsp;<strong>\u2718</strong>&nbsp;để hủy xóa Tính trạng khỏi Nhóm.</p>
+<p>Lưu ý rằng việc xóa Tính trạng khỏi Nhóm không xóa Tính trạng khỏi thiết bị.</p>]]></string>
+    <string name="ctx_help_remove_tags_from_bundle"><![CDATA[<p>Các Nhãn được chọn để xóa khỏi Nhóm Nhãn được liệt kê trên màn hình này và cần xác nhận việc xóa.</p>
+<p>Chọn&nbsp;<strong>\u2713</strong>&nbsp;để xác nhận xóa Nhãn khỏi Nhóm.</p>
+<p>Chọn&nbsp;<strong>\u2718</strong>&nbsp;để hủy xóa Nhãn khỏi Nhóm.</p>
+<p>Lưu ý rằng việc xóa Nhãn khỏi Nhóm không xóa Nhãn khỏi thiết bị.</p>]]></string>
+    <string name="ctx_help_delete_tag_bundle"><![CDATA[<p>Mọi Nhóm Nhãn đã được chọn để xóa sẽ xuất hiện trong&nbsp;<strong>Màn hình Xóa Nhóm Nhãn</strong>này. Mỗi Nhóm sẽ được liệt kê bên dưới, cùng với từng Nhãn thuộc Nhóm đó.</p>
+<p>Chọn&nbsp;<strong>\u2713</strong>&nbsp;để xác nhận xóa Nhóm Nhãn.</p>
+<p>Chọn&nbsp;<strong>\u2718</strong>&nbsp;để hủy xóa Nhóm Nhãn.</p>
+<p>Lưu ý rằng việc xóa Nhóm Nhãn không xóa các Nhãn chứa trong đó.</p>]]></string>
+    <string name="ctx_help_delete_trait_bundle"><![CDATA[<p>Mọi Nhóm tính trạng đã được chọn để xóa sẽ xuất hiện trong&nbsp;<strong>Màn hình Xóa Nhóm tính trạng</strong>này. Mỗi Nhóm sẽ được liệt kê bên dưới, cùng với từng Tính trạng thuộc Nhóm đó.</p>
+<p>Chọn&nbsp;<strong>\u2713</strong>&nbsp;để xác nhận xóa Nhóm tính trạng.</p>
+<p>Chọn&nbsp;<strong>\u2718</strong>&nbsp;để hủy xóa Nhóm tính trạng.</p>
+<p>Lưu ý rằng việc xóa Nhóm tính trạng không xóa các Tính trạng chứa trong đó.</p>]]></string>
+    <string name="ctx_help_manage_trial" formatted="false"><![CDATA[<p>Màn hình&nbsp;<strong>Thí nghiệm</strong>&nbsp;hiển thị tất cả Thí nghiệm hiện đang được tải vào KDSmart.</p>
+<p>Cảnh báo:&nbsp;<strong>Chế độ Trình diễn</strong>&nbsp;không nên&nbsp;<strong>KHÔNG</strong>&nbsp;được sử dụng cho các Thí nghiệm thực tế của bạn. Chế độ này&nbsp;<strong>CHỈ</strong>&nbsp;dành cho mục đích trình diễn và đào tạo.
+ Mọi dữ liệu trong&nbsp;<strong>Chế độ Trình diễn</strong>&nbsp;có thể bị mất khi nâng cấp phiên bản hoặc khi chọn tùy chọn&nbsp;<em>Đặt lại dữ liệu trình diễn</em>&nbsp;trong&nbsp;<strong>Cài đặt</strong>&nbsp;, tùy chọn này khôi phục dữ liệu trình diễn.&nbsp;<strong>Chế độ Trình diễn</strong>&nbsp;được chỉ báo bằng&nbsp;<strong>DEMO DB</strong>xuất hiện trên&nbsp;<strong>Màn hình chính</strong>.</p>
+<p>Để hiển thị chi tiết Thí nghiệm, chọn Thí nghiệm bằng&nbsp;<em>nhấn ngắn</em>. Thao tác này sẽ đưa bạn đến&nbsp;<strong>Màn hình Chi tiết Thí nghiệm</strong>.</p>
+<p>Nếu một Thí nghiệm được tô sáng, bạn có thể thực hiện các thao tác sau trên Thí nghiệm đó cùng với các thao tác chung trong&nbsp;<strong>Trình đơn</strong>:</p>
+<ul>
+<li><strong>Bắt đầu đánh giá</strong>&nbsp;- Mở Màn hình&nbsp;<strong>Cấu hình đánh giá</strong>&nbsp;cho bất kỳ Thí nghiệm được tô sáng nào;</li>
+<li><strong>Nhập Thí nghiệm</strong>&nbsp;- Các tùy chọn nhập Thí nghiệm từ thiết bị hoặc từ KDXplore bằng KDXchange;</li>
+<li><strong>Chia sẻ</strong>&nbsp;- Các tùy chọn chia sẻ Thí nghiệm được tô sáng bằng Khung truy cập bộ nhớ của Android, bao gồm email, Bluetooth hoặc bất kỳ dịch vụ chia sẻ tệp nào được cài đặt trên thiết bị;</li>
+<li><strong>Xuất đến</strong>&nbsp;- Các tùy chọn xuất Thí nghiệm được tô sáng để xuất tệp vào thiết bị;</li>
+<li><strong>Sao chép Thí nghiệm</strong>&nbsp;- Tạo bản sao của bất kỳ Thí nghiệm được tô sáng nào có cùng dữ liệu và Tính trạng;</li>
+<li><strong>Xóa</strong>&nbsp;- Xóa mọi Thí nghiệm được tô sáng;</li>
+<li><strong>Sắp xếp …</strong>&nbsp;- Các tùy chọn sắp xếp Thí nghiệm;</li>
+<li><strong>Nhóm</strong>&nbsp;- Các tùy chọn nhóm Thí nghiệm;</li>
+<li><strong>Dữ liệu trình diễn ngẫu nhiên</strong>&nbsp;- Công cụ áp dụng dữ liệu trình diễn ngẫu nhiên cho Thí nghiệm, bao gồm tệp đính kèm (chỉ trong&nbsp;<strong>Chế độ Trình diễn</strong>);
+<ul>
+<li><strong>Đánh giá mẫu</strong>&nbsp;- Tạo dữ liệu mẫu với xác suất một mẫu được đánh giá từ 10%-100%;</li>
+<li><strong>Thêm tệp đính kèm</strong>&nbsp;- Tạo tệp đính kèm và Nhãn;</li>
+<li><strong>Xóa toàn bộ dữ liệu</strong>&nbsp;- Xóa toàn bộ dữ liệu mẫu cho Thí nghiệm trình diễn đã chọn;</li>
+</ul>
+</li>
+<li><strong>Thêm Thí nghiệm</strong>&nbsp;- Các tùy chọn tạo Thí nghiệm mới; và</li>
+<li><strong>Trợ giúp</strong>&nbsp;- Mở trang trợ giúp này.</li>
+</ul>
+<p>Dùng&nbsp;<em>nhấn giữ</em>&nbsp;trên một hoặc nhiều Thí nghiệm để chọn chúng cho các thao tác tiếp theo. Lưu ý rằng có thể chọn nhiều Thí nghiệm cùng lúc. Các thao tác bổ sung có thể hiển thị khi chọn là:</p>
+<ul>
+<li><strong>Chọn/Bỏ chọn tất cả</strong>&nbsp;- Chọn hoặc bỏ chọn tất cả Thí nghiệm;</li>
+<li><strong>Chia sẻ</strong>&nbsp;- Các tùy chọn chia sẻ Thí nghiệm được tô sáng bằng Khung truy cập bộ nhớ của Android, bao gồm email, Bluetooth hoặc bất kỳ dịch vụ chia sẻ tệp nào được cài đặt trên thiết bị;</li>
+<li><strong>Xuất đến</strong>&nbsp;- Các tùy chọn xuất Tính trạng được tô sáng để xuất tệp vào thiết bị;</li>
+<li><strong>Thêm %2$s</strong>&nbsp;- Thêm %2$s vào mỗi %1$s trong bất kỳ Thí nghiệm nào. Lưu ý rằng thao tác này chọn số lượng %2$s mà mỗi %1$s sẽ có và không thêm số lượng đã chọn vào %1$s hiện có. Ví dụ, nếu mỗi %1$s trong một Thí nghiệm đã có một %2$s nhưng bạn muốn thêm một, hãy chọn \'2\' thay vì \'1\';</li>
+<li><strong>Thêm Nhóm tính trạng</strong>&nbsp;- Thêm Nhóm tính trạng vào Thí nghiệm; và</li>
+<li><strong>Thêm Nhóm</strong>&nbsp;- Tạo Nhóm Thí nghiệm mới với từ 2 Thí nghiệm được chọn trở lên.</li>
+</ul>]]></string>
+    <string name="ctx_help_scoring_setup"><![CDATA[<p>Tab&nbsp;<strong>Tùy chọn</strong>&nbsp;của&nbsp;<strong>Màn hình Cấu hình đánh giá</strong>&nbsp;cung cấp các tùy chọn chung để đánh giá Thí nghiệm đã chọn. Các tùy chọn này sẽ được lưu cho lần tiếp theo nếu Thí nghiệm được mở bằng khởi động nhanh từ&nbsp;<strong>Màn hình chính</strong>.</p>
+<p><a name="Collection-Order"></a></p>
+<h5>Thứ tự thu thập</h5>
+<p>&nbsp;<em>Thứ tự thu thập</em>&nbsp;là thứ tự bạn sẽ di chuyển từ  này sang %1$s tiếp theo và được chọn bằng một trong 16 nút chọn cung cấp các tùy chọn. Điều này chỉ phù hợp trong&nbsp;<strong>Chế độ đánh giá theo lộ trình</strong>. Có ba yếu tố cần xem xét đối với thứ tự thu thập:</p>
+<p>1. Điểm bắt đầu - Góc của ruộng để bắt đầu đánh giá. Điều này được xác định bởi góc được chọn, ví dụ: góc dưới bên trái;<br />2. Hướng - Hướng đi từ điểm bắt đầu, ví dụ: từ trái sang phải từ điểm bắt đầu ở góc dưới bên trái; và<br />3. Lộ trình - Chọn lộ trình zíc zắc hoặc thẳng.</p>
+<p>Tùy chọn thứ tự thu thập mặc định là zíc zắc, từ trái sang phải bắt đầu ở góc dưới bên trái. Có thể thay đổi mặc định trong&nbsp;<strong>Cài đặt</strong>.</p>
+<p><a name="Scoring-View"></a></p>
+<h5>Chế độ xem đánh giá</h5>
+<p>Các chế độ xem đánh giá thay đổi cách bạn đánh giá dữ liệu.</p>
+<ul>
+<li><strong>Chế độ đánh giá bảng tính</strong>&nbsp;là chế độ xem bảng tính truyền thống với các tính năng bổ sung;</li>
+<li><strong>Chế độ đánh giá theo lộ trình</strong>&nbsp;là lựa chọn tốt nhất cho hầu hết người dùng và cho phép điều hướng dễ dàng giữa các %1$s; và</li>
+<li><strong>Chế độ đánh giá hiện trường</strong>&nbsp;biểu thị ruộng theo góc nhìn từ trên xuống.</li>
+</ul>
+<p>Chế độ đánh giá mặc định cũng có thể được đặt trong&nbsp;<strong>Cài đặt</strong></p>
+<p><strong>Chế độ xem đồng ruộng</strong>&nbsp;cũng có trong&nbsp;<strong>Chế độ đánh giá bảng tính</strong>&nbsp;và&nbsp;<strong>Chế độ đánh giá theo lộ trình</strong>&nbsp;nhưng không phải là phương pháp điều hướng và đánh giá chính.&nbsp;<strong>Chế độ đánh giá hiện trường</strong>&nbsp;cũng có bảng tính như trong&nbsp;<strong>Chế độ đánh giá bảng tính</strong>.</p>
+<p><a name="%1$s-Per-Group"></a></p>
+<h5>%1$s Mỗi nhóm</h5>
+<p>Số lượng %1$s cần đánh giá cùng lúc, ví dụ: đánh giá từng %1$s bên trái và bên phải khi đi dọc ruộng sẽ là hai %1$s.</p>
+<p><a name="Lock-Scored-Traits"></a></p>
+<h5>Khóa Tính trạng đã đánh giá</h5>
+<p>Chọn&nbsp;<strong>hộp kiểm Khóa Tính trạng đã đánh giá</strong>&nbsp;để tránh vô tình ghi đè các Tính trạng đã được đánh giá. Vẫn có thể thay đổi phép đo nhưng sẽ có thông báo cảnh báo.</p>
+<p><a name="High-Outside-Visibility"></a></p>
+<h5>Khả năng hiển thị cao ngoài trời</h5>
+<p>Tùy chọn này xác định việc đánh giá được thực hiện ở chế độ tối hay sáng. Chọn hộp kiểm để đảm bảo đánh giá ở chế độ hiển thị cao (sáng), hoặc bỏ chọn để đánh giá ở chế độ tối.</p>]]></string>
+    <string name="ctx_title_manage_traits">Quản lý Tính trạng</string>
+    <string name="ctx_help_manage_traits"><![CDATA[<p>Màn hình&nbsp;<strong>Thí nghiệm</strong>&nbsp;hiển thị tất cả Thí nghiệm hiện đang được tải vào KDSmart.</p>
+<p>Để hiển thị chi tiết của một Tính trạng, chọn Tính trạng bằng nhấn ngắn. Thao tác này sẽ đưa bạn đến&nbsp;<strong>Màn hình Chi tiết Tính trạng</strong>.</p>
+<p>Nếu một Tính trạng được tô sáng, bạn có thể thực hiện các thao tác sau trên Tính trạng đó cùng với các thao tác chung trong&nbsp;<strong>Trình đơn</strong>:</p>
+<ul>
+<li><strong>Sửa Tính trạng</strong>&nbsp;- Mở&nbsp;<strong>Màn hình Sửa Tính trạng</strong>&nbsp;cho bất kỳ Tính trạng được tô sáng nào;</li>
+<li><strong>Thêm Tính trạng</strong>&nbsp;- Mở&nbsp;<strong>Màn hình Thêm Tính trạng</strong>&nbsp;để tạo Tính trạng mới;</li>
+<li><strong>Nhập từ</strong>&nbsp;- Các tùy chọn nhập Tính trạng từ thiết bị hoặc từ KDXplore bằng KDXchange;</li>
+<li><strong>Chia sẻ</strong>&nbsp;- Các tùy chọn chia sẻ Tính trạng được tô sáng bằng Khung truy cập bộ nhớ của Android, bao gồm email, Bluetooth hoặc bất kỳ dịch vụ chia sẻ tệp nào được cài đặt trên thiết bị;</li>
+<li><strong>Xuất đến</strong>&nbsp;- Các tùy chọn xuất Tính trạng được tô sáng để xuất tệp vào thiết bị;</li>
+<li><strong>Xóa</strong>&nbsp;- Các tùy chọn xóa Tính trạng được tô sáng hoặc xóa khỏi Nhóm tính trạng;</li>
+<li><strong>Chữ nghiêng cho mục được bảo vệ</strong>&nbsp;- Chọn hộp kiểm để bảo đảm văn bản của các Tính trạng được bảo vệ hiển thị chữ nghiêng;</li>
+<li><strong>Cỡ chữ bàn phím số</strong>&nbsp;- Các tùy chọn cỡ chữ của bàn phím trong&nbsp;<strong>Màn hình đánh giá</strong>;</li>
+<li><strong>Bật máy quét</strong>&nbsp;- Mở&nbsp;<strong>Cửa sổ Thiết bị đã ghép nối</strong>;</li>
+<li><strong>Làm mới danh sách</strong>&nbsp;- Làm mới danh sách Tính trạng;</li>
+<li><strong>Bật/Tắt Bluetooth</strong>&nbsp;- Bật hoặc tắt Bluetooth của thiết bị;</li>
+<li><strong>Sắp xếp …</strong>&nbsp;- Các tùy chọn sắp xếp Tính trạng; và</li>
+<li><strong>Trợ giúp</strong>&nbsp;- Mở trang trợ giúp này.</li>
+</ul>
+<p>Dùng nhấn giữ trên một hoặc nhiều Tính trạng để chọn chúng cho các thao tác tiếp theo. Lưu ý rằng có thể chọn nhiều Tính trạng cùng lúc. Các thao tác bổ sung có thể hiển thị khi chọn là:</p>
+<ul>
+<li><strong>Chọn/Bỏ chọn tất cả</strong>&nbsp;- Chọn hoặc bỏ chọn tất cả Tính trạng;</li>
+<li><strong>Chia sẻ</strong>&nbsp;- Các tùy chọn chia sẻ Tính trạng được tô sáng bằng Khung truy cập bộ nhớ của Android, bao gồm email, Bluetooth hoặc bất kỳ dịch vụ chia sẻ tệp nào được cài đặt trên thiết bị;</li>
+<li><strong>Xuất đến</strong>&nbsp;- Các tùy chọn xuất Tính trạng được tô sáng để xuất tệp vào thiết bị;</li>
+<li><strong>Tạo Nhóm tính trạng</strong>&nbsp;- Mở&nbsp;<strong>Màn hình Thêm Nhóm tính trạng</strong>&nbsp;để bạn có thể tạo Nhóm tính trạng mới và thêm các Tính trạng đã chọn vào Nhóm hiện có; và</li>
+<li><strong>Xóa</strong>&nbsp;- Các tùy chọn xóa Tính trạng được tô sáng hoặc xóa khỏi Nhóm tính trạng.</li>
+</ul>]]></string>
+    <string name="ctx_help_scoring_aa"><![CDATA[<p><strong>Tự động chuyển ô</strong>&nbsp;cho phép đo Tính trạng nhanh chóng và hiệu quả trong&nbsp;<strong>Chế độ đánh giá theo lộ trình</strong>. Chức năng này tự động chuyển sang Tính trạng tiếp theo sau khi một Tính trạng được đánh giá.</p>
+<p>Để bật&nbsp;<strong>Tự động chuyển ô</strong>, chọn&nbsp;<strong>Nút Tự động chuyển ô</strong>. Thao tác này sẽ hiển thị cửa sổ với các tùy chọn sau:</p>
+<ul>
+<li><strong>Tự động chuyển ô đang tắt</strong>&nbsp;- Tùy chọn này sẽ tắt&nbsp;<strong>Tự động chuyển ô</strong>.</li>
+<li><strong>Tất cả Tính trạng</strong>&nbsp;-&nbsp;<strong>Tự động chuyển ô</strong>&nbsp;sẽ chuyển đến mọi Tính trạng, kể cả khi đã được đánh giá.</li>
+<li><strong>Tính trạng chưa đánh giá</strong>&nbsp;-&nbsp;<strong>Tự động chuyển ô</strong>&nbsp;chỉ chuyển đến các Tính trạng chưa được đánh giá.</li>
+</ul>
+<p>Khi&nbsp;<strong>Tự động chuyển ô</strong>&nbsp;được bật, hãy chọn bất kỳ Tính trạng cấp %1$s hoặc %2$s nào để bắt đầu đánh giá. Thao tác này sẽ mở&nbsp;<strong>Màn hình đo Tính trạng</strong>&nbsp;, nơi có thể đặt giá trị Tính trạng. Khi đặt một giá trị, màn hình sẽ chuyển sang Tính trạng tiếp theo để đánh giá.
+Tính trạng tiếp theo sẽ phụ thuộc vào cả thứ tự thu thập và thứ tự Tính trạng, có thể được xác định trong&nbsp;<strong>Thẻ Tùy chọn</strong>và&nbsp;<strong>Thẻ Tính trạng/Lần đánh giá</strong>&nbsp;của&nbsp;<strong>Màn hình cấu hình đánh giá</strong>.
+ &nbsp;<strong>Màn hình đo Tính trạng</strong>&nbsp;cũng cung cấp thêm&nbsp;<strong>Nút Lùi/Tiến</strong>&nbsp;để chuyển đến Tính trạng trước đó hoặc bỏ qua Tính trạng hiện tại và chuyển sang Tính trạng tiếp theo.</p>
+<p>Sẽ có hiệu ứng chuyển tiếp khi chuyển sang Tính trạng khác. Hiệu ứng này tự động được đặt là xoay, nhưng có thể xóa hoặc thay đổi trong&nbsp;<strong>Màn hình Cài đặt</strong>&nbsp;ở tùy chọn&nbsp;<strong>Chuyển tiếp Tính trạng tiếp theo</strong>&nbsp;.</p>
+<p>Quay lại&nbsp;<strong>Màn hình đánh giá</strong>&nbsp;và chọn&nbsp;<strong>Nút Tự động chuyển ô</strong>&nbsp;, sau đó chọn tùy chọn&nbsp;<strong>Tự động chuyển ô đang tắt</strong>&nbsp;để tắt&nbsp;<strong>Tự động chuyển ô</strong>.</p>]]></string>
+    <string name="ctx_help_csv_import"><![CDATA[<b>Cảnh báo:</b> Nếu dữ liệu được nhập dành cho các Thí nghiệm thực tế của bạn, hãy đảm bảo KDSmart KHÔNG ở Chế độ Trình diễn. Chế độ Trình diễn chỉ dành cho Đào tạo và Trình diễn; việc mất dữ liệu có thể xảy ra trong chế độ này.<br/><br/>
+
+Sau khi chọn tệp để nhập, mỗi <i>cột</i> trong CSV phải được gán một <i>loại thuộc tính</i>.
+Điều này xác định cách diễn giải dữ liệu trong cột. Bạn có thể
+chọn <b>KHÔNG</b> nhập một cột cũng như chọn dữ liệu
+liên quan đến <i>Thí nghiệm</i>, một <i>%1$s</i> hoặc một <i>Tên Tính trạng&#x00A0;Name</i> mà
+bạn sẽ đánh giá. Nếu tệp chứa các giá trị Tính trạng, chúng sẽ được tải
+vào <i>KDSmart</i>.
+
+<p>
+<i>KDSmart</i> sẽ đưa ra phỏng đoán có cơ sở về từng cột, nhưng bạn có thể
+ghi đè phỏng đoán này bằng danh sách thả xuống bên cạnh mỗi <b>Tiêu đề CSV</b> để
+chỉ định cách diễn giải dữ liệu trong cột. Các giá trị từ hàng “dữ liệu” đầu tiên
+được hiển thị để hỗ trợ bạn.
+
+<p>
+Nếu không thể đưa ra phỏng đoán khác, <i>KDSmart</i> sẽ giả định rằng cột CSV
+biểu thị một <i>Tên Tính trạng&#x00A0;Name</i>. Nếu bạn muốn ghi lại cùng một <i>Tính trạng</i>
+trong các lần đến địa điểm <i>Thí nghiệm</i> liên tiếp, bạn có thể sử dụng chức năng <i>Lần đánh giá Tính trạng&#x00A0;Instance</i>
+trong <i>KDSmart</i> để thực hiện việc này; (đây không giống với giá trị <i>ngày/giờ
+đánh giá</i> mà <i>KDSmart</i> ghi lại cho mỗi lần đo).
+
+<p>
+<i>Lần đánh giá Tính trạng&#x00A0;Instance</i> cung cấp sự tách biệt theo “thời gian” này để bạn không cần
+xác định các <i>Tính trạng</i> riêng biệt cho từng hoạt động đánh giá. <i>KDSmart</i> cung cấp
+ba lựa chọn để diễn giải phần đuôi của một
+<i>Tên Tính trạng&#x00A0;Name</i>:<br/>
+<br/>&#x25C9;&#x00A0;không có lần đánh giá Tính trạng (không diễn giải đặc biệt)
+<br/>&#x25C9;&#x00A0;dấu hai chấm (:) theo sau bởi số lần đánh giá
+<br/>&#x25C9;&#x00A0;hai dấu gạch dưới theo sau bởi số lần đánh giá
+
+<p>
+<i>Tính trạng</i> được xác định có <i>Cấp Tính trạng&#x00A0;Level</i>. Điều này cho <i>KDSmart</i> biết
+liệu <i>Tính trạng</i> dùng để ghi lại các phép đo cho <i>%1$s</i> hay cho
+<i>%2$s</i> trong <i>%1$s</i> (tức là dữ liệu “%2$s”).
+
+<p>
+Nếu <i>Tính trạng</i> chưa được xác định trước đó, bạn có thể chọn tạo
+<i>Tính trạng</i> dưới dạng <i>Tính trạng&#x00A0;for&#x00A0;%2$s</i>. Tuy nhiên, nếu
+<i>Tính trạng</i> <b>đã</b> được xác định, <i>KDSmart</i> sẽ tự động
+sử dụng định nghĩa hiện tại.
+
+<p>
+Các tên được đánh dấu bằng một hoặc hai dấu hoa thị (*) phải được cung cấp trước khi có thể nhập.
+Bạn <b>PHẢI</b> cung cấp ít nhất một trong các mục sau:
+<br/>&#x25C9;&#x00A0;<i>%1$s Id</i>
+<br/>HOẶC
+<br/>&#x25C9;&#x00A0;<i>%1$s %4$s</i> và <i>%1$s %3$s</i>
+
+<p>
+Nếu bạn chỉ cung cấp <i>%1$s&#x00A0;Id</i>, sau đó bạn nên chỉnh sửa
+<i>Bố cục Thí nghiệm&#x00A0;Layout</i> để đặt <i>Gốc&#x00A0;%1$s&#x00A0;Id</i>
+(giá trị này phải nhỏ hơn hoặc bằng <i>%1$s&#x00A0;Id</i> có giá trị thấp nhất)
+và <i>Độ dài dãy&#x00A0;Length</i>. Điều này cho phép <i>KDSmart</i> hiển thị
+bố cục vật lý của <i>Thí nghiệm</i> trong <i>Chế độ xem đồng ruộng&#x00A0;View</i>.
+
+<p>
+Dữ liệu Đo mẫu trong các tệp CSV sẽ được nhập và gán <i>ngày/giờ đánh giá</i>
+là thời điểm nhập CSV.
+<p>
+Vui lòng đọc <b>Phụ lục B</b> của <i>Hướng dẫn người dùng KDSmart</i> để
+biết thêm chi tiết.
+]]></string>
+    <string name="ctx_help_field_view"><![CDATA[<p><strong>Chế độ xem đồng ruộng</strong>&nbsp;là chế độ xem từ trên xuống của đồng ruộng, cung cấp cách thay thế để điều hướng giữa %1$s, tìm kiếm %1$s và tạo bản đồ nhiệt. Chế độ này cung cấp thông tin khác nhau tùy theo mức hiển thị (mức phóng to/thu nhỏ). Trong khi&nbsp;<strong>Chế độ đánh giá hiện trường</strong>&nbsp;sử dụng một&nbsp;<strong>Chế độ xem đồng ruộng làm phương pháp đánh giá chính, *Chế độ xem đồng ruộng này</strong>&nbsp;có sẵn trong&nbsp;<strong>Chế độ đánh giá theo lộ trình</strong>&nbsp;và&nbsp;<strong>Chế độ đánh giá bảng tính</strong>&nbsp;như một phương pháp đánh giá phụ.</p>
+<p><a name="%1$s%2$s"></a></p>
+<h5>%1$s/%2$s</h5>
+<p>Các mức thông tin khác nhau sẽ có sẵn tùy theo mức thu phóng được áp dụng. Thông tin sau đây có sẵn khi phóng to tối đa:</p>
+<ul>
+<li>Mũi tên cho biết hướng của thứ tự thu thập;</li>
+<li>Thanh màu xám cho biết tỷ lệ phần trăm Tính trạng hiện đã được đánh giá trong %1$s;</li>
+<li>%1$s số hoặc tọa độ x/y;</li>
+<li>%1$s loại;</li>
+<li>Các vòng tròn đen có số cho biết số Nhãn hiện được gán cho %1$s. Các Nhãn được liệt kê ở mức thu phóng cao hơn;</li>
+<li>Các vòng tròn trắng có số cho biết số %2$s được gán cho %1$s; và</li>
+<li>%1$s thuộc tính.</li>
+</ul>
+<p>Một thao tác&nbsp;<em>nhấn ngắn</em>&nbsp;vào %1$s cũng sẽ mở một cửa sổ cung cấp thông tin %1$s. Chọn&nbsp;<strong>Nút ++</strong>&nbsp;để thêm %1$s vào %1$s đã chọn (mục này sẽ được tô sáng) và&nbsp;<strong>Nút —</strong>&nbsp;để xóa khỏi lựa chọn. &nbsp;<strong>Nút Đi tới</strong>&nbsp;sẽ mở&nbsp;<strong>Màn hình đo Tính trạng</strong>&nbsp;cho %1$s.</p>
+<p><a name="Menu"></a></p>
+<h5>Trình đơn</h5>
+<p>Các tùy chọn trình đơn sau có sẵn để cấu hình đánh giá trong&nbsp;<strong>Chế độ xem đồng ruộng</strong>:</p>
+<ul>
+<li><strong>Tìm kiếm</strong>&nbsp;- Mở&nbsp;<strong>Cửa sổ tìm kiếm</strong>;</li>
+<li><strong>Thu nhỏ</strong>&nbsp;- Thu nhỏ đồng ruộng;</li>
+<li><strong>Phóng to</strong>&nbsp;- Phóng to đồng ruộng;</li>
+<li><strong>Hủy chế độ chọn</strong>&nbsp;- Thoát&nbsp;<strong>Chế độ chọn</strong>&nbsp;để %1$s có thể được&nbsp;<em>nhấn ngắn</em>&nbsp;mà không chọn %1$s (chỉ khả dụng trong&nbsp;<strong>Chế độ chọn</strong>;</li>
+<li><strong>Tìm điểm số gần đây</strong>&nbsp;- Tùy chọn để tìm %1$s vừa được đánh giá;</li>
+<li><strong>Hiển thị Tính trạng khi đánh giá</strong>;</li>
+<li><strong>Cài đặt bản đồ nhiệt</strong>&nbsp;- Tùy chọn cấu hình bản đồ nhiệt;</li>
+<li><strong>Cấu hình …</strong>&nbsp;- Hiển thị các tùy chọn cấu hình:</li>
+<li><strong>Số ngày đã trôi qua</strong>&nbsp;- Thay đổi hiển thị số ngày đã trôi qua từ ngày thành số ngày kể từ ngày trồng Thí nghiệm; và</li>
+<li><strong>Trợ giúp</strong>&nbsp;- Mở trang trợ giúp này.</li>
+</ul>]]></string>
+    <string name="ctx_help_kdxchange"><![CDATA[<p>KDXchange là công cụ truyền dữ liệu có thể dùng để chuyển Thí nghiệm, Tính trạng và Nhãn giữa KDSmart và KDXplore. Trước khi bắt đầu kết nối, cả thiết bị KDXplore và thiết bị KDSmart phải ở cùng một mạng Wi-Fi.</p>
+<p>Trước tiên, hãy đảm bảo kết nối đã được khởi tạo trên thiết bị KDXplore (thông tin thêm có tại:&nbsp;<a class="external" href="http://www.kddart.org/help/kdsmart/html/exchangedata.html#data-exchange-kdxchange-method">http://www.kddart.org/help/kdsmart/html/exchangedata.html#data-exchange-kdxchange-method</a>).</p>
+<p>Tiếp theo, cần thêm địa chỉ IP của máy chủ KDXhange từ thiết bị KDXplore vào KDSmart. Các máy chủ KDXchange đã được phát hiện trước đó sẽ hiển thị trong danh sách. Nếu chưa phát hiện máy chủ nào, KDSmart sẽ tự động bắt đầu tìm kiếm.</p>
+<p>Địa chỉ và số cổng của máy chủ KDXchange có thể được thêm thủ công bằng&nbsp;<strong>Nút Thêm</strong>.</p>
+<p>Khi máy chủ KDXchange khả dụng, hãy chọn máy chủ đó để chấp nhận kết nối từ KDXplore. Sau đó, kết nối cũng cần được chấp nhận trên thiết bị KDXplore. Lúc này, bạn có thể dùng giao diện trên KDXplore để xem và truyền dữ liệu giữa các thiết bị.</p>
+<p>Nếu&nbsp;<strong>Hộp kiểm Giữ địa chỉ máy chủ</strong>&nbsp;được chọn, KDSmart sẽ ghi nhớ tất cả địa chỉ máy chủ KDXchange được sử dụng để kết nối với KDXplore.</p>
+<p>Để xóa một hoặc nhiều địa chỉ máy chủ, hãy nhấn giữ tên máy chủ để chọn một hoặc nhiều máy chủ, sau đó chọn&nbsp;<strong>Nút Xóa</strong>.</p>]]></string>
+    <string name="ctx_title_export_trial">Xuất Thí nghiệm</string>
+    <string name="ctx_help_export_trial"><![CDATA[Use the <b>Xuất đến</b> nút để chọn một
+thư mục nhận đầu ra. Tên tệp được tự động tạo từ
+<i>Tên Thí nghiệm</i>.
+<p>
+Hai <i>Tùy chọn xuất</i> đầu tiên bỏ qua <i>Đo mẫu</i>, là
+điểm <i>Lần đánh giá Tính trạng</i> và bao gồm ngày/giờ ghi nhận giá trị.
+Các tùy chọn là:
+<br/>&#x25C9;&#x00A0;<b>%1$s Chỉ</b> để bỏ qua phép đo cho <i>%2$s</i>
+<br/>&#x25C9;&#x00A0;<b>%1$s & %2$s</b> để bao gồm phép đo cho <i>%2$s</i>
+<br/>&#x25C9;&#x00A0;<b>ZIP đầy đủ</b> để xuất tất cả phép đo cũng như mọi <i>Tệp đính kèm</i>.
+<p>
+
+Chọn tùy chọn <b>Bao gồm ID cơ sở dữ liệu nguồn</b> nếu bạn đã nhập mã định danh cơ sở dữ liệu
+cho <i>Thí nghiệm</i> và muốn đưa các mã này vào tệp xuất.
+<p>
+Ngày/giờ của mỗi phép đo mẫu được hiển thị theo định dạng ISO-8601 với chỉ báo múi giờ
+ở cuối là <b>Z</b> hoặc số giờ chênh lệch so với UTC.
+<p>
+<b>Lưu ý:</b> Mặc dù định dạng ngày ISO-8601 bao gồm múi giờ, <i>Microsoft Excel</i> không
+tự động diễn giải các giá trị. Macro và công thức để chuyển đổi sang ngày Excel có tại<br/>
+<a href="http://software.kddart.com/KDXplore/excel-support.html">http://software.kddart.com/KDXplore/excel-support.html</a>
+và công thức chuyển đổi là:
+<pre>
+=DATEVALUE(LEFT(A1,10))<br/>
++ TIMEVALUE(MID(A1,12,8))<br/>
++ IF(&quot;Z&quot;=MID(A1,20,LEN(A1)-19),<br/>
+&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;0,<br/>
+&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;(INT(MID(A1,20,LEN(A1)-19)/100)*60<br/>
+&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;+&#x00A0;MOD(MID(A1,20,LEN(A1)-19),100))/1440)
+</pre>
+<p> trong đó chuỗi ngày/giờ ISO-8601 nằm trong ô A1.
+]]></string>
+    <string name="ctx_title_trial_dialog_help_plot_identification">%1$s Nhận dạng</string>
+    <string name="msg_action_heatmap_help">Trợ giúp …</string>
+    <string name="ctx_title_heatmap">Bản đồ nhiệt</string>
+    <string name="ctx_help_heatmap"><![CDATA[<p>Một&nbsp;<strong>Bản đồ nhiệt</strong>&nbsp;có thể được tạo để biểu diễn trực quan các giá trị Tính trạng đã đánh giá cho bất kỳ Tính trạng nào. &nbsp;<strong>Bản đồ nhiệt</strong>&nbsp;này có thể được tìm thấy trong&nbsp;<strong>Thẻ Tính trạng hoạt động</strong>&nbsp;trong&nbsp;<strong>Cửa sổ tìm kiếm</strong>. &nbsp;<strong>Cửa sổ tìm kiếm</strong>&nbsp;có sẵn trong mọi&nbsp;<strong>Chế độ xem đồng ruộng/Chế độ đánh giá</strong>.</p>
+<p>&nbsp;<strong>Thẻ Tính trạng hoạt động</strong>&nbsp;liệt kê tất cả Tính trạng với “(p)” cho Tính trạng cấp %1$s và “(s)” cho Tính trạng cấp %2$s.</p>
+<p>Chọn một Tính trạng rồi chọn hộp kiểm cho tất cả giá trị Tính trạng để chọn Tính trạng. &nbsp;<strong>Nút Bản đồ nhiệt</strong>&nbsp;sau đó sẽ khả dụng để chọn. Sau khi chọn, &nbsp;<strong>Cửa sổ tìm kiếm</strong>&nbsp;sẽ đóng và&nbsp;<strong>Bản đồ nhiệt</strong>&nbsp;sẽ được phủ lên&nbsp;<strong>Chế độ xem đồng ruộng</strong>.</p>
+<p>Chọn&nbsp;<strong>Nút cài đặt Bản đồ nhiệt</strong>&nbsp;trong&nbsp;<strong>Trình đơn</strong>&nbsp;để chọn độ mờ và màu sắc cho&nbsp;<strong>Bản đồ nhiệt</strong>.</p>]]></string>
+    <string name="ctx_title_help_sub_plot_additiong">Thêm %2$s</string>
+    <string name="ctx_help_subplot_scoring"><![CDATA[<p>Sử dụng bộ chọn để chọn số lượng %2$s mà mỗi %1$s cần có và chọn&nbsp;<strong>Dấu xác nhận</strong>&nbsp;để xác nhận.
+    Bạn sẽ được hiển thị &nbsp;<strong>%2$s Báo cáo</strong>&nbsp;, trong đó nêu chi tiết %2$s đã được thêm vào %1$s.
+    Lưu ý rằng công cụ này dùng để chọn số lượng %2$s mà mỗi %1$s cần có, không phải chỉ để thêm nhiều hơn.
+    </p> <p>Ví dụ: nếu không có %2$s nào trong Thí nghiệm của bạn và bạn chọn thêm hai %2$s vào mỗi %1$s, tất cả %2$s mới sẽ được tạo.
+    Tuy nhiên, nếu sau đó bạn quyết định muốn thêm hai %2$s, bạn cần vào lại&nbsp;<strong>Màn hình Thêm %2$s</strong>&nbsp;và chọn bốn thay vì hai.
+    Nếu chỉ %1$s đầu tiên đã có hai và các mục còn lại không có, công cụ này sẽ tạo hai %2$s cho %1$s 1 và bốn %2$s cho mỗi %1$s khác.</p>]]></string>
+    <string name="title_preparing_ellipsis">Đang chuẩn bị …</string>
+    <string name="title_select_image_and_action">Chọn hình ảnh và thao tác</string>
+    <string name="title_no_plot_here">Không có %1$s tại vị trí đó</string>
+    <string name="title_import_as_plot_database_id">%1$s ID cơ sở dữ liệu</string>
+    <string name="title_import_as_sub_plot_database_id">%2$s ID cơ sở dữ liệu</string>
+    <string name="errmsg_unsupported_valruletype">Loại quy tắc xác thực không được hỗ trợ:</string>
+    <string name="errmsg_unsupported_valrule">Quy tắc xác thực không được hỗ trợ:</string>
+    <string name="hdg_attachments">Tệp đính kèm</string>
+    <string name="msg_no_traits_scored">Chưa đánh giá Tính trạng nào</string>
+    <string name="msgfmt_traits_scored_m_of_n">Tính trạng đã đánh giá: {0,number,integer} trên {1,number,integer}</string>
+    <string name="msg_missing_plot_for_barcode">Không tìm thấy %1$s cho mã vạch</string>
+    <string name="msg_missing_specimen_for_barcode">%2$s không tìm thấy cho mã vạch</string>
+    <string name="msg_prefix_rotate_screen_within">Xoay màn hình trong</string>
+    <string name="msg_is_demo_db">CƠ SỞ DỮ LIỆU DEMO</string>
+    <string name="ctx_title_manage_scanners">Quản lý máy quét</string>
+    <string name="ctx_help_manage_scanner"><![CDATA[The <b>Máy quét</b> hiển thị các máy quét hiện có.<br/></br>
+    Chức năng này hiện chưa khả dụng.<br/></br>
+]]></string>
+    <string name="ctx_title_manage_scales">Quản lý cân</string>
+    <string name="ctx_help_manage_scales"><![CDATA[The <b>Cân</b> hiển thị các cân hiện có.<br/></br>
+    Chức năng này hiện chưa khả dụng.<br/></br>
+]]></string>
+    <string name="ctx_title_manage_bluetooth">Quản lý thiết bị Bluetooth</string>
+    <string name="ctx_help_manage_bluetooth"><![CDATA[<p>Thẻ&nbsp;<strong>Bluetooth Tab</strong>&nbsp;hiển thị các thiết bị Bluetooth đã ghép nối với thiết bị này và hiện khả dụng.</p>
+<p>Chọn&nbsp;<strong>Nút Bluetooth</strong>&nbsp;để bật hoặc tắt Bluetooth của thiết bị.&nbsp;<strong>Nút Làm mới</strong>&nbsp;sẽ làm mới danh sách các thiết bị Bluetooth khả dụng.</p>
+<p>Chọn một thiết bị trong danh sách để bắt đầu kết nối.</p>]]></string>
+    <string name="ctx_title_manage_database">Quản lý cơ sở dữ liệu</string>
+    <string name="ctx_help_manage_database"><![CDATA[<p>Thẻ&nbsp;<strong>Cơ sở dữ liệu</strong>&nbsp;cung cấp các tùy chọn sao lưu Thí nghiệm và cơ sở dữ liệu KDSmart. Các tùy chọn khả dụng được liệt kê bên dưới:</p>
+<ul>
+<li><strong>Nút Xuất ra thư mục</strong>&nbsp;- Chọn nút này để mở Khung truy cập bộ nhớ (SAF) của thiết bị, nơi có thể chọn vị trí thư mục cho các tệp đã lưu;</li>
+<li><strong>Nút Lưu</strong>:
+<ul>
+<li>Thí nghiệm dưới dạng Zip - phù hợp nhất để lưu tệp dưới dạng CSV;</li>
+<li>Thí nghiệm dưới dạng KDX - phù hợp nhất để sử dụng với KDXplore; và</li>
+<li>Tệp cơ sở dữ liệu - để sao lưu toàn bộ dữ liệu.</li>
+</ul>
+</li>
+<li><strong>Nút Kiểm tra tính toàn vẹn cơ sở dữ liệu</strong>&nbsp;- Bắt đầu kiểm tra tính toàn vẹn của cơ sở dữ liệu cục bộ; và</li>
+<li><strong>Nút Cập nhật Thí nghiệm khối</strong>&nbsp;- Khắc phục các sự cố đã biết với Thí nghiệm khối.</li>
+</ul>]]></string>
+    <string name="hdg_choose_scoring_view_style">Chế độ đánh giá</string>
 </resources>
