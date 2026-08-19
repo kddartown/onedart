@@ -1740,4 +1740,5 @@
     <string name="drawer_list_items_7">Infos</string>
     <string name="msg_upload_file">Datei hochladen</string>
     <string name="msg_kddart_url_cant_be_left_empty">KDDart URL kann nicht leer gelassen werden</string>
+    <string name="pref_kdc_title_key" translatable="false">pref_kdc_title</string>
 </resources>

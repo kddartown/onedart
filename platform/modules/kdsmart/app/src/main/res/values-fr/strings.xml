@@ -1759,4 +1759,5 @@
     <string name="msg_switch_group">Groupe de commutateurs</string>
     <string name="msg_kddart_url_cant_be_left_empty">L\'URL de KDDart ne peut pas être laissée vide</string>
     <string name="msg_kdc_url_cant_be_left_empty">L\'URL du KDC ne peut pas être laissée vide</string>
+    <string name="pref_kdc_title_key" translatable="false">pref_kdc_title</string>
 </resources>
