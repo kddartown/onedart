@@ -37,3 +37,4 @@ Aktivieren Sie das Kontrollkästchen Merkmalswerte überschreiben, wenn Sie eine
 10
 00:01:41,233 --> 00:01:45,233
 Sie können auch Mehrfachauswertungen von Tags auf jeder ausgewählten Parzelle vornehmen.
+
