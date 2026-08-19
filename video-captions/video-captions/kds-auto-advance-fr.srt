@@ -29,3 +29,4 @@ Sélectionnez le bouton Pause pour désactiver la fonction.
 8
 00:01:15,833 --> 00:01:19,833
 Vous êtes maintenant en mode de notation normal.
+
