@@ -32,7 +32,7 @@ You can can configure constraints for some data types.
 
 9
 00:01:16,600 --> 00:01:20,600
-For this example, we will set the max to 2. 
+For this example, we will set the max to 2.
 
 10
 00:01:24,100 --> 00:01:28,100
@@ -56,7 +56,7 @@ This is what the trait would look like when scoring.
 
 15
 00:01:55,266 --> 00:01:59,266
-You can look though the data types to see what other traits you can create. 
+You can look though the data types to see what other traits you can create.
 
 16
 00:02:00,666 --> 00:02:04,666
