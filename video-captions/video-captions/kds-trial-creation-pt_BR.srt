@@ -69,3 +69,4 @@ Nenhuma subárea marcada foi adicionada ao projeto de ID da área marcada.
 18
 00:02:31,400 --> 00:02:35,400
 Selecione a opção Adicionar Subárea Marcada no Menu se você quiser adicioná-las mais tarde.
+
