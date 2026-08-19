@@ -1,32 +1,32 @@
 ﻿1
 00:00:05,100 --> 00:00:09,100
-The normal scoring method starts with choosing each trait to score.
+Phương pháp tính điểm bình thường bắt đầu bằng việc chọn từng đặc điểm để ghi điểm.
 
 2
 00:00:20,800 --> 00:00:24,800
-The Auto-advance feature will advance to the next trait automatically. Start by turning it on.
+Tính năng Tự động nâng cấp sẽ tự động chuyển sang tính trạng tiếp theo. Bắt đầu bằng cách bật nó lên.
 
 3
 00:00:30,966 --> 00:00:34,966
-Choose a trait to start scoring.
+Chọn một đặc điểm để bắt đầu ghi điểm.
 
 4
 00:00:41,733 --> 00:00:45,733
-After each trait is scored, the next trait is shown. 
+Sau khi mỗi tính trạng được chấm điểm, tính trạng tiếp theo được hiển thị. 
 
 5
 00:00:49,600 --> 00:00:53,600
-You will automatically advance to the next plot or subplot. 
+Bạn sẽ tự động tiến tới Ô thí nghiệm hoặc Đơn vị khảo sát tiếp theo. 
 
 6
 00:01:00,100 --> 00:01:04,100
-Select the Back button to exit Auto-advance mode.
+Chọn nút Quay lại để thoát khỏi Chế độ tự động chuyển ô.
 
 7
 00:01:06,666 --> 00:01:10,666
-Select the Pause button to turn the feature off.
+Chọn nút Tạm dừng để tắt tính năng.
 
 8
 00:01:15,833 --> 00:01:19,833
-You will now be in the normal scoring mode.
+Bây giờ bạn sẽ ở chế độ ghi điểm bình thường.
 
