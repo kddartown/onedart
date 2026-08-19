@@ -85,3 +85,4 @@ Und schließlich ist ein Merkmal des Datums einfach ein mit einem Kalender gewä
 22
 00:02:43,866 --> 00:02:47,866
 Weitere Informationen zu den Merkmalen finden Sie in den KDSmart Benutzerhandbüchern.
+
