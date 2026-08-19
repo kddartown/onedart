@@ -85,3 +85,4 @@ Enfin, une caractéristique est tout simplement une date choisie à l'aide d'un 
 22
 00:02:43,866 --> 00:02:47,866
 Voir les guides de l'utilisateur du KDSmart pour plus d'informations sur les caractéristiques.
+
