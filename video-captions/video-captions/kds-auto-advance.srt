@@ -12,11 +12,11 @@ Choose a trait to start scoring.
 
 4
 00:00:41,733 --> 00:00:45,733
-After each trait is scored, the next trait is shown. 
+After each trait is scored, the next trait is shown.
 
 5
 00:00:49,600 --> 00:00:53,600
-You will automatically advance to the next plot or subplot. 
+You will automatically advance to the next plot or subplot.
 
 6
 00:01:00,100 --> 00:01:04,100
