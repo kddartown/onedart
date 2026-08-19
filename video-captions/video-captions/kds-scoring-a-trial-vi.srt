@@ -1,0 +1,28 @@
+﻿1
+00:00:03,400 --> 00:00:07,400
+Select a trait from the Scoring screen.
+
+2
+00:00:09,566 --> 00:00:13,566
+Select a measurement for the trait. This will take you back to the Scoring screen.
+
+3
+00:00:14,633 --> 00:00:18,633
+Repeat this process for each trait.
+
+4
+00:00:26,300 --> 00:00:30,300
+Select the Next or Previous Plot buttons to navigate to the next or previous plot.
+
+5
+00:00:38,633 --> 00:00:42,633
+You can select a specific plot to move to.
+
+6
+00:00:50,433 --> 00:00:54,433
+You can also choose a plot from the Field view.
+
+7
+00:00:59,033 --> 00:01:03,033
+Continue until scoring is complete.
+
