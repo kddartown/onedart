@@ -29,3 +29,4 @@ Selecione o botão Pausa para desativar o recurso.
 8
 00:01:15,833 --> 00:01:19,833
 Agora você estará no modo normal de pontuação.
+
