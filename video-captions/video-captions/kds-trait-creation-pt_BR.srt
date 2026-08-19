@@ -85,3 +85,4 @@ E finalmente, um traço de data é simplesmente uma data escolhida com um calend
 22
 00:02:43,866 --> 00:02:47,866
 Veja os Guias do Usuário KDSmart para mais informações sobre traços.
+
