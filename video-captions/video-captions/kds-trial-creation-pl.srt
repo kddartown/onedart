@@ -69,3 +69,4 @@ Do eksperymentu Plot ID nie dodano żadnych poddziałów.
 18
 00:02:31,400 --> 00:02:35,400
 Wybierz opcję Dodaj poddziały z menu, jeśli chcesz dodać je później.
+
