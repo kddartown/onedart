@@ -69,3 +69,4 @@ Aucune sous-parcelle n'a été ajoutée à l'essai Plot ID.
 18
 00:02:31,400 --> 00:02:35,400
 Sélectionnez l'option Ajouter sous-parcelles dans le menu si vous souhaitez les ajouter ultérieurement.
+
