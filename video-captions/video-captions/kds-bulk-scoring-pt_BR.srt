@@ -37,3 +37,4 @@ Selecione a caixa de seleção Substituir Valores de Traço se você deseja faze
 10
 00:01:41,233 --> 00:01:45,233
 Você também pode pontuar em massa as etiquetas em qualquer área marcada selecionada.
+
