@@ -37,3 +37,4 @@ Seleccione la casilla Sobrescribir valores de rasgos si desea puntuar en bloque 
 10
 00:01:41,233 --> 00:01:45,233
 También puede realizar una puntuación de todas al mismo tiempo en cualquier area seleccionada.
+
