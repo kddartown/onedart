@@ -1,19 +1,19 @@
-Đây là Màn hình chính của KDSmart
+Đây là Màn hình chính của KDsmart
 
-Hiển thị các chi tiết và tùy chọn cơ bản của Thí nghiệm
+Chi tiết bản dùng thử cơ bản và các tùy chọn được hiển thị
 
-Bạn có thể cuộn qua các Thí nghiệm từ trái sang phải
+Bạn có thể cuộn qua Thử nghiệm từ trái sang phải
 
-Chọn Nút Thí nghiệm để xem danh sách tất cả các Thí nghiệm và các tùy chọn khác
+Chọn Nút Thử nghiệm để xem danh sách tất cả các Bản dùng thử và các tùy chọn bổ sung
 
-Bạn có thể truy cập thêm các tùy chọn khác bằng Thanh điều hướng bên trái, ví dụ: Màn hình Tính trạng
+Bạn có thể truy cập nhiều tùy chọn hơn với Thanh điều hướng ở bên trái, ví dụ: Màn hình đặc điểm
 
-Hoặc Màn hình Nhãn
+Hoặc màn hình thẻ
 
-Màn hình Thiết bị cung cấp các tùy chọn để kết nối với nhiều thiết bị khác nhau, ví dụ: Máy quét
+Màn hình Thiết bị cung cấp các tùy chọn để kết nối các thiết bị khác nhau, ví dụ: Máy quét
 
-Cài đặt là các cài đặt chung cho KDSmart
+Cài đặt là cài đặt chung cho KDsmart
 
-Có thể xem chi tiết Thí nghiệm từ Màn hình chính hoặc Màn hình Thí nghiệm
+Chi tiết dùng thử có thể được xem từ Màn hình chính hoặc Màn hình dùng thử
 
-Chọn Nút Trang chủ để quay lại Màn hình chính
+Chọn nút Home để quay lại màn hình chính
