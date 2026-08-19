@@ -37,3 +37,4 @@ Zaznacz pole wyboru Nadpisz wartości cech, jeśli chcesz dokonać zbiorczej oce
 10
 00:01:41,233 --> 00:01:45,233
 Można również zbiorczo punktować tagi na dowolnej wybranej działce.
+
