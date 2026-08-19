@@ -69,3 +69,4 @@ No se añadieron subareas al ensayo de identificación de parcelas.
 18
 00:02:31,400 --> 00:02:35,400
 Seleccione la opción Añadir subarea del Menú si desea añadirlas más tarde.
+
