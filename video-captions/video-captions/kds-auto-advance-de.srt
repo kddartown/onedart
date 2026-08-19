@@ -29,3 +29,4 @@ Wählen Sie die Schaltfläche Pause, um die Funktion zu deaktivieren.
 8
 00:01:15,833 --> 00:01:19,833
 Sie befinden sich nun im normalen Auswertungsmodus.
+
