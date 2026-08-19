@@ -69,3 +69,4 @@ Dem Versuch Plot ID wurden keine Unterparzellen hinzugefügt.
 18
 00:02:31,400 --> 00:02:35,400
 Wählen Sie die Option Unterparzellen hinzufügen aus dem Menü, wenn Sie sie später hinzufügen möchten.
+
