@@ -85,3 +85,4 @@ Y, por último, un rasgo de fecha es simplemente una fecha elegida con un calend
 22
 00:02:43,866 --> 00:02:47,866
 Consulte las Guías del usuario de KDSmart para obtener más información sobre los rasgos.
+
