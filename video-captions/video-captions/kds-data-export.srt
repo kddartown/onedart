@@ -8,7 +8,7 @@ Select the Device option to save a file to your device.
 
 3
 00:00:21,166 --> 00:00:25,166
-You can save your data in in CSV or Zip formats, 
+You can save your data in in CSV or Zip formats,
 
 4
 00:00:25,733 --> 00:00:29,733
@@ -32,7 +32,7 @@ Choose a trial and select the Share option from the Menu, then an export option.
 
 9
 00:00:54,966 --> 00:00:58,966
-Then you can select an app to share your data with. 
+Then you can select an app to share your data with.
 
 10
 00:01:00,066 --> 00:01:04,066
