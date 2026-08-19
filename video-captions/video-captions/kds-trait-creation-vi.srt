@@ -1,88 +1,88 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Traits are the characteristics or qualities that are measured or recorded in a trial.
+Đặc điểm là các đặc điểm hoặc phẩm chất được đo lường hoặc ghi lại trong một Thí nghiệm.
 
 2
 00:00:10,533 --> 00:00:14,299
-Traits can be imported or created within the KDSmart app.
+Các đặc điểm có thể được nhập hoặc tạo trong ứng dụng KDSmart.
 
 3
 00:00:14,300 --> 00:00:18,300
-Go to the Traits screen and select the Add Trait button to create a new trait.
+Chuyển đến màn hình Tính trạng và chọn nút Thêm tính trạng để tạo một đặc điểm mới.
 
 4
 00:00:21,000 --> 00:00:25,000
-Firstly, enter a trait name and select the Use button to see if it's available. In this example, we will create a trait for measuring plant height.
+Đầu tiên, nhập tên tính trạng và chọn nút Sử dụng để xem nó có khả dụng hay không. Trong ví dụ này, chúng ta sẽ tạo một đặc điểm để đo chiều cao cây.
 
 5
 00:00:36,733 --> 00:00:40,733
-Next, enter an alias and description for the trait.
+Tiếp theo, nhập bí danh và mô tả cho tính trạng.
 
 6
 00:00:56,900 --> 00:01:00,900
-You also need to add a trait unit. A trait unit is the unit of measurement for the trait. For example, metres.
+Bạn cũng cần thêm một đơn vị tính trạng. Đơn vị tính trạng là đơn vị đo lường cho tính trạng. Ví dụ, mét.
 
 7
 00:01:03,966 --> 00:01:07,966
-You must also choose a data type. Data types constrain the value of traits. In this example we will choose decimal.
+Bạn cũng phải chọn một loại dữ liệu. Các kiểu dữ liệu hạn chế giá trị của các tính trạng. Trong ví dụ này, chúng tôi sẽ chọn thập phân.
 
 8
 00:01:11,500 --> 00:01:15,500
-You can can configure constraints for some data types.
+Bạn có thể cấu hình các ràng buộc cho một số kiểu dữ liệu.
 
 9
 00:01:16,600 --> 00:01:20,600
-For this example, we will set the max to 2. 
+Đối với ví dụ này, chúng tôi sẽ đặt tối đa là 2. 
 
 10
 00:01:24,100 --> 00:01:28,100
-This means that when entering a value for this trait, the user will need to choose a decimal number between 0 and 2.
+Điều này có nghĩa là khi nhập giá trị cho tính trạng này, người dùng sẽ cần chọn một số thập phân từ 0 đến 2.
 
 11
 00:01:28,666 --> 00:01:32,666
-Lastly, we need to choose a trait level. We will choose subplot-level four our example trait as we are measuring the height of an individual plant.
+Cuối cùng, chúng ta cần chọn một cấp độ tính trạng. Chúng tôi sẽ chọn Cấp đơn vị khảo sát bốn Tính trạng ví dụ của chúng tôi khi chúng tôi đang đo chiều cao của một cây riêng lẻ.
 
 12
 00:01:37,233 --> 00:01:41,233
-Select the Confirm button to save the new trait.
+Chọn nút Xác nhận để lưu tính trạng mới.
 
 13
 00:01:44,733 --> 00:01:48,733
-The new trait will be visible on the Traits screen.
+Tính trạng mới sẽ hiển thị trên màn hình Đặc điểm.
 
 14
 00:01:49,700 --> 00:01:53,700
-This is what the trait would look like when scoring.
+Đây là đặc điểm sẽ trông như thế nào khi ghi bàn.
 
 15
 00:01:55,266 --> 00:01:59,266
-You can look though the data types to see what other traits you can create. 
+Bạn có thể xem qua các kiểu dữ liệu để xem những đặc điểm khác bạn có thể tạo. 
 
 16
 00:02:00,666 --> 00:02:04,666
-Text traits enable users to input text into a text field.
+Tính trạng văn bản cho phép người dùng nhập văn bản vào trường văn bản.
 
 17
 00:02:11,700 --> 00:02:15,700
-Categorical traits provide a list of values to choose from.
+Tính trạng phân loại cung cấp một danh sách các giá trị để lựa chọn.
 
 18
 00:02:21,933 --> 00:02:25,933
-Optionally you can add an 'other' field which lets users add a text note if a suitable option isn't available.
+Tùy chọn, bạn có thể thêm trường 'khác' cho phép người dùng thêm ghi chú văn bản nếu tùy chọn phù hợp không có sẵn.
 
 19
 00:02:28,066 --> 00:02:32,066
-Elapsed days is the number of days since a specified date e.g. a planting date. The value is stored as a date by KDSmart.
+Ngày trôi qua là số ngày kể từ một ngày cụ thể, ví dụ: ngày trồng. Giá trị được lưu trữ dưới dạng ngày bởi KDsmart.
 
 20
 00:02:33,733 --> 00:02:37,733
-An integer trait is a numeric value that must be a whole number. Like the decimal trait, it can include a range.
+Tính trạng nguyên là một giá trị số phải là một số nguyên. Giống như tính trạng thập phân, nó có thể bao gồm một phạm vi.
 
 21
 00:02:39,566 --> 00:02:43,566
-And finally a date trait is simply a date chosen with a calendar.
+Và cuối cùng, tính trạng ngày chỉ đơn giản là một ngày được chọn với lịch.
 
 22
 00:02:43,866 --> 00:02:47,866
-See the KDSmart User Guides for more infomation on traits.
+Xem Hướng dẫn sử dụng KDsmart để biết thêm thông tin về các đặc điểm.
 
