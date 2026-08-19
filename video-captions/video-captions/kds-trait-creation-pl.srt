@@ -85,3 +85,4 @@ I wreszcie cechy daty to po prostu data wybrana za pomocą kalendarza.
 22
 00:02:43,866 --> 00:02:47,866
 Więcej informacji na temat cech można znaleźć w Podręcznikach użytkownika KDSmart.
+
