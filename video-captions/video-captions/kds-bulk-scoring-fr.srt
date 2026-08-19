@@ -37,3 +37,4 @@ Cochez la case Remplacer les valeurs des caractéristiques si vous souhaitez eff
 10
 00:01:41,233 --> 00:01:45,233
 Vous pouvez également procéder à une notation en bloc des étiquettes sur n'importe quelle zone sélectionnée.
+
