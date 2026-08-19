@@ -29,3 +29,4 @@ Seleccione el botón Pausa para desactivar la función.
 8
 00:01:15,833 --> 00:01:19,833
 Ahora estarás en el modo de puntuación normal.
+
