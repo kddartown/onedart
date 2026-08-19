@@ -1,28 +1,28 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Tags are short, reusable text descriptions that can be applied to plots or subplots when scoring.
+Thẻ là mô tả văn bản ngắn, có thể tái sử dụng có thể được áp dụng cho Ô thí nghiệm hoặc Đơn vị khảo sát khi chấm điểm.
 
 2
 00:00:10,366 --> 00:00:14,366
-You can create new tags by select the Add Tag button in the Tags screen.
+Bạn có thể tạo thẻ mới bằng cách chọn nút Thêm thẻ trong màn hình Thẻ.
 
 3
 00:00:20,866 --> 00:00:24,866
-Enter a label. This is the name of the tag.
+Nhập nhãn. Đây là tên của Nhãn.
 
 4
 00:00:28,200 --> 00:00:32,200
-Select the Use button to see if the label is already in use.
+Chọn nút Sử dụng để xem nhãn đã được sử dụng chưa.
 
 5
 00:00:33,566 --> 00:00:37,566
-If the label name if free, then you can enter a short description.
+Nếu tên nhãn nếu miễn phí, thì bạn có thể nhập một mô tả ngắn.
 
 6
 00:00:40,500 --> 00:00:44,500
-Select the Confirm button to create the tag.
+Chọn nút Xác nhận để tạo Nhãn.
 
 7
 00:00:50,733 --> 00:00:54,733
-The tag is now available when scoring
+Nhãn hiện có sẵn khi ghi điểm
 
