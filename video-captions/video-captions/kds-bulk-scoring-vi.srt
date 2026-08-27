@@ -12,7 +12,7 @@ Chọn một Ô thí nghiệm để xem các tùy chọn Đánh giá hàng loạ
 
 4
 00:00:28,600 --> 00:00:32,600
-Nút Subplot hiển thị tất cả các đặc điểm ở cấp độ cốt truyện con. 
+Nút Subplot hiển thị tất cả các đặc điểm ở cấp độ cốt truyện con.
 
 5
 00:00:35,766 --> 00:00:39,766
@@ -20,7 +20,7 @@ Phép đo bạn chọn sẽ được áp dụng cho tất cả các Đơn vị k
 
 6
 00:00:48,800 --> 00:00:52,800
-Để tính điểm các đặc điểm ở cấp độ cốt truyện, hãy chọn bất kỳ số lượng ô thí nghiệm nào và chọn nút Plot. 
+Để tính điểm các đặc điểm ở cấp độ cốt truyện, hãy chọn bất kỳ số lượng ô thí nghiệm nào và chọn nút Plot.
 
 7
 00:01:01,000 --> 00:01:05,000
