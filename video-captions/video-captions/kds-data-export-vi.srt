@@ -8,7 +8,7 @@ Chọn tùy chọn Thiết bị để lưu tệp vào thiết bị của bạn.
 
 3
 00:00:21,166 --> 00:00:25,166
-Bạn có thể lưu dữ liệu của mình ở định dạng CSV hoặc Zip, 
+Bạn có thể lưu dữ liệu của mình ở định dạng CSV hoặc Zip,
 
 4
 00:00:25,733 --> 00:00:29,733
@@ -32,7 +32,7 @@ Chọn Thí nghiệm và chọn tùy chọn Chia sẻ từ Menu, sau đó chọn
 
 9
 00:00:54,966 --> 00:00:58,966
-Sau đó, bạn có thể chọn một ứng dụng để chia sẻ dữ liệu của mình. 
+Sau đó, bạn có thể chọn một ứng dụng để chia sẻ dữ liệu của mình.
 
 10
 00:01:00,066 --> 00:01:04,066
