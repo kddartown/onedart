@@ -1,6 +1,6 @@
 ﻿1
 00:00:04,700 --> 00:00:08,700
-Các bản dùng thử thường được nhập, nhưng bạn cũng có thể tạo thử nghiệm mới trong ứng dụng KDsmart. 
+Các bản dùng thử thường được nhập, nhưng bạn cũng có thể tạo thử nghiệm mới trong ứng dụng KDsmart.
 
 2
 00:00:09,633 --> 00:00:13,633
@@ -32,7 +32,7 @@ Chọn kiểu Phiên bản Tính trạng để xác định cách hiển thị c
 
 9
 00:01:01,133 --> 00:01:05,133
-Chọn nút Xác nhận khi bạn đã sẵn sàng tạo Thí nghiệm. 
+Chọn nút Xác nhận khi bạn đã sẵn sàng tạo Thí nghiệm.
 
 10
 00:01:06,033 --> 00:01:10,033
