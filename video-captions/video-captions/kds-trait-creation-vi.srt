@@ -32,7 +32,7 @@ Bạn có thể cấu hình các ràng buộc cho một số kiểu dữ liệu.
 
 9
 00:01:16,600 --> 00:01:20,600
-Đối với ví dụ này, chúng tôi sẽ đặt tối đa là 2. 
+Đối với ví dụ này, chúng tôi sẽ đặt tối đa là 2.
 
 10
 00:01:24,100 --> 00:01:28,100
@@ -56,7 +56,7 @@ Tính trạng mới sẽ hiển thị trên màn hình Đặc điểm.
 
 15
 00:01:55,266 --> 00:01:59,266
-Bạn có thể xem qua các kiểu dữ liệu để xem những đặc điểm khác bạn có thể tạo. 
+Bạn có thể xem qua các kiểu dữ liệu để xem những đặc điểm khác bạn có thể tạo.
 
 16
 00:02:00,666 --> 00:02:04,666
