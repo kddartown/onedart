@@ -12,11 +12,11 @@ Chọn một đặc điểm để bắt đầu ghi điểm.
 
 4
 00:00:41,733 --> 00:00:45,733
-Sau khi mỗi tính trạng được chấm điểm, tính trạng tiếp theo được hiển thị. 
+Sau khi mỗi tính trạng được chấm điểm, tính trạng tiếp theo được hiển thị.
 
 5
 00:00:49,600 --> 00:00:53,600
-Bạn sẽ tự động tiến tới Ô thí nghiệm hoặc Đơn vị khảo sát tiếp theo. 
+Bạn sẽ tự động tiến tới Ô thí nghiệm hoặc Đơn vị khảo sát tiếp theo.
 
 6
 00:01:00,100 --> 00:01:04,100
